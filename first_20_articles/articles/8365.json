@@ -1,0 +1,858 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8365"
+  },
+  "article": {
+    "id": 8365,
+    "expected_title": "What's new in emergency medicine",
+    "url": "https://medilib.ir/uptodate/show/8365",
+    "final_url": "https://medilib.ir/uptodate/show/8365",
+    "page_title": "What's new in emergency medicine",
+    "extracted_at": "2026-11-20T20:51:36.705Z",
+    "title_matches_expected": true,
+    "title": "What's new in emergency medicine",
+    "contributors": {
+      "authors": [
+        "Michael Ganetsky, MD",
+        "Jonathan S Grayzel, MD",
+        "James F Wiley, II, MD, MPH"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Oct 22, 2026",
+    "version": "Topic 8365 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT RESUSCITATION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Comparative thresholds for adding a second vasopressor in septic shock (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The optimal timing for adding a second vasopressor in septic shock remains uncertain. In a randomized trial of almost 4000 patients with septic shock treated with a single vasopressor, initiating vasopressin at a lower versus higher vasopressor threshold (0.1 versus 0.4 microgram/kg/minute of norepinephrine or equivalent) resulted in similar 28-day mortality, kidney replacement therapy use, and safety outcomes [1]. Despite limitations of the trial, including the open-label design and treatment crossover, these findings suggest no benefit to using threshold values to prompt early initiation of vasopressin as a second agent in patients with septic shock. (See \"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Vasopressors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Catheter-directed thrombolysis versus anticoagulation in pulmonary embolism (March 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In patients with intermediate-high-risk pulmonary embolism (PE; ie, biochemical and imaging evidence of right ventricle [RV] dysfunction), the benefit of catheter-directed thrombolysis compared with anticoagulation alone is uncertain. Two recent randomized studies with a total of 1112 patients with intermediate-high-risk PE reported that catheter-directed thrombolysis with alteplase (with or without ultrasound assistance) reduced cardiorespiratory decompensation compared with anticoagulation alone (3.7 versus 10.3 percent, relative risk 0.4 [2]; 0.7 versus 5.4 percent, relative risk 0.13 [3]) without affecting PE-related mortality, PE recurrence, RV size, or major bleeding. Although both studies were limited by low event rates, lack of blinding, and underrepresentation of older patients, these data support our practice of performing catheter-directed therapies in patients with intermediate-high-risk PE. (See \"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Autonomous oxygen titration devices (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Autonomous titration devices automatically adjust oxygen delivery in response to a patient's oxygenation status, reducing the need for manual titration, but remain understudied. In a randomized trial of 300 hospitalized patients receiving low-flow oxygen up to 10 L, autonomous titration improved oxygenation parameters compared with usual care [4]; this strategy increased time spent in normoxemia (85 versus 63 percent) and reduced time spent in hypoxemia (2 versus 3.6 percent) and hyperoxemia (9 versus 29 percent).However, these devices are not widely available, and their impact on clinically meaningful outcomes remains uncertain. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Anticoagulation in extracorporeal membrane oxygenation (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data guiding anticoagulation during extracorporeal membrane oxygenation (ECMO) are limited. In a recent randomized trial of 330 patients (60 percent venoarterial ECMO, 40 percent venovenous ECMO), low-dose unfractionated heparin (UFH) resulted in a nonsignificant reduction in severe bleeding compared with standard-dose UFH (58 versus 65 percent), without increasing severe thromboembolic complications (11 versus 10 percent) [5]. Although promising, interpretation is limited because the standard-dose regimen may not reflect current practice, anti-factor Xa monitoring was inconsistent and the study was open label. More robust data are needed before we can routinely use low-dose UFH for anticoagulating ECMO patients. (See \"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Liberal versus restrictive oxygenation targets after cardiac arrest (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The optimal peripheral oxygen saturation (SpO2) target in mechanically ventilated cardiac arrest survivors is uncertain. In a recent randomized trial of 1840 such patients targeting an SpO₂ of 95 percent with an allowable minimum fraction of inspired oxygen (FiO₂) of 0.21 resulted in similar rates of favorable functional outcomes, mortality, and length of stay at 180 days compared with higher oxygen targets and allowable minimum FiO₂ of 0.3, without an increase in adverse events [6]. These data support our practice of targeting an SpO2 at the lower end of the 95 to 98 percent range. (See \"Intensive care unit management of the intubated post-cardiac arrest adult patient\", section on 'Airway, ventilation, and oxygen targets'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ENVIRONMENTAL EMERGENCIES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Iloprost for amputation prevention in frostbite (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Iloprost is a prostacyclin analog that is indicated for the treatment of grade 3 or 4 frostbite (ie, cyanosis that extends proximal to the distal phalanx after rewarming), but supporting evidence is limited. In a study with over 250 patients (80 receiving iloprost) in two Canadian regions that differed in routine iloprost use but with a standardized frostbite care pathway, iloprost was associated with a lower amputation rate for grade 3 frostbite (30 versus 53 percent) but not for grade 2 and 4 frostbite; patients receiving a higher total iloprost dose were less likely to have amputations [7]. In 40 patients with grade 4 frostbite, iloprost treatment was associated with fewer finger and toe segment amputations (40 versus 51 percent and 47 versus 58 percent, respectively). These findings support our recommendation for iloprost in patients with severe frostbite. (See \"Frostbite: Acute care and prevention\", section on 'Prostacyclin analog (iloprost) within 72 hours'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GENERAL ADULT EMERGENCY MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prothrombin complex concentrates for factor Xa inhibitor-associated bleeding (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prothrombin complex concentrates (PCCs) are used to treat critical bleeding associated with factor Xa inhibitors, but data on their efficacy have been sparse. A new study evaluating 100 individuals who presented with factor Xa inhibitor-associated major bleeding or requiring urgent surgery reported that hemostasis was effective in 50 percent of bleeding episodes and good to moderate in 67 percent [8]. For urgent surgeries, hemostasis was normal in 77 percent. There were 13 deaths, and the risk of thrombotic events was 6.9 percent. These data support the use of PCCs for life-threatening bleeding and their avoidance in less-severe bleeding, especially since thrombotic risks are known to be elevated at baseline in individuals receiving an anticoagulant. (See \"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of oral antihistamines in atopic dermatitis (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [9]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "YEARS criteria for pulmonary embolism exclusion in patients with active cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The YEARS criteria adjusts D-dimer cutoffs for excluding pulmonary embolism (PE) based on pretest probability, but it is unknown whether it can be utilized in patients with active cancer. In a randomized trial including 698 patients with active cancer suspected of having a PE, the diagnostic failure rate at 90 days was similar in patients evaluated by the YEARS algorithm compared with a standard chest computed tomography pulmonary angiogram (1.8 versus 5 percent) [10]. Limitations of the study included an open-label design, exclusion of patients with a life expectancy <3 months, lack of subgroup analysis by cancer site and stage, and early cessation of the study. Nonetheless, these results suggest that YEARS may be used to exclude PE in patients with active cancer, although further study and validation is needed. (See \"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cyclosporiasis outbreak in the United States (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [11]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [12]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Marine toxin disease outbreaks in the United States (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Marine toxins are an important cause of noninfectious foodborne disease outbreaks. Scombroid poisoning causes flushing, a warmth sensation, and an erythematous, urticarial rash often prominent on the face and upper torso soon after ingestion of improperly stored fish. Ciguatera poisoning causes a gastrointestinal illness followed by delayed onset neurologic symptoms such as paresthesias and temperature-related dysesthesias. A study of the United States Foodborne Disease Outbreak Surveillance System found that 402 marine toxin outbreaks were reported between 2011 and 2023, representing 1280 affected individuals; nearly all outbreaks implicated scombroid or ciguatoxin [13]. These findings underscore the need to inquire about recent fish consumption in patients presenting with characteristic clinical features and may help inform public health surveillance and prevention efforts. (See \"Scombroid (histamine) poisoning\", section on 'Epidemiology' and \"Ciguatera fish poisoning\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "American Thoracic Society guidelines on noninvasive respiratory support (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Thoracic Society (ATS) recently issued guidelines on the use of noninvasive respiratory support for patients with acute respiratory failure, in whom low-flow oxygen is insufficient [14]. The ATS recommends using high-flow nasal cannula (HFNC) oxygen for acute hypoxemic respiratory failure and suggests noninvasive ventilation (NIV) for acute hypercapnic respiratory failure. The ATS also suggests either modality for preoxygenation prior to endotracheal intubation; post-extubation, the ATS suggests HFNC for low-risk patients and NIV for high-risk patients. We agree with these recommendations. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support' and \"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\" and \"Extubation management in the adult intensive care unit\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Restrictive versus liberal fluid strategy in septic shock (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether a fluid-restrictive approach benefits patients with septic shock is unclear. In a recent trial of 1000 patients with early septic shock, patients randomized to a restrictive strategy (incorporating earlier initiation of vasopressor therapy) had a similar number of days alive and out of the hospital at 90 days compared with a more liberal fluid approach (with later use of vasopressors, approximating current practice) [15]. Adverse events were also similar except pulmonary edema, which was less frequent in the restrictive strategy group (0.6 versus 5 percent). Adverse event rates were similar among the two groups except for pulmonary edema, which was less frequent in the restrictive strategy group (0.6 versus 5 percent). These data suggest that a more restrictive fluid strategy in patients with septic shock does not provide a clinically meaningful benefit over current practice in patients presenting with septic shock. (See \"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Volume'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fosphenytoin for trigeminal neuralgia attacks (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Several pharmacologic options are available to treat acute trigeminal neuralgia (TN) pain, but available supporting evidence is limited. In a randomized trial that included 22 patients with acute TN symptoms, pain reduction on the numerical rating scale (0 for no pain up to 10 for worst pain) was greater at two hours among those assigned to fosphenytoin than placebo (-6.1 versus -2.4) [16]. Treatment consisted of a loading dose followed by once daily maintenance treatment for up to four days. Patients assigned to fosphenytoin also had a higher rate of >50 percent pain reduction and reduction in the frequency of attack recurrence, and treatment was generally well tolerated. These data provide clinical trial evidence to support the role of fosphenytoin for acute TN exacerbations. (See \"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PEDIATRIC RESUSCITATION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prehospital termination of resuscitation in children (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In a retrospective study of over 45,000 prehospital encounters for pediatric out-of-hospital nontraumatic cardiac arrest (OHCA) that were reported to a data registry by over 6000 United States (US) emergency medical services (EMS) agencies, resuscitation was withheld due to futility in 6.6 percent and started but terminated in 25.4 percent [17]. Resuscitations were initiated more often for witnessed arrests, those undergoing bystander CPR, those in public locations, and for arrests from respiratory/asphyxia or drowning; EMS resuscitations were initiated less often in rural or wilderness settings and in adolescents. However, both withholding and terminating pediatric resuscitation varied significantly by agency and were independent of documented patient and encounter characteristics. Determination of futility or termination of resuscitation occurs in nearly one-third of pediatric OCHA in the US; the variation in these decisions across EMS agencies suggests a need to develop evidence-based field criteria. (See \"Pediatric considerations in prehospital care\", section on 'Nontraumatic cardiac arrest'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "International guidelines for the management of pediatric sepsis and septic shock (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The 2026 Surviving Sepsis Campaign International Pediatric Guidelines for the management of sepsis and septic shock in children are available [18]. The guidelines reaffirm the prime importance of the rapid recognition of septic shock and treatment that includes timely administration of fluid bolus therapy, empiric broad-spectrum antibiotics, and, in patients not responding to fluid bolus therapy, initiation of vasoactive medications (epinephrine or norepinephrine) (algorithm 1). The 2026 guidelines also provide new recommendations that promote the use of blood lactate trends, lung and cardiac point-of-care ultrasound, and central venous oxygen saturation (ScvO2 ≥ 70 percent) to monitor resuscitation. Our approach is consistent with these guidelines. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Balanced crystalloid solution versus normal saline for children with septic shock (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For children with septic shock, whether to administer balanced crystalloid solutions (BCS; for example, lactated Ringer's) versus normal saline (NS) during initial fluid resuscitation is unclear. In a new randomized trial of over 8400 children with suspected septic shock, the combined outcomes of death, initiation of renal-replacement therapy, and persistent kidney dysfunction at 30 days were not significantly different in patients who were assigned to fluid resuscitation for up to 48 hours with BCS (3.4 percent) versus NS (3 percent) [19]. Hyperchloremia and hypernatremia were more common in patients receiving NS; increased blood lactate was more common in patients receiving BCS. Otherwise, adverse effects were similar in both groups. These findings suggest that either BCS or NS is an appropriate choice for fluid resuscitation of children with septic shock. However, the results may not be generalizable to patients with hospital-acquired sepsis or those treated in resource-limited settings. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PROCEDURES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intubation success and outcomes with video-assisted laryngoscopy compared with direct laryngoscopy (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compared with direct laryngoscopy (DL), video-assisted laryngoscopy (VAL) may improve the laryngeal view with or without predictors of difficult laryngoscopy. In a randomized trial, nearly 2500 patients were assigned to DL, VAL with a Macintosh blade (VLM), or VAL with a hyperangulated blade (VLH) [20]. Both VAL modalities were superior to DL for achieving the primary outcome of achieving intubation on the first attempt (78, 83, and 88 percent, respectively). Also, both VAL modalities were associated with faster intubation success after a failed first attempt compared with DL. We suggest using VAL over DL for the first attempt at tracheal intubation when possible. (See \"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "ACEP consensus guidelines for unscheduled procedural sedation (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American College of Emergency Physicians (ACEP) has updated the 2019 multidisciplinary consensus clinical guidelines for unscheduled procedural sedation and analgesia (PSA) in children and adults, commonly performed in emergency departments; the new guidelines have been endorsed by multiple professional organizations [21,22]. These guidelines provide specific competencies necessary to perform PSA safely, reaffirm key components of presedation patient assessment, and give new guidance for aspiration risk assessment in patients taking glucagon-like peptide-1 receptor agonists. The guidelines also reinforce that:"
+      },
+      {
+        "type": "paragraph",
+        "text": "● A variety of specialists and disciplines can develop competency and perform PSA safely with proper institutional oversight."
+      },
+      {
+        "type": "paragraph",
+        "text": "● PSA for urgent or emergency procedures should not be delayed due to fasting status for patients with negligible or mild risk factors for aspiration."
+      },
+      {
+        "type": "paragraph",
+        "text": "● Capnography is the only monitoring device that promptly detects impaired ventilation in patients receiving supplemental oxygen."
+      },
+      {
+        "type": "paragraph",
+        "text": "We agree with these guidelines. (See \"Procedural sedation in adults in the emergency department: General considerations, preparation, monitoring, and mitigating complications\" and \"Procedural sedation in children: Preparation\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "POCUS in infants and young children undergoing transurethral bladder catheterization (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Transurethral bladder catheterization (TUBC) is the preferred method for obtaining urine specimens for culture in infants and young children who are not toilet trained; visualization of urine in the bladder with point-of-care ultrasound (POCUS) prior to TUBC may facilitate collection. In a meta-analysis of three trials (337 children undergoing TUBC), first attempt success rate was higher for patients undergoing POCUS (89.7 versus 72.5 percent) and the rate of catheterization attempts resulting in no urine present (\"dry taps\") was lower (3.6 versus 23.9 percent) compared with patients undergoing TUBC without POCUS [23]. These findings confirm improved success rates reported in prior studies and support routine use of POCUS prior to TUBC in this population whenever available. (See \"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "TOXICOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cannabinoid hyperemesis syndrome in the United States (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent studies provide insight on the disease burden of cannabinoid hyperemesis syndrome (CHS) in the United States (US):"
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a representative 2025 survey of over 7000 US adults, 2.7 percent described daily cannabis use; 18 percent of these individuals reported symptoms consistent with CHS [24]. However, only one out of six had received a diagnosis of CHS. Based on these findings, an estimated 7 million US adults may suffer from CHS; a marked increase from prior estimates."
+      },
+      {
+        "type": "paragraph",
+        "text": "● After the introduction of an ICD-10-CM code for CHS in October 2025, US emergency department visits for CHS increased from approximately 30 per 100,000 visits to 120 per 100,000 visits through May 2026 [25]."
+      },
+      {
+        "type": "paragraph",
+        "text": "These findings suggest that CHS is common in individuals with daily cannabis use and is likely underdiagnosed. Rates may be increasing with legalization of cannabis, and the burden on US emergency departments may be underappreciated. (See \"Cannabinoid hyperemesis syndrome\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Risk factors for developing the syndrome of irreversible lithium-effectuated neurotoxicity (SILENT) (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The syndrome of irreversible lithium-effectuated neurotoxicity (SILENT) consists of prolonged neurologic (typically cerebellar dysfunction) and neuropsychiatric symptoms following lithium toxicity; symptoms persist despite removal of lithium. Risk factors for developing SILENT, which occurs infrequently after lithium toxicity, are not well established. A multicenter study with over 600 patients with lithium poisoning found that the initial presence of ataxia, myoclonus, moderate to severe symptoms, and acute-on-chronic toxicity (rather than acute toxicity) were associated with the development of SILENT at 60 days [26]. These findings help inform which patients are at higher risk for SILENT and may benefit from neurologic follow-up following treatment for lithium toxicity. (See \"Lithium poisoning\", section on 'Long-term neurologic sequelae'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Causes and prognosis of acquired methemoglobinemia (March 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Acquired methemoglobinemia is a potentially life-threatening condition caused by substances that oxidize heme, preventing oxygen delivery to the tissues. Two new studies from poison centers in different countries illustrate the range of causes and likelihood of survival. In a series of 1245 individuals from the United States, the most common causes were nonpharmaceutical nitrates and nitrites, dapsone, phenazopyridine, and local anesthetics [27]; in a series of 169 individuals from Thailand, the most common causes were dapsone and the organic herbicide propanil [28]. The fatality rates were 8 and 11 percent, respectively, and high proportions of the nitrate, nitrite, and fertilizer ingestions were for intentional self-harm. These data reinforce the importance of rapid recognition and treatment. (See \"Methemoglobinemia\", section on 'Most common acquired causes'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Severe hydrogen sulfide poisoning (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hydrogen sulfide (H2S) is a colorless gas with a rotten egg odor that potently inhibits mitochondrial respiration. It is a byproduct of microbial decomposition of organic matter (ie, \"sewer gas\") and various industrial processes. In a study of 168 patients with H2S poisoning reported to the Taiwan Poison Control Center, those working underground and in confined spaces were more likely to develop severe toxicity [29]. Early administration of sodium nitrite was associated with potentially lower odds of death, but did not reach statistical significance. These findings should prompt clinicians to consider H2S poisoning in a patient with sudden loss of consciousness, lactic acidosis, and cardiovascular collapse who was working underground or in a confined space, and support our suggestion for treating these patients with sodium nitrite. (See \"Common occupational chemical exposures: General approach and management of selected exposures\", section on 'Hydrogen sulfide'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Poisoning-related fatality from illicit substances in children and adolescents (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Illicit substances such as opioids can result in poisoning-related fatality in pediatric patients. In an analysis conducted on national surveillance databases from the Centers for Disease Control, the rate of death from poisoning (including illicit drug overdoses) in children and adolescents aged 1 to 19 years increased by 12.7 percent from 2020 to 2023 [30]. In 2023, 1913 deaths were from illicit drug overdoses, and the majority (79.5 percent) were from fentanyl. These findings confirm that illicit substances remain a common cause of fatality in children and adolescents, and that ongoing educational and other preventive measures are warranted in this population. (See \"Poisoning in children: Prevention\", section on 'Fatalities'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Poisoning-related injury from ingested household products in young children (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ingested household products remain a common cause of poisoning-related injury in young children. An analysis of national surveillance data estimated that over 240,000 children aged ≤5 years were treated in United States emergency departments for injuries from exposure to household cleaning products from 2007 to 2022 [31]. Approximately 60 percent of injuries were from ingestion. The products and containers associated with the most injuries were bleach (30.1 percent), detergents (28.6 percent), detergent packets (33 percent), and spray bottles (28.2 percent). These findings highlight the importance of ongoing educational, regulatory, and product engineering measures to prevent injuries from ingested substances in pediatric patients. (See \"Poisoning in children: Prevention\", section on 'Ingested substances'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "TRAUMA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Diagnostic imaging in children with suspected physical child abuse (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American College of Radiology (ACR) has updated its criteria for imaging in children with suspected physical abuse [32]. The ACR criteria reaffirm the skeletal survey as the best method for detecting fractures in these patients. However, the criteria now advise neuroimaging (primarily unenhanced head computed tomography) for all children with suspected physical abuse who are ≤24 months old (including those with no apparent neurologic, skeletal, or visceral injury) and potentially for asymptomatic siblings of abused children. The new ACR criteria for neuroimaging differ from our approach and that of many child abuse experts. We routinely perform neuroimaging in all infants <6 months old with suspected child abuse and in selected infants 6 to 24 months old with clinical signs of intracranial injury, head trauma, skull fractures, rib fractures, or metaphyseal (\"corner\" or \"bucket handle\") fractures. (See \"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Craniotomy for evacuation of intracranial epidural hematoma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [33]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Capnography for prognosis in trauma patients (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Studies have found that low end-tidal carbon dioxide (EtCO₂) values in trauma patients on initial medical presentation may indicate a hemorrhagic state and be associated with increased mortality and transfusion requirements. In a meta-analysis with more than 2400 trauma patients, a low EtCO₂ was associated with higher mortality (22 versus 12 percent) and a greater need for transfusion (7 versus 1 percent) [34]. The definition of \"low\" EtCO₂ ranged from less than 26 to 35 mmHg across the studies, but was less than 30 mmHg in most. These findings suggest that a low EtCO2 may be a valuable, noninvasive early predictor of severity in trauma patients, but should be used in conjunction with other prognosticators (eg, vital signs, shock index, lactate). (See \"Carbon dioxide monitoring (capnography)\", section on 'Increased ICP and trauma prognosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "PECARN cervical spine injury prediction rule performance by patient age (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In a planned subanalysis of the cohort of 22,430 children used to develop the Pediatric Emergency Care Applied Research Network (PECARN) Cervical Spine Injury (CSI) prediction rule (algorithm 2), age-specific rules were derived based on developmental transition (0 to <2 years, 2 to <8 years, 8 to <16 years, and 16 to <18 years) [35]. When compared with the PECARN CSI rule, testing characteristics were similar for the age-specific rules; the negative predictive value for the PECARN CSI rule (99.9 percent, prevalence of CSI 1.9 percent) equaled or exceeded all age-specific rules. These findings support the use of the PECARN CSI rule to determine the risk of CSI and the need for C-spine imaging in infants and children of all ages. (See \"Evaluation and acute management of cervical spine injuries in children and adolescents\", section on 'Indications and choice of imaging'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prehospital whole blood transfusion for traumatic hemorrhage (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent trials have examined the efficacy and safety of prehospital transfusion of low-titer, group O whole blood (LTOWB) versus blood components by Emergency Medical Services (EMS):"
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a pragmatic trial of over 600 patients with life-threatening bleeding transported by air ambulances in England, patients were transfused up to 2 units of LTOWB versus red cells plus plasma [36]. The composite of mortality plus massive transfusion within 24 hours and 90-day call-cause mortality was similar between the groups; the LTOWB group had slightly fewer serious adverse events."
+      },
+      {
+        "type": "paragraph",
+        "text": "● In another pragmatic trial of over 1000 patients with trauma and hypotension transported by air bases in the United States, either from the scene or from a referring emergency department, patients were transfused up to 2 units of LTOWB versus red cells, plasma, or both. Mortality at 30 days was similar (26 versus 21 percent) between LTOWB and components, as was in-hospital mortality, blood product requirements, and adverse events [37]."
+      },
+      {
+        "type": "paragraph",
+        "text": "These findings suggest that use of LTOWB, which is logistically simpler than components, is a reasonable option for EMS with prehospital transfusion programs. (See \"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nADULT RESUSCITATION\n\nComparative thresholds for adding a second vasopressor in septic shock (October 2026)\n\nThe optimal timing for adding a second vasopressor in septic shock remains uncertain. In a randomized trial of almost 4000 patients with septic shock treated with a single vasopressor, initiating vasopressin at a lower versus higher vasopressor threshold (0.1 versus 0.4 microgram/kg/minute of norepinephrine or equivalent) resulted in similar 28-day mortality, kidney replacement therapy use, and safety outcomes [1]. Despite limitations of the trial, including the open-label design and treatment crossover, these findings suggest no benefit to using threshold values to prompt early initiation of vasopressin as a second agent in patients with septic shock. (See \"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Vasopressors'.)\n\nCatheter-directed thrombolysis versus anticoagulation in pulmonary embolism (March 2026, Modified September 2026)\n\nIn patients with intermediate-high-risk pulmonary embolism (PE; ie, biochemical and imaging evidence of right ventricle [RV] dysfunction), the benefit of catheter-directed thrombolysis compared with anticoagulation alone is uncertain. Two recent randomized studies with a total of 1112 patients with intermediate-high-risk PE reported that catheter-directed thrombolysis with alteplase (with or without ultrasound assistance) reduced cardiorespiratory decompensation compared with anticoagulation alone (3.7 versus 10.3 percent, relative risk 0.4 [2]; 0.7 versus 5.4 percent, relative risk 0.13 [3]) without affecting PE-related mortality, PE recurrence, RV size, or major bleeding. Although both studies were limited by low event rates, lack of blinding, and underrepresentation of older patients, these data support our practice of performing catheter-directed therapies in patients with intermediate-high-risk PE. (See \"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'.)\n\nAutonomous oxygen titration devices (August 2026)\n\nAutonomous titration devices automatically adjust oxygen delivery in response to a patient's oxygenation status, reducing the need for manual titration, but remain understudied. In a randomized trial of 300 hospitalized patients receiving low-flow oxygen up to 10 L, autonomous titration improved oxygenation parameters compared with usual care [4]; this strategy increased time spent in normoxemia (85 versus 63 percent) and reduced time spent in hypoxemia (2 versus 3.6 percent) and hyperoxemia (9 versus 29 percent).However, these devices are not widely available, and their impact on clinically meaningful outcomes remains uncertain. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'.)\n\nAnticoagulation in extracorporeal membrane oxygenation (July 2026)\n\nData guiding anticoagulation during extracorporeal membrane oxygenation (ECMO) are limited. In a recent randomized trial of 330 patients (60 percent venoarterial ECMO, 40 percent venovenous ECMO), low-dose unfractionated heparin (UFH) resulted in a nonsignificant reduction in severe bleeding compared with standard-dose UFH (58 versus 65 percent), without increasing severe thromboembolic complications (11 versus 10 percent) [5]. Although promising, interpretation is limited because the standard-dose regimen may not reflect current practice, anti-factor Xa monitoring was inconsistent and the study was open label. More robust data are needed before we can routinely use low-dose UFH for anticoagulating ECMO patients. (See \"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'.)\n\nLiberal versus restrictive oxygenation targets after cardiac arrest (June 2026)\n\nThe optimal peripheral oxygen saturation (SpO2) target in mechanically ventilated cardiac arrest survivors is uncertain. In a recent randomized trial of 1840 such patients targeting an SpO₂ of 95 percent with an allowable minimum fraction of inspired oxygen (FiO₂) of 0.21 resulted in similar rates of favorable functional outcomes, mortality, and length of stay at 180 days compared with higher oxygen targets and allowable minimum FiO₂ of 0.3, without an increase in adverse events [6]. These data support our practice of targeting an SpO2 at the lower end of the 95 to 98 percent range. (See \"Intensive care unit management of the intubated post-cardiac arrest adult patient\", section on 'Airway, ventilation, and oxygen targets'.)\n\nENVIRONMENTAL EMERGENCIES\n\nIloprost for amputation prevention in frostbite (May 2026)\n\nIloprost is a prostacyclin analog that is indicated for the treatment of grade 3 or 4 frostbite (ie, cyanosis that extends proximal to the distal phalanx after rewarming), but supporting evidence is limited. In a study with over 250 patients (80 receiving iloprost) in two Canadian regions that differed in routine iloprost use but with a standardized frostbite care pathway, iloprost was associated with a lower amputation rate for grade 3 frostbite (30 versus 53 percent) but not for grade 2 and 4 frostbite; patients receiving a higher total iloprost dose were less likely to have amputations [7]. In 40 patients with grade 4 frostbite, iloprost treatment was associated with fewer finger and toe segment amputations (40 versus 51 percent and 47 versus 58 percent, respectively). These findings support our recommendation for iloprost in patients with severe frostbite. (See \"Frostbite: Acute care and prevention\", section on 'Prostacyclin analog (iloprost) within 72 hours'.)\n\nGENERAL ADULT EMERGENCY MEDICINE\n\nProthrombin complex concentrates for factor Xa inhibitor-associated bleeding (September 2026)\n\nProthrombin complex concentrates (PCCs) are used to treat critical bleeding associated with factor Xa inhibitors, but data on their efficacy have been sparse. A new study evaluating 100 individuals who presented with factor Xa inhibitor-associated major bleeding or requiring urgent surgery reported that hemostasis was effective in 50 percent of bleeding episodes and good to moderate in 67 percent [8]. For urgent surgeries, hemostasis was normal in 77 percent. There were 13 deaths, and the risk of thrombotic events was 6.9 percent. These data support the use of PCCs for life-threatening bleeding and their avoidance in less-severe bleeding, especially since thrombotic risks are known to be elevated at baseline in individuals receiving an anticoagulant. (See \"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'.)\n\nNo benefit of oral antihistamines in atopic dermatitis (August 2026)\n\nOral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [9]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)\n\nYEARS criteria for pulmonary embolism exclusion in patients with active cancer (July 2026)\n\nThe YEARS criteria adjusts D-dimer cutoffs for excluding pulmonary embolism (PE) based on pretest probability, but it is unknown whether it can be utilized in patients with active cancer. In a randomized trial including 698 patients with active cancer suspected of having a PE, the diagnostic failure rate at 90 days was similar in patients evaluated by the YEARS algorithm compared with a standard chest computed tomography pulmonary angiogram (1.8 versus 5 percent) [10]. Limitations of the study included an open-label design, exclusion of patients with a life expectancy <3 months, lack of subgroup analysis by cancer site and stage, and early cessation of the study. Nonetheless, these results suggest that YEARS may be used to exclude PE in patients with active cancer, although further study and validation is needed. (See \"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'.)\n\nCyclosporiasis outbreak in the United States (July 2026)\n\nCyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [11]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [12]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)\n\nMarine toxin disease outbreaks in the United States (July 2026)\n\nMarine toxins are an important cause of noninfectious foodborne disease outbreaks. Scombroid poisoning causes flushing, a warmth sensation, and an erythematous, urticarial rash often prominent on the face and upper torso soon after ingestion of improperly stored fish. Ciguatera poisoning causes a gastrointestinal illness followed by delayed onset neurologic symptoms such as paresthesias and temperature-related dysesthesias. A study of the United States Foodborne Disease Outbreak Surveillance System found that 402 marine toxin outbreaks were reported between 2011 and 2023, representing 1280 affected individuals; nearly all outbreaks implicated scombroid or ciguatoxin [13]. These findings underscore the need to inquire about recent fish consumption in patients presenting with characteristic clinical features and may help inform public health surveillance and prevention efforts. (See \"Scombroid (histamine) poisoning\", section on 'Epidemiology' and \"Ciguatera fish poisoning\", section on 'Epidemiology'.)\n\nAmerican Thoracic Society guidelines on noninvasive respiratory support (July 2026)\n\nThe American Thoracic Society (ATS) recently issued guidelines on the use of noninvasive respiratory support for patients with acute respiratory failure, in whom low-flow oxygen is insufficient [14]. The ATS recommends using high-flow nasal cannula (HFNC) oxygen for acute hypoxemic respiratory failure and suggests noninvasive ventilation (NIV) for acute hypercapnic respiratory failure. The ATS also suggests either modality for preoxygenation prior to endotracheal intubation; post-extubation, the ATS suggests HFNC for low-risk patients and NIV for high-risk patients. We agree with these recommendations. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support' and \"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\" and \"Extubation management in the adult intensive care unit\".)\n\nRestrictive versus liberal fluid strategy in septic shock (June 2026)\n\nWhether a fluid-restrictive approach benefits patients with septic shock is unclear. In a recent trial of 1000 patients with early septic shock, patients randomized to a restrictive strategy (incorporating earlier initiation of vasopressor therapy) had a similar number of days alive and out of the hospital at 90 days compared with a more liberal fluid approach (with later use of vasopressors, approximating current practice) [15]. Adverse events were also similar except pulmonary edema, which was less frequent in the restrictive strategy group (0.6 versus 5 percent). Adverse event rates were similar among the two groups except for pulmonary edema, which was less frequent in the restrictive strategy group (0.6 versus 5 percent). These data suggest that a more restrictive fluid strategy in patients with septic shock does not provide a clinically meaningful benefit over current practice in patients presenting with septic shock. (See \"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Volume'.)\n\nFosphenytoin for trigeminal neuralgia attacks (May 2026)\n\nSeveral pharmacologic options are available to treat acute trigeminal neuralgia (TN) pain, but available supporting evidence is limited. In a randomized trial that included 22 patients with acute TN symptoms, pain reduction on the numerical rating scale (0 for no pain up to 10 for worst pain) was greater at two hours among those assigned to fosphenytoin than placebo (-6.1 versus -2.4) [16]. Treatment consisted of a loading dose followed by once daily maintenance treatment for up to four days. Patients assigned to fosphenytoin also had a higher rate of >50 percent pain reduction and reduction in the frequency of attack recurrence, and treatment was generally well tolerated. These data provide clinical trial evidence to support the role of fosphenytoin for acute TN exacerbations. (See \"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'.)\n\nPEDIATRIC RESUSCITATION\n\nPrehospital termination of resuscitation in children (August 2026)\n\nIn a retrospective study of over 45,000 prehospital encounters for pediatric out-of-hospital nontraumatic cardiac arrest (OHCA) that were reported to a data registry by over 6000 United States (US) emergency medical services (EMS) agencies, resuscitation was withheld due to futility in 6.6 percent and started but terminated in 25.4 percent [17]. Resuscitations were initiated more often for witnessed arrests, those undergoing bystander CPR, those in public locations, and for arrests from respiratory/asphyxia or drowning; EMS resuscitations were initiated less often in rural or wilderness settings and in adolescents. However, both withholding and terminating pediatric resuscitation varied significantly by agency and were independent of documented patient and encounter characteristics. Determination of futility or termination of resuscitation occurs in nearly one-third of pediatric OCHA in the US; the variation in these decisions across EMS agencies suggests a need to develop evidence-based field criteria. (See \"Pediatric considerations in prehospital care\", section on 'Nontraumatic cardiac arrest'.)\n\nInternational guidelines for the management of pediatric sepsis and septic shock (May 2026)\n\nThe 2026 Surviving Sepsis Campaign International Pediatric Guidelines for the management of sepsis and septic shock in children are available [18]. The guidelines reaffirm the prime importance of the rapid recognition of septic shock and treatment that includes timely administration of fluid bolus therapy, empiric broad-spectrum antibiotics, and, in patients not responding to fluid bolus therapy, initiation of vasoactive medications (epinephrine or norepinephrine) (algorithm 1). The 2026 guidelines also provide new recommendations that promote the use of blood lactate trends, lung and cardiac point-of-care ultrasound, and central venous oxygen saturation (ScvO2 ≥ 70 percent) to monitor resuscitation. Our approach is consistent with these guidelines. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'.)\n\nBalanced crystalloid solution versus normal saline for children with septic shock (April 2026)\n\nFor children with septic shock, whether to administer balanced crystalloid solutions (BCS; for example, lactated Ringer's) versus normal saline (NS) during initial fluid resuscitation is unclear. In a new randomized trial of over 8400 children with suspected septic shock, the combined outcomes of death, initiation of renal-replacement therapy, and persistent kidney dysfunction at 30 days were not significantly different in patients who were assigned to fluid resuscitation for up to 48 hours with BCS (3.4 percent) versus NS (3 percent) [19]. Hyperchloremia and hypernatremia were more common in patients receiving NS; increased blood lactate was more common in patients receiving BCS. Otherwise, adverse effects were similar in both groups. These findings suggest that either BCS or NS is an appropriate choice for fluid resuscitation of children with septic shock. However, the results may not be generalizable to patients with hospital-acquired sepsis or those treated in resource-limited settings. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'.)\n\nPROCEDURES\n\nIntubation success and outcomes with video-assisted laryngoscopy compared with direct laryngoscopy (September 2026)\n\nCompared with direct laryngoscopy (DL), video-assisted laryngoscopy (VAL) may improve the laryngeal view with or without predictors of difficult laryngoscopy. In a randomized trial, nearly 2500 patients were assigned to DL, VAL with a Macintosh blade (VLM), or VAL with a hyperangulated blade (VLH) [20]. Both VAL modalities were superior to DL for achieving the primary outcome of achieving intubation on the first attempt (78, 83, and 88 percent, respectively). Also, both VAL modalities were associated with faster intubation success after a failed first attempt compared with DL. We suggest using VAL over DL for the first attempt at tracheal intubation when possible. (See \"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'.)\n\nACEP consensus guidelines for unscheduled procedural sedation (August 2026)\n\nThe American College of Emergency Physicians (ACEP) has updated the 2019 multidisciplinary consensus clinical guidelines for unscheduled procedural sedation and analgesia (PSA) in children and adults, commonly performed in emergency departments; the new guidelines have been endorsed by multiple professional organizations [21,22]. These guidelines provide specific competencies necessary to perform PSA safely, reaffirm key components of presedation patient assessment, and give new guidance for aspiration risk assessment in patients taking glucagon-like peptide-1 receptor agonists. The guidelines also reinforce that:\n\n● A variety of specialists and disciplines can develop competency and perform PSA safely with proper institutional oversight.\n\n● PSA for urgent or emergency procedures should not be delayed due to fasting status for patients with negligible or mild risk factors for aspiration.\n\n● Capnography is the only monitoring device that promptly detects impaired ventilation in patients receiving supplemental oxygen.\n\nWe agree with these guidelines. (See \"Procedural sedation in adults in the emergency department: General considerations, preparation, monitoring, and mitigating complications\" and \"Procedural sedation in children: Preparation\".)\n\nPOCUS in infants and young children undergoing transurethral bladder catheterization (July 2026)\n\nTransurethral bladder catheterization (TUBC) is the preferred method for obtaining urine specimens for culture in infants and young children who are not toilet trained; visualization of urine in the bladder with point-of-care ultrasound (POCUS) prior to TUBC may facilitate collection. In a meta-analysis of three trials (337 children undergoing TUBC), first attempt success rate was higher for patients undergoing POCUS (89.7 versus 72.5 percent) and the rate of catheterization attempts resulting in no urine present (\"dry taps\") was lower (3.6 versus 23.9 percent) compared with patients undergoing TUBC without POCUS [23]. These findings confirm improved success rates reported in prior studies and support routine use of POCUS prior to TUBC in this population whenever available. (See \"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'.)\n\nTOXICOLOGY\n\nCannabinoid hyperemesis syndrome in the United States (October 2026)\n\nTwo recent studies provide insight on the disease burden of cannabinoid hyperemesis syndrome (CHS) in the United States (US):\n\n● In a representative 2025 survey of over 7000 US adults, 2.7 percent described daily cannabis use; 18 percent of these individuals reported symptoms consistent with CHS [24]. However, only one out of six had received a diagnosis of CHS. Based on these findings, an estimated 7 million US adults may suffer from CHS; a marked increase from prior estimates.\n\n● After the introduction of an ICD-10-CM code for CHS in October 2025, US emergency department visits for CHS increased from approximately 30 per 100,000 visits to 120 per 100,000 visits through May 2026 [25].\n\nThese findings suggest that CHS is common in individuals with daily cannabis use and is likely underdiagnosed. Rates may be increasing with legalization of cannabis, and the burden on US emergency departments may be underappreciated. (See \"Cannabinoid hyperemesis syndrome\", section on 'Epidemiology'.)\n\nRisk factors for developing the syndrome of irreversible lithium-effectuated neurotoxicity (SILENT) (September 2026)\n\nThe syndrome of irreversible lithium-effectuated neurotoxicity (SILENT) consists of prolonged neurologic (typically cerebellar dysfunction) and neuropsychiatric symptoms following lithium toxicity; symptoms persist despite removal of lithium. Risk factors for developing SILENT, which occurs infrequently after lithium toxicity, are not well established. A multicenter study with over 600 patients with lithium poisoning found that the initial presence of ataxia, myoclonus, moderate to severe symptoms, and acute-on-chronic toxicity (rather than acute toxicity) were associated with the development of SILENT at 60 days [26]. These findings help inform which patients are at higher risk for SILENT and may benefit from neurologic follow-up following treatment for lithium toxicity. (See \"Lithium poisoning\", section on 'Long-term neurologic sequelae'.)\n\nCauses and prognosis of acquired methemoglobinemia (March 2026, Modified September 2026)\n\nAcquired methemoglobinemia is a potentially life-threatening condition caused by substances that oxidize heme, preventing oxygen delivery to the tissues. Two new studies from poison centers in different countries illustrate the range of causes and likelihood of survival. In a series of 1245 individuals from the United States, the most common causes were nonpharmaceutical nitrates and nitrites, dapsone, phenazopyridine, and local anesthetics [27]; in a series of 169 individuals from Thailand, the most common causes were dapsone and the organic herbicide propanil [28]. The fatality rates were 8 and 11 percent, respectively, and high proportions of the nitrate, nitrite, and fertilizer ingestions were for intentional self-harm. These data reinforce the importance of rapid recognition and treatment. (See \"Methemoglobinemia\", section on 'Most common acquired causes'.)\n\nSevere hydrogen sulfide poisoning (June 2026)\n\nHydrogen sulfide (H2S) is a colorless gas with a rotten egg odor that potently inhibits mitochondrial respiration. It is a byproduct of microbial decomposition of organic matter (ie, \"sewer gas\") and various industrial processes. In a study of 168 patients with H2S poisoning reported to the Taiwan Poison Control Center, those working underground and in confined spaces were more likely to develop severe toxicity [29]. Early administration of sodium nitrite was associated with potentially lower odds of death, but did not reach statistical significance. These findings should prompt clinicians to consider H2S poisoning in a patient with sudden loss of consciousness, lactic acidosis, and cardiovascular collapse who was working underground or in a confined space, and support our suggestion for treating these patients with sodium nitrite. (See \"Common occupational chemical exposures: General approach and management of selected exposures\", section on 'Hydrogen sulfide'.)\n\nPoisoning-related fatality from illicit substances in children and adolescents (May 2026)\n\nIllicit substances such as opioids can result in poisoning-related fatality in pediatric patients. In an analysis conducted on national surveillance databases from the Centers for Disease Control, the rate of death from poisoning (including illicit drug overdoses) in children and adolescents aged 1 to 19 years increased by 12.7 percent from 2020 to 2023 [30]. In 2023, 1913 deaths were from illicit drug overdoses, and the majority (79.5 percent) were from fentanyl. These findings confirm that illicit substances remain a common cause of fatality in children and adolescents, and that ongoing educational and other preventive measures are warranted in this population. (See \"Poisoning in children: Prevention\", section on 'Fatalities'.)\n\nPoisoning-related injury from ingested household products in young children (May 2026)\n\nIngested household products remain a common cause of poisoning-related injury in young children. An analysis of national surveillance data estimated that over 240,000 children aged ≤5 years were treated in United States emergency departments for injuries from exposure to household cleaning products from 2007 to 2022 [31]. Approximately 60 percent of injuries were from ingestion. The products and containers associated with the most injuries were bleach (30.1 percent), detergents (28.6 percent), detergent packets (33 percent), and spray bottles (28.2 percent). These findings highlight the importance of ongoing educational, regulatory, and product engineering measures to prevent injuries from ingested substances in pediatric patients. (See \"Poisoning in children: Prevention\", section on 'Ingested substances'.)\n\nTRAUMA\n\nDiagnostic imaging in children with suspected physical child abuse (August 2026)\n\nThe American College of Radiology (ACR) has updated its criteria for imaging in children with suspected physical abuse [32]. The ACR criteria reaffirm the skeletal survey as the best method for detecting fractures in these patients. However, the criteria now advise neuroimaging (primarily unenhanced head computed tomography) for all children with suspected physical abuse who are ≤24 months old (including those with no apparent neurologic, skeletal, or visceral injury) and potentially for asymptomatic siblings of abused children. The new ACR criteria for neuroimaging differ from our approach and that of many child abuse experts. We routinely perform neuroimaging in all infants <6 months old with suspected child abuse and in selected infants 6 to 24 months old with clinical signs of intracranial injury, head trauma, skull fractures, rib fractures, or metaphyseal (\"corner\" or \"bucket handle\") fractures. (See \"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'.)\n\nCraniotomy for evacuation of intracranial epidural hematoma (July 2026)\n\nSurgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [33]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)\n\nCapnography for prognosis in trauma patients (July 2026)\n\nStudies have found that low end-tidal carbon dioxide (EtCO₂) values in trauma patients on initial medical presentation may indicate a hemorrhagic state and be associated with increased mortality and transfusion requirements. In a meta-analysis with more than 2400 trauma patients, a low EtCO₂ was associated with higher mortality (22 versus 12 percent) and a greater need for transfusion (7 versus 1 percent) [34]. The definition of \"low\" EtCO₂ ranged from less than 26 to 35 mmHg across the studies, but was less than 30 mmHg in most. These findings suggest that a low EtCO2 may be a valuable, noninvasive early predictor of severity in trauma patients, but should be used in conjunction with other prognosticators (eg, vital signs, shock index, lactate). (See \"Carbon dioxide monitoring (capnography)\", section on 'Increased ICP and trauma prognosis'.)\n\nPECARN cervical spine injury prediction rule performance by patient age (May 2026)\n\nIn a planned subanalysis of the cohort of 22,430 children used to develop the Pediatric Emergency Care Applied Research Network (PECARN) Cervical Spine Injury (CSI) prediction rule (algorithm 2), age-specific rules were derived based on developmental transition (0 to <2 years, 2 to <8 years, 8 to <16 years, and 16 to <18 years) [35]. When compared with the PECARN CSI rule, testing characteristics were similar for the age-specific rules; the negative predictive value for the PECARN CSI rule (99.9 percent, prevalence of CSI 1.9 percent) equaled or exceeded all age-specific rules. These findings support the use of the PECARN CSI rule to determine the risk of CSI and the need for C-spine imaging in infants and children of all ages. (See \"Evaluation and acute management of cervical spine injuries in children and adolescents\", section on 'Indications and choice of imaging'.)\n\nPrehospital whole blood transfusion for traumatic hemorrhage (March 2026)\n\nTwo recent trials have examined the efficacy and safety of prehospital transfusion of low-titer, group O whole blood (LTOWB) versus blood components by Emergency Medical Services (EMS):\n\n● In a pragmatic trial of over 600 patients with life-threatening bleeding transported by air ambulances in England, patients were transfused up to 2 units of LTOWB versus red cells plus plasma [36]. The composite of mortality plus massive transfusion within 24 hours and 90-day call-cause mortality was similar between the groups; the LTOWB group had slightly fewer serious adverse events.\n\n● In another pragmatic trial of over 1000 patients with trauma and hypotension transported by air bases in the United States, either from the scene or from a referring emergency department, patients were transfused up to 2 units of LTOWB versus red cells, plasma, or both. Mortality at 30 days was similar (26 versus 21 percent) between LTOWB and components, as was in-hospital mortality, blood product requirements, and adverse events [37].\n\nThese findings suggest that use of LTOWB, which is logistically simpler than components, is a reasonable option for EMS with prehospital transfusion programs. (See \"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'.)",
+    "word_count": 4537,
+    "character_count": 32063,
+    "references": [
+      "Peltan ID, Groat D, Jacobs JR, et al. Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial. JAMA 2026.",
+      "Rosenfield K, Klok FA, Piazza G, et al. Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism. N Engl J Med 2026; 394:1979.",
+      "Kroupa J, Radvan M, Mrozek J, et al. Catheter-Directed Thrombolysis in Intermediate-High-Risk Pulmonary Embolism. N Engl J Med 2026.",
+      "Weingart MF, Matthay MA. Potential Transformative Impact of Autonomous Oxygen Delivery in Hospitalized Patients. JAMA Intern Med 2026; 186:1234.",
+      "Minnen OV, Lansink-Hartgring AO, van Amstel RBE, et al. Standard-dose unfractionated heparin versus low-dose unfractionated heparin and low-molecular-weight heparin in extracorporeal life support (RATE): an open-label, randomised, non-inferiority trial. Lancet 2026; 408:357.",
+      "LOGICAL Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group, Hodgson CL, Mackle D, et al. Conservative Oxygen for Unresponsive Patients after Cardiac Arrest. N Engl J Med 2026; 395:571.",
+      "O'Dochartaigh D, Douma MJ, Picard C, et al. Comparison of iloprost therapy versus non-iloprost therapy for severe frostbite: a retrospective cohort study of two Canadian cities. BMJ Open 2026; 16:e110475.",
+      "Shaw JR, Gray H, Xu Y, et al. Effect of PCC on thrombin generation in patients on FXaI with bleeding or needing urgent surgery (GAUGE). Blood Adv 2026; 10:5378.",
+      "Chu AWL, Wen A, Guyatt GH, et al. Antihistamines for atopic dermatitis (eczema): systematic review and network meta-analysis of randomised trials. BMJ 2026; 394:e100163.",
+      "Akerboom B, Martens ESL, Stals MAM, et al. YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer: A Randomized Clinical Trial. JAMA 2026; 336:655.",
+      "United States Centers for Disease Control and Prevention. Health Alert Network: Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026. https://www.cdc.gov/han/php/notices/han00531.html (Accessed on July 16, 2026).",
+      "United States Centers for Disease Control and Prevention. Cyclosporiasis. Cyclospora Outbreak Linked to Shredded Iceberg Lettuce Served at Taco Bell in 5 States https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html (Accessed on July 17, 2026).",
+      "Hartley CM, Hoang ST, Roberts VA, Chard AN. Foodborne Disease Outbreaks Associated with Marine Toxins - Foodborne Disease Outbreak Surveillance System, United States, 2011-2023. MMWR Surveill Summ 2026; 75:1.",
+      "Goel NN, Ferreyro BL, Pitre T, et al. Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2026; 212:2135.",
+      "ARISE FLUIDS Investigators, the ANZICS Clinical Trials Group, and the ACEM Clinical Trials Network, Peake SL, Macdonald SPJ, et al. Vasopressors or Fluids in Early Septic Shock. N Engl J Med 2026; 395:1387.",
+      "Noro S, Hatayama T, Iwai Y, et al. IV Fosphenytoin for Acute Trigeminal Neuralgia: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial. Neurology 2026; 106:e218037.",
+      "Ramgopal S, Loftus K, Amagasa S, et al. Futility and Termination of Resuscitation Variation for Pediatric Out-of-Hospital Cardiac Arrest. Pediatrics 2026; 158.",
+      "Weiss SL, Peters MJ, Oczkowski SJW, et al. Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026. Pediatr Crit Care Med 2026; 27:379.",
+      "Balamuth F, Weiss SL, Long E, et al. Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock. N Engl J Med 2026; 395:870.",
+      "Schmid B, Grüßer L, Müller L, et al. Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial. JAMA Netw Open 2026; 9:e2625965.",
+      "Green SM, Roback MG, Bhatt M, et al. Unscheduled Procedural Sedation Multidisciplinary Delphi Consensus Guidelines, Part 1: Principles, Oversight, and Quality Monitoring: Approved by the ACEP Board of Directors, April 29, 2026. Ann Emerg Med 2026; 88:332.",
+      "Green SM, Roback MG, Bhatt M, et al. Unscheduled Procedural Sedation Multidisciplinary Delphi Consensus Guidelines, Part 2: Clinical Practice: Approved by the ACEP Board of Directors, April 29, 2026. Ann Emerg Med 2026; 88:346.",
+      "Vieira da Silva HF, Watanabe ET, Tavares MC, et al. Point-of-Care Ultrasound for Pediatric Urethral Catheterization: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Acad Emerg Med 2026; 33:e70342.",
+      "Ilgen MA, Price AM, Goldman P, et al. Prevalence and Correlates of Symptoms of Cannabinoid Hyperemesis Syndrome in the United States, 2025. Am J Public Health 2026; :e1.",
+      "Vivolo-Kantor AM, Liu S, Tanz LJ, et al. Trends in Emergency Department Visits Involving Cannabis Hyperemesis Syndrome Identified Using a New Diagnosis Code - United States, January 2023-May 2026. MMWR Morb Mortal Wkly Rep 2026; 75:391.",
+      "Pineda-Torcuato Á, Caballero-Bermejo AF, Supervia A, et al. Predicting SILENT after lithium poisoning: a multicenter cohort study and pragmatic risk stratification model. Clin Toxicol (Phila) 2026; :1.",
+      "Wahrenbrock T, Chambers A, Wheeler M, et al. Etiology of methemoglobinemia in the National Poison Data System®: an observational study. Clin Toxicol (Phila) 2026; :1.",
+      "Tansuwannarat P, Bualerd P, Rittilert P, et al. A 10-year retrospective study of patients with acquired methemoglobinemia: causative agents, clinical characteristics, and outcomes. Clin Toxicol (Phila) 2026; 64:591.",
+      "Wen YC, Chu FY, Wang TH, et al. Analysis of patients with hydrogen sulfide poisoning reported to the Taiwan Poison Control Center between 1986 and 2021. Clin Toxicol (Phila) 2026; 64:933.",
+      "Raymond-King C, Jeffery MM, Melnick ER. Current Causes of Death among Children and Adolescents in the United States. N Engl J Med 2026; 394:1958.",
+      "McAdams RJ, Shonia M, Roberts KJ, McKenzie LB. Cleaning Product-Related Injuries Treated in US Emergency Departments: 2007-2022. Pediatrics 2026; 157.",
+      "Expert Panel on Pediatric Imaging, Mirsky DM, Bardo DME, et al. ACR Appropriateness Criteria® Suspected Physical Abuse-Child: Update 2025. J Am Coll Radiol 2026; 23:1613.",
+      "Feng J, Yang C, Xie L, et al. Safety and efficacy of decompressive craniectomy versus standard craniotomy for large acute epidural haematoma with tentorial herniation in China (PREDICT-AEDH): a nationwide, multicentre, open-label, parallel-group, randomised controlled trial. Lancet Neurol 2026; 25:645.",
+      "Rodriguez KA, Tran QK, Ali M, et al. End-tidal carbon dioxide as a predictor of mortality in trauma patients: A systematic review and meta-analysis. J Trauma Acute Care Surg 2026; 101:331.",
+      "Corwin DJ, Chaudhari PP, Tzimenatos L, et al. Comparison of Cervical Spine Injury Prediction Rule Across Ages. Pediatrics 2026; 157.",
+      "Smith JE, Cardigan R, Sanderson E, et al. Prehospital Whole Blood in Traumatic Hemorrhage - A Randomized Controlled Trial. N Engl J Med 2026; 394:2305.",
+      "Sperry JL, Guyette FX, Cotton BA, et al. Prehospital Resuscitation with Type O Whole Blood for Trauma and Hemorrhage. N Engl J Med 2026; 394:2317."
+    ],
+    "graphics": [
+      {
+        "id": 128375,
+        "title": "algorithm 1",
+        "url": "https://medilib.ir/uptodate/show/128375"
+      },
+      {
+        "id": 145574,
+        "title": "algorithm 2",
+        "url": "https://medilib.ir/uptodate/show/145574"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 8365,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%221%22"
+      },
+      {
+        "id": 1613,
+        "title": "\"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Vasopressors'",
+        "url": "https://medilib.ir/uptodate/show/1613"
+      },
+      {
+        "id": 8478,
+        "title": "alteplase",
+        "url": "https://medilib.ir/uptodate/show/8478"
+      },
+      {
+        "id": 8365,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%222%22"
+      },
+      {
+        "id": 8365,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%223%22"
+      },
+      {
+        "id": 8259,
+        "title": "\"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'",
+        "url": "https://medilib.ir/uptodate/show/8259"
+      },
+      {
+        "id": 8365,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%224%22"
+      },
+      {
+        "id": 134329,
+        "title": "\"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'",
+        "url": "https://medilib.ir/uptodate/show/134329"
+      },
+      {
+        "id": 8518,
+        "title": "unfractionated heparin",
+        "url": "https://medilib.ir/uptodate/show/8518"
+      },
+      {
+        "id": 8365,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%225%22"
+      },
+      {
+        "id": 134279,
+        "title": "\"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'",
+        "url": "https://medilib.ir/uptodate/show/134279"
+      },
+      {
+        "id": 8365,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%226%22"
+      },
+      {
+        "id": 127223,
+        "title": "\"Intensive care unit management of the intubated post-cardiac arrest adult patient\", section on 'Airway, ventilation, and oxygen targets'",
+        "url": "https://medilib.ir/uptodate/show/127223"
+      },
+      {
+        "id": 8895,
+        "title": "Iloprost",
+        "url": "https://medilib.ir/uptodate/show/8895"
+      },
+      {
+        "id": 8365,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%227%22"
+      },
+      {
+        "id": 179,
+        "title": "\"Frostbite: Acute care and prevention\", section on 'Prostacyclin analog (iloprost) within 72 hours'",
+        "url": "https://medilib.ir/uptodate/show/179"
+      },
+      {
+        "id": 8365,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%228%22"
+      },
+      {
+        "id": 94788,
+        "title": "\"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'",
+        "url": "https://medilib.ir/uptodate/show/94788"
+      },
+      {
+        "id": 8365,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%229%22"
+      },
+      {
+        "id": 9236,
+        "title": "cetirizine",
+        "url": "https://medilib.ir/uptodate/show/9236"
+      },
+      {
+        "id": 9443,
+        "title": "levocetirizine",
+        "url": "https://medilib.ir/uptodate/show/9443"
+      },
+      {
+        "id": 1730,
+        "title": "\"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'",
+        "url": "https://medilib.ir/uptodate/show/1730"
+      },
+      {
+        "id": 8365,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2210%22"
+      },
+      {
+        "id": 8261,
+        "title": "\"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'",
+        "url": "https://medilib.ir/uptodate/show/8261"
+      },
+      {
+        "id": 8365,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2211%22"
+      },
+      {
+        "id": 8365,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2212%22"
+      },
+      {
+        "id": 5724,
+        "title": "\"Cyclospora infection\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/5724"
+      },
+      {
+        "id": 8365,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2213%22"
+      },
+      {
+        "id": 90048,
+        "title": "\"Scombroid (histamine) poisoning\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/90048"
+      },
+      {
+        "id": 88331,
+        "title": "\"Ciguatera fish poisoning\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/88331"
+      },
+      {
+        "id": 8365,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2214%22"
+      },
+      {
+        "id": 1636,
+        "title": "\"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\"",
+        "url": "https://medilib.ir/uptodate/show/1636"
+      },
+      {
+        "id": 1634,
+        "title": "\"Extubation management in the adult intensive care unit\"",
+        "url": "https://medilib.ir/uptodate/show/1634"
+      },
+      {
+        "id": 8365,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2215%22"
+      },
+      {
+        "id": 1613,
+        "title": "\"Evaluation and management of suspected sepsis and septic shock in adults\", section on 'Volume'",
+        "url": "https://medilib.ir/uptodate/show/1613"
+      },
+      {
+        "id": 8480,
+        "title": "fosphenytoin",
+        "url": "https://medilib.ir/uptodate/show/8480"
+      },
+      {
+        "id": 8365,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2216%22"
+      },
+      {
+        "id": 5283,
+        "title": "\"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'",
+        "url": "https://medilib.ir/uptodate/show/5283"
+      },
+      {
+        "id": 8365,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2217%22"
+      },
+      {
+        "id": 13870,
+        "title": "\"Pediatric considerations in prehospital care\", section on 'Nontraumatic cardiac arrest'",
+        "url": "https://medilib.ir/uptodate/show/13870"
+      },
+      {
+        "id": 8365,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2218%22"
+      },
+      {
+        "id": 85767,
+        "title": "\"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'",
+        "url": "https://medilib.ir/uptodate/show/85767"
+      },
+      {
+        "id": 108196,
+        "title": "lactated Ringer",
+        "url": "https://medilib.ir/uptodate/show/108196"
+      },
+      {
+        "id": 9929,
+        "title": "saline",
+        "url": "https://medilib.ir/uptodate/show/9929"
+      },
+      {
+        "id": 8365,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2219%22"
+      },
+      {
+        "id": 85767,
+        "title": "\"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'",
+        "url": "https://medilib.ir/uptodate/show/85767"
+      },
+      {
+        "id": 8365,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2220%22"
+      },
+      {
+        "id": 107795,
+        "title": "\"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'",
+        "url": "https://medilib.ir/uptodate/show/107795"
+      },
+      {
+        "id": 8365,
+        "title": "21,22",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2221%22"
+      },
+      {
+        "id": 264,
+        "title": "\"Procedural sedation in adults in the emergency department: General considerations, preparation, monitoring, and mitigating complications\"",
+        "url": "https://medilib.ir/uptodate/show/264"
+      },
+      {
+        "id": 16900,
+        "title": "\"Procedural sedation in children: Preparation\"",
+        "url": "https://medilib.ir/uptodate/show/16900"
+      },
+      {
+        "id": 8365,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2223%22"
+      },
+      {
+        "id": 6339,
+        "title": "\"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'",
+        "url": "https://medilib.ir/uptodate/show/6339"
+      },
+      {
+        "id": 8365,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2224%22"
+      },
+      {
+        "id": 8365,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2225%22"
+      },
+      {
+        "id": 141176,
+        "title": "\"Cannabinoid hyperemesis syndrome\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/141176"
+      },
+      {
+        "id": 9566,
+        "title": "lithium",
+        "url": "https://medilib.ir/uptodate/show/9566"
+      },
+      {
+        "id": 8365,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2226%22"
+      },
+      {
+        "id": 320,
+        "title": "\"Lithium poisoning\", section on 'Long-term neurologic sequelae'",
+        "url": "https://medilib.ir/uptodate/show/320"
+      },
+      {
+        "id": 9324,
+        "title": "dapsone",
+        "url": "https://medilib.ir/uptodate/show/9324"
+      },
+      {
+        "id": 9761,
+        "title": "phenazopyridine",
+        "url": "https://medilib.ir/uptodate/show/9761"
+      },
+      {
+        "id": 8365,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2227%22"
+      },
+      {
+        "id": 8365,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2228%22"
+      },
+      {
+        "id": 7094,
+        "title": "\"Methemoglobinemia\", section on 'Most common acquired causes'",
+        "url": "https://medilib.ir/uptodate/show/7094"
+      },
+      {
+        "id": 8365,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2229%22"
+      },
+      {
+        "id": 85782,
+        "title": "sodium nitrite",
+        "url": "https://medilib.ir/uptodate/show/85782"
+      },
+      {
+        "id": 141272,
+        "title": "\"Common occupational chemical exposures: General approach and management of selected exposures\", section on 'Hydrogen sulfide'",
+        "url": "https://medilib.ir/uptodate/show/141272"
+      },
+      {
+        "id": 8365,
+        "title": "30",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2230%22"
+      },
+      {
+        "id": 8441,
+        "title": "fentanyl",
+        "url": "https://medilib.ir/uptodate/show/8441"
+      },
+      {
+        "id": 2873,
+        "title": "\"Poisoning in children: Prevention\", section on 'Fatalities'",
+        "url": "https://medilib.ir/uptodate/show/2873"
+      },
+      {
+        "id": 8365,
+        "title": "31",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2231%22"
+      },
+      {
+        "id": 2873,
+        "title": "\"Poisoning in children: Prevention\", section on 'Ingested substances'",
+        "url": "https://medilib.ir/uptodate/show/2873"
+      },
+      {
+        "id": 8365,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2232%22"
+      },
+      {
+        "id": 6600,
+        "title": "\"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'",
+        "url": "https://medilib.ir/uptodate/show/6600"
+      },
+      {
+        "id": 8365,
+        "title": "33",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2233%22"
+      },
+      {
+        "id": 1107,
+        "title": "\"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'",
+        "url": "https://medilib.ir/uptodate/show/1107"
+      },
+      {
+        "id": 8365,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2234%22"
+      },
+      {
+        "id": 273,
+        "title": "\"Carbon dioxide monitoring (capnography)\", section on 'Increased ICP and trauma prognosis'",
+        "url": "https://medilib.ir/uptodate/show/273"
+      },
+      {
+        "id": 8365,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2235%22"
+      },
+      {
+        "id": 6561,
+        "title": "\"Evaluation and acute management of cervical spine injuries in children and adolescents\", section on 'Indications and choice of imaging'",
+        "url": "https://medilib.ir/uptodate/show/6561"
+      },
+      {
+        "id": 8365,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2236%22"
+      },
+      {
+        "id": 8365,
+        "title": "37",
+        "url": "https://medilib.ir/uptodate/show/8365#rid%2237%22"
+      },
+      {
+        "id": 113837,
+        "title": "\"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'",
+        "url": "https://medilib.ir/uptodate/show/113837"
+      }
+    ]
+  }
+}

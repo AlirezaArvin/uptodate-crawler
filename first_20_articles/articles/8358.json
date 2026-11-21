@@ -1,0 +1,1507 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8358"
+  },
+  "article": {
+    "id": 8358,
+    "expected_title": "What's new in infectious diseases",
+    "url": "https://medilib.ir/uptodate/show/8358",
+    "final_url": "https://medilib.ir/uptodate/show/8358",
+    "page_title": "What's new in infectious diseases",
+    "extracted_at": "2026-11-20T20:52:21.487Z",
+    "title_matches_expected": true,
+    "title": "What's new in infectious diseases",
+    "contributors": {
+      "authors": [
+        "Elinor L Baron, MD, DTMH",
+        "Allyson Bloom, MD",
+        "Milana Bogorodskaya, MD",
+        "Sheila Bond, MD",
+        "Keri K Hall, MD, MS",
+        "Jennifer Mitty, MD, MPH",
+        "Nicole White, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Nov 06, 2026",
+    "version": "Topic 8358 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ANTIMICROBIAL AGENTS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Efficacy and safety of cefepime-nacubactam and aztreonam-nacubactam (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nacubactam is a novel beta-lactamase inhibitor. In a randomized trial including 431 patients with complicated urinary tract infection (including pyelonephritis), clinical and microbiologic success with cefepime-nacubactam, aztreonam-nacubactam, or imipenem-cilastatin was achieved in 82, 72, and 61 percent, respectively [1]. Compared with imipenem-cilastatin, the percentage differences in the success rates were 21 percent for cefepime-nacubactam (noninferior and superior) and 11 percent for aztreonam-nacubactam (noninferior). Adverse events were observed less frequently in the nacubactam groups; most were of mild or moderate severity. Patients with infection due to carbapenem-resistant pathogens were excluded, limiting conclusions about efficacy for these organisms. (See \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Cefepime-nacubactam' and \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\" and \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Aztreonam-nacubactam'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of intrawound tobramycin during fracture fixation (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Placement of vancomycin powder into the surgical wound during open fracture fixation is a common practice as it may reduce the risk of gram-positive surgical site infection (SSI). A randomized trial of 1528 patients undergoing definitive fixation for a high-risk tibial plateau or pilon fracture evaluated whether adding tobramycin powder to vancomycin for gram-negative coverage could further reduce SSI [2]. However, rates of deep SSI were similar in the vancomycin plus tobramycin group and the vancomycin alone group, and among the subset of those with open fractures, infection rates were higher with vancomycin plus tobramycin. These data suggest that there is no role for intrawound tobramycin during fracture fixation. (See \"Osteomyelitis associated with open fractures in adults\", section on 'Initial fracture management'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "BACTERIAL INFECTIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Global burden of pertussis (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pertussis continues to be an important cause of vaccine-preventable deaths; the Global Burden of Disease study estimates that in 2023, 19 million people were infected with pertussis, including 115,000 attributable deaths, with 65 percent of deaths occurring in sub-Saharan Africa [3]. Worldwide, infants less than six months of age are at highest risk of death from pertussis. These findings emphasize the importance of routine immunization against pertussis. (See \"Pertussis infection: Epidemiology, microbiology, and pathogenesis\", section on 'Incidence'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New IDSA/ESCMID guidelines on Staphylococcus aureus bacteremia (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "New guidelines on Staphylococcus aureus bacteremia (SAB) were published by the Infectious Disease Society of America (IDSA) and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) [4]. These guidelines outline a new framework for diagnostic evaluation of patients with SAB based on an initial evaluation and subsequent risk stratification; patients at increased risk warrant tailored evaluation for deep-seated or metastatic infection, directed by ongoing clinical assessment. The risk stratification and results of the tailored workup, if performed, are used to guide management, including source control and duration of therapy. We are in agreement with this guidance. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Systemic antibiotic duration for osteoarticular infections when local antibiotics are used (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Osteoarticular infections, such as osteomyelitis and prosthetic joint infection, are typically treated with several weeks of systemic antibiotics. In a randomized trial performed in the United Kingdom and Europe that included 475 patients who underwent debridement of osteoarticular infection with curative intent and placement of an antibiotic-impregnated carrier at the surgical site, rates of treatment failure were similar with a short (mean six days) versus long (mean 42 days) duration of systemic antibiotic therapy (11 versus 14 percent) [5]. These results are promising; however, given regional differences in surgical practice and local antibiotic products, we await confirmatory data from other settings before routinely abbreviating systemic antibiotic therapy in such circumstances. (See \"Osteomyelitis in the absence of hardware: Approach to treatment in adults\", section on 'Residual infected bone' and \"Periprosthetic joint infection: Treatment\", section on 'Duration of therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guidelines on treatment of antimicrobial-resistant gram-negative infections (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Updated guidelines on treatment of antimicrobial-resistant gram-negative infections were published by the Infectious Disease Society of America in July 2026 [6]. These guidelines include revised antibiotic susceptibility breakpoint data and add information for newer agents approved by the US Food and Drug Administration. The guidelines continue to discourage use of ertapenem in the setting of critical illness or hypoalbuminemia, given its faster clearance in these settings. For treatment of Pseudomonas aeruginosa, the guidelines specify that ceftolozane-tazobactam (a preferred agent for most resistant P. aeruginosa isolates) is not active against Klebsiella pneumoniae carbapenemase (KPC)-producing isolates. In addition, the guidelines specify that for metallo-beta-lactamase (MBL)-producing P. aeruginosa isolates, cefiderocol is the preferred treatment agent. We are in agreement with this guidance. (See \"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Diphtheria outbreak in Australia (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Although the incidence of diphtheria infections remains low in high-income countries, outbreaks can occur due to factors such as waning immunity. In 2026, Australia experienced the largest diphtheria outbreak in the country since 1991, including over 400 cases and one death during the first half of the year [7,8]. Most cases occurred in remote communities among Indigenous Peoples; two-thirds presented as cutaneous disease and the remaining third as respiratory disease. This outbreak emphasizes the importance of routine vaccination against diphtheria. (See \"Epidemiology and pathophysiology of diphtheria\", section on 'High-income countries'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [9]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [10]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tebipenem pivoxil for complicated urinary tract infections (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "When complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [11]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Serogroup B meningococcal outbreaks in the United Kingdom (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Since March 2026, two separate outbreaks of Neisseria meningitidis serogroup B have occurred in the United Kingdom among adolescents and young adults [12-14]. The larger outbreak, which resulted from a transmission event at a nightclub, involved 21 confirmed cases, including two deaths. These events highlight the risk of meningococcal infection among this age group and support our suggestion to vaccinate against meningococcal serotype B (in addition to serotypes A, C, W, and Y) in adolescents and young adults. (See \"Microbiology, pathobiology, and epidemiology of Neisseria meningitidis infection\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "FUNGAL INFECTIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Molecular detection of Cladophialophora bantiana (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Like other dematiaceous molds, Cladophialophora bantiana can cause severe central nervous system infection with mortality exceeding 50 percent. Between 2009 and 2026, one large clinical reference laboratory in the United States reported 48 cases of C. bantiana detected by broad-range fungal polymerase chain reaction (PCR) [15]. After 2013, the annual rate of detection varied, ranging from approximately 5 to 25 per 1000 intracranial specimens, with the highest rate in 2025. This study highlights the potential role of molecular testing in patients with brain abscess if cultures do not identify a causative pathogen. (See \"Central nervous system infections due to dematiaceous fungi (cerebral phaeohyphomycosis)\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HIV INFECTION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bictegravir-lenacapavir for HIV in virologically suppressed individuals (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the once-daily, single-dose combination pill bictegravir-lenacapavir was approved in the United States as an option for individuals with HIV who are already virologically suppressed on a different regimen [16]. The approval was based in part on a randomized trial that included individuals with extensive treatment experience and historical antiretroviral resistance, in which switching to bictegravir-lenacapavir had similar virologic efficacy as continuing the baseline suppressive regimen without detection of emergent resistance mutations [17]. This regimen may allow simplification of antiretroviral therapy regimens for patients on complicated regimens for drug-resistant HIV. (See \"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Doravarine-lamivudine-tenofovir disoproxil fumarate as initial HIV therapy (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Doravirine is a non-nucleoside reverse transcriptase inhibitor used in different combination regimens for the treatment of HIV-1. In a randomized trial of treatment-naive patients, doravirine, lamivudine, plus tenofovir disoproxil fumarate had similar virologic efficacy to dolutegravir, emtricitabine, plus tenofovir alafenamide (a preferred, integrase strand transfer inhibitor [INSTI] -based regimen) and was associated with less weight gain (median 3 versus 5 kg) [18]. However, we continue to favor INSTI-based regimens for initial therapy since emergent resistance occurred more frequently with the doravirine-based regimen. In addition, it is uncertain whether the reduced weight gain was related to the doravirine component versus the different tenofovir formulation. (See \"Selecting antiretroviral regimens for treatment-naïve persons with HIV-1: General approach\", section on 'Commonly used agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dolutegravir-based antiretroviral therapy regimen for use in high-risk infants born to mothers with HIV (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Department of Health and Human Services issued updated guidelines on breastfeeding and antiretroviral prophylaxis for infants born to mothers with HIV [19]. Dolutegravir plus lamivudine plus zidovudine is now the preferred three-drug \"presumptive treatment\" antiretroviral therapy (ART) regimen for high-risk full-term infants. Nevirapine plus lamivudine plus zidovudine remains the preferred regimen for preterm infants, since dolutegravir dosing is not available for preterm infants (table 1 and table 2 and algorithm 1). Other recommendations include minor changes for breastfed infants in the HIV testing schedule and duration of extended ART prophylaxis. We agree with these guidelines. (See \"Management of infants born to mothers with HIV in resource-available settings\", section on 'Detectable viral load within four weeks prior to delivery'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [20]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "IMMUNOCOMPROMISED HOSTS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "IDSA guidelines on prevention of invasive aspergillosis after solid organ transplantation (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Invasive aspergillosis causes considerable morbidity and mortality in immunocompromised patients, but the risk varies among solid organ transplant (SOT) recipients depending on the type of organ transplanted and other factors. Updated IDSA guidelines on antifungal prophylaxis for SOT recipients stipulate that prophylaxis against Aspergillus is not routine for kidney, pancreas, or heart transplant recipients, and should be individualized for lung transplant recipients [21]. For liver transplant recipients, updated guidelines endorse prophylaxis against Aspergillus for patients with specific high-risk factors such as renal replacement therapy in the peri-transplant period, re-transplantation, or transplantation for fulminant hepatic failure. Because of limited data and diverse local epidemiology, practice at transplant centers is variable. (See \"Prophylaxis of infections in solid organ transplantation\", section on 'Targeted antifungal prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recombinant zoster vaccine and abatacept-treated rheumatoid arthritis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Although recombinant zoster vaccine is recommended for immunosuppressed patients with rheumatoid arthritis (RA), its immunogenicity in patients receiving abatacept (a T-cell costimulation blocker) is unclear. In a study of 70 patients with RA, only 42 percent of those receiving recombinant zoster vaccine achieved a ≥4-fold humoral response, and only 10 percent developed a cellular immune response at 12 weeks after vaccination [22]. Serious adverse events were uncommon, and RA flare rates were similar between vaccine and placebo groups (29 versus 21 percent, using the Clinical Disease Activity Index). These findings suggest that recombinant zoster vaccine is safe in abatacept-treated patients but produces blunted immune responses; whether holding abatacept temporarily might improve vaccine response requires further study. (See \"Immunizations in autoimmune inflammatory rheumatic disease in adults\", section on 'Vaccine efficacy and immunogenicity'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "IMMUNIZATIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pertussis vaccine effectiveness in children (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The incidence of pertussis is increasing in the United States due to declining vaccination rates. During a recent pertussis outbreak involving 113 cases in Alaska, the effectiveness of a pertussis-containing vaccine (ie, diphtheria and tetanus toxoids and acellular pertussis vaccine [DTaP]) was greater than 96 percent among children aged 6 months to 6 years who had previously received 3 or more prior doses, and unvaccinated children were 26 times more likely to develop laboratory-confirmed pertussis compared with those who had received 3 or more DTaP doses [23]. These findings emphasize the importance of routine childhood vaccination against pertussis, a disease that can cause serious complications or death in children. (See \"Diphtheria, tetanus, and pertussis immunization in children 6 weeks through 6 years of age\", section on 'Protection against disease'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No immunologic mechanism identified for immediate reactions to COVID-19 mRNA vaccines (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "An immunologic mechanism for immediate reactions to COVID-19 mRNA vaccines has not been demonstrated. A randomized trial of over 700 patients examined possible mechanisms for these reactions by administering one of two brands of mRNA COVID-19 vaccine or a placebo injection and performing extensive laboratory testing in those who reacted [24]. A small and similar percentage (between 1 and 3 percent) of patients had immediate reactions to a vaccine or to placebo, and these occurred exclusively in patients with past severe reactions to other allergens or mast cell disorders. Laboratory testing found no evidence of an immunologic process. Thus, the most likely explanation for these reactions is a psychological and physical response to the stress or fear of getting a vaccine (ie, an immunization stress-related response). (See \"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Single-dose HPV vaccine antibody response in males (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Growing evidence supports a single-dose approach to HPV vaccination in females, but few data exist for the single-dose schedule in males. In one study of 207 adolescents who received a single dose of nonavalent HPV vaccine between 9 to 12 years of age, similar proportions of males and females had detectable antibody levels for all vaccine types one to four years after vaccination [25]. Although antibody concentrations were lower among males than females, the clinical significance of this difference is uncertain; the titers that were measured in the males are likely associated with a high level of protection against infection and HPV-associated disease. Overall, data support a single-dose schedule for both females and males between 9 and 20 years of age, though further data are needed on duration of single-dose protection. (See \"Human papillomavirus vaccination\", section on 'Immunization schedule'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "HPV vaccination and pregnancy outcomes (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vaccination against human papillomavirus (HPV) effectively prevents infection and HPV-associated cancer and disease; prior HPV vaccination is also linked to improved pregnancy outcomes. In an observational study of over 624,000 births among females aged 16 to 35 years in Sweden, a history of HPV vaccination was associated with decreased risk of preterm birth and severe small size for gestational age; the association was greatest among women vaccinated at younger ages [26]. Although it is unclear if this association is causal or related to unmeasured confounders, these findings emphasize the importance of universal HPV vaccination, optimally at younger ages, when cervical cancer benefits are also greatest. (See \"Human papillomavirus vaccination\", section on 'Other potential benefits'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "ACOG extends window for RSV vaccination in northern hemisphere (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In September 2026, the American College of Obstetricians and Gynecologists (ACOG) updated its guidance on the timing of maternal respiratory syncytial virus (RSV) vaccination with RSVPreF in the northern hemisphere [27]. Previously, they recommended vaccination from September through January. However, with more pediatric RSV cases occurring later in the spring and with greater severity, ACOG now recommends maternal vaccination from September through March 1. The optimal gestational age of vaccination remains between 32 and 36 weeks. As almost half of eligible pregnant individuals opt for maternal RSV vaccination, it is important that clinicians are aware of this extended vaccination window. (See \"Immunizations during pregnancy\", section on 'Strategies for prevention'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Suboptimal HPV vaccine coverage in the United States (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [28]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recombinant zoster vaccine and cardiovascular benefits (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [29]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recommendations on 2026-2027 COVID-19 vaccination (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [30-33]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [34], the American College of Obstetricians and Gynecologists [35], the American Academy of Pediatrics [36], and the Infectious Diseases Society of America [37]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 3). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Receipt of MMR vaccine not associated with autism spectrum disorder (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Multiple studies have failed to demonstrate an association between measles, mumps, and rubella (MMR) vaccination and autism spectrum disorder (ASD). In another recent large observational study of 2.5 million children living in the United States, receipt of the first dose of the MMR vaccine between the ages of 11.5 and 24 months was not associated with an increased risk of ASD diagnosis [38]. The study included data between 2015 and 2024 and provides further evidence that the MMR vaccine does not cause ASD. (See \"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Delaying methotrexate to boost vaccine response in patients with rheumatoid arthritis (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Methotrexate attenuates immune responses to vaccines, but whether delaying its initiation in patients with newly diagnosed rheumatoid arthritis (RA) adversely affects disease outcomes has been uncertain. In a randomized trial of 100 patients with newly diagnosed RA, delaying methotrexate initiation for one month after administration of the 13-valent pneumococcal conjugate vaccine (PCV13) did not worsen disease activity at 12 months of follow-up [39]. Delaying initiation of methotrexate also did not lead to an increase in radiographic joint damage at 6 or 12 months. These findings support our approach to delay initiating methotrexate by one to two weeks after administration of a nonlive vaccine. (See \"Immunizations in autoimmune inflammatory rheumatic disease in adults\", section on 'Vaccine efficacy and immunogenicity'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "HPV vaccination and cervical cancer deaths (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Human papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [40]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Butantan-dengue vaccine suspended in Brazil for safety concerns (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Creating a safe and effective dengue vaccine is challenging in part because of the need to cover four serotypes and avoid generating an immune profile that increases risk for severe dengue. Butantan-dengue vaccine (Butantan-DV), a dengue vaccine uniquely administered as a single dose, was well tolerated and effective in clinical trials and subsequently implemented in Brazil. However, in June 2026, Butantan-DV deployment was suspended due to emerging safety concerns, including two deaths and 42 unexpected adverse events (eg, severe abdominal pain, persistent vomiting, and bleeding) [41]. This pause highlights ongoing limitations of vaccination as a preventive strategy for dengue. (See \"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Efficacy and safety of mRNA-1010 influenza vaccine (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A messenger ribonucleic acid (mRNA) seasonal influenza vaccine could be manufactured more rapidly than traditional influenza vaccines and avoid the challenges of viral culture. In a randomized trial including more than 40,000 adults ≥50 years of age in 11 countries in the Northern hemisphere, vaccination with trivalent mRNA-1010 resulted in fewer cases of reverse transcription polymerase chain reaction (RT-PCR) confirmed influenza-like illness compared with locally licensed standard-dose influenza vaccines (411 versus 557 cases); relative vaccine efficacy 26.6 percent [42]. Noninferiority was shown for influenza A strains but not for B strains. Solicited adverse reactions (injection-site pain, fatigue, headache, myalgias) were more frequent with mRNA-1010; most reactions were mild-moderate and transient. These results mirror those with another novel mRNA influenza vaccine (modRNA); the potential role of these mRNA vaccines for influenza prevention will depend on reducing vaccine reactogenicity and ensuring efficacy across strains of interest. (See \"Seasonal influenza vaccination in adults\", section on 'Investigational vaccine approaches'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nirsevimab versus maternal respiratory syncytial virus vaccination for infants (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Limited data have suggested that infant immunoprophylaxis is associated with lower rates of hospitalization for respiratory syncytial virus (RSV)-associated lower respiratory tract infection (LRTI) than maternal vaccination. In a new cohort study of over 164,000 infants in France followed for a six-month period, infant immunoprophylaxis with nirsevimab was again associated with lower rates of hospitalization for RSV-associated LRTI than maternal RSVpreF vaccination (0.83 versus 0.96 percent) [43]. This difference was not observed when RSVpreF was administered ≥8 weeks prior to birth, although the number of these infants was small. While this strengthens support for neonatal immunoprophylaxis, rates of RSV-associated hospitalization were low in both groups, and we therefore encourage shared decision-making with our patients to determine the optimal preventive strategy. (See \"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "MYCOBACTERIAL INFECTIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Treatment of drug-resistant tuberculosis (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The optimal approach to treating drug-resistant pulmonary tuberculosis (TB) is uncertain. In a randomized trial, 403 patients in South Africa with rifampin-resistant TB were treated with either a six-month all-oral regimen (including bedaquiline, linezolid, delamanid, and levofloxacin or clofazimine or both) or a nine-month standard-of-care regimen [44]. The trial included 30 children ≥6 years of age, 10 pregnant patients, and 85 patients with fluoroquinolone resistance. The rate of cure or completion of treatment at the end of treatment and at 76 weeks was similar in both groups, as were the rate of adverse events and death (10 in each group). These findings build on existing evidence supporting a six-month, all-oral regimen and provide additional data for this approach in children, pregnant patients, and patients with fluoroquinolone resistance. (See \"Treatment of drug-resistant pulmonary tuberculosis in adults\", section on 'Other bedaquiline-based regimens'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "MTB Nucleic Acid Test Card for tuberculosis diagnosis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "MTB Nucleic Acid Test Card (MiniDock MTB) is a qualitative rapid molecular test for detecting Mycobacterium tuberculosis complex. In a prospective study including 1380 outpatients age ≥12 years with presumptive pulmonary tuberculosis (TB) in seven endemic countries, the sensitivity of the MiniDock MTB using sputum and tongue swabs was 86 and 80 percent, with sputum culture as the reference; specificity was >97.5 percent for both specimen types [45]. The sensitivity of MiniDock MTB was comparable with Xpert MTB/RIF Ultra and greater than with smear microscopy. The diagnostic accuracy was consistent with World Health Organization targets for near-point-of-care TB diagnostics. (See \"Diagnosis of pulmonary tuberculosis disease in adults\", section on 'NAAT assay selection'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PARASITIC INFECTIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fatal case of Baylisascaris procyonis in Los Angeles County (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Eosinophilic meningoencephalitis due to Baylisascaris procyonis is relatively rare, but the parasite is prevalent in raccoons in the United States, and infection typically occurs in children who ingest dirt contaminated with parasite eggs. In September 2026, a fatal case was reported in Los Angeles County, the third reported case there since 2024 [46]. This case underscores the importance of considering baylisascariasis in patients with neurologic or ocular manifestations and eosinophilia, especially in children; a history of raccoon or environmental exposure is suggestive but not necessary. (See \"Eosinophilic meningitis\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Extended duration of artemether-lumefantrine for uncomplicated falciparum malaria (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In 2026, the United States Centers for Disease Control (CDC) recommended that artemether-lumefantrine (AL) be taken for five days for uncomplicated falciparum malaria [47]. This approach differs from World Health Organization (WHO) guidance, which consists of a three-day course of artemisinin combination therapy for most uncomplicated cases in endemic areas. The CDC approach is based on a review that highlighted the risk of AL treatment failure in nonimmune travelers (particularly individuals >65 kg), the safety of an extended five-day regimen, and the more favorable pharmacokinetics of the longer course [48]. For patients with uncomplicated falciparum malaria outside endemic areas, we agree with the new CDC guidance. (See \"Treatment of uncomplicated falciparum malaria in nonpregnant adults and children\", section on 'Selecting a regimen'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Iron supplementation in malaria-endemic areas (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The benefit and safety of iron supplements in malaria-endemic areas remain uncertain. In a new placebo-controlled trial that randomly assigned over 2000 infants 6 to 12 months of age to various combinations of iron supplementation and malaria chemoprophylaxis, malaria risk was similar and very low across all groups after six months [49]. Increases in serum ferritin were modest, and other outcomes, including prevalence of anemia and cognitive function at 18 months of age, were not significantly different. This trial supports the safety of treating iron deficiency in individuals at high risk of malaria who are receiving malaria chemoprophylaxis. (See \"Anemia in malaria\", section on 'Iron supplementation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cyclosporiasis outbreak in the United States (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [50]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [51]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "RTS,S/AS01 malaria vaccine coverage and mortality (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The RTS,S/AS01 vaccine for malaria prevention was incorporated into national immunization programs in Ghana, Kenya, and Malawi in 2019. In a trial in which geographical clusters in those countries were randomly assigned to receive early or delayed vaccination, three doses were administered to more than 490,000 children age five to nine months; a fourth booster dose was administered at month 18 [52]. Coverage for the last dose was only 40 percent. Nevertheless, during the 46-month period after vaccine introduction, RTS,S/AS01 was associated with a 13.2 percent reduction in all-cause mortality and a 21.6 percent reduction in severe malaria. These findings suggest that substantial reductions in deaths among young children are possible even when only moderate levels of malaria vaccine coverage can be achieved. (See \"Malaria: Epidemiology, prevention, and elimination\", section on 'Vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Neurologic sequelae after severe malaria in children (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cerebral malaria and severe malarial anemia have been associated with neurocognitive impairment; the duration of these deficits has been uncertain. The Malarial Impact on Neurobehavioral Development (MIND) study assessed long-term outcomes among children in Uganda previously enrolled in studies of severe malaria [53]. Among 939 children who were evaluated for an average of 8.4 years following their initial episode of severe malaria, scores on validated assessment tools for cognitive ability and math skills were lower compared with those among children in the community without a history of malaria; no differences were observed in attention or reading. These findings reinforce the importance of ongoing malaria elimination efforts. (See \"Treatment of severe malaria\", section on 'Sequelae'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Safety and efficacy of monoclonal antibody L9LS for malaria prevention (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Monoclonal antibodies targeting malaria parasite antigens, such as L9LS, have emerged as a promising prevention strategy. In a phase 2 clinical trial including 324 children in Kenya (an area of intense year-round transmission), participants were randomly assigned to receive two doses of L9LS at baseline and month 6, one dose of L9LS at baseline and placebo at month 6, or placebo at both timepoints [54]. During 12-month follow-up, the rate of P. falciparum infection was lower with two doses of L9LS than with placebo (66 versus 83 percent). The proportion of adverse events was similar across all groups. Further study is needed to understand the effectiveness of passive antibody protection in areas with intense transmission where children have repeated infections from early life. (See \"Malaria: Epidemiology, prevention, and elimination\", section on 'Monoclonal antibodies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SEXUALLY TRANSMITTED DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit for gonorrhea prevention with MenB vaccination (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vaccines to prevent serotype B meningitis (eg, MenB-4C) have been associated with reduced gonorrhea rates in several observational studies; however, this finding has not been substantiated by controlled trials. In a randomized trial of approximately 590 men who have sex with men (MSM) who were at risk of gonorrhea, receipt of MenB-4C did not reduce the incidence of gonorrhea over two years compared with placebo (48.1 versus 47.8 cases per 100 person years) [55]. An earlier trial had reported a modestly lower incidence of gonorrhea with vaccination, but the difference was not statistically significant. Given the lack of clear benefit in these randomized trials, the value of MenB-4C for gonorrhea prevention remains unproven; additional trials in other populations are ongoing. (See \"Prevention of sexually transmitted infections\", section on 'Uncertain role of meningococcal vaccination for gonorrhea prevention'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Moxifloxacin for M. genitalium infection (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Although doxycycline followed by moxifloxacin is a preferred regimen for the treatment of Mycoplasma genitalium infection, moxifloxacin has previously been evaluated in observational studies only. In an open-label randomized trial of 358 adults (primarily men who have sex with men) with Mycoplasma genitalium infection, moxifloxacin resulted in a higher microbiologic cure rate compared with azithromycin (87 versus 61 percent); among the 176 individuals who took moxifloxacin and had sufficient follow-up data, the cure rate was 96 percent [56]. Although the trial did not evaluate the effect of a doxycycline lead-in, it lends further support to a moxifloxacin-based regimen. (See \"Mycoplasma genitalium infection\", section on 'Nonpregnant individuals'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "TICK-BORNE DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New orthonairovirus identified in patients with suspected SFTS (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Severe fever with thrombocytopenia syndrome (SFTS) is a tick-borne illness that is endemic in Asia, has a high mortality rate, and presents with nonspecific systemic symptoms that overlap with other pathogens. In a study from China of over 3000 hospitalized patients with fever and tick exposure, 15 percent of patients with suspected SFTS who tested negative for Dabie bandavirus (DBV; formerly known as SFTS virus) tested positive for a newly identified pathogenic orthonairovirus termed Asian longhorned tick nairovirus (ALTNV) [57]. ALTNV was also detected in Asian longhorned ticks, the primary tick vector for DBV. Coinfection with DBV and ALTNV was associated with an 18 percent mortality rate, in contrast with ALTNV monoinfection, which generally resolved without sequelae. This study highlights the broad differential diagnosis of SFTS and the need for microbiologic testing to distinguish infections with overlapping symptoms in endemic regions. (See \"Severe fever with thrombocytopenia syndrome\", section on 'Differential diagnosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "VIRAL INFECTIONS, NON-HIV"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New European infectious encephalitis guidelines (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Infectious encephalitis can be fatal or cause long-term neurologic impairment. New guidelines from the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases provide updates on diagnosis and management; recommendations address optimal timing of diagnostics, limitations of multiplex polymerase chain reaction (PCR) panels, urgent initiation of empiric intravenous acyclovir, and the approach to antiviral discontinuation [58]. Our approach is generally consistent with these guidelines. (See \"Viral encephalitis in adults\", section on 'Our approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of sofosbuvir-velpatasvir for chronic HCV infection (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For treatment of chronic hepatitis C virus (HCV) infection, sofosbuvir-velpatasvir is given for 12 weeks. However, some data suggest that an 8-week course results in similar outcomes. In a randomized trial from India of 880 adults with HCV and no evidence of cirrhosis, sustained virologic response rates were similar with 8 and 12 weeks of sofosbuvir-velpatasvir (94 versus 92 percent, respectively) [59]. Most patients had genotype 3 infection, and patients with injection drug use were excluded, so it is unclear whether these results would be generalizable to other populations (including those less likely to have optimal adherence). Thus, we await confirmatory data before broadly suggesting a shorter duration of sofosbuvir-velpatasvir therapy. (See \"Management of chronic hepatitis C virus infection: Initial antiviral therapy in adults\", section on 'Sofosbuvir-velpatasvir'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Frequency of respiratory support for hantavirus cardiopulmonary syndrome due to Andes virus (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Andes virus (ANDV) is a hantavirus found in South America that causes hantavirus cardiopulmonary syndrome (HCPS), a condition that frequently requires respiratory support and is associated with high mortality. In a study of 215 hospitalized patients with ANDV HCPS in Chile between 2019 and 2024, 148 patients required respiratory support, including noninvasive ventilation (14 percent), mechanical ventilation (37 percent), and extracorporeal membrane oxygenation (ECMO; 49 percent); overall in-hospital mortality was 21 percent [60]. These findings highlight the importance of early triage to a tertiary care center with ECMO capability for suspected HCPS. (See \"Hantavirus infections: Clinical features, diagnosis, and management of hantavirus cardiopulmonary syndrome\", section on 'Cardiopulmonary phase'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational monoclonal antibody therapy for dengue (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dengue outbreaks are increasing, but no specific antiviral is available for treatment; one focus of investigation is the development of neutralizing monoclonal antibodies with pan-serotype coverage [61]. In a randomized trial of 250 adults with dengue in India, a humanized neutralizing monoclonal antibody hastened resolution of viremia (8 versus 72 hours) and fever (2 to 3.5 hours versus 27 hours) compared with placebo [62]. However, notable methodologic limitations include single-blind design, differences between groups (eg, in baseline viremia level), few subjects evaluable for reduction in viremia, frequent absence of fever at the time of enrollment (suggesting mild or resolved disease), extensive exclusion criteria (eg, severe dengue, comorbidities), and potential for monoclonal antibody to neutralize virus in clinical specimens, thus confounding laboratory measurements. These issues support our view that additional study is needed, and trials evaluating monoclonal antibodies are ongoing. (See \"Dengue virus infection: Management of outpatients and indications for hospitalization\", section on 'Future directions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bulevirtide for the treatment of hepatitis D virus infection (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [63]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Outbreak of Ebola disease in the Democratic Republic of the Congo and Uganda (May 2026, Modified July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "On May 17, 2026, the World Health Organization declared a public health emergency of international concern due to an outbreak of Ebola disease in the Democratic Republic of the Congo (DRC) and Uganda caused by the Bundibugyo virus [64]. As of July 21, there have been more than 2500 confirmed cases and more than 1000 confirmed deaths in the DRC. In Uganda, 20 confirmed cases and two confirmed deaths have been reported; the first two cases were unrelated individuals traveling from the DRC. It is unclear if vaccines and therapies used for other viruses that cause Ebola disease (eg, Ebola virus, Sudan virus) will have any effect against disease caused by Bundibugyo virus. Updated information on this outbreak can be found on the WHO and CDC websites. (See \"Epidemiology and pathogenesis of Ebola disease\", section on 'Multi-Country outbreak of Bundibugyo virus'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bepirovirsen for treatment of chronic HBV infection (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral nucleos(t)ide analogs (eg, entecavir and tenofovir) are mainstays of treatment for chronic hepatitis B virus (HBV) infection. Although they effectively suppress HBV replication, they rarely result in a functional cure (unquantifiable HBV DNA and undetectable hepatitis B surface antigen [HBsAg] levels for 24 weeks after stopping all treatment). In two randomized trials, bepirovirsen, an experimental injectable antisense oligonucleotide, increased the likelihood of functional cure (19 and 20 percent versus 0 with placebo) in patients without cirrhosis who were virologically suppressed while receiving nucleos(t)ide analog therapy; most cures occurred in those with baseline HBsAg level <1000 international untis per milliliter [65]. Adverse events included injection site reactions, increased alanine aminotransferase (ALT) and creatinine levels, decreased platelets, and albuminuria. Longer-term follow-up is needed to further assess the durability of HBsAg loss with bepirovirsen. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Overview of antiviral agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [66]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guillain-Barré syndrome after dengue virus infection (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dengue virus infection is associated with a wide spectrum of neurologic manifestations; Guillain-Barré syndrome (GBS) is increasingly recognized as one such complication. In a study in Brazil of over 5000 patients hospitalized with GBS, 89 patients had a documented dengue virus infection within 42 days prior to hospitalization for GBS [67]. The risk during the first 42 days after infection was 17 times higher than that during the control period (more than 42 days after infection). This incidence rate ratio was similar to those reported for other common infectious triggers. Clinicians should be aware of this potential complication. (See \"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hantavirus outbreak linked to cruise ship (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In May 2026, several fatalities were reported to the World Health Organization in an evolving multicountry hantavirus outbreak due to Andes virus infection among passengers on a cruise ship traveling from Argentina across the Atlantic Ocean [68,69]. Andes virus is the only hantavirus with known human-to-human transmission. This outbreak also underscores the high mortality rate of hantavirus cardiopulmonary syndrome. (See \"Hantavirus infections: Epidemiology, transmission, and prevention\", section on 'Cruise ship outbreak (2026)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER INFECTIOUS DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Clinical prediction tool for long-term mortality in community-acquired pneumonia (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While clinical prediction scores for short-term mortality in community-acquired pneumonia (CAP) exist, similar tools for predicting long-term mortality are lacking. The Long-term Pneumonia Mortality Index (L-PMI) has been developed and validated to identify patient mortality risk after hospitalization with CAP [70]. In an analysis of four international, multicenter cohorts representing over 8300 hospitalized patients with CAP or COVID-19 pneumonia, the L-PMI demonstrated good discrimination for mortality (AUCs ranging from 0.78 to 0.88). Among others, components of the L-PMI include age, smoking history, Charlson comorbidity index, and CURB-65 score. Further studies in diverse patient populations will determine if the L-PMI can be utilized to identify high-risk patients for discharge interventions. (See \"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nANTIMICROBIAL AGENTS\n\nEfficacy and safety of cefepime-nacubactam and aztreonam-nacubactam (May 2026)\n\nNacubactam is a novel beta-lactamase inhibitor. In a randomized trial including 431 patients with complicated urinary tract infection (including pyelonephritis), clinical and microbiologic success with cefepime-nacubactam, aztreonam-nacubactam, or imipenem-cilastatin was achieved in 82, 72, and 61 percent, respectively [1]. Compared with imipenem-cilastatin, the percentage differences in the success rates were 21 percent for cefepime-nacubactam (noninferior and superior) and 11 percent for aztreonam-nacubactam (noninferior). Adverse events were observed less frequently in the nacubactam groups; most were of mild or moderate severity. Patients with infection due to carbapenem-resistant pathogens were excluded, limiting conclusions about efficacy for these organisms. (See \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Cefepime-nacubactam' and \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\" and \"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Aztreonam-nacubactam'.)\n\nNo benefit of intrawound tobramycin during fracture fixation (April 2026)\n\nPlacement of vancomycin powder into the surgical wound during open fracture fixation is a common practice as it may reduce the risk of gram-positive surgical site infection (SSI). A randomized trial of 1528 patients undergoing definitive fixation for a high-risk tibial plateau or pilon fracture evaluated whether adding tobramycin powder to vancomycin for gram-negative coverage could further reduce SSI [2]. However, rates of deep SSI were similar in the vancomycin plus tobramycin group and the vancomycin alone group, and among the subset of those with open fractures, infection rates were higher with vancomycin plus tobramycin. These data suggest that there is no role for intrawound tobramycin during fracture fixation. (See \"Osteomyelitis associated with open fractures in adults\", section on 'Initial fracture management'.)\n\nBACTERIAL INFECTIONS\n\nGlobal burden of pertussis (October 2026)\n\nPertussis continues to be an important cause of vaccine-preventable deaths; the Global Burden of Disease study estimates that in 2023, 19 million people were infected with pertussis, including 115,000 attributable deaths, with 65 percent of deaths occurring in sub-Saharan Africa [3]. Worldwide, infants less than six months of age are at highest risk of death from pertussis. These findings emphasize the importance of routine immunization against pertussis. (See \"Pertussis infection: Epidemiology, microbiology, and pathogenesis\", section on 'Incidence'.)\n\nNew IDSA/ESCMID guidelines on Staphylococcus aureus bacteremia (October 2026)\n\nNew guidelines on Staphylococcus aureus bacteremia (SAB) were published by the Infectious Disease Society of America (IDSA) and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) [4]. These guidelines outline a new framework for diagnostic evaluation of patients with SAB based on an initial evaluation and subsequent risk stratification; patients at increased risk warrant tailored evaluation for deep-seated or metastatic infection, directed by ongoing clinical assessment. The risk stratification and results of the tailored workup, if performed, are used to guide management, including source control and duration of therapy. We are in agreement with this guidance. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)\n\nSystemic antibiotic duration for osteoarticular infections when local antibiotics are used (October 2026)\n\nOsteoarticular infections, such as osteomyelitis and prosthetic joint infection, are typically treated with several weeks of systemic antibiotics. In a randomized trial performed in the United Kingdom and Europe that included 475 patients who underwent debridement of osteoarticular infection with curative intent and placement of an antibiotic-impregnated carrier at the surgical site, rates of treatment failure were similar with a short (mean six days) versus long (mean 42 days) duration of systemic antibiotic therapy (11 versus 14 percent) [5]. These results are promising; however, given regional differences in surgical practice and local antibiotic products, we await confirmatory data from other settings before routinely abbreviating systemic antibiotic therapy in such circumstances. (See \"Osteomyelitis in the absence of hardware: Approach to treatment in adults\", section on 'Residual infected bone' and \"Periprosthetic joint infection: Treatment\", section on 'Duration of therapy'.)\n\nGuidelines on treatment of antimicrobial-resistant gram-negative infections (August 2026)\n\nUpdated guidelines on treatment of antimicrobial-resistant gram-negative infections were published by the Infectious Disease Society of America in July 2026 [6]. These guidelines include revised antibiotic susceptibility breakpoint data and add information for newer agents approved by the US Food and Drug Administration. The guidelines continue to discourage use of ertapenem in the setting of critical illness or hypoalbuminemia, given its faster clearance in these settings. For treatment of Pseudomonas aeruginosa, the guidelines specify that ceftolozane-tazobactam (a preferred agent for most resistant P. aeruginosa isolates) is not active against Klebsiella pneumoniae carbapenemase (KPC)-producing isolates. In addition, the guidelines specify that for metallo-beta-lactamase (MBL)-producing P. aeruginosa isolates, cefiderocol is the preferred treatment agent. We are in agreement with this guidance. (See \"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'.)\n\nDiphtheria outbreak in Australia (July 2026)\n\nAlthough the incidence of diphtheria infections remains low in high-income countries, outbreaks can occur due to factors such as waning immunity. In 2026, Australia experienced the largest diphtheria outbreak in the country since 1991, including over 400 cases and one death during the first half of the year [7,8]. Most cases occurred in remote communities among Indigenous Peoples; two-thirds presented as cutaneous disease and the remaining third as respiratory disease. This outbreak emphasizes the importance of routine vaccination against diphtheria. (See \"Epidemiology and pathophysiology of diphtheria\", section on 'High-income countries'.)\n\nCefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)\n\nTwo recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [9]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [10]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)\n\nTebipenem pivoxil for complicated urinary tract infections (June 2026)\n\nWhen complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [11]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)\n\nSerogroup B meningococcal outbreaks in the United Kingdom (May 2026)\n\nSince March 2026, two separate outbreaks of Neisseria meningitidis serogroup B have occurred in the United Kingdom among adolescents and young adults [12-14]. The larger outbreak, which resulted from a transmission event at a nightclub, involved 21 confirmed cases, including two deaths. These events highlight the risk of meningococcal infection among this age group and support our suggestion to vaccinate against meningococcal serotype B (in addition to serotypes A, C, W, and Y) in adolescents and young adults. (See \"Microbiology, pathobiology, and epidemiology of Neisseria meningitidis infection\".)\n\nFUNGAL INFECTIONS\n\nMolecular detection of Cladophialophora bantiana (October 2026)\n\nLike other dematiaceous molds, Cladophialophora bantiana can cause severe central nervous system infection with mortality exceeding 50 percent. Between 2009 and 2026, one large clinical reference laboratory in the United States reported 48 cases of C. bantiana detected by broad-range fungal polymerase chain reaction (PCR) [15]. After 2013, the annual rate of detection varied, ranging from approximately 5 to 25 per 1000 intracranial specimens, with the highest rate in 2025. This study highlights the potential role of molecular testing in patients with brain abscess if cultures do not identify a causative pathogen. (See \"Central nervous system infections due to dematiaceous fungi (cerebral phaeohyphomycosis)\", section on 'Epidemiology'.)\n\nHIV INFECTION\n\nBictegravir-lenacapavir for HIV in virologically suppressed individuals (September 2026)\n\nIn August 2026, the once-daily, single-dose combination pill bictegravir-lenacapavir was approved in the United States as an option for individuals with HIV who are already virologically suppressed on a different regimen [16]. The approval was based in part on a randomized trial that included individuals with extensive treatment experience and historical antiretroviral resistance, in which switching to bictegravir-lenacapavir had similar virologic efficacy as continuing the baseline suppressive regimen without detection of emergent resistance mutations [17]. This regimen may allow simplification of antiretroviral therapy regimens for patients on complicated regimens for drug-resistant HIV. (See \"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'.)\n\nDoravarine-lamivudine-tenofovir disoproxil fumarate as initial HIV therapy (August 2026)\n\nDoravirine is a non-nucleoside reverse transcriptase inhibitor used in different combination regimens for the treatment of HIV-1. In a randomized trial of treatment-naive patients, doravirine, lamivudine, plus tenofovir disoproxil fumarate had similar virologic efficacy to dolutegravir, emtricitabine, plus tenofovir alafenamide (a preferred, integrase strand transfer inhibitor [INSTI] -based regimen) and was associated with less weight gain (median 3 versus 5 kg) [18]. However, we continue to favor INSTI-based regimens for initial therapy since emergent resistance occurred more frequently with the doravirine-based regimen. In addition, it is uncertain whether the reduced weight gain was related to the doravirine component versus the different tenofovir formulation. (See \"Selecting antiretroviral regimens for treatment-naïve persons with HIV-1: General approach\", section on 'Commonly used agents'.)\n\nDolutegravir-based antiretroviral therapy regimen for use in high-risk infants born to mothers with HIV (July 2026)\n\nThe United States Department of Health and Human Services issued updated guidelines on breastfeeding and antiretroviral prophylaxis for infants born to mothers with HIV [19]. Dolutegravir plus lamivudine plus zidovudine is now the preferred three-drug \"presumptive treatment\" antiretroviral therapy (ART) regimen for high-risk full-term infants. Nevirapine plus lamivudine plus zidovudine remains the preferred regimen for preterm infants, since dolutegravir dosing is not available for preterm infants (table 1 and table 2 and algorithm 1). Other recommendations include minor changes for breastfed infants in the HIV testing schedule and duration of extended ART prophylaxis. We agree with these guidelines. (See \"Management of infants born to mothers with HIV in resource-available settings\", section on 'Detectable viral load within four weeks prior to delivery'.)\n\nPre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)\n\nThe United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [20]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)\n\nIMMUNOCOMPROMISED HOSTS\n\nIDSA guidelines on prevention of invasive aspergillosis after solid organ transplantation (September 2026)\n\nInvasive aspergillosis causes considerable morbidity and mortality in immunocompromised patients, but the risk varies among solid organ transplant (SOT) recipients depending on the type of organ transplanted and other factors. Updated IDSA guidelines on antifungal prophylaxis for SOT recipients stipulate that prophylaxis against Aspergillus is not routine for kidney, pancreas, or heart transplant recipients, and should be individualized for lung transplant recipients [21]. For liver transplant recipients, updated guidelines endorse prophylaxis against Aspergillus for patients with specific high-risk factors such as renal replacement therapy in the peri-transplant period, re-transplantation, or transplantation for fulminant hepatic failure. Because of limited data and diverse local epidemiology, practice at transplant centers is variable. (See \"Prophylaxis of infections in solid organ transplantation\", section on 'Targeted antifungal prophylaxis'.)\n\nRecombinant zoster vaccine and abatacept-treated rheumatoid arthritis (May 2026)\n\nAlthough recombinant zoster vaccine is recommended for immunosuppressed patients with rheumatoid arthritis (RA), its immunogenicity in patients receiving abatacept (a T-cell costimulation blocker) is unclear. In a study of 70 patients with RA, only 42 percent of those receiving recombinant zoster vaccine achieved a ≥4-fold humoral response, and only 10 percent developed a cellular immune response at 12 weeks after vaccination [22]. Serious adverse events were uncommon, and RA flare rates were similar between vaccine and placebo groups (29 versus 21 percent, using the Clinical Disease Activity Index). These findings suggest that recombinant zoster vaccine is safe in abatacept-treated patients but produces blunted immune responses; whether holding abatacept temporarily might improve vaccine response requires further study. (See \"Immunizations in autoimmune inflammatory rheumatic disease in adults\", section on 'Vaccine efficacy and immunogenicity'.)\n\nIMMUNIZATIONS\n\nPertussis vaccine effectiveness in children (October 2026)\n\nThe incidence of pertussis is increasing in the United States due to declining vaccination rates. During a recent pertussis outbreak involving 113 cases in Alaska, the effectiveness of a pertussis-containing vaccine (ie, diphtheria and tetanus toxoids and acellular pertussis vaccine [DTaP]) was greater than 96 percent among children aged 6 months to 6 years who had previously received 3 or more prior doses, and unvaccinated children were 26 times more likely to develop laboratory-confirmed pertussis compared with those who had received 3 or more DTaP doses [23]. These findings emphasize the importance of routine childhood vaccination against pertussis, a disease that can cause serious complications or death in children. (See \"Diphtheria, tetanus, and pertussis immunization in children 6 weeks through 6 years of age\", section on 'Protection against disease'.)\n\nNo immunologic mechanism identified for immediate reactions to COVID-19 mRNA vaccines (October 2026)\n\nAn immunologic mechanism for immediate reactions to COVID-19 mRNA vaccines has not been demonstrated. A randomized trial of over 700 patients examined possible mechanisms for these reactions by administering one of two brands of mRNA COVID-19 vaccine or a placebo injection and performing extensive laboratory testing in those who reacted [24]. A small and similar percentage (between 1 and 3 percent) of patients had immediate reactions to a vaccine or to placebo, and these occurred exclusively in patients with past severe reactions to other allergens or mast cell disorders. Laboratory testing found no evidence of an immunologic process. Thus, the most likely explanation for these reactions is a psychological and physical response to the stress or fear of getting a vaccine (ie, an immunization stress-related response). (See \"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'.)\n\nSingle-dose HPV vaccine antibody response in males (October 2026)\n\nGrowing evidence supports a single-dose approach to HPV vaccination in females, but few data exist for the single-dose schedule in males. In one study of 207 adolescents who received a single dose of nonavalent HPV vaccine between 9 to 12 years of age, similar proportions of males and females had detectable antibody levels for all vaccine types one to four years after vaccination [25]. Although antibody concentrations were lower among males than females, the clinical significance of this difference is uncertain; the titers that were measured in the males are likely associated with a high level of protection against infection and HPV-associated disease. Overall, data support a single-dose schedule for both females and males between 9 and 20 years of age, though further data are needed on duration of single-dose protection. (See \"Human papillomavirus vaccination\", section on 'Immunization schedule'.)\n\nHPV vaccination and pregnancy outcomes (October 2026)\n\nVaccination against human papillomavirus (HPV) effectively prevents infection and HPV-associated cancer and disease; prior HPV vaccination is also linked to improved pregnancy outcomes. In an observational study of over 624,000 births among females aged 16 to 35 years in Sweden, a history of HPV vaccination was associated with decreased risk of preterm birth and severe small size for gestational age; the association was greatest among women vaccinated at younger ages [26]. Although it is unclear if this association is causal or related to unmeasured confounders, these findings emphasize the importance of universal HPV vaccination, optimally at younger ages, when cervical cancer benefits are also greatest. (See \"Human papillomavirus vaccination\", section on 'Other potential benefits'.)\n\nACOG extends window for RSV vaccination in northern hemisphere (September 2026)\n\nIn September 2026, the American College of Obstetricians and Gynecologists (ACOG) updated its guidance on the timing of maternal respiratory syncytial virus (RSV) vaccination with RSVPreF in the northern hemisphere [27]. Previously, they recommended vaccination from September through January. However, with more pediatric RSV cases occurring later in the spring and with greater severity, ACOG now recommends maternal vaccination from September through March 1. The optimal gestational age of vaccination remains between 32 and 36 weeks. As almost half of eligible pregnant individuals opt for maternal RSV vaccination, it is important that clinicians are aware of this extended vaccination window. (See \"Immunizations during pregnancy\", section on 'Strategies for prevention'.)\n\nSuboptimal HPV vaccine coverage in the United States (September 2026)\n\nIn the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [28]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)\n\nRecombinant zoster vaccine and cardiovascular benefits (September 2026)\n\nMost studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [29]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)\n\nRecommendations on 2026-2027 COVID-19 vaccination (September 2026)\n\nIn August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [30-33]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [34], the American College of Obstetricians and Gynecologists [35], the American Academy of Pediatrics [36], and the Infectious Diseases Society of America [37]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 3). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)\n\nReceipt of MMR vaccine not associated with autism spectrum disorder (August 2026)\n\nMultiple studies have failed to demonstrate an association between measles, mumps, and rubella (MMR) vaccination and autism spectrum disorder (ASD). In another recent large observational study of 2.5 million children living in the United States, receipt of the first dose of the MMR vaccine between the ages of 11.5 and 24 months was not associated with an increased risk of ASD diagnosis [38]. The study included data between 2015 and 2024 and provides further evidence that the MMR vaccine does not cause ASD. (See \"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'.)\n\nDelaying methotrexate to boost vaccine response in patients with rheumatoid arthritis (July 2026)\n\nMethotrexate attenuates immune responses to vaccines, but whether delaying its initiation in patients with newly diagnosed rheumatoid arthritis (RA) adversely affects disease outcomes has been uncertain. In a randomized trial of 100 patients with newly diagnosed RA, delaying methotrexate initiation for one month after administration of the 13-valent pneumococcal conjugate vaccine (PCV13) did not worsen disease activity at 12 months of follow-up [39]. Delaying initiation of methotrexate also did not lead to an increase in radiographic joint damage at 6 or 12 months. These findings support our approach to delay initiating methotrexate by one to two weeks after administration of a nonlive vaccine. (See \"Immunizations in autoimmune inflammatory rheumatic disease in adults\", section on 'Vaccine efficacy and immunogenicity'.)\n\nHPV vaccination and cervical cancer deaths (June 2026)\n\nHuman papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [40]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)\n\nButantan-dengue vaccine suspended in Brazil for safety concerns (June 2026)\n\nCreating a safe and effective dengue vaccine is challenging in part because of the need to cover four serotypes and avoid generating an immune profile that increases risk for severe dengue. Butantan-dengue vaccine (Butantan-DV), a dengue vaccine uniquely administered as a single dose, was well tolerated and effective in clinical trials and subsequently implemented in Brazil. However, in June 2026, Butantan-DV deployment was suspended due to emerging safety concerns, including two deaths and 42 unexpected adverse events (eg, severe abdominal pain, persistent vomiting, and bleeding) [41]. This pause highlights ongoing limitations of vaccination as a preventive strategy for dengue. (See \"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'.)\n\nEfficacy and safety of mRNA-1010 influenza vaccine (May 2026)\n\nA messenger ribonucleic acid (mRNA) seasonal influenza vaccine could be manufactured more rapidly than traditional influenza vaccines and avoid the challenges of viral culture. In a randomized trial including more than 40,000 adults ≥50 years of age in 11 countries in the Northern hemisphere, vaccination with trivalent mRNA-1010 resulted in fewer cases of reverse transcription polymerase chain reaction (RT-PCR) confirmed influenza-like illness compared with locally licensed standard-dose influenza vaccines (411 versus 557 cases); relative vaccine efficacy 26.6 percent [42]. Noninferiority was shown for influenza A strains but not for B strains. Solicited adverse reactions (injection-site pain, fatigue, headache, myalgias) were more frequent with mRNA-1010; most reactions were mild-moderate and transient. These results mirror those with another novel mRNA influenza vaccine (modRNA); the potential role of these mRNA vaccines for influenza prevention will depend on reducing vaccine reactogenicity and ensuring efficacy across strains of interest. (See \"Seasonal influenza vaccination in adults\", section on 'Investigational vaccine approaches'.)\n\nNirsevimab versus maternal respiratory syncytial virus vaccination for infants (May 2026)\n\nLimited data have suggested that infant immunoprophylaxis is associated with lower rates of hospitalization for respiratory syncytial virus (RSV)-associated lower respiratory tract infection (LRTI) than maternal vaccination. In a new cohort study of over 164,000 infants in France followed for a six-month period, infant immunoprophylaxis with nirsevimab was again associated with lower rates of hospitalization for RSV-associated LRTI than maternal RSVpreF vaccination (0.83 versus 0.96 percent) [43]. This difference was not observed when RSVpreF was administered ≥8 weeks prior to birth, although the number of these infants was small. While this strengthens support for neonatal immunoprophylaxis, rates of RSV-associated hospitalization were low in both groups, and we therefore encourage shared decision-making with our patients to determine the optimal preventive strategy. (See \"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'.)\n\nMYCOBACTERIAL INFECTIONS\n\nTreatment of drug-resistant tuberculosis (July 2026)\n\nThe optimal approach to treating drug-resistant pulmonary tuberculosis (TB) is uncertain. In a randomized trial, 403 patients in South Africa with rifampin-resistant TB were treated with either a six-month all-oral regimen (including bedaquiline, linezolid, delamanid, and levofloxacin or clofazimine or both) or a nine-month standard-of-care regimen [44]. The trial included 30 children ≥6 years of age, 10 pregnant patients, and 85 patients with fluoroquinolone resistance. The rate of cure or completion of treatment at the end of treatment and at 76 weeks was similar in both groups, as were the rate of adverse events and death (10 in each group). These findings build on existing evidence supporting a six-month, all-oral regimen and provide additional data for this approach in children, pregnant patients, and patients with fluoroquinolone resistance. (See \"Treatment of drug-resistant pulmonary tuberculosis in adults\", section on 'Other bedaquiline-based regimens'.)\n\nMTB Nucleic Acid Test Card for tuberculosis diagnosis (May 2026)\n\nMTB Nucleic Acid Test Card (MiniDock MTB) is a qualitative rapid molecular test for detecting Mycobacterium tuberculosis complex. In a prospective study including 1380 outpatients age ≥12 years with presumptive pulmonary tuberculosis (TB) in seven endemic countries, the sensitivity of the MiniDock MTB using sputum and tongue swabs was 86 and 80 percent, with sputum culture as the reference; specificity was >97.5 percent for both specimen types [45]. The sensitivity of MiniDock MTB was comparable with Xpert MTB/RIF Ultra and greater than with smear microscopy. The diagnostic accuracy was consistent with World Health Organization targets for near-point-of-care TB diagnostics. (See \"Diagnosis of pulmonary tuberculosis disease in adults\", section on 'NAAT assay selection'.)\n\nPARASITIC INFECTIONS\n\nFatal case of Baylisascaris procyonis in Los Angeles County (September 2026)\n\nEosinophilic meningoencephalitis due to Baylisascaris procyonis is relatively rare, but the parasite is prevalent in raccoons in the United States, and infection typically occurs in children who ingest dirt contaminated with parasite eggs. In September 2026, a fatal case was reported in Los Angeles County, the third reported case there since 2024 [46]. This case underscores the importance of considering baylisascariasis in patients with neurologic or ocular manifestations and eosinophilia, especially in children; a history of raccoon or environmental exposure is suggestive but not necessary. (See \"Eosinophilic meningitis\", section on 'Epidemiology'.)\n\nExtended duration of artemether-lumefantrine for uncomplicated falciparum malaria (August 2026)\n\nIn 2026, the United States Centers for Disease Control (CDC) recommended that artemether-lumefantrine (AL) be taken for five days for uncomplicated falciparum malaria [47]. This approach differs from World Health Organization (WHO) guidance, which consists of a three-day course of artemisinin combination therapy for most uncomplicated cases in endemic areas. The CDC approach is based on a review that highlighted the risk of AL treatment failure in nonimmune travelers (particularly individuals >65 kg), the safety of an extended five-day regimen, and the more favorable pharmacokinetics of the longer course [48]. For patients with uncomplicated falciparum malaria outside endemic areas, we agree with the new CDC guidance. (See \"Treatment of uncomplicated falciparum malaria in nonpregnant adults and children\", section on 'Selecting a regimen'.)\n\nIron supplementation in malaria-endemic areas (August 2026)\n\nThe benefit and safety of iron supplements in malaria-endemic areas remain uncertain. In a new placebo-controlled trial that randomly assigned over 2000 infants 6 to 12 months of age to various combinations of iron supplementation and malaria chemoprophylaxis, malaria risk was similar and very low across all groups after six months [49]. Increases in serum ferritin were modest, and other outcomes, including prevalence of anemia and cognitive function at 18 months of age, were not significantly different. This trial supports the safety of treating iron deficiency in individuals at high risk of malaria who are receiving malaria chemoprophylaxis. (See \"Anemia in malaria\", section on 'Iron supplementation'.)\n\nCyclosporiasis outbreak in the United States (July 2026)\n\nCyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [50]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [51]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)\n\nRTS,S/AS01 malaria vaccine coverage and mortality (May 2026)\n\nThe RTS,S/AS01 vaccine for malaria prevention was incorporated into national immunization programs in Ghana, Kenya, and Malawi in 2019. In a trial in which geographical clusters in those countries were randomly assigned to receive early or delayed vaccination, three doses were administered to more than 490,000 children age five to nine months; a fourth booster dose was administered at month 18 [52]. Coverage for the last dose was only 40 percent. Nevertheless, during the 46-month period after vaccine introduction, RTS,S/AS01 was associated with a 13.2 percent reduction in all-cause mortality and a 21.6 percent reduction in severe malaria. These findings suggest that substantial reductions in deaths among young children are possible even when only moderate levels of malaria vaccine coverage can be achieved. (See \"Malaria: Epidemiology, prevention, and elimination\", section on 'Vaccination'.)\n\nNeurologic sequelae after severe malaria in children (May 2026)\n\nCerebral malaria and severe malarial anemia have been associated with neurocognitive impairment; the duration of these deficits has been uncertain. The Malarial Impact on Neurobehavioral Development (MIND) study assessed long-term outcomes among children in Uganda previously enrolled in studies of severe malaria [53]. Among 939 children who were evaluated for an average of 8.4 years following their initial episode of severe malaria, scores on validated assessment tools for cognitive ability and math skills were lower compared with those among children in the community without a history of malaria; no differences were observed in attention or reading. These findings reinforce the importance of ongoing malaria elimination efforts. (See \"Treatment of severe malaria\", section on 'Sequelae'.)\n\nSafety and efficacy of monoclonal antibody L9LS for malaria prevention (May 2026)\n\nMonoclonal antibodies targeting malaria parasite antigens, such as L9LS, have emerged as a promising prevention strategy. In a phase 2 clinical trial including 324 children in Kenya (an area of intense year-round transmission), participants were randomly assigned to receive two doses of L9LS at baseline and month 6, one dose of L9LS at baseline and placebo at month 6, or placebo at both timepoints [54]. During 12-month follow-up, the rate of P. falciparum infection was lower with two doses of L9LS than with placebo (66 versus 83 percent). The proportion of adverse events was similar across all groups. Further study is needed to understand the effectiveness of passive antibody protection in areas with intense transmission where children have repeated infections from early life. (See \"Malaria: Epidemiology, prevention, and elimination\", section on 'Monoclonal antibodies'.)\n\nSEXUALLY TRANSMITTED DISEASES\n\nNo benefit for gonorrhea prevention with MenB vaccination (July 2026)\n\nVaccines to prevent serotype B meningitis (eg, MenB-4C) have been associated with reduced gonorrhea rates in several observational studies; however, this finding has not been substantiated by controlled trials. In a randomized trial of approximately 590 men who have sex with men (MSM) who were at risk of gonorrhea, receipt of MenB-4C did not reduce the incidence of gonorrhea over two years compared with placebo (48.1 versus 47.8 cases per 100 person years) [55]. An earlier trial had reported a modestly lower incidence of gonorrhea with vaccination, but the difference was not statistically significant. Given the lack of clear benefit in these randomized trials, the value of MenB-4C for gonorrhea prevention remains unproven; additional trials in other populations are ongoing. (See \"Prevention of sexually transmitted infections\", section on 'Uncertain role of meningococcal vaccination for gonorrhea prevention'.)\n\nMoxifloxacin for M. genitalium infection (May 2026)\n\nAlthough doxycycline followed by moxifloxacin is a preferred regimen for the treatment of Mycoplasma genitalium infection, moxifloxacin has previously been evaluated in observational studies only. In an open-label randomized trial of 358 adults (primarily men who have sex with men) with Mycoplasma genitalium infection, moxifloxacin resulted in a higher microbiologic cure rate compared with azithromycin (87 versus 61 percent); among the 176 individuals who took moxifloxacin and had sufficient follow-up data, the cure rate was 96 percent [56]. Although the trial did not evaluate the effect of a doxycycline lead-in, it lends further support to a moxifloxacin-based regimen. (See \"Mycoplasma genitalium infection\", section on 'Nonpregnant individuals'.)\n\nTICK-BORNE DISEASES\n\nNew orthonairovirus identified in patients with suspected SFTS (September 2026)\n\nSevere fever with thrombocytopenia syndrome (SFTS) is a tick-borne illness that is endemic in Asia, has a high mortality rate, and presents with nonspecific systemic symptoms that overlap with other pathogens. In a study from China of over 3000 hospitalized patients with fever and tick exposure, 15 percent of patients with suspected SFTS who tested negative for Dabie bandavirus (DBV; formerly known as SFTS virus) tested positive for a newly identified pathogenic orthonairovirus termed Asian longhorned tick nairovirus (ALTNV) [57]. ALTNV was also detected in Asian longhorned ticks, the primary tick vector for DBV. Coinfection with DBV and ALTNV was associated with an 18 percent mortality rate, in contrast with ALTNV monoinfection, which generally resolved without sequelae. This study highlights the broad differential diagnosis of SFTS and the need for microbiologic testing to distinguish infections with overlapping symptoms in endemic regions. (See \"Severe fever with thrombocytopenia syndrome\", section on 'Differential diagnosis'.)\n\nVIRAL INFECTIONS, NON-HIV\n\nNew European infectious encephalitis guidelines (October 2026)\n\nInfectious encephalitis can be fatal or cause long-term neurologic impairment. New guidelines from the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases provide updates on diagnosis and management; recommendations address optimal timing of diagnostics, limitations of multiplex polymerase chain reaction (PCR) panels, urgent initiation of empiric intravenous acyclovir, and the approach to antiviral discontinuation [58]. Our approach is generally consistent with these guidelines. (See \"Viral encephalitis in adults\", section on 'Our approach'.)\n\nDuration of sofosbuvir-velpatasvir for chronic HCV infection (October 2026)\n\nFor treatment of chronic hepatitis C virus (HCV) infection, sofosbuvir-velpatasvir is given for 12 weeks. However, some data suggest that an 8-week course results in similar outcomes. In a randomized trial from India of 880 adults with HCV and no evidence of cirrhosis, sustained virologic response rates were similar with 8 and 12 weeks of sofosbuvir-velpatasvir (94 versus 92 percent, respectively) [59]. Most patients had genotype 3 infection, and patients with injection drug use were excluded, so it is unclear whether these results would be generalizable to other populations (including those less likely to have optimal adherence). Thus, we await confirmatory data before broadly suggesting a shorter duration of sofosbuvir-velpatasvir therapy. (See \"Management of chronic hepatitis C virus infection: Initial antiviral therapy in adults\", section on 'Sofosbuvir-velpatasvir'.)\n\nFrequency of respiratory support for hantavirus cardiopulmonary syndrome due to Andes virus (September 2026)\n\nAndes virus (ANDV) is a hantavirus found in South America that causes hantavirus cardiopulmonary syndrome (HCPS), a condition that frequently requires respiratory support and is associated with high mortality. In a study of 215 hospitalized patients with ANDV HCPS in Chile between 2019 and 2024, 148 patients required respiratory support, including noninvasive ventilation (14 percent), mechanical ventilation (37 percent), and extracorporeal membrane oxygenation (ECMO; 49 percent); overall in-hospital mortality was 21 percent [60]. These findings highlight the importance of early triage to a tertiary care center with ECMO capability for suspected HCPS. (See \"Hantavirus infections: Clinical features, diagnosis, and management of hantavirus cardiopulmonary syndrome\", section on 'Cardiopulmonary phase'.)\n\nInvestigational monoclonal antibody therapy for dengue (September 2026)\n\nDengue outbreaks are increasing, but no specific antiviral is available for treatment; one focus of investigation is the development of neutralizing monoclonal antibodies with pan-serotype coverage [61]. In a randomized trial of 250 adults with dengue in India, a humanized neutralizing monoclonal antibody hastened resolution of viremia (8 versus 72 hours) and fever (2 to 3.5 hours versus 27 hours) compared with placebo [62]. However, notable methodologic limitations include single-blind design, differences between groups (eg, in baseline viremia level), few subjects evaluable for reduction in viremia, frequent absence of fever at the time of enrollment (suggesting mild or resolved disease), extensive exclusion criteria (eg, severe dengue, comorbidities), and potential for monoclonal antibody to neutralize virus in clinical specimens, thus confounding laboratory measurements. These issues support our view that additional study is needed, and trials evaluating monoclonal antibodies are ongoing. (See \"Dengue virus infection: Management of outpatients and indications for hospitalization\", section on 'Future directions'.)\n\nBulevirtide for the treatment of hepatitis D virus infection (July 2026)\n\nBulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [63]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)\n\nOutbreak of Ebola disease in the Democratic Republic of the Congo and Uganda (May 2026, Modified July 2026)\n\nOn May 17, 2026, the World Health Organization declared a public health emergency of international concern due to an outbreak of Ebola disease in the Democratic Republic of the Congo (DRC) and Uganda caused by the Bundibugyo virus [64]. As of July 21, there have been more than 2500 confirmed cases and more than 1000 confirmed deaths in the DRC. In Uganda, 20 confirmed cases and two confirmed deaths have been reported; the first two cases were unrelated individuals traveling from the DRC. It is unclear if vaccines and therapies used for other viruses that cause Ebola disease (eg, Ebola virus, Sudan virus) will have any effect against disease caused by Bundibugyo virus. Updated information on this outbreak can be found on the WHO and CDC websites. (See \"Epidemiology and pathogenesis of Ebola disease\", section on 'Multi-Country outbreak of Bundibugyo virus'.)\n\nBepirovirsen for treatment of chronic HBV infection (June 2026)\n\nOral nucleos(t)ide analogs (eg, entecavir and tenofovir) are mainstays of treatment for chronic hepatitis B virus (HBV) infection. Although they effectively suppress HBV replication, they rarely result in a functional cure (unquantifiable HBV DNA and undetectable hepatitis B surface antigen [HBsAg] levels for 24 weeks after stopping all treatment). In two randomized trials, bepirovirsen, an experimental injectable antisense oligonucleotide, increased the likelihood of functional cure (19 and 20 percent versus 0 with placebo) in patients without cirrhosis who were virologically suppressed while receiving nucleos(t)ide analog therapy; most cures occurred in those with baseline HBsAg level <1000 international untis per milliliter [65]. Adverse events included injection site reactions, increased alanine aminotransferase (ALT) and creatinine levels, decreased platelets, and albuminuria. Longer-term follow-up is needed to further assess the durability of HBsAg loss with bepirovirsen. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Overview of antiviral agents'.)\n\nEnsitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)\n\nEnsitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [66]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)\n\nGuillain-Barré syndrome after dengue virus infection (May 2026)\n\nDengue virus infection is associated with a wide spectrum of neurologic manifestations; Guillain-Barré syndrome (GBS) is increasingly recognized as one such complication. In a study in Brazil of over 5000 patients hospitalized with GBS, 89 patients had a documented dengue virus infection within 42 days prior to hospitalization for GBS [67]. The risk during the first 42 days after infection was 17 times higher than that during the control period (more than 42 days after infection). This incidence rate ratio was similar to those reported for other common infectious triggers. Clinicians should be aware of this potential complication. (See \"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'.)\n\nHantavirus outbreak linked to cruise ship (May 2026)\n\nIn May 2026, several fatalities were reported to the World Health Organization in an evolving multicountry hantavirus outbreak due to Andes virus infection among passengers on a cruise ship traveling from Argentina across the Atlantic Ocean [68,69]. Andes virus is the only hantavirus with known human-to-human transmission. This outbreak also underscores the high mortality rate of hantavirus cardiopulmonary syndrome. (See \"Hantavirus infections: Epidemiology, transmission, and prevention\", section on 'Cruise ship outbreak (2026)'.)\n\nOTHER INFECTIOUS DISEASES\n\nClinical prediction tool for long-term mortality in community-acquired pneumonia (May 2026)\n\nWhile clinical prediction scores for short-term mortality in community-acquired pneumonia (CAP) exist, similar tools for predicting long-term mortality are lacking. The Long-term Pneumonia Mortality Index (L-PMI) has been developed and validated to identify patient mortality risk after hospitalization with CAP [70]. In an analysis of four international, multicenter cohorts representing over 8300 hospitalized patients with CAP or COVID-19 pneumonia, the L-PMI demonstrated good discrimination for mortality (AUCs ranging from 0.78 to 0.88). Among others, components of the L-PMI include age, smoking history, Charlson comorbidity index, and CURB-65 score. Further studies in diverse patient populations will determine if the L-PMI can be utilized to identify high-risk patients for discharge interventions. (See \"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'.)",
+    "word_count": 7201,
+    "character_count": 51585,
+    "references": [
+      "Takahashi S, Tateda K, Yanagihara K, et al. Efficacy and safety of cefepime-nacubactam and aztreonam-nacubactam compared with imipenem-cilastatin for complicated urinary tract infection or acute uncomplicated pyelonephritis (Integral-1): a double-blind, randomised phase 3 trial. Lancet 2026; 407:1929.",
+      "Major Extremity Trauma Research Consortium (METRC), O'Toole RV, O'Hara NN, et al. Intrawound Tobramycin Plus Vancomycin to Prevent Surgical Site Infection in Tibial Fractures: The TOBRA Randomized Clinical Trial. JAMA 2026; 335:1586.",
+      "GBD 2023 Pertussis Collaborators, Mosser JF, Liu J. Global, regional and national burden of pertussis in 1990-2023: a Global Burden of Disease study. Nat Med 2026.",
+      "IDSA/ESCMID 2026 Consensus Statements on Staphylococcus aureus Bacteremia: Risk Stratification, Diagnostic Evaluation, and Management of Adults and Children https://www.idsociety.org/practice-guideline/staphylococcus-aureus-bacteremia/ (Accessed on September 29, 2026).",
+      "McNally M, Dudareva M, Kümin M, et al. Short or Long Antibiotic Regimens in Orthopedics. N Engl J Med 2026.",
+      "Tamma PD, Bonomo RA, Heil EL, et al. Infectious Diseases Society of America 2026 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. Clin Infect Dis 2026.",
+      "Kirby T. Indigenous Australians see surge in diphtheria cases. Lancet Infect Dis 2026.",
+      "Australian Centre for Disease Control. Diphtheria in Australia – Epidemiological update – 29 June 2026. https://www.cdc.gov.au/sites/default/files/2026-07/20260630-diphtheria_epi_summary_-_web.pdf (Accessed on July 06, 2026).",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group, Lee TC, Barina LA, et al. Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia. N Engl J Med 2026; 394:2329.",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group. Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial. Lancet 2026; 408:141.",
+      "Tebipenem pivoxil. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed on June 18, 2026).",
+      "Gov.UK. UK Health Security Agency. Kent meningitis outbreak: March 2026. https://ukhsa.blog.gov.uk/2026/03/18/meningitis-b-outbreak-what-you-need-to-know/ (Accessed on May 13, 2026).",
+      "McCloskey B, Petersen E, Azhar EI, Zumla A. Meningococcal B resurgence in the UK: implications for updating global vaccine strategies. Lancet 2026; 408:e1.",
+      "Gov.UK. Antibiotics and MenB vaccination to be offered to young people in Dorset. https://www.gov.uk/government/news/antibiotics-and-menb-vaccination-to-be-offered-to-young-people-in-dorset (Accessed on May 13, 2026).",
+      "Nelson MT, Truong TT, Bourassa LA, et al. Notes from the Field: Molecular Detections of Cladophialophora bantiana at a Clinical Reference Laboratory - United States, 2009-2026. MMWR Morb Mortal Wkly Rep 2026; 75:609.",
+      "Bixlenvo package insert. Available at: https://www.gilead.com/-/media/files/pdfs/medicines/hiv/BIXLENVO/BIXLENVO_pi.pdf (Accessed on August 31, 2026).",
+      "Orkin C, Ruane PJ, Hedgcock M, et al. Switch to single-tablet bictegravir-lenacapavir from a complex HIV regimen (ARTISTRY-1): a randomised, open-label, phase 3 clinical trial. Lancet 2026; 407:1249.",
+      "Woods J, Lebina L, Möller K, et al. Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial. JAMA 2026; 336:1329.",
+      "Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. https://clinicalinfo.hiv.gov/en/guidelines/perinatal/whats-new-guidelines (Accessed on July 06, 2026).",
+      "Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. Department of Health and Human Services. Year. Available at https://clinicalinfo.hiv.gov/en/guidelines/perinatal (Accessed on April 21, 2026).",
+      "IDSA 2026 Clinical Practice Guideline Update on the Prevention of Invasive Aspergillosis in Adult Solid Organ Transplant Recipients. https://www.idsociety.org/practice-guideline/2026-idsa-clinical-practice-guidelines-on-prevention-of-invasive-aspergillosis-in-adult-solid-organ-transplant-recipients (Accessed on September 09, 2026).",
+      "Hawkins JA, Curtis JR, Weinberg A, et al. Safety and immunogenicity of the recombinant zoster vaccine in patients with rheumatoid arthritis using abatacept: a pilot multicentre, double-blind, randomised controlled trial. Ann Rheum Dis 2026; 85:787.",
+      "Newell K, Ohlsen E, Moore K, et al. Effectiveness of Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine in Children Aged 6 Months-6 Years During a Statewide Pertussis Outbreak - Alaska, May-November 2024. MMWR Morb Mortal Wkly Rep 2026; 75:601.",
+      "Wheatley LM, Baker JR Jr, Adkinson NF, et al. Systemic Allergic Reactions to mRNA COVID-19 Vaccines: A Randomized Placebo-controlled Trial. J Allergy Clin Immunol 2026.",
+      "Lewis RM, Naleway AL, Henninger ML, et al. HPV antibody concentrations among male and female adolescents after single-dose 9-valent HPV vaccination. J Infect Dis 2026.",
+      "Zhang Z, Ploner A, Sengpiel V, et al. Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study. BMJ 2026; 395:e100739.",
+      "American College of Obstetricians & Gynecologists. Practice Advisory: Maternal respiratory syncytial virus vaccination. https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/09/maternal-respiratory-syncytial-virus-vaccination (Accessed on September 10, 2026).",
+      "Pingali C, Yankey D, Elam-Evans LD, et al. Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025. MMWR Morb Mortal Wkly Rep 2026; 75:530.",
+      "Corsi-Zuelli F, Li F, Upthegrove R, et al. Recombinant shingles vaccination and the risk of cardiovascular events. Nat Med 2026; 32:3612.",
+      "SPIKEVAX (COVID-19 Vaccine, mRNA) Suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/155675/download?attachment (Accessed on August 28, 2026).",
+      "MNEXSPIKE (COVID-19 Vaccine, mRNA) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/186738/download (Accessed on August 28, 2026).",
+      "COMIRNATY (COVID-19 Vaccine, mRNA) suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/151707/download?attachment (Accessed on August 28, 2026).",
+      "NUVAXOVID (COVID-19 Vaccine, Adjuvanted) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Updated August 2026. https://www.fda.gov/media/186544/download?attachment (Accessed on August 28, 2026).",
+      "AAFP Announces Fall Immunization Recommendations to Protect Patients and Communities https://www.aafp.org/media-center/press-releases/aafp-announces-fall-immunization-recommendations-to-protect-patients-and-communities (Accessed on September 02, 2026).",
+      "American College of Obstetricians & Gynecologistsߣ Immunization, Infectious Disease, and Public Health Preparedness Expert Work Group. Maternal Immunizations. Obstet Gynecol 2026; 147:e123.",
+      "Committee on Infectious Diseases. Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "IDSA 2026 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19, Influenza, and RSV Infections in Immunocompromised Patients. https://www.idsociety.org/practice-guideline/Seasonal-RTI-Vaccinations-in-Immunocompromised-Patients/s-on-the-use-of-vaccines-for-the-prevention-of-seasonal-covid-19-influenza-and-rsv-infections-in-immunocompromised-patients/ (Accessed on September 02, 2026).",
+      "Burstain TL, Jacques D, Burstain JM. Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children. Pediatr Infect Dis J 2026.",
+      "Than T, Mouterde G, Immediato Daien C, et al. One-month delay in MTX initiation on RA outcomes: 1-year ancillary analysis of the VACIMRA trial. Rheumatology (Oxford) 2026; 65.",
+      "Sasieni P, Falcaro M. Cervical cancer mortality trends following HPV vaccination in England, 2001-24: an analysis of population-based mortality data. Lancet 2026; 408:162.",
+      "Taylor L. Dengue: Brazil suspends rollout of new vaccine after two deaths. BMJ 2026; 393:e205610.",
+      "Leroux-Roels I, Huang G, Ferguson M, et al. Efficacy and Safety of an mRNA Seasonal Influenza Vaccine in Adults. N Engl J Med 2026; 394:1803.",
+      "Valtuille Z, Fafi I, Kaguelidou F, et al. Effectiveness of nirsevimab immunisation after birth versus RSVpreF maternal vaccination in preventing RSV-related hospitalisations in infants: a population-based retrospective cohort study. Lancet Child Adolesc Health 2026; 10:481.",
+      "Conradie F, Badat T, Poswa A, et al. A Pragmatic Trial of a 6-Month Strategy for Rifampicin-Resistant Tuberculosis. N Engl J Med 2026; 394:2429.",
+      "Yerlikaya S, Chirwa M, Ajide B, et al. Pulmonary Tuberculosis Detection with MiniDock MTB Using Swab Samples. N Engl J Med 2026; 394:1710.",
+      "Los Angeles County DPH Health Advisory: Raccoon Roundworm Cases Prompt New Reporting Requirement. http://publichealth.lacounty.gov/eprd/lahan/alerts/BaylisHAN090826.pdf (Accessed on September 11, 2026).",
+      "Malaria in the United States: Treatment tables. Centers for Disease Control and Prevention. https://www.cdc.gov/malaria/hcp/clinical-guidance/appendix-a-treatment-tables.html (Accessed on August 26, 2026).",
+      "Hwang J, Halsey ES, Plucinski MM, et al. Extending the Duration of Artemether-Lumefantrine Treatment for Uncomplicated Plasmodium falciparum Malaria: Updated US Centers for Disease Control and Prevention Guidance Based on Review of Surveillance, Consultations, and Published Data. Clin Infect Dis 2026.",
+      "Phiri KS, Mzembe G, Vokhiwa M, et al. Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial. JAMA 2026; 336:1111.",
+      "United States Centers for Disease Control and Prevention. Health Alert Network: Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026. https://www.cdc.gov/han/php/notices/han00531.html (Accessed on July 16, 2026).",
+      "United States Centers for Disease Control and Prevention. Cyclosporiasis. Cyclospora Outbreak Linked to Shredded Iceberg Lettuce Served at Taco Bell in 5 States https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html (Accessed on July 17, 2026).",
+      "Mwapasa V, Asante KP, Milligan P, et al. Impact of introducing RTS,S/AS01E malaria vaccine on mortality in young children in Ghana, Kenya, and Malawi: an observational evaluation of a cluster-randomised implementation programme. Lancet 2026; 407:1796.",
+      "Bangirana P, Mellencamp KA, Ren J, et al. Long-Term Cognitive Ability and Academic Achievement After Childhood Severe Malaria. JAMA 2026; 335:1596.",
+      "Steinhardt LC, Kwambai TK, Oneko M, et al. Safety and efficacy of the monoclonal antibody L9LS for malaria prevention in children exposed to perennial malaria transmission in Kenya: a randomised, double-blind, placebo-controlled, phase 2 trial. Lancet 2026; 407:1614.",
+      "Seib KL, Donovan B, Jin F, et al. Meningococcal B Vaccine to Prevent Neisseria gonorrhoeae Infection. N Engl J Med 2026; 395:349.",
+      "Rossotti R, Baiguera C, Bernasconi DP, et al. A Randomized Clinical Trial to Compare Moxifloxacin Versus Azithromycin for the Treatment of Mycoplasma genitalium: The FARTHEST Study. Clin Infect Dis 2026; 83:276.",
+      "Zhang XA, Liu B, Wu SQ, et al. A Zoonotic Orthonairovirus from Febrile Patients in China. N Engl J Med 2026; 395:929.",
+      "Granerod J, Sellner J, Stahl JP, et al. Diagnosis and Management of Infectious Encephalitis in Adults: Guidelines From the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases. Eur J Neurol 2026; 33:e70647.",
+      "Goel A, Rungta S, Kumar V, et al. 8 weeks versus 12 weeks of sofosbuvir-velpatasvir for treatment-naive, non-cirrhotic, chronic hepatitis C (RESOLVE): a multicentre, open-label, non-inferiority, randomised controlled trial in India. Lancet 2026; 408:1593.",
+      "Meza-Fuentes G, Delgado I, Vial PA, et al. Temporal trends in critical care burden and outcomes of Andes virus-associated hantavirus cardiopulmonary syndrome: a national Chilean cohort. Intensive Care Med 2026.",
+      "Terzi I, Dimitriadis D, Ntoga M, et al. Neutralizing monoclonal antibodies against dengue virus: a scoping review of preclinical and clinical development. Virology 2025; 612:110677.",
+      "Kulkarni PS, Potey AV, Gupta SK, et al. Safety and Preliminary Efficacy of Dengue Monoclonal Antibody in Adult Patients: A Randomized Clinical Trial. JAMA Netw Open 2026; 9:e2629979.",
+      "Dailymed. Hepcludex- bulevirtide injection, powder, lyophilized, for solution https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12391cc2-38c2-4cf5-86d3-2be9370127fc (Accessed on June 03, 2026).",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern. https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern (Accessed on May 18, 2026).",
+      "Hou J, Lim SG, Buti M, et al. Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection. N Engl J Med 2026; 394:2395.",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "Cerqueira-Silva T, Paixão E, França GVA, et al. Risk of Guillain-Barré Syndrome after Laboratory-Confirmed Dengue Infection. N Engl J Med 2026; 394:1546.",
+      "World Health Organization. Disease Outbreak News. Hantavirus outbreak linked to cruise ship travel, Multi-locations https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604 (Accessed on May 28, 2026).",
+      "United States Centers for Disease Control and Prevention. Health Alert Network (HAN). 2026 Multi-country Hantavirus Cluster Linked to Cruise Ship. https://www.cdc.gov/han/php/notices/han00528.html (Accessed on May 10, 2026).",
+      "Méndez R, González-Jiménez P, Latorre A, et al. The Long-term Pneumonia Mortality Index: an international multicenter derivation and validation study for patients with community-acquired pneumonia. Am J Respir Crit Care Med 2026; 212:1305."
+    ],
+    "graphics": [
+      {
+        "id": 85990,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/85990"
+      },
+      {
+        "id": 147442,
+        "title": "table 2",
+        "url": "https://medilib.ir/uptodate/show/147442"
+      },
+      {
+        "id": 147440,
+        "title": "algorithm 1",
+        "url": "https://medilib.ir/uptodate/show/147440"
+      },
+      {
+        "id": 127477,
+        "title": "table 3",
+        "url": "https://medilib.ir/uptodate/show/127477"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 8553,
+        "title": "imipenem-cilastatin",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 8358,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%221%22"
+      },
+      {
+        "id": 482,
+        "title": "\"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Cefepime-nacubactam'",
+        "url": "https://medilib.ir/uptodate/show/482"
+      },
+      {
+        "id": 482,
+        "title": "\"Combination beta-lactamase inhibitors, carbapenems, and monobactams\"",
+        "url": "https://medilib.ir/uptodate/show/482"
+      },
+      {
+        "id": 482,
+        "title": "\"Combination beta-lactamase inhibitors, carbapenems, and monobactams\", section on 'Aztreonam-nacubactam'",
+        "url": "https://medilib.ir/uptodate/show/482"
+      },
+      {
+        "id": 10037,
+        "title": "vancomycin",
+        "url": "https://medilib.ir/uptodate/show/10037"
+      },
+      {
+        "id": 10000,
+        "title": "tobramycin",
+        "url": "https://medilib.ir/uptodate/show/10000"
+      },
+      {
+        "id": 8358,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%222%22"
+      },
+      {
+        "id": 7659,
+        "title": "\"Osteomyelitis associated with open fractures in adults\", section on 'Initial fracture management'",
+        "url": "https://medilib.ir/uptodate/show/7659"
+      },
+      {
+        "id": 8358,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%223%22"
+      },
+      {
+        "id": 8043,
+        "title": "\"Pertussis infection: Epidemiology, microbiology, and pathogenesis\", section on 'Incidence'",
+        "url": "https://medilib.ir/uptodate/show/8043"
+      },
+      {
+        "id": 8358,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%224%22"
+      },
+      {
+        "id": 2134,
+        "title": "\"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'",
+        "url": "https://medilib.ir/uptodate/show/2134"
+      },
+      {
+        "id": 8358,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%225%22"
+      },
+      {
+        "id": 114350,
+        "title": "\"Osteomyelitis in the absence of hardware: Approach to treatment in adults\", section on 'Residual infected bone'",
+        "url": "https://medilib.ir/uptodate/show/114350"
+      },
+      {
+        "id": 7665,
+        "title": "\"Periprosthetic joint infection: Treatment\", section on 'Duration of therapy'",
+        "url": "https://medilib.ir/uptodate/show/7665"
+      },
+      {
+        "id": 8358,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%226%22"
+      },
+      {
+        "id": 8675,
+        "title": "ertapenem",
+        "url": "https://medilib.ir/uptodate/show/8675"
+      },
+      {
+        "id": 98763,
+        "title": "ceftolozane-tazobactam",
+        "url": "https://medilib.ir/uptodate/show/98763"
+      },
+      {
+        "id": 126182,
+        "title": "cefiderocol",
+        "url": "https://medilib.ir/uptodate/show/126182"
+      },
+      {
+        "id": 3135,
+        "title": "\"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'",
+        "url": "https://medilib.ir/uptodate/show/3135"
+      },
+      {
+        "id": 8358,
+        "title": "7,8",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%227%22"
+      },
+      {
+        "id": 8051,
+        "title": "\"Epidemiology and pathophysiology of diphtheria\", section on 'High-income countries'",
+        "url": "https://medilib.ir/uptodate/show/8051"
+      },
+      {
+        "id": 9214,
+        "title": "cefazolin",
+        "url": "https://medilib.ir/uptodate/show/9214"
+      },
+      {
+        "id": 8358,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%229%22"
+      },
+      {
+        "id": 8358,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2210%22"
+      },
+      {
+        "id": 151905,
+        "title": "tebipenem pivoxil",
+        "url": "https://medilib.ir/uptodate/show/151905"
+      },
+      {
+        "id": 8358,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2211%22"
+      },
+      {
+        "id": 8553,
+        "title": "imipenem",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 16109,
+        "title": "\"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'",
+        "url": "https://medilib.ir/uptodate/show/16109"
+      },
+      {
+        "id": 8358,
+        "title": "12-14",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2212%22"
+      },
+      {
+        "id": 1298,
+        "title": "\"Microbiology, pathobiology, and epidemiology of Neisseria meningitidis infection\"",
+        "url": "https://medilib.ir/uptodate/show/1298"
+      },
+      {
+        "id": 8358,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2215%22"
+      },
+      {
+        "id": 2417,
+        "title": "\"Central nervous system infections due to dematiaceous fungi (cerebral phaeohyphomycosis)\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/2417"
+      },
+      {
+        "id": 152391,
+        "title": "bictegravir-lenacapavir",
+        "url": "https://medilib.ir/uptodate/show/152391"
+      },
+      {
+        "id": 8358,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2216%22"
+      },
+      {
+        "id": 8358,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2217%22"
+      },
+      {
+        "id": 3766,
+        "title": "\"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'",
+        "url": "https://medilib.ir/uptodate/show/3766"
+      },
+      {
+        "id": 118920,
+        "title": "Doravirine",
+        "url": "https://medilib.ir/uptodate/show/118920"
+      },
+      {
+        "id": 9544,
+        "title": "lamivudine",
+        "url": "https://medilib.ir/uptodate/show/9544"
+      },
+      {
+        "id": 9895,
+        "title": "tenofovir disoproxil fumarate",
+        "url": "https://medilib.ir/uptodate/show/9895"
+      },
+      {
+        "id": 90345,
+        "title": "dolutegravir",
+        "url": "https://medilib.ir/uptodate/show/90345"
+      },
+      {
+        "id": 8594,
+        "title": "emtricitabine",
+        "url": "https://medilib.ir/uptodate/show/8594"
+      },
+      {
+        "id": 110861,
+        "title": "tenofovir alafenamide",
+        "url": "https://medilib.ir/uptodate/show/110861"
+      },
+      {
+        "id": 8358,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2218%22"
+      },
+      {
+        "id": 3773,
+        "title": "\"Selecting antiretroviral regimens for treatment-naïve persons with HIV-1: General approach\", section on 'Commonly used agents'",
+        "url": "https://medilib.ir/uptodate/show/3773"
+      },
+      {
+        "id": 8358,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2219%22"
+      },
+      {
+        "id": 90345,
+        "title": "Dolutegravir",
+        "url": "https://medilib.ir/uptodate/show/90345"
+      },
+      {
+        "id": 10053,
+        "title": "zidovudine",
+        "url": "https://medilib.ir/uptodate/show/10053"
+      },
+      {
+        "id": 9694,
+        "title": "Nevirapine",
+        "url": "https://medilib.ir/uptodate/show/9694"
+      },
+      {
+        "id": 144549,
+        "title": "\"Management of infants born to mothers with HIV in resource-available settings\", section on 'Detectable viral load within four weeks prior to delivery'",
+        "url": "https://medilib.ir/uptodate/show/144549"
+      },
+      {
+        "id": 8358,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2220%22"
+      },
+      {
+        "id": 8527,
+        "title": "tenofovir disoproxil fumarate-emtricitabine",
+        "url": "https://medilib.ir/uptodate/show/8527"
+      },
+      {
+        "id": 130319,
+        "title": "cabotegravir",
+        "url": "https://medilib.ir/uptodate/show/130319"
+      },
+      {
+        "id": 140392,
+        "title": "lenacapavir",
+        "url": "https://medilib.ir/uptodate/show/140392"
+      },
+      {
+        "id": 113426,
+        "title": "\"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'",
+        "url": "https://medilib.ir/uptodate/show/113426"
+      },
+      {
+        "id": 8358,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2221%22"
+      },
+      {
+        "id": 1408,
+        "title": "\"Prophylaxis of infections in solid organ transplantation\", section on 'Targeted antifungal prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/1408"
+      },
+      {
+        "id": 115351,
+        "title": "recombinant zoster vaccine",
+        "url": "https://medilib.ir/uptodate/show/115351"
+      },
+      {
+        "id": 8526,
+        "title": "abatacept",
+        "url": "https://medilib.ir/uptodate/show/8526"
+      },
+      {
+        "id": 8358,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2222%22"
+      },
+      {
+        "id": 103773,
+        "title": "\"Immunizations in autoimmune inflammatory rheumatic disease in adults\", section on 'Vaccine efficacy and immunogenicity'",
+        "url": "https://medilib.ir/uptodate/show/103773"
+      },
+      {
+        "id": 8358,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2223%22"
+      },
+      {
+        "id": 2844,
+        "title": "\"Diphtheria, tetanus, and pertussis immunization in children 6 weeks through 6 years of age\", section on 'Protection against disease'",
+        "url": "https://medilib.ir/uptodate/show/2844"
+      },
+      {
+        "id": 130318,
+        "title": "COVID-19 mRNA vaccines",
+        "url": "https://medilib.ir/uptodate/show/130318"
+      },
+      {
+        "id": 8358,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2224%22"
+      },
+      {
+        "id": 132246,
+        "title": "\"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'",
+        "url": "https://medilib.ir/uptodate/show/132246"
+      },
+      {
+        "id": 8358,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2225%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Immunization schedule'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8358,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2226%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Other potential benefits'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 141638,
+        "title": "RSVPreF",
+        "url": "https://medilib.ir/uptodate/show/141638"
+      },
+      {
+        "id": 8358,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2227%22"
+      },
+      {
+        "id": 442,
+        "title": "\"Immunizations during pregnancy\", section on 'Strategies for prevention'",
+        "url": "https://medilib.ir/uptodate/show/442"
+      },
+      {
+        "id": 8358,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2228%22"
+      },
+      {
+        "id": 10140,
+        "title": "MenACWY",
+        "url": "https://medilib.ir/uptodate/show/10140"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8358,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2229%22"
+      },
+      {
+        "id": 8343,
+        "title": "\"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'",
+        "url": "https://medilib.ir/uptodate/show/8343"
+      },
+      {
+        "id": 8358,
+        "title": "30-33",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2230%22"
+      },
+      {
+        "id": 8358,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2234%22"
+      },
+      {
+        "id": 8358,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2235%22"
+      },
+      {
+        "id": 8358,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2236%22"
+      },
+      {
+        "id": 8358,
+        "title": "37",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2237%22"
+      },
+      {
+        "id": 129849,
+        "title": "\"COVID-19: Vaccines\", section on 'Indications for vaccination'",
+        "url": "https://medilib.ir/uptodate/show/129849"
+      },
+      {
+        "id": 8358,
+        "title": "38",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2238%22"
+      },
+      {
+        "id": 101273,
+        "title": "\"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'",
+        "url": "https://medilib.ir/uptodate/show/101273"
+      },
+      {
+        "id": 9630,
+        "title": "Methotrexate",
+        "url": "https://medilib.ir/uptodate/show/9630"
+      },
+      {
+        "id": 9906,
+        "title": "13-valent pneumococcal conjugate vaccine",
+        "url": "https://medilib.ir/uptodate/show/9906"
+      },
+      {
+        "id": 8358,
+        "title": "39",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2239%22"
+      },
+      {
+        "id": 8358,
+        "title": "40",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2240%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Females'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8358,
+        "title": "41",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2241%22"
+      },
+      {
+        "id": 3030,
+        "title": "\"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'",
+        "url": "https://medilib.ir/uptodate/show/3030"
+      },
+      {
+        "id": 8358,
+        "title": "42",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2242%22"
+      },
+      {
+        "id": 7007,
+        "title": "\"Seasonal influenza vaccination in adults\", section on 'Investigational vaccine approaches'",
+        "url": "https://medilib.ir/uptodate/show/7007"
+      },
+      {
+        "id": 141488,
+        "title": "nirsevimab",
+        "url": "https://medilib.ir/uptodate/show/141488"
+      },
+      {
+        "id": 141638,
+        "title": "RSVpreF",
+        "url": "https://medilib.ir/uptodate/show/141638"
+      },
+      {
+        "id": 8358,
+        "title": "43",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2243%22"
+      },
+      {
+        "id": 442,
+        "title": "\"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'",
+        "url": "https://medilib.ir/uptodate/show/442"
+      },
+      {
+        "id": 87509,
+        "title": "bedaquiline",
+        "url": "https://medilib.ir/uptodate/show/87509"
+      },
+      {
+        "id": 10283,
+        "title": "linezolid",
+        "url": "https://medilib.ir/uptodate/show/10283"
+      },
+      {
+        "id": 9554,
+        "title": "levofloxacin",
+        "url": "https://medilib.ir/uptodate/show/9554"
+      },
+      {
+        "id": 107872,
+        "title": "clofazimine",
+        "url": "https://medilib.ir/uptodate/show/107872"
+      },
+      {
+        "id": 8358,
+        "title": "44",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2244%22"
+      },
+      {
+        "id": 8028,
+        "title": "\"Treatment of drug-resistant pulmonary tuberculosis in adults\", section on 'Other bedaquiline-based regimens'",
+        "url": "https://medilib.ir/uptodate/show/8028"
+      },
+      {
+        "id": 8358,
+        "title": "45",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2245%22"
+      },
+      {
+        "id": 111683,
+        "title": "\"Diagnosis of pulmonary tuberculosis disease in adults\", section on 'NAAT assay selection'",
+        "url": "https://medilib.ir/uptodate/show/111683"
+      },
+      {
+        "id": 8358,
+        "title": "46",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2246%22"
+      },
+      {
+        "id": 5729,
+        "title": "\"Eosinophilic meningitis\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/5729"
+      },
+      {
+        "id": 9066,
+        "title": "artemether-lumefantrine",
+        "url": "https://medilib.ir/uptodate/show/9066"
+      },
+      {
+        "id": 8358,
+        "title": "47",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2247%22"
+      },
+      {
+        "id": 8358,
+        "title": "48",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2248%22"
+      },
+      {
+        "id": 5704,
+        "title": "\"Treatment of uncomplicated falciparum malaria in nonpregnant adults and children\", section on 'Selecting a regimen'",
+        "url": "https://medilib.ir/uptodate/show/5704"
+      },
+      {
+        "id": 8358,
+        "title": "49",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2249%22"
+      },
+      {
+        "id": 7112,
+        "title": "\"Anemia in malaria\", section on 'Iron supplementation'",
+        "url": "https://medilib.ir/uptodate/show/7112"
+      },
+      {
+        "id": 8358,
+        "title": "50",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2250%22"
+      },
+      {
+        "id": 8358,
+        "title": "51",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2251%22"
+      },
+      {
+        "id": 5724,
+        "title": "\"Cyclospora infection\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/5724"
+      },
+      {
+        "id": 8358,
+        "title": "52",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2252%22"
+      },
+      {
+        "id": 5702,
+        "title": "\"Malaria: Epidemiology, prevention, and elimination\", section on 'Vaccination'",
+        "url": "https://medilib.ir/uptodate/show/5702"
+      },
+      {
+        "id": 8358,
+        "title": "53",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2253%22"
+      },
+      {
+        "id": 5667,
+        "title": "\"Treatment of severe malaria\", section on 'Sequelae'",
+        "url": "https://medilib.ir/uptodate/show/5667"
+      },
+      {
+        "id": 8358,
+        "title": "54",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2254%22"
+      },
+      {
+        "id": 5702,
+        "title": "\"Malaria: Epidemiology, prevention, and elimination\", section on 'Monoclonal antibodies'",
+        "url": "https://medilib.ir/uptodate/show/5702"
+      },
+      {
+        "id": 91590,
+        "title": "MenB-4C",
+        "url": "https://medilib.ir/uptodate/show/91590"
+      },
+      {
+        "id": 8358,
+        "title": "55",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2255%22"
+      },
+      {
+        "id": 7595,
+        "title": "\"Prevention of sexually transmitted infections\", section on 'Uncertain role of meningococcal vaccination for gonorrhea prevention'",
+        "url": "https://medilib.ir/uptodate/show/7595"
+      },
+      {
+        "id": 9393,
+        "title": "doxycycline",
+        "url": "https://medilib.ir/uptodate/show/9393"
+      },
+      {
+        "id": 10311,
+        "title": "moxifloxacin",
+        "url": "https://medilib.ir/uptodate/show/10311"
+      },
+      {
+        "id": 9041,
+        "title": "azithromycin",
+        "url": "https://medilib.ir/uptodate/show/9041"
+      },
+      {
+        "id": 8358,
+        "title": "56",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2256%22"
+      },
+      {
+        "id": 83202,
+        "title": "\"Mycoplasma genitalium infection\", section on 'Nonpregnant individuals'",
+        "url": "https://medilib.ir/uptodate/show/83202"
+      },
+      {
+        "id": 8358,
+        "title": "57",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2257%22"
+      },
+      {
+        "id": 88736,
+        "title": "\"Severe fever with thrombocytopenia syndrome\", section on 'Differential diagnosis'",
+        "url": "https://medilib.ir/uptodate/show/88736"
+      },
+      {
+        "id": 9335,
+        "title": "acyclovir",
+        "url": "https://medilib.ir/uptodate/show/9335"
+      },
+      {
+        "id": 8358,
+        "title": "58",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2258%22"
+      },
+      {
+        "id": 1284,
+        "title": "\"Viral encephalitis in adults\", section on 'Our approach'",
+        "url": "https://medilib.ir/uptodate/show/1284"
+      },
+      {
+        "id": 108951,
+        "title": "sofosbuvir-velpatasvir",
+        "url": "https://medilib.ir/uptodate/show/108951"
+      },
+      {
+        "id": 8358,
+        "title": "59",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2259%22"
+      },
+      {
+        "id": 16592,
+        "title": "\"Management of chronic hepatitis C virus infection: Initial antiviral therapy in adults\", section on 'Sofosbuvir-velpatasvir'",
+        "url": "https://medilib.ir/uptodate/show/16592"
+      },
+      {
+        "id": 8358,
+        "title": "60",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2260%22"
+      },
+      {
+        "id": 8321,
+        "title": "\"Hantavirus infections: Clinical features, diagnosis, and management of hantavirus cardiopulmonary syndrome\", section on 'Cardiopulmonary phase'",
+        "url": "https://medilib.ir/uptodate/show/8321"
+      },
+      {
+        "id": 8358,
+        "title": "61",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2261%22"
+      },
+      {
+        "id": 8358,
+        "title": "62",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2262%22"
+      },
+      {
+        "id": 148898,
+        "title": "\"Dengue virus infection: Management of outpatients and indications for hospitalization\", section on 'Future directions'",
+        "url": "https://medilib.ir/uptodate/show/148898"
+      },
+      {
+        "id": 150514,
+        "title": "Bulevirtide",
+        "url": "https://medilib.ir/uptodate/show/150514"
+      },
+      {
+        "id": 8358,
+        "title": "63",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2263%22"
+      },
+      {
+        "id": 10136,
+        "title": "pegylated interferon alfa-2a",
+        "url": "https://medilib.ir/uptodate/show/10136"
+      },
+      {
+        "id": 3664,
+        "title": "\"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'",
+        "url": "https://medilib.ir/uptodate/show/3664"
+      },
+      {
+        "id": 8358,
+        "title": "64",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2264%22"
+      },
+      {
+        "id": 3023,
+        "title": "\"Epidemiology and pathogenesis of Ebola disease\", section on 'Multi-Country outbreak of Bundibugyo virus'",
+        "url": "https://medilib.ir/uptodate/show/3023"
+      },
+      {
+        "id": 8816,
+        "title": "entecavir",
+        "url": "https://medilib.ir/uptodate/show/8816"
+      },
+      {
+        "id": 152780,
+        "title": "bepirovirsen",
+        "url": "https://medilib.ir/uptodate/show/152780"
+      },
+      {
+        "id": 8358,
+        "title": "65",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2265%22"
+      },
+      {
+        "id": 3642,
+        "title": "\"Hepatitis B virus infection: Overview of management in adults\", section on 'Overview of antiviral agents'",
+        "url": "https://medilib.ir/uptodate/show/3642"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 8358,
+        "title": "66",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2266%22"
+      },
+      {
+        "id": 126981,
+        "title": "\"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/126981"
+      },
+      {
+        "id": 8358,
+        "title": "67",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2267%22"
+      },
+      {
+        "id": 3025,
+        "title": "\"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'",
+        "url": "https://medilib.ir/uptodate/show/3025"
+      },
+      {
+        "id": 8358,
+        "title": "68,69",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2268%22"
+      },
+      {
+        "id": 8307,
+        "title": "\"Hantavirus infections: Epidemiology, transmission, and prevention\", section on 'Cruise ship outbreak (2026)'",
+        "url": "https://medilib.ir/uptodate/show/8307"
+      },
+      {
+        "id": 8358,
+        "title": "70",
+        "url": "https://medilib.ir/uptodate/show/8358#rid%2270%22"
+      },
+      {
+        "id": 7016,
+        "title": "\"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'",
+        "url": "https://medilib.ir/uptodate/show/7016"
+      }
+    ]
+  }
+}

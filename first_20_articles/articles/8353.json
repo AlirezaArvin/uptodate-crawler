@@ -1,0 +1,643 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8353"
+  },
+  "article": {
+    "id": 8353,
+    "expected_title": "What's new in cardiovascular medicine",
+    "url": "https://medilib.ir/uptodate/show/8353",
+    "final_url": "https://medilib.ir/uptodate/show/8353",
+    "page_title": "What's new in cardiovascular medicine",
+    "extracted_at": "2026-11-20T20:51:17.624Z",
+    "title_matches_expected": true,
+    "title": "What's new in cardiovascular medicine",
+    "contributors": {
+      "authors": [
+        "Naomi F Botkin, MD",
+        "Susan B Yeon, MD, JD",
+        "Tyson Turner, MD, MPH"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Sep 03, 2026",
+    "version": "Topic 8353 Version 14407.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ARRHYTHMIAS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "ICDs for mildly reduced ejection fraction and myocardial scar (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Myocardial scar is predictive of sudden cardiac death (SCD) in patients with left ventricular ejection fraction (LVEF) of 36 to 50 percent; however, it is uncertain whether insertion of an implantable cardioverter-defibrillator (ICD) reduces the risk of SCD in this population. In an open-label trial in 353 patients with ischemic or nonischemic cardiomyopathy, LVEF of 36 to 50 percent, and myocardial scar on cardiac magnetic resonance, participants who were randomly assigned to an ICD had similar rates of SCD, hemodynamically significant ventricular arrhythmias, and overall mortality compared with patients assigned to an insertable cardiac monitor (ICM) [1]. Patients who received an ICD experienced higher rates of complications and lower quality of life. While subgroup analysis suggested a possible benefit in patients <70 years of age, further study is needed to determine whether ICDs might prevent SCD in specific subgroups. (See \"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Extensive late gadolinium enhancement on CMR'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Temporal trends in the benefit of ICDs for primary prevention in ischemic cardiomyopathy (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The role of implantable cardioverter-defibrillators (ICDs) in the primary prevention of sudden cardiac death (SCD) in patients with ischemic cardiomyopathy was established in the 1990s and 2000s; however, it is uncertain whether ICDs improve outcomes in the contemporary era. In a retrospective pooled analysis of individual patient data from observational studies and randomized trials, including over 32,000 patients with left ventricular ejection fraction (LVEF) ≤35 percent after myocardial infarction (MI), ICDs were associated with improved survival in 1995 to 2004 and 2005 to 2014, but not in 2015 to 2020 [2]. However, it is difficult to draw conclusions from this study for several reasons, including its design and the markedly shorter follow-up period in the latest cohort. Until ongoing randomized trials yield results, we will continue to recommend ICDs for patients meeting established criteria. (See \"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Ischemic cardiomyopathy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pulsed field ablation as a preferred energy source for catheter ablation in atrial fibrillation (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pulsed field ablation is an emerging catheter ablation modality used in patients with atrial fibrillation. It has been shown to provide durable lesion formation with minimal collateral damage to extracardiac structures, including no reported cases of atrio-esophageal fistula or significant pulmonary vein stenosis among the greater than 500,000 cases performed globally [3]. Given its comparable efficacy and improved safety profile, pulsed field ablation is suggested as the preferred ablation technique for de novo atrial fibrillation ablation over other energy sources. (See \"Atrial fibrillation: Catheter ablation efficacy and complications\", section on 'Pulsed field ablation (preferred energy source)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of combined anticoagulant and antiplatelet therapy in patients with atrial fibrillation after PCI (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Duration of antiplatelet treatment following percutaneous coronary intervention (PCI) in patients requiring concomitant oral anticoagulation is typically 6 to 12 months, but shorter durations are being investigated. The OPTIMA-AF trial randomly assigned 1079 patients with atrial fibrillation undergoing PCI for predominantly chronic coronary syndrome (CCS) to combination direct oral anticoagulation (DOAC) plus P2Y12 inhibitor for 1 versus 12 months, in either case followed by DOAC monotherapy [4]. Incidence of death and thromboembolism was similar between the groups, but event rates were lower than expected. Bleeding risk was lower in the one-month combination group (hazard ratio [HR] 0.50). While this trial supports earlier discontinuation of antiplatelet therapy in those with atrial fibrillation and CCS undergoing PCI, further data are needed to confirm safety and efficacy. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Weight reduction in atrial fibrillation (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Weight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [5]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Memantine for atrial arrhythmias (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is no currently approved drug for premature atrial contraction (PAC) suppression. The effects of memantine, an antagonist of N-methyl-D-aspartate receptors used to treat selected patients with Alzheimer dementia, were evaluated in a double-blind trial in over 250 symptomatic adults with frequent PACs who were randomly assigned to receive this drug or placebo for six weeks [6]. Among 241 patients who received at least one dose of assigned treatment, memantine reduced PAC count, burden of nonsustained atrial tachycardia, and cumulative incidence of new-onset atrial fibrillation compared with placebo. No drug-related serious adverse events were reported in either treatment group. These results provide preliminary support for a novel, non-ion channel-based strategy to treat atrial arrhythmias. (See \"Premature atrial contractions and junctional premature beats in adults\", section on 'Investigational therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Defibrillation testing for subcutaneous implantable cardioverter-defibrillators (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Defibrillation testing (DFT) is performed routinely for patients undergoing subcutaneous implantable cardioverter-defibrillator (S-ICD) implantation; however, it is uncertain whether such testing is necessary. In a recent trial in which nearly 1000 patients were randomly assigned to DFT in all patients or only in patients with a PRAETORIAN score ≥90 (ie, intermediate- or high-risk for conversion failure), the rates of failed first shock for spontaneous ventricular arrhythmias, mortality, and lead revision were similar in the two groups [7]. These results suggest that it is reasonable to omit DFT for patients at low risk for conversion failure. (See \"Implantable cardioverter-defibrillators: Choosing a device and system descriptions\", section on 'Defibrillation testing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Left bundle branch pacing reduces pacing-induced cardiomyopathy (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Left bundle branch pacing (LBBP) may reduce the risk of pacing-induced cardiomyopathy (PICM) compared with standard right ventricular (RV) pacing; however, evidence from randomized trials is limited. In a trial in 160 patients with a high anticipated pacing burden and at least one risk factor for cardiac deterioration, participants who were randomly assigned to LBBP had a lower risk of PICM (6.5 versus 18.2 percent) compared with those assigned to RV pacing [8]. Patients in the LBBP group had improved New York Heart Association (NYHA) functional class compared with those in the RV pacing group. These results support the use of LBBP in patients who are anticipated to have a high ventricular pacing burden, such as those with atrioventricular (AV) block. (See \"Permanent cardiac pacing: Overview\", section on 'RV lead location'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Amiodarone for atrial fibrillation with preexcitation (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beta-blocking medications (including amiodarone) are contraindicated for patients who have atrial fibrillation (AF) with preexcitation because these drugs may promote conduction down the accessory pathway and cause ventricular fibrillation (VF); however, the intravenous (IV) medications that are recommended for stable patients with preexcited AF (ie, procainamide and ibutilide) are often unavailable. In a recent systematic review of 12 studies (nearly 150 patients), none of the patients with preexcited AF experienced rate acceleration or ventricular fibrillation when IV amiodarone was administered [9]. Amiodarone increased the antegrade effective refractory period (AERP) of the accessory pathway during electrophysiology study. Amiodarone appears to be a safe alternative for stable patients with preexcited AF when the recommended drugs are unavailable. (See \"WPW pattern and syndrome: Management and prevention of arrhythmias\", section on 'Atrial fibrillation with preexcitation (irregular, wide QRS complex)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CARDIAC IMAGING"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Global regional variation in radiation dose from noninvasive testing for coronary artery disease (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is marked variation in global regional radiation doses for diagnostic tests such as computed tomography (CT) and noninvasive tests for coronary artery disease (CAD). A recent cross-sectional study of over 19,000 adults at 742 centers in 101 countries found an inverse relationship between country income level and radiation dose with noninvasive diagnostic tests for CAD [10]. Median doses for diagnostic tests were generally lowest in Western Europe and highest in Latin America for nuclear cardiology and in Africa for coronary CT angiography; marked variation was also observed within world regions and income levels. These findings identify a need for standardized protocols and updated equipment to reduce radiation worldwide. (See \"Radiation dose and risk of malignancy from cardiovascular imaging\", section on 'Worldwide data'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CORONARY HEART DISEASE, ACUTE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of beta blocker therapy after myocardial infarction (March 2026, Modified May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beta blockers are routinely prescribed after acute myocardial infarction (MI); however, a growing body of evidence suggests that patients with normal left ventricular ejection fraction (LVEF) derive less benefit than patients with reduced LVEF. In a trial in over 2500 patients who were taking beta blockers for at least one year after acute MI, participants who were randomly assigned to discontinue their beta blocker had similar cardiovascular outcomes compared with those who continued the beta blocker [11]. Most of the trial participants had an LVEF >50 percent. Based on these results, some of our experts believe it is reasonable to discontinue beta blocker therapy one year after MI for patients with normal LVEF; however, others continue to treat for at least three years in the absence of adverse effects.(See \"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEART FAILURE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Limited sensitivity of echocardiographic criteria for diastolic dysfunction in patients with HFpEF (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Echocardiographic criteria have been developed to identify patients with diastolic dysfunction at risk for heart failure with preserved ejection fraction (HFpEF). In a study that assessed the prognostic accuracy of these criteria in patients with and without acute HFpEF, 25 percent of patients with acute HFpEF had normal or mildly abnormal (Grade 1) echocardiographic criteria for diastolic dysfunction; among these patients, the false-negative rate for echocardiographic stress criteria for HFpEF was 90.5 percent [12]. Among patients with HFpEF and normal or Grade 1 echocardiographic criteria, the risk of all-cause death or heart failure hospitalization was fivefold higher compared with controls. These findings indicate that echocardiographic criteria for diastolic dysfunction lack sensitivity in patients with HFpEF. (See \"Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis\", section on 'Echocardiography'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Conduction system pacing in heart failure (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Conduction system pacing (CSP) is an alternative method of achieving cardiac resynchronization for patients with heart failure (HF) in whom biventricular pacing cannot be performed; however, it is uncertain whether CSP is as effective as biventricular pacing in improving clinical outcomes. Two recent trials in which participants were randomly assigned to CSP or biventricular pacing reported conflicting findings:"
+      },
+      {
+        "type": "paragraph",
+        "text": "● In one trial in 200 patients, left bundle area pacing reduced the risk of HF hospitalization compared with biventricular pacing [13]."
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a second trial in over 170 patients, CSP (left bundle, His bundle, or deep septal pacing) increased the risk of the composite clinical endpoint (death, HF hospitalization, urgent HF visits, or change in left ventricular ejection fraction) compared with biventricular pacing [14]."
+      },
+      {
+        "type": "paragraph",
+        "text": "Biventricular pacing remains the preferred method of cardiac resynchronization therapy for most patients. (See \"Cardiac resynchronization therapy in systolic heart failure: Indications and choice of system\", section on 'Conduction system pacing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "LIPID DISORDERS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Evolocumab in adults with diabetes at high cardiovascular risk (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Although proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors effectively lower low-density lipoprotein-cholesterol (LDL-C), their impact on cardiovascular outcomes in primary prevention populations has not been studied. In 3655 adults with high-risk diabetes (defined as diabetes duration ≥10 years, insulin use, or microvascular disease) but without known atherosclerosis, the addition of evolocumab to statin therapy reduced all-cause mortality (7.8 versus 10.1 percent) and the composite endpoint of myocardial infarction, ischemic stroke, and death from coronary heart disease (7.1 versus 5 percent) at five-year follow-up [15]. Median LDL-C levels also decreased from 132 mg/dL to 52 mg/dL with evolocumab, compared with 111 mg/dL with placebo. These data suggest that evolocumab is an option for primary prevention in patients with high-risk diabetes who are already taking an optimal dose of a statin. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Available agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intensive LDL-C reduction for secondary prevention (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Therapy to reduce low-density lipoprotein cholesterol (LDL-C) is an important component of secondary prevention of atherosclerotic cardiovascular disease (ASCVD); however, the most appropriate LDL-C target is uncertain. In a recent open-label trial in over 3000 patients with ASCVD, patients randomly assigned to a target LDL-C <55 mg/L (1.4 mmol/L) had a lower risk of major adverse cardiovascular events than those assigned to a target <70 mg/dL (1.8 mmol/L) [16]. The difference was driven by reductions in the risks of nonfatal myocardial infarction, revascularization, and hospitalization for unstable angina. This trial supports intensive LDL-C reduction in patients with ASCVD. (See \"Management of low-density lipoprotein cholesterol (LDL-C) in the secondary prevention of cardiovascular disease\", section on 'Rationale for treating to a target LDL-C'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guidelines for managing dyslipidemia (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In 2023, the American Heart Association released the Predicting Risk of cardiovascular disease EVENTs (PREVENT) calculator for estimating the risk of atherosclerotic cardiovascular disease (ASCVD). However, the optimal integration of PREVENT into the management of patients with dyslipidemia remained unclear. New guidelines from the American College of Cardiology and the American Heart Association joint committee provide this clarification [17]. The guidelines offer revised risk thresholds for initiating lipid-lowering therapy based on the PREVENT calculator and include updated recommendations for risk stratification and management of low-density lipoprotein cholesterol (LDL-C) for secondary and primary prevention, including patients with subclinical coronary atherosclerosis. These recommendations provide detailed guidance for managing dyslipidemia across a wide range of patient populations and clinical contexts. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PERCUTANEOUS CORONARY INTERVENTION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Percutaneous coronary intervention of chronic total occlusions (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Several randomized trials have shown improvement in angina after percutaneous coronary intervention (PCI) of a chronic total occlusion (CTO); however, the open-label design of these trials is a potential source of bias. In a recent trial in 50 patients with a CTO and angina, patients randomly assigned to PCI had an immediate and sustained reduction in the number of angina episodes and an increase in the number of angina-free days compared with those assigned to a sham procedure [18]. These results confirm that CTO PCI is a viable therapeutic option for reducing angina. (See \"Chronic total occlusion (CTO) in the coronary circulation\", section on 'Angina relief and quality of life'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intravenous ultrasound-guided percutaneous coronary intervention (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Intravenous ultrasound (IVUS) is often used to guide complex percutaneous coronary intervention (PCI); while a meta-analysis of 22 trials suggested that IVUS improves clinical outcomes, the impact of IVUS guidance on specific subpopulations is uncertain. Three randomized trials published since the meta-analysis compared IVUS-guided PCI with angiography-guided PCI in patients with unprotected left main [19], complex high-risk [20], or complex bifurcation disease [21]. IVUS did not reduce major adverse cardiovascular events in the first two trials; however, in the trial that enrolled patients with bifurcation lesions, IVUS reduced the risk of the primary endpoint of cardiovascular death, target vessel myocardial infarction, and target-vessel revascularization. We continue to use IVUS or optical coherence tomography (OCT) to guide PCI in selected patients undergoing complex PCI. (See \"Percutaneous coronary intervention with intracoronary stents: Overview\", section on 'Intravascular imaging guidance (IVUS and OCT)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Angiography-derived fractional flow reserve (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fractional flow reserve (FFR) is a method of assessing the significance of intermediate coronary stenoses during coronary angiography; however, measuring the FFR requires introducing a pressure wire into the coronary artery, increasing the cost and complexity of the procedure. In two trials in which over 4000 participants with intermediate stenoses were randomly assigned to undergo revascularization guided by either conventional or angiography-based (ie, wire-free) FFR, the rates of major adverse cardiovascular events at one year were similar in the two groups [22,23]. In one of the trials [22], angiography-based FFR reduced the risk of complications. Angiography-based FFR has emerged as a viable alternative for patients needing a physiologic assessment of their coronary lesions. (See \"Clinical use of coronary artery pressure and flow measurements\", section on 'Less common measures'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PREVENTIVE CARDIOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Coronary artery calcium scoring in nongated chest CT scans (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While traditionally coronary artery calcium (CAC) scoring has been performed on electrocardiogram (ECG)-gated chest CT scans, incidental CAC can be found on nongated CT chest scans obtained for other reasons. The use of incidental CAC to inform management increasingly is being considered, with the 2026 American College of Cardiology/American Heart Association (ACC/AHA) dyslipidemia guidelines supporting its use for lipid management [24]. In a recent study of 2472 patients who obtained same-day ECG-gated and nongated scans, CAC scores obtained from nongated scans were highly correlated with gated CAC scores, with comparable ability to predict incident coronary heart disease, cardiovascular disease, and all-cause mortality [25]. These findings suggest that use of nongated CAC scoring could allow for earlier cardiac risk stratification and initiation of guideline-recommended preventative care in a wide spectrum of patients. (See \"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Quality of low-fat and low-carbohydrate diets and cardiovascular disease (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Over recent decades, researchers and the lay press have debated the merits of low-fat (LF) versus low-carbohydrate (LC) diets for improving cardiovascular health; however, the relative importance of diet quality, compared with macronutrient composition, is unclear. In an observational study that followed nearly 200,000 adults over 30 years, greater adherence to healthy versions of LF and LC diets, defined as higher intake of plant-based proteins, healthy fats, and minimally processed carbohydrates, was associated with a lower risk of coronary artery disease (CAD) [26]. Conversely, adherence to unhealthy LF and LC diets, defined as higher intake of animal protein or fat and refined carbohydrates, was associated with a higher risk of CAD. These findings underscore our current emphasis on adhering to a healthy overall dietary pattern for cardiovascular health, rather than focusing on the intake of specific macronutrients, such as fat or carbohydrates. (See \"Overview of primary prevention of cardiovascular disease in adults\", section on 'Healthy diet'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "VALVULAR HEART DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Role of percutaneous coronary intervention prior to transcatheter aortic valve intervention (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Coronary artery disease (CAD) is highly prevalent among patients undergoing transcatheter aortic valve intervention (TAVI) for aortic stenosis, but the role of percutaneous coronary intervention (PCI) prior to TAVI is uncertain. In a trial in which over 460 patients referred for TAVI with known chronic CAD (excluding unprotected left main CAD) were randomly assigned to deferral of PCI or PCI before TAVI (followed by standard antiplatelet therapy), rates of the primary composite of all-cause mortality, myocardial infarction, stroke, and major bleeding at one year were similar between the groups [27]. Rates of myocardial infarction were also comparable between the groups; major bleeding was more frequent with PCI before TAVI. These results, along with prior randomized trial findings, support an individualized approach to CAD in patients undergoing TAVI. (See \"Transcatheter aortic valve implantation for aortic stenosis: Periprocedural and postprocedural management\", section on 'Approach to coronary artery disease'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER CARDIOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mavacamten for obstructive hypertrophic cardiomyopathy in adolescents (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cardiac myosin inhibitors are a relatively new class of drugs used in the treatment of obstructive hypertrophic cardiomyopathy (HCM) in adults. In a recent 28-week placebo-controlled trial involving 44 symptomatic adolescents with obstructive HCM, the myosin inhibitor mavacamten reduced resting left ventricular outflow tract gradient by a mean of 47 mmHg compared with placebo [28]. Mavacamten-treated patients were also more likely to have improved New York Heart Association (NYHA) functional class by ≥1 level (43 versus 10 percent). However, there was little to no improvement in patient-reported shortness of breath symptoms. Adverse events occurred at similar rates in both groups. While the findings of this first-ever trial in adolescents are promising, additional data are needed before adopting use of mavacamten into routine pediatric practice. (See \"Hypertrophic cardiomyopathy in children: Management and prognosis\", section on 'Second-line therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Catheter-directed thrombolysis versus anticoagulation in pulmonary embolism (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In patients with intermediate-high-risk pulmonary embolism (PE; ie, biochemical and imaging evidence of right ventricle [RV] dysfunction), limited data suggest that catheter-directed thrombolysis improves RV function compared with anticoagulation alone, but does not improve mortality. In a recent randomized trial of 544 patients with intermediate-high-risk PE, ultrasound-facilitated, catheter-directed thrombolysis with alteplase reduced the composite outcome of PE-related death, cardiorespiratory decompensation, or symptomatic PE recurrence compared with anticoagulation alone (4 versus 10 percent); this difference was driven primarily by fewer episodes of decompensation (3.7 versus 10.3 percent) [29]. Major bleeding was numerically higher in the alteplase group (4 versus 2 percent) but was not statistically significant, and the difference in RV size at 48 hours between the two groups was also not significant. Interpretation is limited by low event rates, lack of blinding, and underrepresentation of patients >75 years. However, these data support our practice of performing catheter-directed therapies in patients with intermediate-high-risk PE. (See \"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nARRHYTHMIAS\n\nICDs for mildly reduced ejection fraction and myocardial scar (September 2026)\n\nMyocardial scar is predictive of sudden cardiac death (SCD) in patients with left ventricular ejection fraction (LVEF) of 36 to 50 percent; however, it is uncertain whether insertion of an implantable cardioverter-defibrillator (ICD) reduces the risk of SCD in this population. In an open-label trial in 353 patients with ischemic or nonischemic cardiomyopathy, LVEF of 36 to 50 percent, and myocardial scar on cardiac magnetic resonance, participants who were randomly assigned to an ICD had similar rates of SCD, hemodynamically significant ventricular arrhythmias, and overall mortality compared with patients assigned to an insertable cardiac monitor (ICM) [1]. Patients who received an ICD experienced higher rates of complications and lower quality of life. While subgroup analysis suggested a possible benefit in patients <70 years of age, further study is needed to determine whether ICDs might prevent SCD in specific subgroups. (See \"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Extensive late gadolinium enhancement on CMR'.)\n\nTemporal trends in the benefit of ICDs for primary prevention in ischemic cardiomyopathy (September 2026)\n\nThe role of implantable cardioverter-defibrillators (ICDs) in the primary prevention of sudden cardiac death (SCD) in patients with ischemic cardiomyopathy was established in the 1990s and 2000s; however, it is uncertain whether ICDs improve outcomes in the contemporary era. In a retrospective pooled analysis of individual patient data from observational studies and randomized trials, including over 32,000 patients with left ventricular ejection fraction (LVEF) ≤35 percent after myocardial infarction (MI), ICDs were associated with improved survival in 1995 to 2004 and 2005 to 2014, but not in 2015 to 2020 [2]. However, it is difficult to draw conclusions from this study for several reasons, including its design and the markedly shorter follow-up period in the latest cohort. Until ongoing randomized trials yield results, we will continue to recommend ICDs for patients meeting established criteria. (See \"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Ischemic cardiomyopathy'.)\n\nPulsed field ablation as a preferred energy source for catheter ablation in atrial fibrillation (August 2026)\n\nPulsed field ablation is an emerging catheter ablation modality used in patients with atrial fibrillation. It has been shown to provide durable lesion formation with minimal collateral damage to extracardiac structures, including no reported cases of atrio-esophageal fistula or significant pulmonary vein stenosis among the greater than 500,000 cases performed globally [3]. Given its comparable efficacy and improved safety profile, pulsed field ablation is suggested as the preferred ablation technique for de novo atrial fibrillation ablation over other energy sources. (See \"Atrial fibrillation: Catheter ablation efficacy and complications\", section on 'Pulsed field ablation (preferred energy source)'.)\n\nDuration of combined anticoagulant and antiplatelet therapy in patients with atrial fibrillation after PCI (August 2026)\n\nDuration of antiplatelet treatment following percutaneous coronary intervention (PCI) in patients requiring concomitant oral anticoagulation is typically 6 to 12 months, but shorter durations are being investigated. The OPTIMA-AF trial randomly assigned 1079 patients with atrial fibrillation undergoing PCI for predominantly chronic coronary syndrome (CCS) to combination direct oral anticoagulation (DOAC) plus P2Y12 inhibitor for 1 versus 12 months, in either case followed by DOAC monotherapy [4]. Incidence of death and thromboembolism was similar between the groups, but event rates were lower than expected. Bleeding risk was lower in the one-month combination group (hazard ratio [HR] 0.50). While this trial supports earlier discontinuation of antiplatelet therapy in those with atrial fibrillation and CCS undergoing PCI, further data are needed to confirm safety and efficacy. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'.)\n\nWeight reduction in atrial fibrillation (May 2026)\n\nWeight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [5]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)\n\nMemantine for atrial arrhythmias (May 2026)\n\nThere is no currently approved drug for premature atrial contraction (PAC) suppression. The effects of memantine, an antagonist of N-methyl-D-aspartate receptors used to treat selected patients with Alzheimer dementia, were evaluated in a double-blind trial in over 250 symptomatic adults with frequent PACs who were randomly assigned to receive this drug or placebo for six weeks [6]. Among 241 patients who received at least one dose of assigned treatment, memantine reduced PAC count, burden of nonsustained atrial tachycardia, and cumulative incidence of new-onset atrial fibrillation compared with placebo. No drug-related serious adverse events were reported in either treatment group. These results provide preliminary support for a novel, non-ion channel-based strategy to treat atrial arrhythmias. (See \"Premature atrial contractions and junctional premature beats in adults\", section on 'Investigational therapy'.)\n\nDefibrillation testing for subcutaneous implantable cardioverter-defibrillators (April 2026)\n\nDefibrillation testing (DFT) is performed routinely for patients undergoing subcutaneous implantable cardioverter-defibrillator (S-ICD) implantation; however, it is uncertain whether such testing is necessary. In a recent trial in which nearly 1000 patients were randomly assigned to DFT in all patients or only in patients with a PRAETORIAN score ≥90 (ie, intermediate- or high-risk for conversion failure), the rates of failed first shock for spontaneous ventricular arrhythmias, mortality, and lead revision were similar in the two groups [7]. These results suggest that it is reasonable to omit DFT for patients at low risk for conversion failure. (See \"Implantable cardioverter-defibrillators: Choosing a device and system descriptions\", section on 'Defibrillation testing'.)\n\nLeft bundle branch pacing reduces pacing-induced cardiomyopathy (April 2026)\n\nLeft bundle branch pacing (LBBP) may reduce the risk of pacing-induced cardiomyopathy (PICM) compared with standard right ventricular (RV) pacing; however, evidence from randomized trials is limited. In a trial in 160 patients with a high anticipated pacing burden and at least one risk factor for cardiac deterioration, participants who were randomly assigned to LBBP had a lower risk of PICM (6.5 versus 18.2 percent) compared with those assigned to RV pacing [8]. Patients in the LBBP group had improved New York Heart Association (NYHA) functional class compared with those in the RV pacing group. These results support the use of LBBP in patients who are anticipated to have a high ventricular pacing burden, such as those with atrioventricular (AV) block. (See \"Permanent cardiac pacing: Overview\", section on 'RV lead location'.)\n\nAmiodarone for atrial fibrillation with preexcitation (March 2026)\n\nBeta-blocking medications (including amiodarone) are contraindicated for patients who have atrial fibrillation (AF) with preexcitation because these drugs may promote conduction down the accessory pathway and cause ventricular fibrillation (VF); however, the intravenous (IV) medications that are recommended for stable patients with preexcited AF (ie, procainamide and ibutilide) are often unavailable. In a recent systematic review of 12 studies (nearly 150 patients), none of the patients with preexcited AF experienced rate acceleration or ventricular fibrillation when IV amiodarone was administered [9]. Amiodarone increased the antegrade effective refractory period (AERP) of the accessory pathway during electrophysiology study. Amiodarone appears to be a safe alternative for stable patients with preexcited AF when the recommended drugs are unavailable. (See \"WPW pattern and syndrome: Management and prevention of arrhythmias\", section on 'Atrial fibrillation with preexcitation (irregular, wide QRS complex)'.)\n\nCARDIAC IMAGING\n\nGlobal regional variation in radiation dose from noninvasive testing for coronary artery disease (May 2026)\n\nThere is marked variation in global regional radiation doses for diagnostic tests such as computed tomography (CT) and noninvasive tests for coronary artery disease (CAD). A recent cross-sectional study of over 19,000 adults at 742 centers in 101 countries found an inverse relationship between country income level and radiation dose with noninvasive diagnostic tests for CAD [10]. Median doses for diagnostic tests were generally lowest in Western Europe and highest in Latin America for nuclear cardiology and in Africa for coronary CT angiography; marked variation was also observed within world regions and income levels. These findings identify a need for standardized protocols and updated equipment to reduce radiation worldwide. (See \"Radiation dose and risk of malignancy from cardiovascular imaging\", section on 'Worldwide data'.)\n\nCORONARY HEART DISEASE, ACUTE\n\nDuration of beta blocker therapy after myocardial infarction (March 2026, Modified May 2026)\n\nBeta blockers are routinely prescribed after acute myocardial infarction (MI); however, a growing body of evidence suggests that patients with normal left ventricular ejection fraction (LVEF) derive less benefit than patients with reduced LVEF. In a trial in over 2500 patients who were taking beta blockers for at least one year after acute MI, participants who were randomly assigned to discontinue their beta blocker had similar cardiovascular outcomes compared with those who continued the beta blocker [11]. Most of the trial participants had an LVEF >50 percent. Based on these results, some of our experts believe it is reasonable to discontinue beta blocker therapy one year after MI for patients with normal LVEF; however, others continue to treat for at least three years in the absence of adverse effects.(See \"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'.)\n\nHEART FAILURE\n\nLimited sensitivity of echocardiographic criteria for diastolic dysfunction in patients with HFpEF (June 2026)\n\nEchocardiographic criteria have been developed to identify patients with diastolic dysfunction at risk for heart failure with preserved ejection fraction (HFpEF). In a study that assessed the prognostic accuracy of these criteria in patients with and without acute HFpEF, 25 percent of patients with acute HFpEF had normal or mildly abnormal (Grade 1) echocardiographic criteria for diastolic dysfunction; among these patients, the false-negative rate for echocardiographic stress criteria for HFpEF was 90.5 percent [12]. Among patients with HFpEF and normal or Grade 1 echocardiographic criteria, the risk of all-cause death or heart failure hospitalization was fivefold higher compared with controls. These findings indicate that echocardiographic criteria for diastolic dysfunction lack sensitivity in patients with HFpEF. (See \"Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis\", section on 'Echocardiography'.)\n\nConduction system pacing in heart failure (April 2026)\n\nConduction system pacing (CSP) is an alternative method of achieving cardiac resynchronization for patients with heart failure (HF) in whom biventricular pacing cannot be performed; however, it is uncertain whether CSP is as effective as biventricular pacing in improving clinical outcomes. Two recent trials in which participants were randomly assigned to CSP or biventricular pacing reported conflicting findings:\n\n● In one trial in 200 patients, left bundle area pacing reduced the risk of HF hospitalization compared with biventricular pacing [13].\n\n● In a second trial in over 170 patients, CSP (left bundle, His bundle, or deep septal pacing) increased the risk of the composite clinical endpoint (death, HF hospitalization, urgent HF visits, or change in left ventricular ejection fraction) compared with biventricular pacing [14].\n\nBiventricular pacing remains the preferred method of cardiac resynchronization therapy for most patients. (See \"Cardiac resynchronization therapy in systolic heart failure: Indications and choice of system\", section on 'Conduction system pacing'.)\n\nLIPID DISORDERS\n\nEvolocumab in adults with diabetes at high cardiovascular risk (March 2026)\n\nAlthough proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors effectively lower low-density lipoprotein-cholesterol (LDL-C), their impact on cardiovascular outcomes in primary prevention populations has not been studied. In 3655 adults with high-risk diabetes (defined as diabetes duration ≥10 years, insulin use, or microvascular disease) but without known atherosclerosis, the addition of evolocumab to statin therapy reduced all-cause mortality (7.8 versus 10.1 percent) and the composite endpoint of myocardial infarction, ischemic stroke, and death from coronary heart disease (7.1 versus 5 percent) at five-year follow-up [15]. Median LDL-C levels also decreased from 132 mg/dL to 52 mg/dL with evolocumab, compared with 111 mg/dL with placebo. These data suggest that evolocumab is an option for primary prevention in patients with high-risk diabetes who are already taking an optimal dose of a statin. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Available agents'.)\n\nIntensive LDL-C reduction for secondary prevention (March 2026)\n\nTherapy to reduce low-density lipoprotein cholesterol (LDL-C) is an important component of secondary prevention of atherosclerotic cardiovascular disease (ASCVD); however, the most appropriate LDL-C target is uncertain. In a recent open-label trial in over 3000 patients with ASCVD, patients randomly assigned to a target LDL-C <55 mg/L (1.4 mmol/L) had a lower risk of major adverse cardiovascular events than those assigned to a target <70 mg/dL (1.8 mmol/L) [16]. The difference was driven by reductions in the risks of nonfatal myocardial infarction, revascularization, and hospitalization for unstable angina. This trial supports intensive LDL-C reduction in patients with ASCVD. (See \"Management of low-density lipoprotein cholesterol (LDL-C) in the secondary prevention of cardiovascular disease\", section on 'Rationale for treating to a target LDL-C'.)\n\nGuidelines for managing dyslipidemia (March 2026)\n\nIn 2023, the American Heart Association released the Predicting Risk of cardiovascular disease EVENTs (PREVENT) calculator for estimating the risk of atherosclerotic cardiovascular disease (ASCVD). However, the optimal integration of PREVENT into the management of patients with dyslipidemia remained unclear. New guidelines from the American College of Cardiology and the American Heart Association joint committee provide this clarification [17]. The guidelines offer revised risk thresholds for initiating lipid-lowering therapy based on the PREVENT calculator and include updated recommendations for risk stratification and management of low-density lipoprotein cholesterol (LDL-C) for secondary and primary prevention, including patients with subclinical coronary atherosclerosis. These recommendations provide detailed guidance for managing dyslipidemia across a wide range of patient populations and clinical contexts. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'.)\n\nPERCUTANEOUS CORONARY INTERVENTION\n\nPercutaneous coronary intervention of chronic total occlusions (April 2026)\n\nSeveral randomized trials have shown improvement in angina after percutaneous coronary intervention (PCI) of a chronic total occlusion (CTO); however, the open-label design of these trials is a potential source of bias. In a recent trial in 50 patients with a CTO and angina, patients randomly assigned to PCI had an immediate and sustained reduction in the number of angina episodes and an increase in the number of angina-free days compared with those assigned to a sham procedure [18]. These results confirm that CTO PCI is a viable therapeutic option for reducing angina. (See \"Chronic total occlusion (CTO) in the coronary circulation\", section on 'Angina relief and quality of life'.)\n\nIntravenous ultrasound-guided percutaneous coronary intervention (April 2026)\n\nIntravenous ultrasound (IVUS) is often used to guide complex percutaneous coronary intervention (PCI); while a meta-analysis of 22 trials suggested that IVUS improves clinical outcomes, the impact of IVUS guidance on specific subpopulations is uncertain. Three randomized trials published since the meta-analysis compared IVUS-guided PCI with angiography-guided PCI in patients with unprotected left main [19], complex high-risk [20], or complex bifurcation disease [21]. IVUS did not reduce major adverse cardiovascular events in the first two trials; however, in the trial that enrolled patients with bifurcation lesions, IVUS reduced the risk of the primary endpoint of cardiovascular death, target vessel myocardial infarction, and target-vessel revascularization. We continue to use IVUS or optical coherence tomography (OCT) to guide PCI in selected patients undergoing complex PCI. (See \"Percutaneous coronary intervention with intracoronary stents: Overview\", section on 'Intravascular imaging guidance (IVUS and OCT)'.)\n\nAngiography-derived fractional flow reserve (March 2026)\n\nFractional flow reserve (FFR) is a method of assessing the significance of intermediate coronary stenoses during coronary angiography; however, measuring the FFR requires introducing a pressure wire into the coronary artery, increasing the cost and complexity of the procedure. In two trials in which over 4000 participants with intermediate stenoses were randomly assigned to undergo revascularization guided by either conventional or angiography-based (ie, wire-free) FFR, the rates of major adverse cardiovascular events at one year were similar in the two groups [22,23]. In one of the trials [22], angiography-based FFR reduced the risk of complications. Angiography-based FFR has emerged as a viable alternative for patients needing a physiologic assessment of their coronary lesions. (See \"Clinical use of coronary artery pressure and flow measurements\", section on 'Less common measures'.)\n\nPREVENTIVE CARDIOLOGY\n\nCoronary artery calcium scoring in nongated chest CT scans (August 2026)\n\nWhile traditionally coronary artery calcium (CAC) scoring has been performed on electrocardiogram (ECG)-gated chest CT scans, incidental CAC can be found on nongated CT chest scans obtained for other reasons. The use of incidental CAC to inform management increasingly is being considered, with the 2026 American College of Cardiology/American Heart Association (ACC/AHA) dyslipidemia guidelines supporting its use for lipid management [24]. In a recent study of 2472 patients who obtained same-day ECG-gated and nongated scans, CAC scores obtained from nongated scans were highly correlated with gated CAC scores, with comparable ability to predict incident coronary heart disease, cardiovascular disease, and all-cause mortality [25]. These findings suggest that use of nongated CAC scoring could allow for earlier cardiac risk stratification and initiation of guideline-recommended preventative care in a wide spectrum of patients. (See \"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'.)\n\nQuality of low-fat and low-carbohydrate diets and cardiovascular disease (March 2026)\n\nOver recent decades, researchers and the lay press have debated the merits of low-fat (LF) versus low-carbohydrate (LC) diets for improving cardiovascular health; however, the relative importance of diet quality, compared with macronutrient composition, is unclear. In an observational study that followed nearly 200,000 adults over 30 years, greater adherence to healthy versions of LF and LC diets, defined as higher intake of plant-based proteins, healthy fats, and minimally processed carbohydrates, was associated with a lower risk of coronary artery disease (CAD) [26]. Conversely, adherence to unhealthy LF and LC diets, defined as higher intake of animal protein or fat and refined carbohydrates, was associated with a higher risk of CAD. These findings underscore our current emphasis on adhering to a healthy overall dietary pattern for cardiovascular health, rather than focusing on the intake of specific macronutrients, such as fat or carbohydrates. (See \"Overview of primary prevention of cardiovascular disease in adults\", section on 'Healthy diet'.)\n\nVALVULAR HEART DISEASE\n\nRole of percutaneous coronary intervention prior to transcatheter aortic valve intervention (May 2026)\n\nCoronary artery disease (CAD) is highly prevalent among patients undergoing transcatheter aortic valve intervention (TAVI) for aortic stenosis, but the role of percutaneous coronary intervention (PCI) prior to TAVI is uncertain. In a trial in which over 460 patients referred for TAVI with known chronic CAD (excluding unprotected left main CAD) were randomly assigned to deferral of PCI or PCI before TAVI (followed by standard antiplatelet therapy), rates of the primary composite of all-cause mortality, myocardial infarction, stroke, and major bleeding at one year were similar between the groups [27]. Rates of myocardial infarction were also comparable between the groups; major bleeding was more frequent with PCI before TAVI. These results, along with prior randomized trial findings, support an individualized approach to CAD in patients undergoing TAVI. (See \"Transcatheter aortic valve implantation for aortic stenosis: Periprocedural and postprocedural management\", section on 'Approach to coronary artery disease'.)\n\nOTHER CARDIOLOGY\n\nMavacamten for obstructive hypertrophic cardiomyopathy in adolescents (April 2026)\n\nCardiac myosin inhibitors are a relatively new class of drugs used in the treatment of obstructive hypertrophic cardiomyopathy (HCM) in adults. In a recent 28-week placebo-controlled trial involving 44 symptomatic adolescents with obstructive HCM, the myosin inhibitor mavacamten reduced resting left ventricular outflow tract gradient by a mean of 47 mmHg compared with placebo [28]. Mavacamten-treated patients were also more likely to have improved New York Heart Association (NYHA) functional class by ≥1 level (43 versus 10 percent). However, there was little to no improvement in patient-reported shortness of breath symptoms. Adverse events occurred at similar rates in both groups. While the findings of this first-ever trial in adolescents are promising, additional data are needed before adopting use of mavacamten into routine pediatric practice. (See \"Hypertrophic cardiomyopathy in children: Management and prognosis\", section on 'Second-line therapies'.)\n\nCatheter-directed thrombolysis versus anticoagulation in pulmonary embolism (March 2026)\n\nIn patients with intermediate-high-risk pulmonary embolism (PE; ie, biochemical and imaging evidence of right ventricle [RV] dysfunction), limited data suggest that catheter-directed thrombolysis improves RV function compared with anticoagulation alone, but does not improve mortality. In a recent randomized trial of 544 patients with intermediate-high-risk PE, ultrasound-facilitated, catheter-directed thrombolysis with alteplase reduced the composite outcome of PE-related death, cardiorespiratory decompensation, or symptomatic PE recurrence compared with anticoagulation alone (4 versus 10 percent); this difference was driven primarily by fewer episodes of decompensation (3.7 versus 10.3 percent) [29]. Major bleeding was numerically higher in the alteplase group (4 versus 2 percent) but was not statistically significant, and the difference in RV size at 48 hours between the two groups was also not significant. Interpretation is limited by low event rates, lack of blinding, and underrepresentation of patients >75 years. However, these data support our practice of performing catheter-directed therapies in patients with intermediate-high-risk PE. (See \"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'.)",
+    "word_count": 3583,
+    "character_count": 25720,
+    "references": [
+      "Selvanayagam JB, Cleland JGF, Hillis GS, et al. Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%: The CMR GUIDE Randomized Clinical Trial. JAMA 2026.",
+      "Sepehri Shamloo A, Chiba T, Tijssen JGP, et al. Mortality reduction with implanted defibrillator for primary prevention of sudden death after Myocardial Infarction: temporal trends in the PROFID study. Eur Heart J 2026.",
+      "Kühne M, Badertscher P, Andrade JG, et al. Pulsed field ablation for the interventional treatment of atrial fibrillation: a scientific statement of the European Heart Rhythm Association of the European Society of Cardiology, the Heart Rhythm Society, the Asia Pacific Heart Rhythm Society, the Latin American Heart Rhythm Society, and the Canadian Heart Rhythm Society. Europace 2026; 28.",
+      "Sotomi Y, Kozuma K, Higuchi Y, et al. 1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial. Lancet 2026; 408:440.",
+      "Sclafani M, Spartera M, Esmati Y, et al. Weight Loss in Older Patients With Persistent Atrial Fibrillation: The LOSE-AF Randomized Clinical Trial. JAMA 2026; 336:205.",
+      "Shen Y, Zeng C, Sun Y, et al. Memantine for Premature Atrial Contractions: A Phase 2 Randomized Clinical Trial. Circulation 2026; 153:1196.",
+      "Knops RE, Marquie C, Nordbeck P, et al. Subcutaneous Defibrillator Implantation With or Without Defibrillation Test: The Primary Results of the Randomized PRAETORIAN-DFT Trial. Circulation 2026; 154:520.",
+      "Qiu N, Liu X, Wang Z, et al. Randomized Trial of Left Bundle Branch Pacing vs Right Ventricular Pacing in Vulnerable Cardiac Function. J Am Coll Cardiol 2026; 88:188.",
+      "Ali ZS, Nguyen DL, Bhuiyan A, et al. Intravenous Amiodarone in Preexcited Atrial Fibrillation: A Systematic Review. Circ Arrhythm Electrophysiol 2026; 19:e014529.",
+      "Einstein AJ, Williams MC, Weir-McCall JR, et al. Worldwide Radiation Dose in Coronary Artery Disease Diagnostic Imaging. JAMA 2026; 335:1148.",
+      "Choi KH, Kang D, Kim W, et al. Discontinuation of Beta-Blocker Therapy after Myocardial Infarction. N Engl J Med 2026; 394:1302.",
+      "Harada T, Sorimachi H, Obokata M, et al. Echocardiographic Diastolic Function Grading in HFpEF: Testing the Updated 2025 ASE Criteria. J Am Coll Cardiol 2026; 87:1261.",
+      "Chen X, Liu X, Li R, et al. Long-Term Outcomes of Left Bundle-Branch Pacing vs Biventricular Pacing in Heart Failure: The HeartSync-LBBP Randomized Clinical Trial. JAMA Cardiol 2026; 11:352.",
+      "Zimerman A, Dal Forno A, Rohde LE, et al. Conduction System vs Biventricular Pacing in Heart Failure: The PhysioSync-HF Randomized Clinical Trial. JAMA Cardiol 2026; 11:360.",
+      "Marston NA, Bohula EA, Bhatia AK, et al. Evolocumab to Reduce First Major Cardiovascular Events in Patients Without Known Significant Atherosclerosis and With Diabetes: Results From the VESALIUS-CV Trial. JAMA 2026; 335:1400.",
+      "Lee YJ, Lee SJ, Kim JW, et al. Intensive LDL Cholesterol Targeting in Atherosclerotic Cardiovascular Disease. N Engl J Med 2026; 394:1365.",
+      "Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol 2026; 87:2624.",
+      "Khan S, Sajjad U, Fawaz S, et al. Randomized, Placebo-Controlled Trial of Chronic Total Occlusion Percutaneous Coronary Intervention in Stable Angina: The ORBITA-CTO Trial. J Am Coll Cardiol 2026; 88:4.",
+      "Testa L, De la Torre Hernandez JM, De Maria GL, et al. IVUS-Guided versus Angiography-Guided PCI in Unprotected Left Main Coronary Disease. N Engl J Med 2026; 394:2189.",
+      "Diletti R, Daemen J, Faurie B, et al. Intravascular Ultrasound-Guided or Angiography-Guided Complex High-Risk PCI. N Engl J Med 2026; 394:2200.",
+      "Gao X, Kan J, Chen Y, et al. IVUS or Angiography Guidance for Percutaneous Coronary Intervention in Complex Coronary Bifurcation Lesions: The DKCRUSH VIII Randomized Clinical Trial. J Am Coll Cardiol 2026; 87:2080.",
+      "Daemen J, van der Eijk JA, Barbierato M, et al. Angiography-Based Physiology to Guide Coronary Revascularization. N Engl J Med 2026; 395:20.",
+      "Fearon WF, Jeremias A, Witberg G, et al. Angiography-Derived Fractional Flow Reserve to Guide PCI. N Engl J Med 2026; 395:9.",
+      "Writing Committee Members, Blumenthal RS, Morris PB, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 2026; 153:e1154.",
+      "Verghese D, Trujillo R, Abraham D, et al. Predictive Value of Coronary Artery Calcium Score From Nongated Chest CT Scans Compared With Gated Scans and Incidence of Cardiovascular Events. Circulation 2026; 154:302.",
+      "Wu Z, Liu B, Wang X, et al. Effect of Low-Carbohydrate and Low-Fat Diets on Metabolomic Indices and Coronary Heart Disease in U.S. Individuals. J Am Coll Cardiol 2026; 87:2764.",
+      "Delewi R, Aarts HM, Broeze GM, et al. Deferral of percutaneous coronary intervention in patients undergoing transcatheter aortic valve implantation (PRO-TAVI): an investigator-initiated, multicentre, open-label, non-inferiority, randomised controlled trial. Lancet 2026; 407:1429.",
+      "Rossano JW, Canter C, Wolf CM, et al. Mavacamten in Adolescents with Obstructive Hypertrophic Cardiomyopathy. N Engl J Med 2026; 395:362.",
+      "Rosenfield K, Klok FA, Piazza G, et al. Ultrasound-Facilitated, Catheter-Directed Fibrinolysis for Acute Pulmonary Embolism. N Engl J Med 2026; 394:1979."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 8353,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%221%22"
+      },
+      {
+        "id": 91077,
+        "title": "\"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Extensive late gadolinium enhancement on CMR'",
+        "url": "https://medilib.ir/uptodate/show/91077"
+      },
+      {
+        "id": 8353,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%222%22"
+      },
+      {
+        "id": 91077,
+        "title": "\"Prevention of sudden cardiac death in patients with heart failure with reduced LVEF\", section on 'Ischemic cardiomyopathy'",
+        "url": "https://medilib.ir/uptodate/show/91077"
+      },
+      {
+        "id": 8353,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%223%22"
+      },
+      {
+        "id": 949,
+        "title": "\"Atrial fibrillation: Catheter ablation efficacy and complications\", section on 'Pulsed field ablation (preferred energy source)'",
+        "url": "https://medilib.ir/uptodate/show/949"
+      },
+      {
+        "id": 8353,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%224%22"
+      },
+      {
+        "id": 1535,
+        "title": "\"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'",
+        "url": "https://medilib.ir/uptodate/show/1535"
+      },
+      {
+        "id": 8353,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%225%22"
+      },
+      {
+        "id": 1022,
+        "title": "\"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'",
+        "url": "https://medilib.ir/uptodate/show/1022"
+      },
+      {
+        "id": 10131,
+        "title": "memantine",
+        "url": "https://medilib.ir/uptodate/show/10131"
+      },
+      {
+        "id": 8353,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%226%22"
+      },
+      {
+        "id": 932,
+        "title": "\"Premature atrial contractions and junctional premature beats in adults\", section on 'Investigational therapy'",
+        "url": "https://medilib.ir/uptodate/show/932"
+      },
+      {
+        "id": 8353,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%227%22"
+      },
+      {
+        "id": 97158,
+        "title": "\"Implantable cardioverter-defibrillators: Choosing a device and system descriptions\", section on 'Defibrillation testing'",
+        "url": "https://medilib.ir/uptodate/show/97158"
+      },
+      {
+        "id": 8353,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%228%22"
+      },
+      {
+        "id": 941,
+        "title": "\"Permanent cardiac pacing: Overview\", section on 'RV lead location'",
+        "url": "https://medilib.ir/uptodate/show/941"
+      },
+      {
+        "id": 8595,
+        "title": "amiodarone",
+        "url": "https://medilib.ir/uptodate/show/8595"
+      },
+      {
+        "id": 9813,
+        "title": "procainamide",
+        "url": "https://medilib.ir/uptodate/show/9813"
+      },
+      {
+        "id": 8548,
+        "title": "ibutilide",
+        "url": "https://medilib.ir/uptodate/show/8548"
+      },
+      {
+        "id": 8353,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%229%22"
+      },
+      {
+        "id": 996,
+        "title": "\"WPW pattern and syndrome: Management and prevention of arrhythmias\", section on 'Atrial fibrillation with preexcitation (irregular, wide QRS complex)'",
+        "url": "https://medilib.ir/uptodate/show/996"
+      },
+      {
+        "id": 8353,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2210%22"
+      },
+      {
+        "id": 5325,
+        "title": "\"Radiation dose and risk of malignancy from cardiovascular imaging\", section on 'Worldwide data'",
+        "url": "https://medilib.ir/uptodate/show/5325"
+      },
+      {
+        "id": 8353,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2211%22"
+      },
+      {
+        "id": 96,
+        "title": "\"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'",
+        "url": "https://medilib.ir/uptodate/show/96"
+      },
+      {
+        "id": 8353,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2212%22"
+      },
+      {
+        "id": 3504,
+        "title": "\"Heart failure with preserved ejection fraction: Clinical manifestations and diagnosis\", section on 'Echocardiography'",
+        "url": "https://medilib.ir/uptodate/show/3504"
+      },
+      {
+        "id": 8353,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2213%22"
+      },
+      {
+        "id": 8353,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2214%22"
+      },
+      {
+        "id": 3475,
+        "title": "\"Cardiac resynchronization therapy in systolic heart failure: Indications and choice of system\", section on 'Conduction system pacing'",
+        "url": "https://medilib.ir/uptodate/show/3475"
+      },
+      {
+        "id": 103780,
+        "title": "evolocumab",
+        "url": "https://medilib.ir/uptodate/show/103780"
+      },
+      {
+        "id": 8353,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2215%22"
+      },
+      {
+        "id": 4549,
+        "title": "\"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Available agents'",
+        "url": "https://medilib.ir/uptodate/show/4549"
+      },
+      {
+        "id": 8353,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2216%22"
+      },
+      {
+        "id": 112841,
+        "title": "\"Management of low-density lipoprotein cholesterol (LDL-C) in the secondary prevention of cardiovascular disease\", section on 'Rationale for treating to a target LDL-C'",
+        "url": "https://medilib.ir/uptodate/show/112841"
+      },
+      {
+        "id": 8353,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2217%22"
+      },
+      {
+        "id": 4549,
+        "title": "\"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'",
+        "url": "https://medilib.ir/uptodate/show/4549"
+      },
+      {
+        "id": 8353,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2218%22"
+      },
+      {
+        "id": 115590,
+        "title": "\"Chronic total occlusion (CTO) in the coronary circulation\", section on 'Angina relief and quality of life'",
+        "url": "https://medilib.ir/uptodate/show/115590"
+      },
+      {
+        "id": 8353,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2219%22"
+      },
+      {
+        "id": 8353,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2220%22"
+      },
+      {
+        "id": 8353,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2221%22"
+      },
+      {
+        "id": 1569,
+        "title": "\"Percutaneous coronary intervention with intracoronary stents: Overview\", section on 'Intravascular imaging guidance (IVUS and OCT)'",
+        "url": "https://medilib.ir/uptodate/show/1569"
+      },
+      {
+        "id": 8353,
+        "title": "22,23",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2222%22"
+      },
+      {
+        "id": 8353,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2222%22"
+      },
+      {
+        "id": 1514,
+        "title": "\"Clinical use of coronary artery pressure and flow measurements\", section on 'Less common measures'",
+        "url": "https://medilib.ir/uptodate/show/1514"
+      },
+      {
+        "id": 8353,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2224%22"
+      },
+      {
+        "id": 8353,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2225%22"
+      },
+      {
+        "id": 5297,
+        "title": "\"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'",
+        "url": "https://medilib.ir/uptodate/show/5297"
+      },
+      {
+        "id": 8353,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2226%22"
+      },
+      {
+        "id": 7573,
+        "title": "\"Overview of primary prevention of cardiovascular disease in adults\", section on 'Healthy diet'",
+        "url": "https://medilib.ir/uptodate/show/7573"
+      },
+      {
+        "id": 8353,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2227%22"
+      },
+      {
+        "id": 108265,
+        "title": "\"Transcatheter aortic valve implantation for aortic stenosis: Periprocedural and postprocedural management\", section on 'Approach to coronary artery disease'",
+        "url": "https://medilib.ir/uptodate/show/108265"
+      },
+      {
+        "id": 138578,
+        "title": "mavacamten",
+        "url": "https://medilib.ir/uptodate/show/138578"
+      },
+      {
+        "id": 8353,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2228%22"
+      },
+      {
+        "id": 110392,
+        "title": "\"Hypertrophic cardiomyopathy in children: Management and prognosis\", section on 'Second-line therapies'",
+        "url": "https://medilib.ir/uptodate/show/110392"
+      },
+      {
+        "id": 8478,
+        "title": "alteplase",
+        "url": "https://medilib.ir/uptodate/show/8478"
+      },
+      {
+        "id": 8353,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8353#rid%2229%22"
+      },
+      {
+        "id": 8259,
+        "title": "\"Acute pulmonary embolism in adults: Reperfusion therapy in intermediate- and high-risk patients\", section on 'Catheter-directed thrombolysis'",
+        "url": "https://medilib.ir/uptodate/show/8259"
+      }
+    ]
+  }
+}

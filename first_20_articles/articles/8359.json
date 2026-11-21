@@ -1,0 +1,1487 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8359"
+  },
+  "article": {
+    "id": 8359,
+    "expected_title": "What's new in hematology",
+    "url": "https://medilib.ir/uptodate/show/8359",
+    "final_url": "https://medilib.ir/uptodate/show/8359",
+    "page_title": "What's new in hematology",
+    "extracted_at": "2026-11-20T20:52:09.851Z",
+    "title_matches_expected": true,
+    "title": "What's new in hematology",
+    "contributors": {
+      "authors": [
+        "Rebecca F Connor, MD",
+        "Alan G Rosmarin, MD",
+        "Jennifer S Tirnauer, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Nov 04, 2026",
+    "version": "Topic 8359 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ACUTE LEUKEMIAS AND MYELODYSPLASTIC SYNDROMES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Venetoclax plus azacitidine for acute myeloid leukemia (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Venetoclax (ven) plus either azacitidine (aza) or decitabine (dec) is preferred for acute myeloid leukemia (AML) in patients who are not suitable for 7+3 therapy (infusional cytarabine plus anthracycline), but its role for younger, healthier patients is not well defined. A randomized trial reported that ven/aza achieved comparable survival with more patients proceeding to transplantation than 7+3, but most patients with favorable cytogenetics or mutated FLT3 were excluded, and the median age was 65 years [1]. Ven/aza caused less toxicity, and this likely increased the transplantation rate in these relatively older patients. Although we consider ven plus either aza or dec to be an acceptable alternative for selected patients with intermediate- or adverse-risk genetic features, we await longer-term outcomes and confirmatory trials before routinely adopting this approach in patients suitable for 7+3 therapy. (See \"Acute myeloid leukemia: Induction therapy in fit, younger adults\", section on '7+3 remission induction therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Liposomal daunorubicin-cytarabine for induction therapy in pediatric acute myeloid leukemia (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is no consensus induction chemotherapy regimen for pediatric acute myeloid leukemia (AML), and drug choices, doses, and schedules vary among cooperative groups. A phase 3 trial that randomly assigned patients to either conventional cytarabine, daunorubicin, and gemtuzumab ozogamicin (GO; a CD33-targeted immunoconjugate) versus liposomal daunorubicin-cytarabine (CPX-351) and GO was stopped early when the CPX-351 arm was associated with comparable survival but a trend toward more relapses [2]. The CPX-351 arm was also associated with more mucositis and slower bone marrow recovery. The trial results support the use of conventional cytarabine and daunorubicin rather than CPX-351 for induction therapy in pediatric AML. (See \"Acute myeloid leukemia: Children and adolescents\", section on 'Induction therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pivekimab sunirine approval for blastic plasmacytoid dendritic cell neoplasm (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pivekimab sunirine is a CD123-immunconjugate that has activity against blastic plasmacytoid dendritic cell neoplasm (BPDCN), a rare CD123-expressing acute leukemia that presents with cutaneous lesions, with or without blood/bone marrow involvement. In 33 treatment-naïve patients with BPDCN, pivekimab was associated with 70 percent response rate (with 10 months median response duration) and 17 months median overall survival[3]. Pivekimab can cause infusion reactions, edema, and hepatotoxicity, including hepatic sinusoidal obstruction syndrome/veno-occlusive disease. This study led to US Food and Drug Administration approval for BPDCN, and we consider it or tagraxofusp (another CD123-targeted agent) acceptable for treating BPDCN. (See \"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Donor choice for allogeneic hematopoietic cell transplantation (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Matched sibling donors (MSD) are generally preferred for allogeneic hematopoietic cell transplantation (HCT), but studies are evaluating alternatives when an MSD is not available. In a prospective study of 1179 transplants, overall survival, disease-free survival, and transplant-related mortality were comparable between matched unrelated donor (MUD), haploidentical, and mismatched unrelated donor (mMUD) grafts [4]. However, compared with MUD, umbilical cord blood grafts were associated with inferior two-year overall survival (51 versus 65 percent) and disease-free survival (42 versus 57 percent), with increased transplant-related mortality (32 versus 15 percent). These data support our preference for a MUD or haploidentical graft when an MSD is not available. (See \"Donor selection for hematopoietic cell transplantation\", section on 'When no MSD is available'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Glucocorticoid choice for grade 1 acute graft-versus-host disease (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Glucocorticoids (GC) are the mainstay of treatment for acute graft-versus-host disease (aGVHD), but the choice of topical versus systemic GC varies for grade 1 (ie, skin-only) aGVHD. In a retrospective study of 1143 patients with grade 1 aGVHD, outcomes were compared between early systemic GC therapy (ie, <7 days from diagnosis and before progression to grade ≥2) versus topical corticosteroids [5]. While treatment response, aGVHD progression, and overall survival were comparable, early systemic GC therapy was associated with higher non-relapse mortality (NRM; 12.6 versus 6.9 percent) and more infection-related deaths (4.7 versus 1.3 percent). Early systemic GC was also independently associated with NRM in multivariable analysis (hazard ratio 1.6). We continue to suggest topical GC therapy for patients with grade 1 aGVHD. (See \"Treatment of acute graft-versus-host disease\", section on 'Grade 1 aGVHD'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Decitabine-cedazuridine plus venetoclax for AML induction therapy (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Venetoclax plus a hypomethylating agent (HMA) is preferred for induction therapy of acute myeloid leukemia (AML) in patients not suitable for more intensive regimens, but the role of the oral HMA, decitabine-cedazuridine, in this combination has not been proven. A study in 101 patients reported a 63 percent response rate (including 47 percent complete responses) and 16 months median survival [6], with safety and outcomes comparable with venetoclax plus either azacitidine or decitabine. The US Food and Drug Administration approved decitabine-cedazuridine plus venetoclax for newly diagnosed AML in patients ≥75 years or unsuitable for intensive induction therapy, and we consider this all-oral regimen acceptable in this setting. (See \"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CHRONIC LYMPHOCYTIC LEUKEMIA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pirtobrutinib for previously untreated CLL/SLL (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The noncovalent Bruton tyrosine kinase (BTK) inhibitor pirtobrutinib is an option for patients with chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) progressing after a covalent BTK inhibitor (eg, ibrutinib, acalabrutinib, or zanubrutinib). In the United States, pirtobrutinib is now approved for adults with previously untreated CLL/SLL and no known 17p deletion based on randomized trials demonstrating superiority to both chemoimmunotherapy and single-agent ibrutinib [7]. It has not been compared with other BTK inhibitors or venetoclax-based fixed-duration therapies, and data regarding impact on subsequent therapies are limited. We do not routinely use pirtobrutinib in this setting, but we consider it an option for older patients unlikely to require multiple lines of therapy, especially if cardiac toxicities are a concern. (See \"Selection of initial therapy for symptomatic or advanced chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Is there a role for pirtobrutinib?'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pirtobrutinib, venetoclax, and rituximab in relapsed chronic lymphocytic leukemia (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Combinations that target BTK and BCL2 are highly effective, fixed-duration treatment options for chronic lymphocytic leukemia (CLL). In a randomized trial in patients with relapsed or refractory CLL, primarily after a covalent BTK inhibitor therapy, the addition of the noncovalent BTK inhibitor pirtobrutinib to fixed-duration venetoclax plus rituximab improved progression-free survival with limited toxicity [8]. Further follow-up is needed to better understand response durability and impact on overall survival. Based on these and other data, we now consider off-label pirtobrutinib, venetoclax, and rituximab an option for patients progressing on a covalent BTK inhibitor. (See \"Treatment of relapsed or refractory chronic lymphocytic leukemia\", section on 'Venetoclax plus BTK inhibitor'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Use of bispecific antibodies in Richter transformation (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Histologic transformation of chronic lymphocytic leukemia (ie, Richter transformation [RT]) is associated with an adverse prognosis, but emerging data support the use of CD20xCD3 bispecific antibodies in a subset of patients. Three single-arm prospective trials reported rapid responses following single-agent epcoritamab [9], glofitamab [10], and mosunetuzumab [11], with some durable complete responses. These agents have not been directly compared with other therapies or with each other, and longer follow-up is needed to better understand efficacy and toxicity. However, where available, we consider bispecific antibodies appropriate for use instead of, or after chimeric antigen receptor T (CAR-T) cell therapy in multiply relapsed/refractory RT, typically as a bridge to subsequent allogeneic hematopoietic cell transplantation or CAR-T (algorithm 1). (See \"Richter transformation in chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Bispecific antibodies for multiply relapsed/refractory RT'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "LYMPHOMAS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Treatment of nodular lymphocyte predominant Hodgkin/B cell lymphoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is no consensus for management of nodular lymphocyte predominant Hodgkin lymphoma (NLPHL)/nodular lymphocyte predominant B cell lymphoma (NLPBL), an indolent B cell lymphoma that responds well to all treatments but can relapse or transform. A consortium study of 779 patients with early-stage disease reported >99 percent long-term survival with all approaches, but fewer relapses with radiation therapy (RT) than with observation, rituximab, or chemoimmunotherapy [12]. RT is well tolerated but can cause adverse effects in growing children. Treatment of NLPHL/NLPBL is individualized, but we suggest RT for most adults with early-stage disease that can be safely treated with a single field. (See \"Treatment of nodular lymphocyte-predominant Hodgkin lymphoma\", section on 'Adults'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "R-pola-GemOx for relapsed diffuse large B cell lymphoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Polatuzumab vedotin (pola) is a CD79-directed antibody-drug conjugate used for frontline treatment of diffuse large B cell lymphoma (DLBCL), but its role is less well defined for relapsed DLBCL. In a randomized trial in patients with second or later relapse of DLBCL, pola plus rituximab, gemcitabine, and oxaliplatin (R-pola-GemOx) versus R-GemOx achieved longer median survival (19.5 versus 12.5 months) and progression-free survival at two years (25 versus 12 percent [13]. Cytopenias were comparable, but infections (some fatal) and mild sensory neuropathy were more common with pola. Along with other GemOx-based chemoimmunotherapy regimens, we consider R-pola-GemOx acceptable for second or later DLBCL relapse in transplant- and chimeric antigen receptor (CAR)-T cell therapy-ineligible patients, although we may choose other regimens when pola was recently used in the frontline. (See \"Diffuse large B cell lymphoma (DLBCL): Second or later relapse or patients who are medically unfit\", section on 'Second or later relapse' \"Diffuse large B cell lymphoma (DLBCL): Second or later relapse or patients who are medically unfit\", section on 'Second or later relapse'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sonrotoclax for relapsed/refractory mantle cell lymphoma (June 2026, Modified July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sonrotoclax, a second-generation BCL2 inhibitor, shows promising activity for relapsed/refractory mantle cell lymphoma (r/r MCL) after BTK inhibitor (BTKi) treatment. A study in 125 patients with r/r MCL reported a 52 percent response rate (including 15 percent complete response) with 16 months median duration of response and 7 months progression-free survival [14]. Adverse effects included cytopenias, pneumonia (10 percent), and tumor lysis syndrome (2 percent). The US Food and Drug Administration recently approved sonrotoclax for r/r MCL after ≥2 lines of systemic therapy that included a BTKi, and we consider sonrotoclax an acceptable option in this setting. (See \"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Long-term follow-up of CAR-T cell therapy in follicular lymphoma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chimeric antigen receptor (CAR)-T cell therapy is an option for multiply relapsed follicular lymphoma (FL) based on single-arm trials with limited follow-up. Longer follow-up comes from an analysis of 14 patients with FL treated with tisagenlecleucel which reported an estimated 10-year lymphoma-free survival of 47 percent with no relapses beyond three years and an estimated 10-year overall survival of 50 percent [15]. Notable long-term toxicities included prolonged B cell depletion and an increased risk of second primary malignancy. Where available, we consider CAR-T cell therapy an option for patients with multiply relapsed FL with short prior remission durations (eg, <24 months). This decision is individualized, weighing disease tempo, availability of other treatments, and expected toxicity. (See \"Treatment of relapsed or refractory follicular lymphoma\", section on 'Chimeric antigen receptor T cells'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Low-dose radiation therapy for primary cutaneous B cell lymphomas (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Primary cutaneous B cell lymphomas (PCBCL) are indolent disorders that respond well to radiation therapy (RT), but doses vary among practitioners. In a retrospective study of 535 patients with localized PCBCL, 91 percent had a complete response to RT; the response rate did not differ for ≤4 gray (Gy) and >4 Gy, but 10-year relapse-free survival was better with the higher doses (96 versus 73 percent) [16]. Toxicity was minimal, and 10-year overall survival was 87 percent. These findings support our approach of initial treatment with 4 Gy RT for localized/regional PCBCL. (See \"Primary cutaneous follicle center lymphoma\", section on 'Solitary or localized lesions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "MULTIPLE MYELOMA AND OTHER PLASMA CELL DISORDERS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Iberdomide in relapsed multiple myeloma (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For relapsed multiple myeloma, standard three-drug regimens such as daratumumab, bortezomib, and dexamethasone (DVd) are often used for patients who are not candidates for BCMA-directed approaches (algorithm 2). In a randomized trial, iberdomide, daratumumab-hyaluronidase, and dexamethasone (IberDd) led to deeper responses when compared with DVd, albeit with substantially increased neutropenia and infectious complications [17,18]. These results led to accelerated regulatory approval of IberDd in the United States for patients who have received at least one prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent. Further follow-up is needed to determine whether these deep responses translate into delayed progression and improved overall survival. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of lenalidomide maintenance in standard-risk multiple myeloma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with newly diagnosed, standard-risk multiple myeloma (MM) not undergoing autologous hematopoietic cell transplantation (HCT) commonly receive induction followed by lenalidomide-based maintenance until progression (indefinite maintenance). In a randomized trial in such patients, indefinite versus two years of maintenance lenalidomide following three-drug induction resulted in similar overall and progression-free survival, but increased toxicity, including more second primary malignancies [19]. For patients with standard-risk MM, we now suggest two years of lenalidomide maintenance rather than treatment until progression. For those also receiving an anti-CD38 monoclonal antibody as maintenance, we continue the antibody until progression. While this trial evaluated maintenance after three-drug induction, we extrapolate the results to standard-risk MM treated with more intensive initial therapy, such as four-drug induction with or without autologous HCT. (See \"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease' and \"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Subcutaneous isatuximab in multiple myeloma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The anti-CD38 monoclonal antibody isatuximab is widely used for the treatment of multiple myeloma. While initial trials evaluating its efficacy used intravenous (IV) weight-based dosing, fixed-dose subcutaneous (SC) isatuximab has demonstrated similar efficacy and lower rates of infusion-related reactions when compared with IV administration in a randomized trial [20]. Based on this and other data, SC isatuximab received regulatory approval in the United States as part of several combination regimens. If available, we suggest use of a fixed-dose, SC anti-CD38 monoclonal antibody rather than IV administration. (See \"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mezigdomide for relapsed multiple myeloma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cereblon E3 ligase modulatory drugs (CELMoDs) are a novel class of immunomodulatory agents that have shown promising activity in relapsed multiple myeloma (MM). In a randomized trial of patients with relapsed/refractory MM with prior exposure to lenalidomide and an anti-CD38 monoclonal antibody, the addition of the CELMoD mezigdomide to carfilzomib and dexamethasone (Kd) improved progression-free survival (median 18 versus 8.3 months), albeit with a moderate increase in toxicity, including cytopenias and infections [21]. While promising, mezigdomide is not commercially available. (See \"Multiple myeloma: Overview of management\", section on 'Drugs under development'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Talquetamab plus daratumumab-based regimens for relapsed multiple myeloma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The GPRC5DxCD3 bispecific antibody talquetamab is approved as a single agent for heavily pretreated multiple myeloma (MM) based on single-arm trials showing fast, deep responses. In a three-arm, large randomized trial, the combinations of talquetamab plus daratumumab and pomalidomide (Tal-DP) and talquetamab plus daratumumab (Tal-D) both improved progression-free survival versus daratumumab, pomalidomide, and dexamethasone (DPd) in relapsed or refractory MM [22]. The talquetamab-containing arms had a different toxicity profile, including cytokine release syndrome, neurologic toxicity, taste change and weight loss, and skin/nail toxicity. Overall survival data are immature. Follow-up is short, and we await further data regarding efficacy and safety before incorporating these combinations into our routine practice. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Talquetamab (GPRC5DxCD3)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RED BLOOD CELL DISORDERS AND ANEMIAS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mitapivat in sickle cell disease (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most disease-modifying therapies for sickle cell disease (SCD) are used to reduce vaso-occlusive pain episodes, but some individuals may benefit from therapies for anemia. Mitapivat is a pyruvate kinase activator used for other congenital anemias (pyruvate kinase deficiency, thalassemia). In a new randomized trial in over 200 individuals >16 years of age with SCD who had frequent pain and severe anemia (75 percent receiving hydroxyurea), mitapivat increased hemoglobin by at least 1 g/dL in 41 percent, versus 3 percent in the placebo arm; this translated to fewer transfusions (24 versus 41 percent), reduced fatigue, and a possible reduction in vaso-occlusive pain in the individuals who had a hemoglobin response [23]. This study suggests mitapivat is a good option for older adolescents and adults with SCD who have symptomatic anemia. Further study is awaited. (See \"Disease-modifying therapies to prevent pain and other complications of sickle cell disease\", section on 'Mitapivat'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mitapivat for thalassemia (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data are rapidly emerging on new therapies to reduce the transfusion burden in individuals with thalassemia. In a randomized trial in 258 adults with transfusion-dependent alpha or beta thalassemia, the pyruvate kinase activator mitapivat reduced the number of transfusions over placebo (reduced transfusions by ≥50 percent in 30 percent of mitapivat-treated patients versus 13 percent with placebo); 17 individuals (10 percent) became transfusion independent, versus only 1 individual on placebo [24]. Treatment was generally well tolerated. These findings support the use of medical therapies to reduce transfusion burden in individuals with transfusion-dependent thalassemia, with shared decision-making about whether to use a medical therapy and which therapy to use. (See \"Management of thalassemia\", section on 'Mitapivat'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "IV iron in pregnancy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral and intravenous (IV) iron are both effective for replenishing iron stores, but IV iron repletes iron stores and improves hemoglobin faster. In a new meta-analysis that analyzed 29 randomized trials including over 11,000 pregnant participants, IV iron reduced the likelihood of transfusions during the delivery admission and increased maternal hemoglobin and maternal and neonatal ferritins [25]. Adverse effects were mild and less frequent with IV iron. This supports our use of IV iron in pregnant individuals who are beyond the first trimester and cannot tolerate oral iron, those with severe anemia (especially later in the pregnancy), and those for whom oral iron does not effectively increase the hemoglobin and/or ferritin levels. First-trimester safety data are not available. (See \"Anemia in pregnancy\", section on 'Choice between oral and IV iron'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [26]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Increased fracture risk with ferric carboxymaltose (April 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ferric carboxymaltose (FCM) is an intravenous iron formulation associated with an increased risk of hypophosphatemia. A recent study of >20,000 participants in the TriNetX database (>17,000 treated with FCM and >3000 treated with ferric derisomaltose) has reported an increased risk of osteomalacia and fractures with FCM; the fracture risk remained statistically significant after multivariate adjustment and propensity matching [27]. A Boxed warning about these risks has been added to the product information [28]. These findings support caution with FCM and highlight the importance of monitoring for hypophosphatemia, especially when more than one dose is used. For nonpregnant individuals treated with intravenous iron, we suggest using a formulation other than FCM. (See \"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Iron supplementation in malaria-endemic areas (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The benefit and safety of iron supplements in malaria-endemic areas remain uncertain. In a new placebo-controlled trial that randomly assigned over 2000 infants 6 to 12 months of age to various combinations of iron supplementation and malaria chemoprophylaxis, malaria risk was similar and very low across all groups after six months [29]. Increases in serum ferritin were modest, and other outcomes, including prevalence of anemia and cognitive function at 18 months of age, were not significantly different. This trial supports the safety of treating iron deficiency in individuals at high risk of malaria who are receiving malaria chemoprophylaxis. (See \"Anemia in malaria\", section on 'Iron supplementation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Zinc supplementation in sickle cell disease (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zinc deficiency is common in children with sickle cell disease, especially in sub-Saharan Africa, and it may contribute to increased risks of infection. A previous trial supplementing zinc at 10 mg daily did not reduce infection rates. However, a new trial in 100 Ugandan children age one to five years who were randomly assigned to zinc 20 mg daily or placebo reported significant reductions in infections with zinc, especially viral upper respiratory infections (adjusted incidence rate ratio [aIRR] 0.61) and serious bacterial infections (aIRR 0.32); malaria risk was not reduced [30]. While these data are compelling, they are most relevant to regions of the world with high baseline infectious risks and fewer resources for treating infections. Studies specific to resource-abundant regions are awaited before routine zinc supplementation is recommended worldwide. (See \"Overview of preventive/outpatient care in sickle cell disease\", section on 'Overview of infection prevention and role of zinc'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Preoperative IV iron to treat anemia before cardiac surgery (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Preoperative anemia due to iron deficiency is common in patients undergoing cardiac surgery. In a new randomized trial in over 900 patients undergoing elective cardiac surgery who had preoperative anemia, administration of intravenous (IV) iron as a total dose infusion before surgery reduced the likelihood red blood cell (RBC) transfusions (61 versus 68 percent) [31]. These findings support our practice of treating iron deficiency prior to elective major surgery; providing iron with sufficient time for an RBC response is critical. (See \"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prevalence of G6PD deficiency in newborns (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency are at risk for acute hemolysis after exposure to certain drugs, chemicals, and foods (table 1). Some states in the United States (US) have started performing universal or risk-based newborn screening for G6PD deficiency. A new study of over four million births in the US determined that rates of diagnosis were sufficiently higher in states using these approaches, from 0.9 per 1000 births in all states, up to 5.4 per 1000 births in New York (using risk-based screening), and 7.1 per 1000 births in Pennsylvania and Washington, DC (using universal screening) [32]. These results suggest that a significant proportion of individuals with G6PD in the US remain undiagnosed, and more intensive screening could avoid significant morbidity through avoidance of known triggers of hemolysis. (See \"Glucose-6-phosphate dehydrogenase (G6PD) deficiency\", section on 'Role of population screening'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Survival after hematopoietic stem cell transplantation for sickle cell disease (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reported outcomes with hematopoietic stem cell transplantation in sickle cell disease (SCD) are excellent, but the impact on survival relative to medical therapy is unclear. In a new retrospective study in 94 adolescents and adults with SCD who were referred to a single institution for transplant evaluation from 2010 to 2022, overall two-year survival appeared similar for the 54 individuals undergoing transplantation compared with those who continued medical therapy (98 versus 97 percent) [33]. Transplantation was associated with higher event-free survival (72 versus 29 percent); however, this was a heterogenous composite endpoint. As more robust longitudinal data are awaited, decisions to pursue transplantation versus medical therapy remain highly individualized. (See \"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Survival'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Clinical report on iron deficiency in children (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A new clinical report on prevention, diagnosis, and treatment of iron deficiency in children has been published by the American Academy of Pediatrics and American Society of Pediatric Hematology and Oncology [34]. A key update is to use higher ferritin thresholds for diagnosing iron deficiency (≤20 ng/mL [45 pmol/L] for age ≥9 months through <11 years, and ≤30 ng/mL [67 pmol/L] for age ≥11 years). The report also recommends universal laboratory screening for iron deficiency, performed once for all infants between 9 and 18 months of age, and once in menstruating individuals. (See \"Iron deficiency in infants and children <12 years: Screening, prevention, clinical manifestations, and diagnosis\", section on 'Definitions' and \"Iron requirements and iron deficiency in adolescents\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Consensus recommendations for gene therapy in sickle cell disease (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The first consensus recommendations for gene therapy in individuals with sickle cell disease (SCD) have been published by the American Society for Transplantation and Cellular Therapy and the International Society for Cell & Gene Therapy [35]. Key recommendations focus on multidisciplinary integrated care, incorporating many features beyond genotype in the decision to pursue gene therapy, plerixafor-only autologous hematopoietic stem cell (HSC) mobilization preceded by automated red blood cell exchange to lower the percentage of sickle hemoglobin, and pharmacokinetic-guided dosing of myeloablative busulfan conditioning. The decision to pursue gene therapy or other curative therapy is highly individualized. (See \"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Overview of gene therapy approaches including gene silencing/editing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THROMBOSIS AND HEMOSTASIS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Direct oral anticoagulants for heparin-induced thrombocytopenia (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Heparin-induced thrombocytopenia (HIT) is a life-threatening complication of heparin exposure with a high risk of venous and arterial thrombosis, requiring therapeutic anticoagulation with a nonheparin anticoagulant. Over time, direct oral anticoagulants (DOACs) have been increasingly used, but data on their safety and efficacy relative to parenteral agents are limited. A new meta-analysis evaluating 44 publications described 352 individuals who received a DOAC for HIT, either as initial treatment (54 percent) or following parenteral anticoagulation (46 percent); among these individuals, 6 percent had thrombosis, and 3 percent had bleeding, with no clear pattern related to the specific DOAC or sequence of therapies [36]. This analysis supports DOAC use for HIT when appropriate, but more evidence is needed. Other considerations may impact anticoagulant selection (table 2). (See \"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prothrombin complex concentrates for factor Xa inhibitor-associated bleeding (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prothrombin complex concentrates (PCCs) are used to treat critical bleeding associated with factor Xa inhibitors, but data on their efficacy have been sparse. A new study evaluating 100 individuals who presented with factor Xa inhibitor-associated major bleeding or requiring urgent surgery reported that hemostasis was effective in 50 percent of bleeding episodes and good to moderate in 67 percent [37]. For urgent surgeries, hemostasis was normal in 77 percent. There were 13 deaths, and the risk of thrombotic events was 6.9 percent. These data support the use of PCCs for life-threatening bleeding and their avoidance in less-severe bleeding, especially since thrombotic risks are known to be elevated at baseline in individuals receiving an anticoagulant. (See \"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [38]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of combined anticoagulant and antiplatelet therapy in patients with atrial fibrillation after PCI (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Duration of antiplatelet treatment following percutaneous coronary intervention (PCI) in patients requiring concomitant oral anticoagulation is typically 6 to 12 months, but shorter durations are being investigated. The OPTIMA-AF trial randomly assigned 1079 patients with atrial fibrillation undergoing PCI for predominantly chronic coronary syndrome (CCS) to combination direct oral anticoagulation (DOAC) plus P2Y12 inhibitor for 1 versus 12 months, in either case followed by DOAC monotherapy [39]. Incidence of death and thromboembolism was similar between the groups, but event rates were lower than expected. Bleeding risk was lower in the one-month combination group (hazard ratio [HR] 0.50). While this trial supports earlier discontinuation of antiplatelet therapy in those with atrial fibrillation and CCS undergoing PCI, further data are needed to confirm safety and efficacy. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Aspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [40]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "TRANSFUSION MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Jehovah's witnesses may now accept blood components (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [41,42]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Serious allergic transfusion reactions in alpha-gal syndrome (June 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alpha-gal syndrome is a tick-borne disease in which exposure to tick saliva causes an allergy to red meat. The allergen is nearly identical to the carbohydrate antigen of blood group B, and emerging data suggest that allergic transfusion reactions in some group O individuals may be due to exposure to B antigen in plasma or platelet transfusions. In a new study characterizing severe allergic/anaphylactic transfusion reactions in 59 recipients, the rate of severe IgE-mediated reactions to alpha-gal was 67 percent in group O individuals receiving plasma or platelets from group B or AB donors and 23 percent with transfusions from group O donors [43]. Another study of over 500,000 platelet and plasma transfusions reported that rates of allergic reactions were higher in group O recipients of group B or AB units in regions of the United States with high rates of alpha-gal syndrome [44]. Further study of this phenomenon is awaited. (See \"Allergic and anaphylactic transfusion reactions\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Efficacy of cold-stored platelets (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Platelets are stored at room temperature, which reduces shelf-life and increases the risk of bacterial contamination. Use of cold storage could extend shelf-life, but concerns remain about reduced platelet increments and impaired hemostasis. In a new randomized trial in 1000 individuals undergoing cardiac surgery, platelets stored in the cold for up to 21 days provided similar hemostatic efficacy, intensive care unit stay, volume of platelets transfused, and hemoglobin values as platelets stored at room temperature [45]. These results suggest comparable efficacy of cold-stored platelets, especially in selected individuals who are expected to recover rapidly, such as patients undergoing trauma resuscitation and cardiac surgery. Ultimately, decisions about their use will be made by regulatory organizations and individual institutions, based on their platelet transfusion needs and the proportion of room temperature-stored platelets they discard. (See \"Platelet transfusion: Indications, ordering, and associated risks\", section on 'Cold storage (investigational)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Platelet transfusion in patients with TTP (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thrombotic thrombocytopenic purpura (TTP) is a life-threatening condition with thrombocytopenia and microvascular thrombosis; bleeding is rare but can occur. Platelet transfusions are perceived to worsen thrombotic risk, but this is not well supported. In a retrospective study of 693 patients with newly diagnosed TTP in which 14 percent received platelet transfusions, after matching for age and comorbidities, individuals receiving platelet transfusions had higher 30-day mortality (30 versus 14 percent) and higher rates of myocardial infarction but not venous thrombosis [46]. This may represent a true adverse event or a noncausal association because patients receiving platelets were sicker. We do not transfuse platelets in nonbleeding individuals with TTP, but transfusions should not be withheld for clinically important bleeding or invasive procedures with significant bleeding risk. (See \"Immune TTP: Initial treatment\", section on 'Bleeding/platelet transfusion'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tranexamic acid for major noncardiac surgery (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tranexamic acid (TXA) is routinely used in cardiac and orthopedic surgery, but other surgical patients with a high risk of blood loss may also benefit. In a 2026 randomized trial in over 8000 noncardiac surgical patients (mostly oncologic surgery), intravenous TXA reduced risks of red blood cell transfusion (7.4 percent, versus 9.8 percent with placebo) without increasing risks of venous thromboembolism (2.1 percent in both arms) [47]. For most patients undergoing major noncardiac surgery with a high risk of blood loss, we now suggest prophylactic TXA rather than no antifibrinolytic therapy. Contraindications are limited and include disseminated intravascular coagulation and active thromboembolic disease. (See \"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Prehospital whole blood transfusion for traumatic hemorrhage (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent trials have examined the efficacy and safety of prehospital transfusion of low-titer, group O whole blood (LTOWB) versus blood components by Emergency Medical Services (EMS):"
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a pragmatic trial of over 600 patients with life-threatening bleeding transported by air ambulances in England, patients were transfused up to 2 units of LTOWB versus red cells plus plasma [48]. The composite of mortality plus massive transfusion within 24 hours and 90-day call-cause mortality was similar between the groups; the LTOWB group had slightly fewer serious adverse events."
+      },
+      {
+        "type": "paragraph",
+        "text": "● In another pragmatic trial of over 1000 patients with trauma and hypotension transported by air bases in the United States, either from the scene or from a referring emergency department, patients were transfused up to 2 units of LTOWB versus red cells, plasma, or both. Mortality at 30 days was similar (26 versus 21 percent) between LTOWB and components, as was in-hospital mortality, blood product requirements, and adverse events [49]."
+      },
+      {
+        "type": "paragraph",
+        "text": "These findings suggest that use of LTOWB, which is logistically simpler than components, is a reasonable option for EMS with prehospital transfusion programs. (See \"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER HEMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "ESAs in individuals with solid tumors and anemia (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Erythropoiesis stimulating agents (ESAs) can reduce anemia, but concerns persist about adverse effects in individuals with cancer (promoting cancer growth or increasing the risk of thrombosis). A new retrospective study evaluated survival in over 1600 participants in the TriNetX registry who had anemia, no prior history of venous thromboembolism (VTE), and nonhematologic cancer (lung, breast, prostate, kidney, stomach, bladder, head and neck) and received an ESA versus over 1600 propensity matched controls who did not receive an ESA [50]. Survival was better in the ESA group (73 versus 69 percent alive at one year; hazard ratio for death 0.82). There was no statistically significant difference in VTE rates. Although causality is not established, these data provide reassurance that guideline-directed use of an ESA does not appear to reduce survival. (See \"Role of ESAs in adults with non-hematologic cancers\", section on 'Effects on survival'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Characteristics of infection-associated DIC in adults (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Disseminated intravascular coagulation (DIC) caused by infection is typically attributed to sepsis. In a secondary analysis of postmarketing surveillance of over 2300 cases of infection-associated DIC in Japan, respiratory infections were the most common cause (33 percent), followed by sepsis (29 percent), abdominal infections (13 percent), and other sites [51]. Approximately 9 percent had a thrombotic microangiopathy-like phenotype, which correlated with higher D-dimer, more kidney and liver dysfunction, and reduced survival. These data help to raise awareness about infections other than sepsis as causes of DIC and to identify possible prognostic factors. (See \"Evaluation and management of disseminated intravascular coagulation (DIC) in adults\", section on 'Causes of DIC'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rasburicase for tumor lysis syndrome (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rasburicase is more effective than allopurinol for controlling hyperuricemia from tumor lysis syndrome (TLS), but it has not been proven to reduce kidney injury or death. In a retrospective study of over 1200 adults with various cancers, rasburicase administration within 12 hours of TLS onset, compared with delayed or no rasburicase, was associated with a lower risk of acute kidney injury requiring kidney replacement therapy or death (33 versus 42 percent), as well as lower 90-day mortality (46 versus 54 percent) [52]. Adverse events occurred in only three total patients, including rasburicase-associated hemolytic anemia and methemoglobinemia each in one patient. This study provides evidence that prompt administration of rasburicase improves clinically important outcomes in patients with TLS and further supports our use of this agent for TLS prevention and treatment. (See \"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Eltrombopag plus cyclosporine in adults with moderate aplastic anemia (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Moderate aplastic anemia (MAA) is associated with variable cytopenias and erythrocyte/platelet transfusion needs, but there has been no consensus treatment for adults with MAA who require systemic therapy. In a randomized trial that included 75 patients, eltrombopag plus cyclosporine (CsA) achieved more hematologic responses at 24 weeks (71 versus 43 percent) and comparable survival and relapses at 48 weeks compared with CsA plus placebo [53]. Toxicity was mild and comparable between the two arms. For most adults with MAA who require systemic treatment, we suggest eltrombopag plus CsA rather than other treatments, based on good efficacy and little toxicity. (See \"Treatment of aplastic anemia in adults\", section on 'Initial treatment for MAA'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Congenital anomalies with vitamin B12 and folate deficiency (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Maternal folate deficiency is known to increase the risk of neural tube defects. In a new study from China that analyzed over 17,000 individuals in a preconception cohort, maternal vitamin B12 or folate deficiency was associated with a greater risk of congenital anomalies in other organ systems, such as cardiac/circulatory, limb, and genitourinary, in a dose-dependent pattern (higher risks associated with more severe deficiency) [54]. In a separate group of over 3000 couples tested before conception, low vitamin B12 levels in either parent predicted a greater risk of congenital anomalies. The overall prevalence of congenital anomalies was low and consistent with other population estimates. These results reinforce the importance of identifying and treating these vitamin deficiencies. (See \"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Causes and prognosis of acquired methemoglobinemia (March 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Acquired methemoglobinemia is a potentially life-threatening condition caused by substances that oxidize heme, preventing oxygen delivery to the tissues. Two new studies from poison centers in different countries illustrate the range of causes and likelihood of survival. In a series of 1245 individuals from the United States, the most common causes were nonpharmaceutical nitrates and nitrites, dapsone, phenazopyridine, and local anesthetics [55]; in a series of 169 individuals from Thailand, the most common causes were dapsone and the organic herbicide propanil [56]. The fatality rates were 8 and 11 percent, respectively, and high proportions of the nitrate, nitrite, and fertilizer ingestions were for intentional self-harm. These data reinforce the importance of rapid recognition and treatment. (See \"Methemoglobinemia\", section on 'Most common acquired causes'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Normal life expectancy and limited complications with sickle cell trait (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sickle cell trait (heterozygosity for the sickle cell point mutation) is an unaffected carrier state, but questions continue to arise about health risks. A new study of nearly 500,000 individuals from the United Kingdom biobank followed for 15 years reported no increased mortality from sickle cell trait and no increased risk of cardiovascular death, myocardial infarction, heart failure, ischemic stroke, or pulmonary embolism [57]. Risks were increased for diabetes, chronic kidney disease, and hypertension. This study adds to existing data about clinical manifestations and eliminates biases from analyzing individuals with sickle cell trait who were preselected due to other morbidities. (See \"Sickle cell trait\", section on 'Life expectancy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "High rates of bleeding and diagnostic delays in HHT (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hereditary hemorrhagic telangiectasia (HHT) often is not considered in patients with bleeding manifestations. A new study provides information on the first 600 individuals enrolled in the Comprehensive HHT Outcomes Registry of the United States (CHORUS) [58]. Compelling findings include the long delay in diagnosis (average age at diagnosis, 37 years, despite average onset of symptoms at 16 years), high rates of various types of bleeding (epistaxis in 95 percent, gastrointestinal bleeding in 30 percent, heavy menstrual bleeding in 35 percent), high prevalence of iron deficiency and/or anemia (in 68 percent, with 41 percent requiring intravenous iron and 25 percent receiving transfusions), and high rates of complications from vascular malformations. Clinicians should consider HHT in patients with recurrent epistaxis and other types of unexplained bleeding. (See \"Clinical manifestations and diagnosis of hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome)\", section on 'When to suspect'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Association of iron deficiency with incident dementia (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Iron is needed for red blood cell production, but it also has important roles in the brain. In a new study involving over 70,000 participants in a Swedish database who were >50 years old, had blood testing for iron status, and were followed for up to 15 years, iron deficiency correlated with incident dementia diagnosis after adjustment for age, sex, education, and some comorbidities, with an adjusted hazard ratio of 1.24 (95% CI 1.18-1.42) [59]. Several comorbidities and medications that could increase dementia risk were not evaluated; however, this association warrants further investigation, and it highlights the importance of evaluating and treating iron deficiency. (See \"Regulation of iron balance\", section on 'Role of iron in neuronal function'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational oral small molecule bitopertin for protoporphyria (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Protoporphyria causes painful nonblistering skin sensitivity that severely limits sunlight tolerance and quality of life. The main treatment is afamelanotide, a subcutaneous implant that increases skin melanin production, but access is limited. Bitopertin is an investigational oral small molecule that reduces protoporphyrin production by decreasing transport of glycine, the initial substrate for heme synthesis. In a randomized trial in 75 adults with protoporphyria, bitopertin improved sunlight tolerance and reduced phototoxic reactions without major adverse effects [60]. Further study is ongoing. (See \"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Reduced thrombosis using tetrasodium EDTA as a locking solution for central venous catheters (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The best catheter-locking agent to use in patients at high risk for catheter-related complications remains unknown. In a trial that randomly assigned 1468 adult intensive care unit (ICU) patients to a control lock (ie, saline or 4% citrate for hemodialysis catheters) or to a tetrasodium ethylenediaminetetraacetic acid (Na4EDTA) lock, the Na4EDTA group had a lower composite incidence rate of catheter removal due to occlusion, thrombosis requiring alteplase infusion, or central line-associated bloodstream infection. However, this result was driven by the reduction in the rate of alteplase administration (11.67 versus 17.73 per 1000 catheter-days, respectively) [61]. The results of this trial support the use of this agent, although additional studies are needed to determine whether Na4EDTA should be used routinely or selectively in the ICU population. (See \"Routine care and maintenance of intravenous devices\", section on 'Locking'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nACUTE LEUKEMIAS AND MYELODYSPLASTIC SYNDROMES\n\nVenetoclax plus azacitidine for acute myeloid leukemia (September 2026)\n\nVenetoclax (ven) plus either azacitidine (aza) or decitabine (dec) is preferred for acute myeloid leukemia (AML) in patients who are not suitable for 7+3 therapy (infusional cytarabine plus anthracycline), but its role for younger, healthier patients is not well defined. A randomized trial reported that ven/aza achieved comparable survival with more patients proceeding to transplantation than 7+3, but most patients with favorable cytogenetics or mutated FLT3 were excluded, and the median age was 65 years [1]. Ven/aza caused less toxicity, and this likely increased the transplantation rate in these relatively older patients. Although we consider ven plus either aza or dec to be an acceptable alternative for selected patients with intermediate- or adverse-risk genetic features, we await longer-term outcomes and confirmatory trials before routinely adopting this approach in patients suitable for 7+3 therapy. (See \"Acute myeloid leukemia: Induction therapy in fit, younger adults\", section on '7+3 remission induction therapy'.)\n\nLiposomal daunorubicin-cytarabine for induction therapy in pediatric acute myeloid leukemia (September 2026)\n\nThere is no consensus induction chemotherapy regimen for pediatric acute myeloid leukemia (AML), and drug choices, doses, and schedules vary among cooperative groups. A phase 3 trial that randomly assigned patients to either conventional cytarabine, daunorubicin, and gemtuzumab ozogamicin (GO; a CD33-targeted immunoconjugate) versus liposomal daunorubicin-cytarabine (CPX-351) and GO was stopped early when the CPX-351 arm was associated with comparable survival but a trend toward more relapses [2]. The CPX-351 arm was also associated with more mucositis and slower bone marrow recovery. The trial results support the use of conventional cytarabine and daunorubicin rather than CPX-351 for induction therapy in pediatric AML. (See \"Acute myeloid leukemia: Children and adolescents\", section on 'Induction therapy'.)\n\nPivekimab sunirine approval for blastic plasmacytoid dendritic cell neoplasm (June 2026)\n\nPivekimab sunirine is a CD123-immunconjugate that has activity against blastic plasmacytoid dendritic cell neoplasm (BPDCN), a rare CD123-expressing acute leukemia that presents with cutaneous lesions, with or without blood/bone marrow involvement. In 33 treatment-naïve patients with BPDCN, pivekimab was associated with 70 percent response rate (with 10 months median response duration) and 17 months median overall survival[3]. Pivekimab can cause infusion reactions, edema, and hepatotoxicity, including hepatic sinusoidal obstruction syndrome/veno-occlusive disease. This study led to US Food and Drug Administration approval for BPDCN, and we consider it or tagraxofusp (another CD123-targeted agent) acceptable for treating BPDCN. (See \"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'.)\n\nDonor choice for allogeneic hematopoietic cell transplantation (June 2026)\n\nMatched sibling donors (MSD) are generally preferred for allogeneic hematopoietic cell transplantation (HCT), but studies are evaluating alternatives when an MSD is not available. In a prospective study of 1179 transplants, overall survival, disease-free survival, and transplant-related mortality were comparable between matched unrelated donor (MUD), haploidentical, and mismatched unrelated donor (mMUD) grafts [4]. However, compared with MUD, umbilical cord blood grafts were associated with inferior two-year overall survival (51 versus 65 percent) and disease-free survival (42 versus 57 percent), with increased transplant-related mortality (32 versus 15 percent). These data support our preference for a MUD or haploidentical graft when an MSD is not available. (See \"Donor selection for hematopoietic cell transplantation\", section on 'When no MSD is available'.)\n\nGlucocorticoid choice for grade 1 acute graft-versus-host disease (June 2026)\n\nGlucocorticoids (GC) are the mainstay of treatment for acute graft-versus-host disease (aGVHD), but the choice of topical versus systemic GC varies for grade 1 (ie, skin-only) aGVHD. In a retrospective study of 1143 patients with grade 1 aGVHD, outcomes were compared between early systemic GC therapy (ie, <7 days from diagnosis and before progression to grade ≥2) versus topical corticosteroids [5]. While treatment response, aGVHD progression, and overall survival were comparable, early systemic GC therapy was associated with higher non-relapse mortality (NRM; 12.6 versus 6.9 percent) and more infection-related deaths (4.7 versus 1.3 percent). Early systemic GC was also independently associated with NRM in multivariable analysis (hazard ratio 1.6). We continue to suggest topical GC therapy for patients with grade 1 aGVHD. (See \"Treatment of acute graft-versus-host disease\", section on 'Grade 1 aGVHD'.)\n\nDecitabine-cedazuridine plus venetoclax for AML induction therapy (May 2026)\n\nVenetoclax plus a hypomethylating agent (HMA) is preferred for induction therapy of acute myeloid leukemia (AML) in patients not suitable for more intensive regimens, but the role of the oral HMA, decitabine-cedazuridine, in this combination has not been proven. A study in 101 patients reported a 63 percent response rate (including 47 percent complete responses) and 16 months median survival [6], with safety and outcomes comparable with venetoclax plus either azacitidine or decitabine. The US Food and Drug Administration approved decitabine-cedazuridine plus venetoclax for newly diagnosed AML in patients ≥75 years or unsuitable for intensive induction therapy, and we consider this all-oral regimen acceptable in this setting. (See \"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'.)\n\nCHRONIC LYMPHOCYTIC LEUKEMIA\n\nPirtobrutinib for previously untreated CLL/SLL (October 2026)\n\nThe noncovalent Bruton tyrosine kinase (BTK) inhibitor pirtobrutinib is an option for patients with chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) progressing after a covalent BTK inhibitor (eg, ibrutinib, acalabrutinib, or zanubrutinib). In the United States, pirtobrutinib is now approved for adults with previously untreated CLL/SLL and no known 17p deletion based on randomized trials demonstrating superiority to both chemoimmunotherapy and single-agent ibrutinib [7]. It has not been compared with other BTK inhibitors or venetoclax-based fixed-duration therapies, and data regarding impact on subsequent therapies are limited. We do not routinely use pirtobrutinib in this setting, but we consider it an option for older patients unlikely to require multiple lines of therapy, especially if cardiac toxicities are a concern. (See \"Selection of initial therapy for symptomatic or advanced chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Is there a role for pirtobrutinib?'.)\n\nPirtobrutinib, venetoclax, and rituximab in relapsed chronic lymphocytic leukemia (July 2026)\n\nCombinations that target BTK and BCL2 are highly effective, fixed-duration treatment options for chronic lymphocytic leukemia (CLL). In a randomized trial in patients with relapsed or refractory CLL, primarily after a covalent BTK inhibitor therapy, the addition of the noncovalent BTK inhibitor pirtobrutinib to fixed-duration venetoclax plus rituximab improved progression-free survival with limited toxicity [8]. Further follow-up is needed to better understand response durability and impact on overall survival. Based on these and other data, we now consider off-label pirtobrutinib, venetoclax, and rituximab an option for patients progressing on a covalent BTK inhibitor. (See \"Treatment of relapsed or refractory chronic lymphocytic leukemia\", section on 'Venetoclax plus BTK inhibitor'.)\n\nUse of bispecific antibodies in Richter transformation (May 2026)\n\nHistologic transformation of chronic lymphocytic leukemia (ie, Richter transformation [RT]) is associated with an adverse prognosis, but emerging data support the use of CD20xCD3 bispecific antibodies in a subset of patients. Three single-arm prospective trials reported rapid responses following single-agent epcoritamab [9], glofitamab [10], and mosunetuzumab [11], with some durable complete responses. These agents have not been directly compared with other therapies or with each other, and longer follow-up is needed to better understand efficacy and toxicity. However, where available, we consider bispecific antibodies appropriate for use instead of, or after chimeric antigen receptor T (CAR-T) cell therapy in multiply relapsed/refractory RT, typically as a bridge to subsequent allogeneic hematopoietic cell transplantation or CAR-T (algorithm 1). (See \"Richter transformation in chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Bispecific antibodies for multiply relapsed/refractory RT'.)\n\nLYMPHOMAS\n\nTreatment of nodular lymphocyte predominant Hodgkin/B cell lymphoma (September 2026)\n\nThere is no consensus for management of nodular lymphocyte predominant Hodgkin lymphoma (NLPHL)/nodular lymphocyte predominant B cell lymphoma (NLPBL), an indolent B cell lymphoma that responds well to all treatments but can relapse or transform. A consortium study of 779 patients with early-stage disease reported >99 percent long-term survival with all approaches, but fewer relapses with radiation therapy (RT) than with observation, rituximab, or chemoimmunotherapy [12]. RT is well tolerated but can cause adverse effects in growing children. Treatment of NLPHL/NLPBL is individualized, but we suggest RT for most adults with early-stage disease that can be safely treated with a single field. (See \"Treatment of nodular lymphocyte-predominant Hodgkin lymphoma\", section on 'Adults'.)\n\nR-pola-GemOx for relapsed diffuse large B cell lymphoma (September 2026)\n\nPolatuzumab vedotin (pola) is a CD79-directed antibody-drug conjugate used for frontline treatment of diffuse large B cell lymphoma (DLBCL), but its role is less well defined for relapsed DLBCL. In a randomized trial in patients with second or later relapse of DLBCL, pola plus rituximab, gemcitabine, and oxaliplatin (R-pola-GemOx) versus R-GemOx achieved longer median survival (19.5 versus 12.5 months) and progression-free survival at two years (25 versus 12 percent [13]. Cytopenias were comparable, but infections (some fatal) and mild sensory neuropathy were more common with pola. Along with other GemOx-based chemoimmunotherapy regimens, we consider R-pola-GemOx acceptable for second or later DLBCL relapse in transplant- and chimeric antigen receptor (CAR)-T cell therapy-ineligible patients, although we may choose other regimens when pola was recently used in the frontline. (See \"Diffuse large B cell lymphoma (DLBCL): Second or later relapse or patients who are medically unfit\", section on 'Second or later relapse' \"Diffuse large B cell lymphoma (DLBCL): Second or later relapse or patients who are medically unfit\", section on 'Second or later relapse'.)\n\nSonrotoclax for relapsed/refractory mantle cell lymphoma (June 2026, Modified July 2026)\n\nSonrotoclax, a second-generation BCL2 inhibitor, shows promising activity for relapsed/refractory mantle cell lymphoma (r/r MCL) after BTK inhibitor (BTKi) treatment. A study in 125 patients with r/r MCL reported a 52 percent response rate (including 15 percent complete response) with 16 months median duration of response and 7 months progression-free survival [14]. Adverse effects included cytopenias, pneumonia (10 percent), and tumor lysis syndrome (2 percent). The US Food and Drug Administration recently approved sonrotoclax for r/r MCL after ≥2 lines of systemic therapy that included a BTKi, and we consider sonrotoclax an acceptable option in this setting. (See \"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'.)\n\nLong-term follow-up of CAR-T cell therapy in follicular lymphoma (July 2026)\n\nChimeric antigen receptor (CAR)-T cell therapy is an option for multiply relapsed follicular lymphoma (FL) based on single-arm trials with limited follow-up. Longer follow-up comes from an analysis of 14 patients with FL treated with tisagenlecleucel which reported an estimated 10-year lymphoma-free survival of 47 percent with no relapses beyond three years and an estimated 10-year overall survival of 50 percent [15]. Notable long-term toxicities included prolonged B cell depletion and an increased risk of second primary malignancy. Where available, we consider CAR-T cell therapy an option for patients with multiply relapsed FL with short prior remission durations (eg, <24 months). This decision is individualized, weighing disease tempo, availability of other treatments, and expected toxicity. (See \"Treatment of relapsed or refractory follicular lymphoma\", section on 'Chimeric antigen receptor T cells'.)\n\nLow-dose radiation therapy for primary cutaneous B cell lymphomas (July 2026)\n\nPrimary cutaneous B cell lymphomas (PCBCL) are indolent disorders that respond well to radiation therapy (RT), but doses vary among practitioners. In a retrospective study of 535 patients with localized PCBCL, 91 percent had a complete response to RT; the response rate did not differ for ≤4 gray (Gy) and >4 Gy, but 10-year relapse-free survival was better with the higher doses (96 versus 73 percent) [16]. Toxicity was minimal, and 10-year overall survival was 87 percent. These findings support our approach of initial treatment with 4 Gy RT for localized/regional PCBCL. (See \"Primary cutaneous follicle center lymphoma\", section on 'Solitary or localized lesions'.)\n\nMULTIPLE MYELOMA AND OTHER PLASMA CELL DISORDERS\n\nIberdomide in relapsed multiple myeloma (August 2026)\n\nFor relapsed multiple myeloma, standard three-drug regimens such as daratumumab, bortezomib, and dexamethasone (DVd) are often used for patients who are not candidates for BCMA-directed approaches (algorithm 2). In a randomized trial, iberdomide, daratumumab-hyaluronidase, and dexamethasone (IberDd) led to deeper responses when compared with DVd, albeit with substantially increased neutropenia and infectious complications [17,18]. These results led to accelerated regulatory approval of IberDd in the United States for patients who have received at least one prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent. Further follow-up is needed to determine whether these deep responses translate into delayed progression and improved overall survival. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'.)\n\nDuration of lenalidomide maintenance in standard-risk multiple myeloma (July 2026)\n\nPatients with newly diagnosed, standard-risk multiple myeloma (MM) not undergoing autologous hematopoietic cell transplantation (HCT) commonly receive induction followed by lenalidomide-based maintenance until progression (indefinite maintenance). In a randomized trial in such patients, indefinite versus two years of maintenance lenalidomide following three-drug induction resulted in similar overall and progression-free survival, but increased toxicity, including more second primary malignancies [19]. For patients with standard-risk MM, we now suggest two years of lenalidomide maintenance rather than treatment until progression. For those also receiving an anti-CD38 monoclonal antibody as maintenance, we continue the antibody until progression. While this trial evaluated maintenance after three-drug induction, we extrapolate the results to standard-risk MM treated with more intensive initial therapy, such as four-drug induction with or without autologous HCT. (See \"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease' and \"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'.)\n\nSubcutaneous isatuximab in multiple myeloma (July 2026)\n\nThe anti-CD38 monoclonal antibody isatuximab is widely used for the treatment of multiple myeloma. While initial trials evaluating its efficacy used intravenous (IV) weight-based dosing, fixed-dose subcutaneous (SC) isatuximab has demonstrated similar efficacy and lower rates of infusion-related reactions when compared with IV administration in a randomized trial [20]. Based on this and other data, SC isatuximab received regulatory approval in the United States as part of several combination regimens. If available, we suggest use of a fixed-dose, SC anti-CD38 monoclonal antibody rather than IV administration. (See \"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'.)\n\nMezigdomide for relapsed multiple myeloma (June 2026)\n\nCereblon E3 ligase modulatory drugs (CELMoDs) are a novel class of immunomodulatory agents that have shown promising activity in relapsed multiple myeloma (MM). In a randomized trial of patients with relapsed/refractory MM with prior exposure to lenalidomide and an anti-CD38 monoclonal antibody, the addition of the CELMoD mezigdomide to carfilzomib and dexamethasone (Kd) improved progression-free survival (median 18 versus 8.3 months), albeit with a moderate increase in toxicity, including cytopenias and infections [21]. While promising, mezigdomide is not commercially available. (See \"Multiple myeloma: Overview of management\", section on 'Drugs under development'.)\n\nTalquetamab plus daratumumab-based regimens for relapsed multiple myeloma (June 2026)\n\nThe GPRC5DxCD3 bispecific antibody talquetamab is approved as a single agent for heavily pretreated multiple myeloma (MM) based on single-arm trials showing fast, deep responses. In a three-arm, large randomized trial, the combinations of talquetamab plus daratumumab and pomalidomide (Tal-DP) and talquetamab plus daratumumab (Tal-D) both improved progression-free survival versus daratumumab, pomalidomide, and dexamethasone (DPd) in relapsed or refractory MM [22]. The talquetamab-containing arms had a different toxicity profile, including cytokine release syndrome, neurologic toxicity, taste change and weight loss, and skin/nail toxicity. Overall survival data are immature. Follow-up is short, and we await further data regarding efficacy and safety before incorporating these combinations into our routine practice. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Talquetamab (GPRC5DxCD3)'.)\n\nRED BLOOD CELL DISORDERS AND ANEMIAS\n\nMitapivat in sickle cell disease (October 2026)\n\nMost disease-modifying therapies for sickle cell disease (SCD) are used to reduce vaso-occlusive pain episodes, but some individuals may benefit from therapies for anemia. Mitapivat is a pyruvate kinase activator used for other congenital anemias (pyruvate kinase deficiency, thalassemia). In a new randomized trial in over 200 individuals >16 years of age with SCD who had frequent pain and severe anemia (75 percent receiving hydroxyurea), mitapivat increased hemoglobin by at least 1 g/dL in 41 percent, versus 3 percent in the placebo arm; this translated to fewer transfusions (24 versus 41 percent), reduced fatigue, and a possible reduction in vaso-occlusive pain in the individuals who had a hemoglobin response [23]. This study suggests mitapivat is a good option for older adolescents and adults with SCD who have symptomatic anemia. Further study is awaited. (See \"Disease-modifying therapies to prevent pain and other complications of sickle cell disease\", section on 'Mitapivat'.)\n\nMitapivat for thalassemia (October 2026)\n\nData are rapidly emerging on new therapies to reduce the transfusion burden in individuals with thalassemia. In a randomized trial in 258 adults with transfusion-dependent alpha or beta thalassemia, the pyruvate kinase activator mitapivat reduced the number of transfusions over placebo (reduced transfusions by ≥50 percent in 30 percent of mitapivat-treated patients versus 13 percent with placebo); 17 individuals (10 percent) became transfusion independent, versus only 1 individual on placebo [24]. Treatment was generally well tolerated. These findings support the use of medical therapies to reduce transfusion burden in individuals with transfusion-dependent thalassemia, with shared decision-making about whether to use a medical therapy and which therapy to use. (See \"Management of thalassemia\", section on 'Mitapivat'.)\n\nIV iron in pregnancy (October 2026)\n\nOral and intravenous (IV) iron are both effective for replenishing iron stores, but IV iron repletes iron stores and improves hemoglobin faster. In a new meta-analysis that analyzed 29 randomized trials including over 11,000 pregnant participants, IV iron reduced the likelihood of transfusions during the delivery admission and increased maternal hemoglobin and maternal and neonatal ferritins [25]. Adverse effects were mild and less frequent with IV iron. This supports our use of IV iron in pregnant individuals who are beyond the first trimester and cannot tolerate oral iron, those with severe anemia (especially later in the pregnancy), and those for whom oral iron does not effectively increase the hemoglobin and/or ferritin levels. First-trimester safety data are not available. (See \"Anemia in pregnancy\", section on 'Choice between oral and IV iron'.)\n\nNew American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [26]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)\n\nIncreased fracture risk with ferric carboxymaltose (April 2026, Modified September 2026)\n\nFerric carboxymaltose (FCM) is an intravenous iron formulation associated with an increased risk of hypophosphatemia. A recent study of >20,000 participants in the TriNetX database (>17,000 treated with FCM and >3000 treated with ferric derisomaltose) has reported an increased risk of osteomalacia and fractures with FCM; the fracture risk remained statistically significant after multivariate adjustment and propensity matching [27]. A Boxed warning about these risks has been added to the product information [28]. These findings support caution with FCM and highlight the importance of monitoring for hypophosphatemia, especially when more than one dose is used. For nonpregnant individuals treated with intravenous iron, we suggest using a formulation other than FCM. (See \"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'.)\n\nIron supplementation in malaria-endemic areas (August 2026)\n\nThe benefit and safety of iron supplements in malaria-endemic areas remain uncertain. In a new placebo-controlled trial that randomly assigned over 2000 infants 6 to 12 months of age to various combinations of iron supplementation and malaria chemoprophylaxis, malaria risk was similar and very low across all groups after six months [29]. Increases in serum ferritin were modest, and other outcomes, including prevalence of anemia and cognitive function at 18 months of age, were not significantly different. This trial supports the safety of treating iron deficiency in individuals at high risk of malaria who are receiving malaria chemoprophylaxis. (See \"Anemia in malaria\", section on 'Iron supplementation'.)\n\nZinc supplementation in sickle cell disease (August 2026)\n\nZinc deficiency is common in children with sickle cell disease, especially in sub-Saharan Africa, and it may contribute to increased risks of infection. A previous trial supplementing zinc at 10 mg daily did not reduce infection rates. However, a new trial in 100 Ugandan children age one to five years who were randomly assigned to zinc 20 mg daily or placebo reported significant reductions in infections with zinc, especially viral upper respiratory infections (adjusted incidence rate ratio [aIRR] 0.61) and serious bacterial infections (aIRR 0.32); malaria risk was not reduced [30]. While these data are compelling, they are most relevant to regions of the world with high baseline infectious risks and fewer resources for treating infections. Studies specific to resource-abundant regions are awaited before routine zinc supplementation is recommended worldwide. (See \"Overview of preventive/outpatient care in sickle cell disease\", section on 'Overview of infection prevention and role of zinc'.)\n\nPreoperative IV iron to treat anemia before cardiac surgery (August 2026)\n\nPreoperative anemia due to iron deficiency is common in patients undergoing cardiac surgery. In a new randomized trial in over 900 patients undergoing elective cardiac surgery who had preoperative anemia, administration of intravenous (IV) iron as a total dose infusion before surgery reduced the likelihood red blood cell (RBC) transfusions (61 versus 68 percent) [31]. These findings support our practice of treating iron deficiency prior to elective major surgery; providing iron with sufficient time for an RBC response is critical. (See \"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'.)\n\nPrevalence of G6PD deficiency in newborns (August 2026)\n\nPatients with glucose-6-phosphate dehydrogenase (G6PD) deficiency are at risk for acute hemolysis after exposure to certain drugs, chemicals, and foods (table 1). Some states in the United States (US) have started performing universal or risk-based newborn screening for G6PD deficiency. A new study of over four million births in the US determined that rates of diagnosis were sufficiently higher in states using these approaches, from 0.9 per 1000 births in all states, up to 5.4 per 1000 births in New York (using risk-based screening), and 7.1 per 1000 births in Pennsylvania and Washington, DC (using universal screening) [32]. These results suggest that a significant proportion of individuals with G6PD in the US remain undiagnosed, and more intensive screening could avoid significant morbidity through avoidance of known triggers of hemolysis. (See \"Glucose-6-phosphate dehydrogenase (G6PD) deficiency\", section on 'Role of population screening'.)\n\nSurvival after hematopoietic stem cell transplantation for sickle cell disease (August 2026)\n\nReported outcomes with hematopoietic stem cell transplantation in sickle cell disease (SCD) are excellent, but the impact on survival relative to medical therapy is unclear. In a new retrospective study in 94 adolescents and adults with SCD who were referred to a single institution for transplant evaluation from 2010 to 2022, overall two-year survival appeared similar for the 54 individuals undergoing transplantation compared with those who continued medical therapy (98 versus 97 percent) [33]. Transplantation was associated with higher event-free survival (72 versus 29 percent); however, this was a heterogenous composite endpoint. As more robust longitudinal data are awaited, decisions to pursue transplantation versus medical therapy remain highly individualized. (See \"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Survival'.)\n\nClinical report on iron deficiency in children (June 2026)\n\nA new clinical report on prevention, diagnosis, and treatment of iron deficiency in children has been published by the American Academy of Pediatrics and American Society of Pediatric Hematology and Oncology [34]. A key update is to use higher ferritin thresholds for diagnosing iron deficiency (≤20 ng/mL [45 pmol/L] for age ≥9 months through <11 years, and ≤30 ng/mL [67 pmol/L] for age ≥11 years). The report also recommends universal laboratory screening for iron deficiency, performed once for all infants between 9 and 18 months of age, and once in menstruating individuals. (See \"Iron deficiency in infants and children <12 years: Screening, prevention, clinical manifestations, and diagnosis\", section on 'Definitions' and \"Iron requirements and iron deficiency in adolescents\".)\n\nConsensus recommendations for gene therapy in sickle cell disease (June 2026)\n\nThe first consensus recommendations for gene therapy in individuals with sickle cell disease (SCD) have been published by the American Society for Transplantation and Cellular Therapy and the International Society for Cell & Gene Therapy [35]. Key recommendations focus on multidisciplinary integrated care, incorporating many features beyond genotype in the decision to pursue gene therapy, plerixafor-only autologous hematopoietic stem cell (HSC) mobilization preceded by automated red blood cell exchange to lower the percentage of sickle hemoglobin, and pharmacokinetic-guided dosing of myeloablative busulfan conditioning. The decision to pursue gene therapy or other curative therapy is highly individualized. (See \"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Overview of gene therapy approaches including gene silencing/editing'.)\n\nTHROMBOSIS AND HEMOSTASIS\n\nDirect oral anticoagulants for heparin-induced thrombocytopenia (September 2026)\n\nHeparin-induced thrombocytopenia (HIT) is a life-threatening complication of heparin exposure with a high risk of venous and arterial thrombosis, requiring therapeutic anticoagulation with a nonheparin anticoagulant. Over time, direct oral anticoagulants (DOACs) have been increasingly used, but data on their safety and efficacy relative to parenteral agents are limited. A new meta-analysis evaluating 44 publications described 352 individuals who received a DOAC for HIT, either as initial treatment (54 percent) or following parenteral anticoagulation (46 percent); among these individuals, 6 percent had thrombosis, and 3 percent had bleeding, with no clear pattern related to the specific DOAC or sequence of therapies [36]. This analysis supports DOAC use for HIT when appropriate, but more evidence is needed. Other considerations may impact anticoagulant selection (table 2). (See \"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'.)\n\nProthrombin complex concentrates for factor Xa inhibitor-associated bleeding (September 2026)\n\nProthrombin complex concentrates (PCCs) are used to treat critical bleeding associated with factor Xa inhibitors, but data on their efficacy have been sparse. A new study evaluating 100 individuals who presented with factor Xa inhibitor-associated major bleeding or requiring urgent surgery reported that hemostasis was effective in 50 percent of bleeding episodes and good to moderate in 67 percent [37]. For urgent surgeries, hemostasis was normal in 77 percent. There were 13 deaths, and the risk of thrombotic events was 6.9 percent. These data support the use of PCCs for life-threatening bleeding and their avoidance in less-severe bleeding, especially since thrombotic risks are known to be elevated at baseline in individuals receiving an anticoagulant. (See \"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'.)\n\nNew American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [38]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)\n\nDuration of combined anticoagulant and antiplatelet therapy in patients with atrial fibrillation after PCI (August 2026)\n\nDuration of antiplatelet treatment following percutaneous coronary intervention (PCI) in patients requiring concomitant oral anticoagulation is typically 6 to 12 months, but shorter durations are being investigated. The OPTIMA-AF trial randomly assigned 1079 patients with atrial fibrillation undergoing PCI for predominantly chronic coronary syndrome (CCS) to combination direct oral anticoagulation (DOAC) plus P2Y12 inhibitor for 1 versus 12 months, in either case followed by DOAC monotherapy [39]. Incidence of death and thromboembolism was similar between the groups, but event rates were lower than expected. Bleeding risk was lower in the one-month combination group (hazard ratio [HR] 0.50). While this trial supports earlier discontinuation of antiplatelet therapy in those with atrial fibrillation and CCS undergoing PCI, further data are needed to confirm safety and efficacy. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'.)\n\nAspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)\n\nFor patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [40]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)\n\nTRANSFUSION MEDICINE\n\nJehovah's witnesses may now accept blood components (September 2026)\n\nIn September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [41,42]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)\n\nSerious allergic transfusion reactions in alpha-gal syndrome (June 2026, Modified September 2026)\n\nAlpha-gal syndrome is a tick-borne disease in which exposure to tick saliva causes an allergy to red meat. The allergen is nearly identical to the carbohydrate antigen of blood group B, and emerging data suggest that allergic transfusion reactions in some group O individuals may be due to exposure to B antigen in plasma or platelet transfusions. In a new study characterizing severe allergic/anaphylactic transfusion reactions in 59 recipients, the rate of severe IgE-mediated reactions to alpha-gal was 67 percent in group O individuals receiving plasma or platelets from group B or AB donors and 23 percent with transfusions from group O donors [43]. Another study of over 500,000 platelet and plasma transfusions reported that rates of allergic reactions were higher in group O recipients of group B or AB units in regions of the United States with high rates of alpha-gal syndrome [44]. Further study of this phenomenon is awaited. (See \"Allergic and anaphylactic transfusion reactions\".)\n\nEfficacy of cold-stored platelets (August 2026)\n\nPlatelets are stored at room temperature, which reduces shelf-life and increases the risk of bacterial contamination. Use of cold storage could extend shelf-life, but concerns remain about reduced platelet increments and impaired hemostasis. In a new randomized trial in 1000 individuals undergoing cardiac surgery, platelets stored in the cold for up to 21 days provided similar hemostatic efficacy, intensive care unit stay, volume of platelets transfused, and hemoglobin values as platelets stored at room temperature [45]. These results suggest comparable efficacy of cold-stored platelets, especially in selected individuals who are expected to recover rapidly, such as patients undergoing trauma resuscitation and cardiac surgery. Ultimately, decisions about their use will be made by regulatory organizations and individual institutions, based on their platelet transfusion needs and the proportion of room temperature-stored platelets they discard. (See \"Platelet transfusion: Indications, ordering, and associated risks\", section on 'Cold storage (investigational)'.)\n\nPlatelet transfusion in patients with TTP (August 2026)\n\nThrombotic thrombocytopenic purpura (TTP) is a life-threatening condition with thrombocytopenia and microvascular thrombosis; bleeding is rare but can occur. Platelet transfusions are perceived to worsen thrombotic risk, but this is not well supported. In a retrospective study of 693 patients with newly diagnosed TTP in which 14 percent received platelet transfusions, after matching for age and comorbidities, individuals receiving platelet transfusions had higher 30-day mortality (30 versus 14 percent) and higher rates of myocardial infarction but not venous thrombosis [46]. This may represent a true adverse event or a noncausal association because patients receiving platelets were sicker. We do not transfuse platelets in nonbleeding individuals with TTP, but transfusions should not be withheld for clinically important bleeding or invasive procedures with significant bleeding risk. (See \"Immune TTP: Initial treatment\", section on 'Bleeding/platelet transfusion'.)\n\nTranexamic acid for major noncardiac surgery (June 2026)\n\nTranexamic acid (TXA) is routinely used in cardiac and orthopedic surgery, but other surgical patients with a high risk of blood loss may also benefit. In a 2026 randomized trial in over 8000 noncardiac surgical patients (mostly oncologic surgery), intravenous TXA reduced risks of red blood cell transfusion (7.4 percent, versus 9.8 percent with placebo) without increasing risks of venous thromboembolism (2.1 percent in both arms) [47]. For most patients undergoing major noncardiac surgery with a high risk of blood loss, we now suggest prophylactic TXA rather than no antifibrinolytic therapy. Contraindications are limited and include disseminated intravascular coagulation and active thromboembolic disease. (See \"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'.)\n\nPrehospital whole blood transfusion for traumatic hemorrhage (March 2026)\n\nTwo recent trials have examined the efficacy and safety of prehospital transfusion of low-titer, group O whole blood (LTOWB) versus blood components by Emergency Medical Services (EMS):\n\n● In a pragmatic trial of over 600 patients with life-threatening bleeding transported by air ambulances in England, patients were transfused up to 2 units of LTOWB versus red cells plus plasma [48]. The composite of mortality plus massive transfusion within 24 hours and 90-day call-cause mortality was similar between the groups; the LTOWB group had slightly fewer serious adverse events.\n\n● In another pragmatic trial of over 1000 patients with trauma and hypotension transported by air bases in the United States, either from the scene or from a referring emergency department, patients were transfused up to 2 units of LTOWB versus red cells, plasma, or both. Mortality at 30 days was similar (26 versus 21 percent) between LTOWB and components, as was in-hospital mortality, blood product requirements, and adverse events [49].\n\nThese findings suggest that use of LTOWB, which is logistically simpler than components, is a reasonable option for EMS with prehospital transfusion programs. (See \"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'.)\n\nOTHER HEMATOLOGY\n\nESAs in individuals with solid tumors and anemia (October 2026)\n\nErythropoiesis stimulating agents (ESAs) can reduce anemia, but concerns persist about adverse effects in individuals with cancer (promoting cancer growth or increasing the risk of thrombosis). A new retrospective study evaluated survival in over 1600 participants in the TriNetX registry who had anemia, no prior history of venous thromboembolism (VTE), and nonhematologic cancer (lung, breast, prostate, kidney, stomach, bladder, head and neck) and received an ESA versus over 1600 propensity matched controls who did not receive an ESA [50]. Survival was better in the ESA group (73 versus 69 percent alive at one year; hazard ratio for death 0.82). There was no statistically significant difference in VTE rates. Although causality is not established, these data provide reassurance that guideline-directed use of an ESA does not appear to reduce survival. (See \"Role of ESAs in adults with non-hematologic cancers\", section on 'Effects on survival'.)\n\nCharacteristics of infection-associated DIC in adults (October 2026)\n\nDisseminated intravascular coagulation (DIC) caused by infection is typically attributed to sepsis. In a secondary analysis of postmarketing surveillance of over 2300 cases of infection-associated DIC in Japan, respiratory infections were the most common cause (33 percent), followed by sepsis (29 percent), abdominal infections (13 percent), and other sites [51]. Approximately 9 percent had a thrombotic microangiopathy-like phenotype, which correlated with higher D-dimer, more kidney and liver dysfunction, and reduced survival. These data help to raise awareness about infections other than sepsis as causes of DIC and to identify possible prognostic factors. (See \"Evaluation and management of disseminated intravascular coagulation (DIC) in adults\", section on 'Causes of DIC'.)\n\nRasburicase for tumor lysis syndrome (September 2026)\n\nRasburicase is more effective than allopurinol for controlling hyperuricemia from tumor lysis syndrome (TLS), but it has not been proven to reduce kidney injury or death. In a retrospective study of over 1200 adults with various cancers, rasburicase administration within 12 hours of TLS onset, compared with delayed or no rasburicase, was associated with a lower risk of acute kidney injury requiring kidney replacement therapy or death (33 versus 42 percent), as well as lower 90-day mortality (46 versus 54 percent) [52]. Adverse events occurred in only three total patients, including rasburicase-associated hemolytic anemia and methemoglobinemia each in one patient. This study provides evidence that prompt administration of rasburicase improves clinically important outcomes in patients with TLS and further supports our use of this agent for TLS prevention and treatment. (See \"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'.)\n\nEltrombopag plus cyclosporine in adults with moderate aplastic anemia (September 2026)\n\nModerate aplastic anemia (MAA) is associated with variable cytopenias and erythrocyte/platelet transfusion needs, but there has been no consensus treatment for adults with MAA who require systemic therapy. In a randomized trial that included 75 patients, eltrombopag plus cyclosporine (CsA) achieved more hematologic responses at 24 weeks (71 versus 43 percent) and comparable survival and relapses at 48 weeks compared with CsA plus placebo [53]. Toxicity was mild and comparable between the two arms. For most adults with MAA who require systemic treatment, we suggest eltrombopag plus CsA rather than other treatments, based on good efficacy and little toxicity. (See \"Treatment of aplastic anemia in adults\", section on 'Initial treatment for MAA'.)\n\nCongenital anomalies with vitamin B12 and folate deficiency (September 2026)\n\nMaternal folate deficiency is known to increase the risk of neural tube defects. In a new study from China that analyzed over 17,000 individuals in a preconception cohort, maternal vitamin B12 or folate deficiency was associated with a greater risk of congenital anomalies in other organ systems, such as cardiac/circulatory, limb, and genitourinary, in a dose-dependent pattern (higher risks associated with more severe deficiency) [54]. In a separate group of over 3000 couples tested before conception, low vitamin B12 levels in either parent predicted a greater risk of congenital anomalies. The overall prevalence of congenital anomalies was low and consistent with other population estimates. These results reinforce the importance of identifying and treating these vitamin deficiencies. (See \"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'.)\n\nCauses and prognosis of acquired methemoglobinemia (March 2026, Modified September 2026)\n\nAcquired methemoglobinemia is a potentially life-threatening condition caused by substances that oxidize heme, preventing oxygen delivery to the tissues. Two new studies from poison centers in different countries illustrate the range of causes and likelihood of survival. In a series of 1245 individuals from the United States, the most common causes were nonpharmaceutical nitrates and nitrites, dapsone, phenazopyridine, and local anesthetics [55]; in a series of 169 individuals from Thailand, the most common causes were dapsone and the organic herbicide propanil [56]. The fatality rates were 8 and 11 percent, respectively, and high proportions of the nitrate, nitrite, and fertilizer ingestions were for intentional self-harm. These data reinforce the importance of rapid recognition and treatment. (See \"Methemoglobinemia\", section on 'Most common acquired causes'.)\n\nNormal life expectancy and limited complications with sickle cell trait (August 2026)\n\nSickle cell trait (heterozygosity for the sickle cell point mutation) is an unaffected carrier state, but questions continue to arise about health risks. A new study of nearly 500,000 individuals from the United Kingdom biobank followed for 15 years reported no increased mortality from sickle cell trait and no increased risk of cardiovascular death, myocardial infarction, heart failure, ischemic stroke, or pulmonary embolism [57]. Risks were increased for diabetes, chronic kidney disease, and hypertension. This study adds to existing data about clinical manifestations and eliminates biases from analyzing individuals with sickle cell trait who were preselected due to other morbidities. (See \"Sickle cell trait\", section on 'Life expectancy'.)\n\nHigh rates of bleeding and diagnostic delays in HHT (June 2026)\n\nHereditary hemorrhagic telangiectasia (HHT) often is not considered in patients with bleeding manifestations. A new study provides information on the first 600 individuals enrolled in the Comprehensive HHT Outcomes Registry of the United States (CHORUS) [58]. Compelling findings include the long delay in diagnosis (average age at diagnosis, 37 years, despite average onset of symptoms at 16 years), high rates of various types of bleeding (epistaxis in 95 percent, gastrointestinal bleeding in 30 percent, heavy menstrual bleeding in 35 percent), high prevalence of iron deficiency and/or anemia (in 68 percent, with 41 percent requiring intravenous iron and 25 percent receiving transfusions), and high rates of complications from vascular malformations. Clinicians should consider HHT in patients with recurrent epistaxis and other types of unexplained bleeding. (See \"Clinical manifestations and diagnosis of hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome)\", section on 'When to suspect'.)\n\nAssociation of iron deficiency with incident dementia (June 2026)\n\nIron is needed for red blood cell production, but it also has important roles in the brain. In a new study involving over 70,000 participants in a Swedish database who were >50 years old, had blood testing for iron status, and were followed for up to 15 years, iron deficiency correlated with incident dementia diagnosis after adjustment for age, sex, education, and some comorbidities, with an adjusted hazard ratio of 1.24 (95% CI 1.18-1.42) [59]. Several comorbidities and medications that could increase dementia risk were not evaluated; however, this association warrants further investigation, and it highlights the importance of evaluating and treating iron deficiency. (See \"Regulation of iron balance\", section on 'Role of iron in neuronal function'.)\n\nInvestigational oral small molecule bitopertin for protoporphyria (June 2026)\n\nProtoporphyria causes painful nonblistering skin sensitivity that severely limits sunlight tolerance and quality of life. The main treatment is afamelanotide, a subcutaneous implant that increases skin melanin production, but access is limited. Bitopertin is an investigational oral small molecule that reduces protoporphyrin production by decreasing transport of glycine, the initial substrate for heme synthesis. In a randomized trial in 75 adults with protoporphyria, bitopertin improved sunlight tolerance and reduced phototoxic reactions without major adverse effects [60]. Further study is ongoing. (See \"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'.)\n\nReduced thrombosis using tetrasodium EDTA as a locking solution for central venous catheters (May 2026)\n\nThe best catheter-locking agent to use in patients at high risk for catheter-related complications remains unknown. In a trial that randomly assigned 1468 adult intensive care unit (ICU) patients to a control lock (ie, saline or 4% citrate for hemodialysis catheters) or to a tetrasodium ethylenediaminetetraacetic acid (Na4EDTA) lock, the Na4EDTA group had a lower composite incidence rate of catheter removal due to occlusion, thrombosis requiring alteplase infusion, or central line-associated bloodstream infection. However, this result was driven by the reduction in the rate of alteplase administration (11.67 versus 17.73 per 1000 catheter-days, respectively) [61]. The results of this trial support the use of this agent, although additional studies are needed to determine whether Na4EDTA should be used routinely or selectively in the ICU population. (See \"Routine care and maintenance of intravenous devices\", section on 'Locking'.)",
+    "word_count": 7444,
+    "character_count": 52883,
+    "references": [
+      "Fathi AT, Perl AE, Fell GG, et al. Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia. N Engl J Med 2026; 395:845.",
+      "Pollard JA, Alonzo TA, Gerbing RB, et al. AAML1831: A Phase III Trial Comparing Standard Induction Therapy With CPX-351 in De Novo Pediatric AML: A Report From the Children's Oncology Group. J Clin Oncol 2026; 44:2590.",
+      "Pemmaraju N, Marconi G, Montesinos P, et al. Pivekimab Sunirine in Blastic Plasmacytoid Dendritic Cell Neoplasm. J Clin Oncol 2026; 44:861.",
+      "Bashey A, Logan B, Hill L, et al. Donor-specific transplant outcomes from BMT CTN 1702: a multicenter prospective biologic assignment trial. Blood Adv 2026; 10:5543.",
+      "Akahoshi Y, Katsivelos N, Louloudis IE, et al. Systemic steroid treatment of grade I acute GVHD increases steroid-refractory GVHD and NRM. Blood Immunol Cell Ther 2026; 2.",
+      "Zeidan AM, Griffiths EA, Denton Dinardo C, et al. An all-oral regimen of decitabine-cedazuridine (DEC-C) plus venetoclax (VEN) in patients (pts) with newly diagnosed acute myeloid leukemia (AML) ineligible for intensive induction chemotherapy: Results from a phase 2 cohort of 101 pts. J Clin Oncol 2025; 43:6504.",
+      "FDA approves pirtobrutinib for previously untreated chronic lymphocytic leukemia or small lymphocytic lymphoma https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pirtobrutinib-previously-untreated-chronic-lymphocytic-leukemia-or-small-lymphocytic (Accessed on October 02, 2026).",
+      "Davids MS, Eyre TA, Woyach JA, et al. Fixed-duration pirtobrutinib plus venetoclax-rituximab versus venetoclax-rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial. Lancet 2026; 408:453.",
+      "Kater AP, Janssens A, Eradat H, et al. Epcoritamab monotherapy for Richter transformation (EPCORE CLL-1): findings from a single-arm, multicentre, open-label, phase 1b/2 trial. Lancet Haematol 2026; 13:e8.",
+      "Carlo-Stella C, Hutchings M, Offner F, et al. Glofitamab monotherapy in patients with Richter transformation: safety and efficacy from a phase 1 study. Blood Adv 2026; 10:4375.",
+      "Lewis KL, Assouline SE, Baker R, et al. Mosunetuzumab monotherapy is active and tolerable in patients with relapsed/refractory Richter transformation. Blood Adv 2026; 10:3011.",
+      "Flerlage JE, Eichenauer DA, Fuchs M, et al. Historical outcomes for patients with stage IA NLPHL: Global NLPHL One Working Group retrospective analyses. Blood Adv 2026; 10:5338.",
+      "Matasar M, Li Z, Vassilakopoulos TP, et al. Polatuzumab Vedotin Plus Rituximab, Gemcitabine, and Oxaliplatin in Relapsed or Refractory Diffuse Large B-Cell Lymphoma: Results From the Phase III, Randomized POLARGO Trial. J Clin Oncol 2026; 44:2435.",
+      "Eyre TA, Song Y, Hermine O, et al. Phase I/II Study of Sonrotoclax (BGB-11417) Monotherapy in Patients With Mantle Cell Lymphoma Previously Treated With Anti-CD20 Therapy and a Bruton Tyrosine Kinase Inhibitor. J Clin Oncol 2026; 44:2233.",
+      "Ruella M, Paruzzo L, Chong ER, et al. Ten-Year Outcomes after CAR T-Cell Therapy for B-Cell Lymphomas. N Engl J Med 2026; 394:2440.",
+      "Oertel M, Dabaja B, Görlich D, et al. Radiotherapy for indolent primary cutaneous B-cell lymphoma: an international multicenter ILROG analysis. Blood 2026; 147:3051.",
+      "Iberdomide capsules. US Food and Drug Administration (FDA) approved product information. Revised August 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed August 19, 2026).",
+      "Lonial S, Dimopoulos MA, Gavriatopoulou M, et al. Iberdomide plus daratumumab and dexamethasone versus daratumumab, bortezomib, and dexamethasone in patients with relapsed or refractory multiple myeloma (EXCALIBER-RRMM): an open-label, randomised, controlled, phase 3 trial. Lancet Oncol 2026.",
+      "Kumar S, Jacobus S, Cohen A, et al. Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma. N Engl J Med 2026; 395:221.",
+      "Ailawadhi S, Špička I, Spencer A, et al. Isatuximab Subcutaneous by On-Body Injector Versus Isatuximab Intravenous Plus Pomalidomide and Dexamethasone in Relapsed/Refractory Multiple Myeloma: Phase III IRAKLIA Study. J Clin Oncol 2025; 43:2527.",
+      "Dimopoulos MA, Schjesvold F, Fu C, et al. Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial. Lancet 2026; 408:219.",
+      "Mina R, Beksac M, Rodríguez-Otero P, et al. Talquetamab-Daratumumab in Relapsed or Refractory Myeloma. N Engl J Med 2026; 395:671.",
+      "Andemariam B, Kuo KHM, Algahtani FH, et al. Efficacy and safety of mitapivat in patients with sickle cell disease (RISE UP): a phase 3, double-blind, global, randomised, placebo-controlled trial. Lancet 2026; 408:1705.",
+      "Cappellini MD, Sheth S, Taher A, et al. Efficacy and safety of mitapivat in adults with transfusion-dependent α-thalassaemia or β-thalassaemia (ENERGIZE-T): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial. Lancet 2026; 408:1010.",
+      "Sales SK, Rajprohat S, Simon L, et al. Intravenous vs Oral Iron for Treating Iron Deficiency Anemia in Pregnancy: A Systematic Review and Meta-Analysis. JAMA Netw Open 2026; 9:e2630657.",
+      "Powers JM, Lim MY, Achebe MO, et al. American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv 2026.",
+      "Wagner SA, Panzer M, Pertler E, et al. Ferric carboxymaltose increases fracture risk in patients and reduces bone formation in mice with iron deficiency anemia. Blood 2026; 148:15.",
+      "Injectafer (ferric carboxymaltose injection), for intravenous use. United States prescribing information. Revised August 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/203565s030lbl.pdf (Accessed on August 20, 2026).",
+      "Phiri KS, Mzembe G, Vokhiwa M, et al. Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial. JAMA 2026; 336:1111.",
+      "Namazzi R, Mellencamp KA, Bagala I, et al. Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia: The ZIPS-2 Randomized Clinical Trial. JAMA 2026; 336:1237.",
+      "Myles PS, Klein AA, Smith JA, et al. Intravenous iron to treat anaemia before cardiac surgery (ITACS): international, double blind, placebo controlled randomised trial. BMJ 2026; 394:e100407.",
+      "Wolf ER, Orr CJ, Kemper AR. Glucose-6-Phosphate Dehydrogenase Deficiency Screening Strategies. JAMA Pediatr 2026; 180:1157.",
+      "Pivert C, Vasseur L, Jestin M, et al. Transplant versus no transplant outcome in adolescents and adults with sickle cell disease eligible for allogeneic hematopoietic stem cell transplantation. Hemasphere 2026; 10:e70434.",
+      "Powers JM, Heeney MM, Hord J, et al. Prevention, Screening, Diagnosis, and Treatment of Iron Deficiency and Iron Deficiency Anemia in Infants, Children, and Adolescents: Clinical Report. Pediatrics 2026; 158.",
+      "Sharma A, Kassim A, Thompson A, et al. Gene Therapy for Sickle Cell Disease: Practice Recommendations from the American Society for Transplantation and Cellular Therapy and the International Society for Cell & Gene Therapy. Transplant Cell Ther 2026; 32:778.",
+      "Galyfos G, Athanasiou A, Emmanuel A, et al. Direct Oral Anticoagulants as Primary or Secondary Treatment for Heparin-Induced Thrombocytopenia (HIT) and Associated Thromboembolism (HITT)-A Meta-Analysis. Eur J Haematol 2026; 117:1035.",
+      "Shaw JR, Gray H, Xu Y, et al. Effect of PCC on thrombin generation in patients on FXaI with bleeding or needing urgent surgery (GAUGE). Blood Adv 2026; 10:5378.",
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv 2026; 10:7076.",
+      "Sotomi Y, Kozuma K, Higuchi Y, et al. 1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial. Lancet 2026; 408:440.",
+      "Shivakumar S, Matino D, Zukor D, et al. Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty. N Engl J Med 2026.",
+      "Products derived from whole blood. JW.org [includes links to Sept 18, 2026 Governing body update #6 and downloadable chart with \"What percentage of whole blood is it?\"]. https://www.jw.org/en/library/series/more-topics/products-derived-from-whole-blood/ (Accessed on September 22, 2026).",
+      "How do Jehovah’s Witnesses show respect for life? JW.org. https://www.jw.org/en/library/series/more-topics/jehovahs-witnesses-view-blood/ (Accessed on September 23, 2026).",
+      "de Chaisemartin L, de la Taille V, Nicaise-Roland P, et al. Severe allergic transfusion reactions to group B/AB plasma or platelets in group O recipients are linked to α-Gal sensitization. Blood 2026; 147:3113.",
+      "Kaufman RM, Hoen AG, Khan J, et al. Epidemiologic Study of Transfusion-Related Alpha-Gal Syndrome. JAMA Intern Med 2026; 186:1202.",
+      "Spinella PC, Zantek ND, VanBuren JM, et al. Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial. JAMA 2026; 336:1216.",
+      "O'Brien J, Schmaier AH, Patel MJ, et al. Platelet Transfusion in Patients With Low ADAMTS13-Confirmed Thrombotic Thrombocytopenic Purpura Is Associated With Increased Mortality. Eur J Haematol 2026; 117:1327.",
+      "Houston BL, McIsaac DI, Breau RH, et al. Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery. N Engl J Med 2026; 394:2419.",
+      "Smith JE, Cardigan R, Sanderson E, et al. Prehospital Whole Blood in Traumatic Hemorrhage - A Randomized Controlled Trial. N Engl J Med 2026; 394:2305.",
+      "Sperry JL, Guyette FX, Cotton BA, et al. Prehospital Resuscitation with Type O Whole Blood for Trauma and Hemorrhage. N Engl J Med 2026; 394:2317.",
+      "Aibani R, Collins JE, Khan D, et al. Real-world thrombotic and survival outcomes with ESAs in cancer-related anemia. Blood Vessel Thromb Hemost 2026; 3:100207.",
+      "Takezako N, Komatsu F, Honda G, et al. Thrombotic Microangiopathy-Like Phenotype in Patients With Infection-Associated Disseminated Intravascular Coagulation Treated With Thrombomodulin Alfa. Eur J Haematol 2026.",
+      "Shenoy T, Sanchez-Almanzar D, Dias JA, et al. Early treatment with rasburicase and risk of kidney replacement therapy and death in adults with tumour lysis syndrome: emulated target trial. BMJ 2026; 394:e100040.",
+      "Höchsmann B, Schafhausen P, Beier F, et al. Eltrombopag plus cyclosporine A for moderate aplastic anemia (EMAA): a placebo-controlled, double-blind, phase 3 trial. Blood 2026.",
+      "Chen H, Chen X, Zhang Y, et al. Periconception Parental Red Blood Cell Folate, Vitamin B12, and Birth Defects in Offspring : A Prospective Cohort Study. Ann Intern Med 2026; 179:1386.",
+      "Wahrenbrock T, Chambers A, Wheeler M, et al. Etiology of methemoglobinemia in the National Poison Data System®: an observational study. Clin Toxicol (Phila) 2026; :1.",
+      "Tansuwannarat P, Bualerd P, Rittilert P, et al. A 10-year retrospective study of patients with acquired methemoglobinemia: causative agents, clinical characteristics, and outcomes. Clin Toxicol (Phila) 2026; 64:591.",
+      "Warny M, Glenthøj A, Afzal S, et al. No overall increased risk of death in individuals with sickle cell trait: a study of 467 779 general population adults. Blood 2026; 148:1033.",
+      "Al-Samkari H, Friday C, Kasthuri RS, et al. Clinical spectrum of hereditary hemorrhagic telangiectasia: data from the Comprehensive HHT Outcomes Registry of the US (CHORUS). Blood 2026; 148:417.",
+      "Ding M, Wennberg A, Ek S, et al. Iron deficiency and dementia risk: evidence from the Swedish population-based cohort study AMORIS. BMC Med 2026; 24.",
+      "Yeung AK, Bonkovsky HL, Balwani M, et al. Bitopertin shows efficacy in patients with erythropoietic protoporphyria: Results from the randomized, double-blind, placebo-controlled AURORA trial. J Am Acad Dermatol 2026; 94:1167.",
+      "Ornowska M, Wittmann J, Blitz S, et al. 4% Tetrasodium EDTA to Prevent Central Venous Access Device-Associated Complications: A Randomized Clinical Trial. JAMA 2026; 335:2126."
+    ],
+    "graphics": [
+      {
+        "id": 115930,
+        "title": "algorithm 1",
+        "url": "https://medilib.ir/uptodate/show/115930"
+      },
+      {
+        "id": 134483,
+        "title": "algorithm 2",
+        "url": "https://medilib.ir/uptodate/show/134483"
+      },
+      {
+        "id": 74254,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/74254"
+      },
+      {
+        "id": 115506,
+        "title": "table 2",
+        "url": "https://medilib.ir/uptodate/show/115506"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 107696,
+        "title": "Venetoclax",
+        "url": "https://medilib.ir/uptodate/show/107696"
+      },
+      {
+        "id": 8797,
+        "title": "azacitidine",
+        "url": "https://medilib.ir/uptodate/show/8797"
+      },
+      {
+        "id": 8855,
+        "title": "decitabine",
+        "url": "https://medilib.ir/uptodate/show/8855"
+      },
+      {
+        "id": 9314,
+        "title": "cytarabine",
+        "url": "https://medilib.ir/uptodate/show/9314"
+      },
+      {
+        "id": 8359,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%221%22"
+      },
+      {
+        "id": 4525,
+        "title": "\"Acute myeloid leukemia: Induction therapy in fit, younger adults\", section on '7+3 remission induction therapy'",
+        "url": "https://medilib.ir/uptodate/show/4525"
+      },
+      {
+        "id": 9326,
+        "title": "daunorubicin",
+        "url": "https://medilib.ir/uptodate/show/9326"
+      },
+      {
+        "id": 8968,
+        "title": "gemtuzumab ozogamicin",
+        "url": "https://medilib.ir/uptodate/show/8968"
+      },
+      {
+        "id": 114295,
+        "title": "liposomal daunorubicin-cytarabine",
+        "url": "https://medilib.ir/uptodate/show/114295"
+      },
+      {
+        "id": 8359,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%222%22"
+      },
+      {
+        "id": 13935,
+        "title": "\"Acute myeloid leukemia: Children and adolescents\", section on 'Induction therapy'",
+        "url": "https://medilib.ir/uptodate/show/13935"
+      },
+      {
+        "id": 151754,
+        "title": "Pivekimab sunirine",
+        "url": "https://medilib.ir/uptodate/show/151754"
+      },
+      {
+        "id": 8359,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%223%22"
+      },
+      {
+        "id": 120009,
+        "title": "tagraxofusp",
+        "url": "https://medilib.ir/uptodate/show/120009"
+      },
+      {
+        "id": 16911,
+        "title": "\"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'",
+        "url": "https://medilib.ir/uptodate/show/16911"
+      },
+      {
+        "id": 8359,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%224%22"
+      },
+      {
+        "id": 3535,
+        "title": "\"Donor selection for hematopoietic cell transplantation\", section on 'When no MSD is available'",
+        "url": "https://medilib.ir/uptodate/show/3535"
+      },
+      {
+        "id": 8359,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%225%22"
+      },
+      {
+        "id": 3543,
+        "title": "\"Treatment of acute graft-versus-host disease\", section on 'Grade 1 aGVHD'",
+        "url": "https://medilib.ir/uptodate/show/3543"
+      },
+      {
+        "id": 128935,
+        "title": "decitabine-cedazuridine",
+        "url": "https://medilib.ir/uptodate/show/128935"
+      },
+      {
+        "id": 8359,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%226%22"
+      },
+      {
+        "id": 4530,
+        "title": "\"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'",
+        "url": "https://medilib.ir/uptodate/show/4530"
+      },
+      {
+        "id": 140692,
+        "title": "pirtobrutinib",
+        "url": "https://medilib.ir/uptodate/show/140692"
+      },
+      {
+        "id": 91587,
+        "title": "ibrutinib",
+        "url": "https://medilib.ir/uptodate/show/91587"
+      },
+      {
+        "id": 115440,
+        "title": "acalabrutinib",
+        "url": "https://medilib.ir/uptodate/show/115440"
+      },
+      {
+        "id": 126183,
+        "title": "zanubrutinib",
+        "url": "https://medilib.ir/uptodate/show/126183"
+      },
+      {
+        "id": 8359,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%227%22"
+      },
+      {
+        "id": 83749,
+        "title": "\"Selection of initial therapy for symptomatic or advanced chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Is there a role for pirtobrutinib?'",
+        "url": "https://medilib.ir/uptodate/show/83749"
+      },
+      {
+        "id": 107696,
+        "title": "venetoclax",
+        "url": "https://medilib.ir/uptodate/show/107696"
+      },
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 8359,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%228%22"
+      },
+      {
+        "id": 4520,
+        "title": "\"Treatment of relapsed or refractory chronic lymphocytic leukemia\", section on 'Venetoclax plus BTK inhibitor'",
+        "url": "https://medilib.ir/uptodate/show/4520"
+      },
+      {
+        "id": 141559,
+        "title": "epcoritamab",
+        "url": "https://medilib.ir/uptodate/show/141559"
+      },
+      {
+        "id": 8359,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%229%22"
+      },
+      {
+        "id": 141793,
+        "title": "glofitamab",
+        "url": "https://medilib.ir/uptodate/show/141793"
+      },
+      {
+        "id": 8359,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2210%22"
+      },
+      {
+        "id": 140391,
+        "title": "mosunetuzumab",
+        "url": "https://medilib.ir/uptodate/show/140391"
+      },
+      {
+        "id": 8359,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2211%22"
+      },
+      {
+        "id": 4728,
+        "title": "\"Richter transformation in chronic lymphocytic leukemia/small lymphocytic lymphoma\", section on 'Bispecific antibodies for multiply relapsed/refractory RT'",
+        "url": "https://medilib.ir/uptodate/show/4728"
+      },
+      {
+        "id": 8359,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2212%22"
+      },
+      {
+        "id": 4732,
+        "title": "\"Treatment of nodular lymphocyte-predominant Hodgkin lymphoma\", section on 'Adults'",
+        "url": "https://medilib.ir/uptodate/show/4732"
+      },
+      {
+        "id": 121575,
+        "title": "Polatuzumab vedotin",
+        "url": "https://medilib.ir/uptodate/show/121575"
+      },
+      {
+        "id": 8487,
+        "title": "gemcitabine",
+        "url": "https://medilib.ir/uptodate/show/8487"
+      },
+      {
+        "id": 10180,
+        "title": "oxaliplatin",
+        "url": "https://medilib.ir/uptodate/show/10180"
+      },
+      {
+        "id": 8359,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2213%22"
+      },
+      {
+        "id": 132087,
+        "title": "\"Diffuse large B cell lymphoma (DLBCL): Second or later relapse or patients who are medically unfit\", section on 'Second or later relapse'",
+        "url": "https://medilib.ir/uptodate/show/132087"
+      },
+      {
+        "id": 8359,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2214%22"
+      },
+      {
+        "id": 151640,
+        "title": "sonrotoclax",
+        "url": "https://medilib.ir/uptodate/show/151640"
+      },
+      {
+        "id": 4735,
+        "title": "\"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'",
+        "url": "https://medilib.ir/uptodate/show/4735"
+      },
+      {
+        "id": 114674,
+        "title": "tisagenlecleucel",
+        "url": "https://medilib.ir/uptodate/show/114674"
+      },
+      {
+        "id": 8359,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2215%22"
+      },
+      {
+        "id": 4755,
+        "title": "\"Treatment of relapsed or refractory follicular lymphoma\", section on 'Chimeric antigen receptor T cells'",
+        "url": "https://medilib.ir/uptodate/show/4755"
+      },
+      {
+        "id": 8359,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2216%22"
+      },
+      {
+        "id": 4718,
+        "title": "\"Primary cutaneous follicle center lymphoma\", section on 'Solitary or localized lesions'",
+        "url": "https://medilib.ir/uptodate/show/4718"
+      },
+      {
+        "id": 105443,
+        "title": "daratumumab",
+        "url": "https://medilib.ir/uptodate/show/105443"
+      },
+      {
+        "id": 8509,
+        "title": "bortezomib",
+        "url": "https://medilib.ir/uptodate/show/8509"
+      },
+      {
+        "id": 9334,
+        "title": "dexamethasone",
+        "url": "https://medilib.ir/uptodate/show/9334"
+      },
+      {
+        "id": 152278,
+        "title": "iberdomide",
+        "url": "https://medilib.ir/uptodate/show/152278"
+      },
+      {
+        "id": 128088,
+        "title": "daratumumab-hyaluronidase",
+        "url": "https://medilib.ir/uptodate/show/128088"
+      },
+      {
+        "id": 8359,
+        "title": "17,18",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2217%22"
+      },
+      {
+        "id": 121127,
+        "title": "\"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'",
+        "url": "https://medilib.ir/uptodate/show/121127"
+      },
+      {
+        "id": 9822,
+        "title": "lenalidomide",
+        "url": "https://medilib.ir/uptodate/show/9822"
+      },
+      {
+        "id": 8359,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2219%22"
+      },
+      {
+        "id": 6656,
+        "title": "\"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease'",
+        "url": "https://medilib.ir/uptodate/show/6656"
+      },
+      {
+        "id": 6647,
+        "title": "\"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'",
+        "url": "https://medilib.ir/uptodate/show/6647"
+      },
+      {
+        "id": 127258,
+        "title": "isatuximab",
+        "url": "https://medilib.ir/uptodate/show/127258"
+      },
+      {
+        "id": 8359,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2220%22"
+      },
+      {
+        "id": 131450,
+        "title": "\"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'",
+        "url": "https://medilib.ir/uptodate/show/131450"
+      },
+      {
+        "id": 86042,
+        "title": "carfilzomib",
+        "url": "https://medilib.ir/uptodate/show/86042"
+      },
+      {
+        "id": 8359,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2221%22"
+      },
+      {
+        "id": 6643,
+        "title": "\"Multiple myeloma: Overview of management\", section on 'Drugs under development'",
+        "url": "https://medilib.ir/uptodate/show/6643"
+      },
+      {
+        "id": 142419,
+        "title": "talquetamab",
+        "url": "https://medilib.ir/uptodate/show/142419"
+      },
+      {
+        "id": 88099,
+        "title": "pomalidomide",
+        "url": "https://medilib.ir/uptodate/show/88099"
+      },
+      {
+        "id": 8359,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2222%22"
+      },
+      {
+        "id": 121127,
+        "title": "\"Multiple myeloma: Treatment of relapsed disease\", section on 'Talquetamab (GPRC5DxCD3)'",
+        "url": "https://medilib.ir/uptodate/show/121127"
+      },
+      {
+        "id": 135030,
+        "title": "Mitapivat",
+        "url": "https://medilib.ir/uptodate/show/135030"
+      },
+      {
+        "id": 8543,
+        "title": "hydroxyurea",
+        "url": "https://medilib.ir/uptodate/show/8543"
+      },
+      {
+        "id": 8359,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2223%22"
+      },
+      {
+        "id": 126298,
+        "title": "\"Disease-modifying therapies to prevent pain and other complications of sickle cell disease\", section on 'Mitapivat'",
+        "url": "https://medilib.ir/uptodate/show/126298"
+      },
+      {
+        "id": 135030,
+        "title": "mitapivat",
+        "url": "https://medilib.ir/uptodate/show/135030"
+      },
+      {
+        "id": 8359,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2224%22"
+      },
+      {
+        "id": 7118,
+        "title": "\"Management of thalassemia\", section on 'Mitapivat'",
+        "url": "https://medilib.ir/uptodate/show/7118"
+      },
+      {
+        "id": 8359,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2225%22"
+      },
+      {
+        "id": 115637,
+        "title": "\"Anemia in pregnancy\", section on 'Choice between oral and IV iron'",
+        "url": "https://medilib.ir/uptodate/show/115637"
+      },
+      {
+        "id": 8359,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2226%22"
+      },
+      {
+        "id": 7150,
+        "title": "\"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'",
+        "url": "https://medilib.ir/uptodate/show/7150"
+      },
+      {
+        "id": 90237,
+        "title": "Ferric carboxymaltose",
+        "url": "https://medilib.ir/uptodate/show/90237"
+      },
+      {
+        "id": 120585,
+        "title": "ferric derisomaltose",
+        "url": "https://medilib.ir/uptodate/show/120585"
+      },
+      {
+        "id": 8359,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2227%22"
+      },
+      {
+        "id": 8359,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2228%22"
+      },
+      {
+        "id": 7148,
+        "title": "\"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'",
+        "url": "https://medilib.ir/uptodate/show/7148"
+      },
+      {
+        "id": 8359,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2229%22"
+      },
+      {
+        "id": 7112,
+        "title": "\"Anemia in malaria\", section on 'Iron supplementation'",
+        "url": "https://medilib.ir/uptodate/show/7112"
+      },
+      {
+        "id": 8359,
+        "title": "30",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2230%22"
+      },
+      {
+        "id": 7114,
+        "title": "\"Overview of preventive/outpatient care in sickle cell disease\", section on 'Overview of infection prevention and role of zinc'",
+        "url": "https://medilib.ir/uptodate/show/7114"
+      },
+      {
+        "id": 8359,
+        "title": "31",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2231%22"
+      },
+      {
+        "id": 94347,
+        "title": "\"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'",
+        "url": "https://medilib.ir/uptodate/show/94347"
+      },
+      {
+        "id": 8359,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2232%22"
+      },
+      {
+        "id": 7111,
+        "title": "\"Glucose-6-phosphate dehydrogenase (G6PD) deficiency\", section on 'Role of population screening'",
+        "url": "https://medilib.ir/uptodate/show/7111"
+      },
+      {
+        "id": 8359,
+        "title": "33",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2233%22"
+      },
+      {
+        "id": 5929,
+        "title": "\"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Survival'",
+        "url": "https://medilib.ir/uptodate/show/5929"
+      },
+      {
+        "id": 8359,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2234%22"
+      },
+      {
+        "id": 5925,
+        "title": "\"Iron deficiency in infants and children <12 years: Screening, prevention, clinical manifestations, and diagnosis\", section on 'Definitions'",
+        "url": "https://medilib.ir/uptodate/show/5925"
+      },
+      {
+        "id": 5350,
+        "title": "\"Iron requirements and iron deficiency in adolescents\"",
+        "url": "https://medilib.ir/uptodate/show/5350"
+      },
+      {
+        "id": 8359,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2235%22"
+      },
+      {
+        "id": 9173,
+        "title": "busulfan",
+        "url": "https://medilib.ir/uptodate/show/9173"
+      },
+      {
+        "id": 5929,
+        "title": "\"Curative therapies in sickle cell disease including hematopoietic stem cell transplantation and gene therapy\", section on 'Overview of gene therapy approaches including gene silencing/editing'",
+        "url": "https://medilib.ir/uptodate/show/5929"
+      },
+      {
+        "id": 8359,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2236%22"
+      },
+      {
+        "id": 1369,
+        "title": "\"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'",
+        "url": "https://medilib.ir/uptodate/show/1369"
+      },
+      {
+        "id": 8359,
+        "title": "37",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2237%22"
+      },
+      {
+        "id": 94788,
+        "title": "\"Management of bleeding in patients receiving direct oral anticoagulants\", section on 'PCC and aPCC'",
+        "url": "https://medilib.ir/uptodate/show/94788"
+      },
+      {
+        "id": 8359,
+        "title": "38",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2238%22"
+      },
+      {
+        "id": 16471,
+        "title": "immune globulin",
+        "url": "https://medilib.ir/uptodate/show/16471"
+      },
+      {
+        "id": 6677,
+        "title": "\"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'",
+        "url": "https://medilib.ir/uptodate/show/6677"
+      },
+      {
+        "id": 8359,
+        "title": "39",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2239%22"
+      },
+      {
+        "id": 1535,
+        "title": "\"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Postdischarge studies'",
+        "url": "https://medilib.ir/uptodate/show/1535"
+      },
+      {
+        "id": 8907,
+        "title": "aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": 9498,
+        "title": "rivaroxaban",
+        "url": "https://medilib.ir/uptodate/show/9498"
+      },
+      {
+        "id": 8359,
+        "title": "40",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2240%22"
+      },
+      {
+        "id": 1335,
+        "title": "\"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\"",
+        "url": "https://medilib.ir/uptodate/show/1335"
+      },
+      {
+        "id": 8359,
+        "title": "41,42",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2241%22"
+      },
+      {
+        "id": 7927,
+        "title": "\"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'",
+        "url": "https://medilib.ir/uptodate/show/7927"
+      },
+      {
+        "id": 8359,
+        "title": "43",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2243%22"
+      },
+      {
+        "id": 8359,
+        "title": "44",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2244%22"
+      },
+      {
+        "id": 7947,
+        "title": "\"Allergic and anaphylactic transfusion reactions\"",
+        "url": "https://medilib.ir/uptodate/show/7947"
+      },
+      {
+        "id": 8359,
+        "title": "45",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2245%22"
+      },
+      {
+        "id": 7918,
+        "title": "\"Platelet transfusion: Indications, ordering, and associated risks\", section on 'Cold storage (investigational)'",
+        "url": "https://medilib.ir/uptodate/show/7918"
+      },
+      {
+        "id": 8359,
+        "title": "46",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2246%22"
+      },
+      {
+        "id": 1344,
+        "title": "\"Immune TTP: Initial treatment\", section on 'Bleeding/platelet transfusion'",
+        "url": "https://medilib.ir/uptodate/show/1344"
+      },
+      {
+        "id": 10011,
+        "title": "Tranexamic acid",
+        "url": "https://medilib.ir/uptodate/show/10011"
+      },
+      {
+        "id": 8359,
+        "title": "47",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2247%22"
+      },
+      {
+        "id": 140949,
+        "title": "\"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'",
+        "url": "https://medilib.ir/uptodate/show/140949"
+      },
+      {
+        "id": 8359,
+        "title": "48",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2248%22"
+      },
+      {
+        "id": 8359,
+        "title": "49",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2249%22"
+      },
+      {
+        "id": 113837,
+        "title": "\"Initial management of moderate to severe hemorrhage in the adult trauma patient\", section on 'Transfusion'",
+        "url": "https://medilib.ir/uptodate/show/113837"
+      },
+      {
+        "id": 8359,
+        "title": "50",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2250%22"
+      },
+      {
+        "id": 2799,
+        "title": "\"Role of ESAs in adults with non-hematologic cancers\", section on 'Effects on survival'",
+        "url": "https://medilib.ir/uptodate/show/2799"
+      },
+      {
+        "id": 8359,
+        "title": "51",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2251%22"
+      },
+      {
+        "id": 1306,
+        "title": "\"Evaluation and management of disseminated intravascular coagulation (DIC) in adults\", section on 'Causes of DIC'",
+        "url": "https://medilib.ir/uptodate/show/1306"
+      },
+      {
+        "id": 10189,
+        "title": "Rasburicase",
+        "url": "https://medilib.ir/uptodate/show/10189"
+      },
+      {
+        "id": 8439,
+        "title": "allopurinol",
+        "url": "https://medilib.ir/uptodate/show/8439"
+      },
+      {
+        "id": 8359,
+        "title": "52",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2252%22"
+      },
+      {
+        "id": 17050,
+        "title": "\"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'",
+        "url": "https://medilib.ir/uptodate/show/17050"
+      },
+      {
+        "id": 9051,
+        "title": "eltrombopag",
+        "url": "https://medilib.ir/uptodate/show/9051"
+      },
+      {
+        "id": 9217,
+        "title": "cyclosporine",
+        "url": "https://medilib.ir/uptodate/show/9217"
+      },
+      {
+        "id": 8359,
+        "title": "53",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2253%22"
+      },
+      {
+        "id": 7158,
+        "title": "\"Treatment of aplastic anemia in adults\", section on 'Initial treatment for MAA'",
+        "url": "https://medilib.ir/uptodate/show/7158"
+      },
+      {
+        "id": 8359,
+        "title": "54",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2254%22"
+      },
+      {
+        "id": 7155,
+        "title": "\"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'",
+        "url": "https://medilib.ir/uptodate/show/7155"
+      },
+      {
+        "id": 9324,
+        "title": "dapsone",
+        "url": "https://medilib.ir/uptodate/show/9324"
+      },
+      {
+        "id": 9761,
+        "title": "phenazopyridine",
+        "url": "https://medilib.ir/uptodate/show/9761"
+      },
+      {
+        "id": 8359,
+        "title": "55",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2255%22"
+      },
+      {
+        "id": 8359,
+        "title": "56",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2256%22"
+      },
+      {
+        "id": 7094,
+        "title": "\"Methemoglobinemia\", section on 'Most common acquired causes'",
+        "url": "https://medilib.ir/uptodate/show/7094"
+      },
+      {
+        "id": 8359,
+        "title": "57",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2257%22"
+      },
+      {
+        "id": 7145,
+        "title": "\"Sickle cell trait\", section on 'Life expectancy'",
+        "url": "https://medilib.ir/uptodate/show/7145"
+      },
+      {
+        "id": 8359,
+        "title": "58",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2258%22"
+      },
+      {
+        "id": 1345,
+        "title": "\"Clinical manifestations and diagnosis of hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome)\", section on 'When to suspect'",
+        "url": "https://medilib.ir/uptodate/show/1345"
+      },
+      {
+        "id": 8359,
+        "title": "59",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2259%22"
+      },
+      {
+        "id": 7105,
+        "title": "\"Regulation of iron balance\", section on 'Role of iron in neuronal function'",
+        "url": "https://medilib.ir/uptodate/show/7105"
+      },
+      {
+        "id": 122889,
+        "title": "afamelanotide",
+        "url": "https://medilib.ir/uptodate/show/122889"
+      },
+      {
+        "id": 8359,
+        "title": "60",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2260%22"
+      },
+      {
+        "id": 7125,
+        "title": "\"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'",
+        "url": "https://medilib.ir/uptodate/show/7125"
+      },
+      {
+        "id": 9929,
+        "title": "saline",
+        "url": "https://medilib.ir/uptodate/show/9929"
+      },
+      {
+        "id": 8478,
+        "title": "alteplase",
+        "url": "https://medilib.ir/uptodate/show/8478"
+      },
+      {
+        "id": 8359,
+        "title": "61",
+        "url": "https://medilib.ir/uptodate/show/8359#rid%2261%22"
+      },
+      {
+        "id": 15671,
+        "title": "\"Routine care and maintenance of intravenous devices\", section on 'Locking'",
+        "url": "https://medilib.ir/uptodate/show/15671"
+      }
+    ]
+  }
+}

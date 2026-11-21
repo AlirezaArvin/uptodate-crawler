@@ -1,0 +1,508 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8354"
+  },
+  "article": {
+    "id": 8354,
+    "expected_title": "What's new in endocrinology and diabetes mellitus",
+    "url": "https://medilib.ir/uptodate/show/8354",
+    "final_url": "https://medilib.ir/uptodate/show/8354",
+    "page_title": "What's new in endocrinology and diabetes mellitus",
+    "extracted_at": "2026-11-20T20:51:43.563Z",
+    "title_matches_expected": true,
+    "title": "What's new in endocrinology and diabetes mellitus",
+    "contributors": {
+      "authors": [
+        "Jean E Mulder, MD",
+        "Jessica Devin, MD, MSCI",
+        "Xin He, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Nov 03, 2026",
+    "version": "Topic 8354 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DIABETES MELLITUS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Once-weekly basal insulin efsitora for adults with type 2 diabetes (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Management of type 2 diabetes often requires insulin therapy, and daily insulin injections can be burdensome. Insulin efsitora is a once-weekly basal insulin analog that recently received regulatory approval in several countries, including the United States, for adults with type 2 diabetes [1-3]. Approval was granted based on four clinical trials comparing once-weekly insulin efsitora with once-daily basal insulin analogs in over 3000 total participants, who were insulin-naïve, already taking insulin, or on other noninsulin therapies. Across trials, insulin efsitora reduced glycated hemoglobin to a similar degree as once-daily basal insulin analogs. Rates of adverse events, including hypoglycemia, were similar. We reserve use of once-weekly basal insulins for patients already on stable basal insulin regimens who have challenges with medication administration or compliance with daily dosing. (See \"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Population-wide screening for type 1 diabetes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Population-wide screening strategies for type 1 diabetes have been proposed but have not been implemented in clinical practice. In a primary care-based, 10-year effort in Germany, >220,000 children (aged approximately two to six years) underwent screening for islet autoantibodies using capillary blood samples [4]. Those with ≥2 autoantibodies then underwent confirmatory testing using a venous blood sample. Participants with confirmed preclinical type 1 diabetes (0.3 percent) were offered metabolic monitoring along with an educational program. Among children with preclinical type 1 diabetes, the cumulative five-year progression rate to clinical diabetes was 36 percent and did not differ significantly between those with and without a first-degree relative with type 1 diabetes. These findings suggest that broad screening efforts may be feasible and facilitate early identification and monitoring of young children at high risk for clinical type 1 diabetes. (See \"Type 1 diabetes mellitus: Disease prediction and screening\", section on 'Whom to screen'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Teplizumab to preserve insulin production in type 1 diabetes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Teplizumab, an anti-CD3 monoclonal antibody, had previously been approved in the United States to delay the onset of clinical type 1 diabetes (T1D) in patients with preclinical (stage 2) disease. It recently received accelerated approval to delay the decline in endogenous insulin production in patients aged 8 to 17 years diagnosed with clinical (stage 3) T1D within the prior eight weeks [5]. For this indication, teplizumab is administered as two 12-day courses of daily intravenous infusions, six months apart. Candidates for treatment must have ≥1 positive islet autoantibody and a peak C-peptide level ≥0.2 pmol/mL. Teplizumab should not be administered to immunocompromised individuals or those with active Epstein-Barr virus or cytomegalovirus infection or reactivation. The choice to initiate treatment should be individualized, and the long-term clinical impact remains uncertain. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Automated insulin delivery during pregnancy in patients with type 1 diabetes (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For pregnant patients with type 1 diabetes, stringent glycemic control reduces risk of obstetric and neonatal complications but is difficult to achieve due to treatment burden and risk of hypoglycemia. The Tandem Control-IQ+ automated insulin delivery algorithm has regulatory approval in the United States for use in patients with type 1 diabetes during pregnancy [6]. Approval was based on a trial including 91 pregnant patients with type 1 diabetes who were randomly assigned to the t:slim X2 insulin pump with Control-IQ+ technology or usual care (non-automated insulin delivery [AID] strategies) [7]. AID therapy increased time in the pregnancy-specific target glucose range and decreased time spent with glucose <63 mg/dL (3.5 mmol/L). The Control-IQ+ algorithm does not have a pregnancy-specific target range, so integrated pumps should be used in Sleep Activity mode with a target range of 112 to 120 mg/dL. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Glucagon-like peptide-1 agonists and venous leg ulcer healing (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Emerging evidence suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs) may improve wound healing. In an observational propensity score matching study that included over 76,000 patients with lower extremity venous wounds, GLP-1 RA use after one year compared with non-use was associated with lower rates of nonhealing wounds (0.61 versus 0.92 percent), wound-related complications (21.7 versus 35.2 percent), infections (13.6 versus 16.5 percent), and hospitalizations (18.4 versus 30.8 percent) [8]. The benefits associated with GLP-1 RAs were observed in patients with and without diabetes and were independent of weight loss. While these data are encouraging, more studies are needed before GLP-1 RAs can be used solely to improve wound healing. (See \"Evaluation and management of chronic venous insufficiency including venous leg ulcer\", section on 'GLP-1 receptor agonists'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "FEMALE REPRODUCTION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "GLP-1 receptor agonist use in pregnancy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [9]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Contemporary menopausal hormone therapy and vascular risks (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In postmenopausal women, oral estrogens have been shown to increase the risk of venous thromboembolism and stroke. However, most of the data are based on older estrogen regimens (eg, oral conjugated equine estrogen) rather than contemporary regimens (eg, 17-beta-estradiol). In a case-control study evaluating contemporary estrogen replacement regimens in postmenopausal women, oral estradiol compared with no hormone use was associated with an increased risk of VTE regardless of dose (absolute risk 0.09 percent per year) [10,11]. The risk of stroke was increased at doses >1 mg/day (absolute risk 0.06 percent per year). Transdermal estradiol did not increase the risk of VTE or stroke regardless of dose. These findings support our preference for using transdermal 17-beta-estradiol over other types of estrogen. (See \"Menopausal hormone therapy: Benefits and risks\", section on 'Venous thromboembolism'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Proposed terminology change for polycystic ovary syndrome (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Polycystic ovary syndrome (PCOS) is one of the most common endocrine/metabolic disorders of females and is associated with cardiometabolic risks, ovulatory and menstrual irregularity, subfertility and infertility, and clinically evident hyperandrogenism. There has been longstanding support for renaming the syndrome because \"PCOS\" does not reflect the most common clinical features of the syndrome. Pathological cysts are not a feature of the condition, and an inappropriate focus on ovarian imaging may delay diagnosis, particularly in adolescents. After a global consensus process, a consortium of experts proposed that the term Polyendocrine Metabolic Ovarian Syndrome (PMOS) replace PCOS as it better reflects the salient clinical features and underlying endocrine and metabolic pathophysiology [12]. Whether the new term will be widely adopted is uncertain at this time. (See \"Polycystic ovary syndrome (PCOS) in adolescents: Clinical features and pathogenesis\", section on 'Introduction' and \"Clinical manifestations of polycystic ovary syndrome in adults\", section on 'Introduction'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OBESITY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Retatrutide for obesity management (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Retatrutide is a triple agonist at the GLP-1, GIP, and glucagon receptors under investigation for individuals with obesity, with or without diabetes. In randomized trials:"
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among over 2300 adults without diabetes with body mass index (BMI) of ≥30 kg/m² or ≥27 kg/m² with ≥1 weight-related complication, retatrutide 12 mg reduced body weight by 25 percent at 80 weeks, compared with 4 percent with placebo, with associated improvements in knee osteoarthritis and obstructive sleep apnea in those with these conditions [13]."
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among over 1100 participants with diabetes and BMI of ≥27 kg/m², retatrutide 12 mg versus placebo reduced both body weight (19 versus 5 percent) and glycated hemoglobin (-1.45 versus -0.45 percentage points) at 80 weeks [14]."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most common adverse events in both trials were mild to moderate gastrointestinal symptoms. While promising, retatrutide is not yet commercially available. (See \"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents' and \"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New ACP guidelines for obesity management (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American College of Physicians (ACP) has released new guidelines for the pharmacologic treatment of adults with overweight or obesity [15]. They suggest initiating pharmacotherapy with lifestyle modification in nonpregnant adults with body mass index (BMI) ≥30 kg/m2 or BMI ≥27 to 30 kg/m2 with certain weight-related conditions. They suggest semaglutide and tirzepatide as first-line treatments in both groups. Later-line treatments for those with BMI ≥30 kg/m2 include phentermine-topiramate, liraglutide, and naltrexone-bupropion, but for those with BMI <30 kg/m2, only liraglutide is recommended. Our guidance is generally consistent with these guidelines, although we use non-glucagon-like peptide 1 (GLP-1)-based agents more broadly, particularly if patients cannot access or tolerate tirzepatide or semaglutide. (See \"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Reduced tirzepatide maintenance dosing and weight regain (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tirzepatide is highly efficacious for weight loss, but optimal maintenance dosing has not previously been evaluated in clinical trials. In a new randomized trial including approximately 380 participants who lost at least 5 percent of their bodyweight on tirzepatide and tolerated at least the 10 mg dose, bodyweight reduction from baseline after 52 weeks of maintenance therapy was 22 percent with the maximum tolerated dose (10 or 15 mg); 17 percent with 5 mg maintenance dosing; and 10 percent with placebo [16]. These findings provide insight regarding the magnitude of weight regain with reduced tirzepatide maintenance dosing and support our strategy of continuing the maximum tolerated dose for long-term maintenance. (See \"Obesity in adults: Pharmacotherapy\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THYROID DISORDERS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lenvatinib and pembrolizumab for metastatic anaplastic thyroid cancer without a targetable mutation (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Anaplastic thyroid cancer has a poor prognosis; in a growing number of small studies, immunotherapy shows promise for patients who do not have a targetable mutation (eg, BRAF V600E) and are thus not candidates for molecular targeted therapies. In a study of 25 patients who had metastatic anaplastic thyroid cancer without a BRAF V600E variant and were treated with concurrent lenvatinib and pembrolizumab, median progression-free survival was 5.4 months after a median follow-up of 18.5 months [17]. Median overall survival was 13 months. The combination of lenvatinib and pembrolizumab is a reasonable option for patients with metastatic anaplastic thyroid cancer without a targetable mutation and without access to a clinical trial. (See \"Anaplastic thyroid cancer\", section on 'Another targetable mutation absent or unknown'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dabrafenib plus trametinib for refractory, BRAF V600E-positive differentiated thyroid cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Radioiodine-refractory differentiated thyroid cancer is often treated with an antiangiogenic multikinase inhibitor (aaMKI), but most patients experience disease progression. In an international phase III trial, 153 patients with radioiodine-refractory, BRAF V600E-positive differentiated thyroid cancer, who progressed after treatment with one or two aaMKIs, were randomly assigned to oral dabrafenib plus trametinib or placebos [18]. After a median follow-up of 17.4 months, the median progression-free survival (12.8 versus 3.7 months) and overall response rate (57 versus 4 percent) were better in the dabrafenib plus trametinib group. This trial supports our approach of offering dabrafenib plus trametinib as an option to patients with BRAF V600E-positive differentiated thyroid cancer that progresses on therapy with an aaMKI. (See \"Advanced differentiated thyroid cancer: Systemic therapy\", section on 'Refractory disease or kinase intolerance'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Veligrotug for thyroid eye disease (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Veligrotug is an insulin-like growth factor 1 (IGF-1) receptor antagonist developed for the treatment of thyroid eye disease. In a 15-week trial comparing veligrotug with placebo in 113 patients with active, moderate to severe thyroid eye disease diagnosed within 15 months of trial entry, a greater proportion of patients in the veligrotug group had a reduction in clinical activity score and degree of proptosis (65 versus 18 percent and 70 versus 5 percent, respectively) [19]. Based on these results, veligrotug received regulatory approval in the United States for the treatment of thyroid eye disease. In the presence of proptosis, soft tissue involvement, and/or diplopia, we prefer initial treatment with an IGF-1 receptor antagonist infusion. If such an agent is not available, treatment with glucocorticoids is reasonable. (See \"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated guidelines on thyroid disease in pregnancy from the American Thyroid Association (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Thyroid Association (ATA) published updated guidelines for the diagnosis and management of thyroid disease during pregnancy [20]. Our approach is largely consistent with ATA guidance. Similar to the 2017 guidelines, the ATA recommends using population-based, trimester- and assay method-specific reference ranges for TSH and free T4. Unlike prior guidance, the ATA no longer uses thyroid peroxidase (TPO) antibody positivity to guide levothyroxine treatment decision-making for subclinical hypothyroidism (high TSH, normal free T4). This is due to more recent evidence showing minimal differences in adverse pregnancy outcomes in subclinical hypothyroidism with or without TPO antibody positivity. ATA guidelines generally favor treatment of persistent subclinical hypothyroidism in the first trimester with levothyroxine. While some UpToDate contributors agree with treating subclinical hypothyroidism during pregnancy, others do not treat it in any trimester. (See \"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges' and \"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER ENDOCRINOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bisphosphonate plus bone anabolic agent for osteogenesis imperfecta (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bisphosphonates, such as zoledronic acid, are commonly used in patients with moderate to severe osteogenesis imperfecta (OI), but they have not been shown to decrease fracture risk. An open-label, randomized study of 350 adults with OI that compared a combination of teriparatide, an anabolic agent that stimulates new bone formation, daily for two years followed by a single infusion of zoledronic acid with standard care found a greater increase in lumbar spine and total hip bone mineral density (BMD) in the teriparatide plus zoledronic acid group compared with the standard therapy group, but no difference in incident fractures [21]. These findings, along with others, suggest that bone quality rather than density drives the pathogenesis of fractures in OI. (See \"Osteogenesis imperfecta: An overview\", section on 'Management'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nDIABETES MELLITUS\n\nOnce-weekly basal insulin efsitora for adults with type 2 diabetes (October 2026)\n\nManagement of type 2 diabetes often requires insulin therapy, and daily insulin injections can be burdensome. Insulin efsitora is a once-weekly basal insulin analog that recently received regulatory approval in several countries, including the United States, for adults with type 2 diabetes [1-3]. Approval was granted based on four clinical trials comparing once-weekly insulin efsitora with once-daily basal insulin analogs in over 3000 total participants, who were insulin-naïve, already taking insulin, or on other noninsulin therapies. Across trials, insulin efsitora reduced glycated hemoglobin to a similar degree as once-daily basal insulin analogs. Rates of adverse events, including hypoglycemia, were similar. We reserve use of once-weekly basal insulins for patients already on stable basal insulin regimens who have challenges with medication administration or compliance with daily dosing. (See \"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'.)\n\nPopulation-wide screening for type 1 diabetes (June 2026)\n\nPopulation-wide screening strategies for type 1 diabetes have been proposed but have not been implemented in clinical practice. In a primary care-based, 10-year effort in Germany, >220,000 children (aged approximately two to six years) underwent screening for islet autoantibodies using capillary blood samples [4]. Those with ≥2 autoantibodies then underwent confirmatory testing using a venous blood sample. Participants with confirmed preclinical type 1 diabetes (0.3 percent) were offered metabolic monitoring along with an educational program. Among children with preclinical type 1 diabetes, the cumulative five-year progression rate to clinical diabetes was 36 percent and did not differ significantly between those with and without a first-degree relative with type 1 diabetes. These findings suggest that broad screening efforts may be feasible and facilitate early identification and monitoring of young children at high risk for clinical type 1 diabetes. (See \"Type 1 diabetes mellitus: Disease prediction and screening\", section on 'Whom to screen'.)\n\nTeplizumab to preserve insulin production in type 1 diabetes (June 2026)\n\nTeplizumab, an anti-CD3 monoclonal antibody, had previously been approved in the United States to delay the onset of clinical type 1 diabetes (T1D) in patients with preclinical (stage 2) disease. It recently received accelerated approval to delay the decline in endogenous insulin production in patients aged 8 to 17 years diagnosed with clinical (stage 3) T1D within the prior eight weeks [5]. For this indication, teplizumab is administered as two 12-day courses of daily intravenous infusions, six months apart. Candidates for treatment must have ≥1 positive islet autoantibody and a peak C-peptide level ≥0.2 pmol/mL. Teplizumab should not be administered to immunocompromised individuals or those with active Epstein-Barr virus or cytomegalovirus infection or reactivation. The choice to initiate treatment should be individualized, and the long-term clinical impact remains uncertain. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)\n\nAutomated insulin delivery during pregnancy in patients with type 1 diabetes (May 2026)\n\nFor pregnant patients with type 1 diabetes, stringent glycemic control reduces risk of obstetric and neonatal complications but is difficult to achieve due to treatment burden and risk of hypoglycemia. The Tandem Control-IQ+ automated insulin delivery algorithm has regulatory approval in the United States for use in patients with type 1 diabetes during pregnancy [6]. Approval was based on a trial including 91 pregnant patients with type 1 diabetes who were randomly assigned to the t:slim X2 insulin pump with Control-IQ+ technology or usual care (non-automated insulin delivery [AID] strategies) [7]. AID therapy increased time in the pregnancy-specific target glucose range and decreased time spent with glucose <63 mg/dL (3.5 mmol/L). The Control-IQ+ algorithm does not have a pregnancy-specific target range, so integrated pumps should be used in Sleep Activity mode with a target range of 112 to 120 mg/dL. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'.)\n\nGlucagon-like peptide-1 agonists and venous leg ulcer healing (April 2026)\n\nEmerging evidence suggests that glucagon-like peptide-1 receptor agonists (GLP-1 RAs) may improve wound healing. In an observational propensity score matching study that included over 76,000 patients with lower extremity venous wounds, GLP-1 RA use after one year compared with non-use was associated with lower rates of nonhealing wounds (0.61 versus 0.92 percent), wound-related complications (21.7 versus 35.2 percent), infections (13.6 versus 16.5 percent), and hospitalizations (18.4 versus 30.8 percent) [8]. The benefits associated with GLP-1 RAs were observed in patients with and without diabetes and were independent of weight loss. While these data are encouraging, more studies are needed before GLP-1 RAs can be used solely to improve wound healing. (See \"Evaluation and management of chronic venous insufficiency including venous leg ulcer\", section on 'GLP-1 receptor agonists'.)\n\nFEMALE REPRODUCTION\n\nGLP-1 receptor agonist use in pregnancy (October 2026)\n\nData are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [9]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)\n\nContemporary menopausal hormone therapy and vascular risks (October 2026)\n\nIn postmenopausal women, oral estrogens have been shown to increase the risk of venous thromboembolism and stroke. However, most of the data are based on older estrogen regimens (eg, oral conjugated equine estrogen) rather than contemporary regimens (eg, 17-beta-estradiol). In a case-control study evaluating contemporary estrogen replacement regimens in postmenopausal women, oral estradiol compared with no hormone use was associated with an increased risk of VTE regardless of dose (absolute risk 0.09 percent per year) [10,11]. The risk of stroke was increased at doses >1 mg/day (absolute risk 0.06 percent per year). Transdermal estradiol did not increase the risk of VTE or stroke regardless of dose. These findings support our preference for using transdermal 17-beta-estradiol over other types of estrogen. (See \"Menopausal hormone therapy: Benefits and risks\", section on 'Venous thromboembolism'.)\n\nProposed terminology change for polycystic ovary syndrome (May 2026)\n\nPolycystic ovary syndrome (PCOS) is one of the most common endocrine/metabolic disorders of females and is associated with cardiometabolic risks, ovulatory and menstrual irregularity, subfertility and infertility, and clinically evident hyperandrogenism. There has been longstanding support for renaming the syndrome because \"PCOS\" does not reflect the most common clinical features of the syndrome. Pathological cysts are not a feature of the condition, and an inappropriate focus on ovarian imaging may delay diagnosis, particularly in adolescents. After a global consensus process, a consortium of experts proposed that the term Polyendocrine Metabolic Ovarian Syndrome (PMOS) replace PCOS as it better reflects the salient clinical features and underlying endocrine and metabolic pathophysiology [12]. Whether the new term will be widely adopted is uncertain at this time. (See \"Polycystic ovary syndrome (PCOS) in adolescents: Clinical features and pathogenesis\", section on 'Introduction' and \"Clinical manifestations of polycystic ovary syndrome in adults\", section on 'Introduction'.)\n\nOBESITY\n\nRetatrutide for obesity management (October 2026)\n\nRetatrutide is a triple agonist at the GLP-1, GIP, and glucagon receptors under investigation for individuals with obesity, with or without diabetes. In randomized trials:\n\n● Among over 2300 adults without diabetes with body mass index (BMI) of ≥30 kg/m² or ≥27 kg/m² with ≥1 weight-related complication, retatrutide 12 mg reduced body weight by 25 percent at 80 weeks, compared with 4 percent with placebo, with associated improvements in knee osteoarthritis and obstructive sleep apnea in those with these conditions [13].\n\n● Among over 1100 participants with diabetes and BMI of ≥27 kg/m², retatrutide 12 mg versus placebo reduced both body weight (19 versus 5 percent) and glycated hemoglobin (-1.45 versus -0.45 percentage points) at 80 weeks [14].\n\nThe most common adverse events in both trials were mild to moderate gastrointestinal symptoms. While promising, retatrutide is not yet commercially available. (See \"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents' and \"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'.)\n\nNew ACP guidelines for obesity management (June 2026)\n\nThe American College of Physicians (ACP) has released new guidelines for the pharmacologic treatment of adults with overweight or obesity [15]. They suggest initiating pharmacotherapy with lifestyle modification in nonpregnant adults with body mass index (BMI) ≥30 kg/m2 or BMI ≥27 to 30 kg/m2 with certain weight-related conditions. They suggest semaglutide and tirzepatide as first-line treatments in both groups. Later-line treatments for those with BMI ≥30 kg/m2 include phentermine-topiramate, liraglutide, and naltrexone-bupropion, but for those with BMI <30 kg/m2, only liraglutide is recommended. Our guidance is generally consistent with these guidelines, although we use non-glucagon-like peptide 1 (GLP-1)-based agents more broadly, particularly if patients cannot access or tolerate tirzepatide or semaglutide. (See \"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'.)\n\nReduced tirzepatide maintenance dosing and weight regain (May 2026)\n\nTirzepatide is highly efficacious for weight loss, but optimal maintenance dosing has not previously been evaluated in clinical trials. In a new randomized trial including approximately 380 participants who lost at least 5 percent of their bodyweight on tirzepatide and tolerated at least the 10 mg dose, bodyweight reduction from baseline after 52 weeks of maintenance therapy was 22 percent with the maximum tolerated dose (10 or 15 mg); 17 percent with 5 mg maintenance dosing; and 10 percent with placebo [16]. These findings provide insight regarding the magnitude of weight regain with reduced tirzepatide maintenance dosing and support our strategy of continuing the maximum tolerated dose for long-term maintenance. (See \"Obesity in adults: Pharmacotherapy\".)\n\nTHYROID DISORDERS\n\nLenvatinib and pembrolizumab for metastatic anaplastic thyroid cancer without a targetable mutation (October 2026)\n\nAnaplastic thyroid cancer has a poor prognosis; in a growing number of small studies, immunotherapy shows promise for patients who do not have a targetable mutation (eg, BRAF V600E) and are thus not candidates for molecular targeted therapies. In a study of 25 patients who had metastatic anaplastic thyroid cancer without a BRAF V600E variant and were treated with concurrent lenvatinib and pembrolizumab, median progression-free survival was 5.4 months after a median follow-up of 18.5 months [17]. Median overall survival was 13 months. The combination of lenvatinib and pembrolizumab is a reasonable option for patients with metastatic anaplastic thyroid cancer without a targetable mutation and without access to a clinical trial. (See \"Anaplastic thyroid cancer\", section on 'Another targetable mutation absent or unknown'.)\n\nDabrafenib plus trametinib for refractory, BRAF V600E-positive differentiated thyroid cancer (July 2026)\n\nRadioiodine-refractory differentiated thyroid cancer is often treated with an antiangiogenic multikinase inhibitor (aaMKI), but most patients experience disease progression. In an international phase III trial, 153 patients with radioiodine-refractory, BRAF V600E-positive differentiated thyroid cancer, who progressed after treatment with one or two aaMKIs, were randomly assigned to oral dabrafenib plus trametinib or placebos [18]. After a median follow-up of 17.4 months, the median progression-free survival (12.8 versus 3.7 months) and overall response rate (57 versus 4 percent) were better in the dabrafenib plus trametinib group. This trial supports our approach of offering dabrafenib plus trametinib as an option to patients with BRAF V600E-positive differentiated thyroid cancer that progresses on therapy with an aaMKI. (See \"Advanced differentiated thyroid cancer: Systemic therapy\", section on 'Refractory disease or kinase intolerance'.)\n\nVeligrotug for thyroid eye disease (July 2026)\n\nVeligrotug is an insulin-like growth factor 1 (IGF-1) receptor antagonist developed for the treatment of thyroid eye disease. In a 15-week trial comparing veligrotug with placebo in 113 patients with active, moderate to severe thyroid eye disease diagnosed within 15 months of trial entry, a greater proportion of patients in the veligrotug group had a reduction in clinical activity score and degree of proptosis (65 versus 18 percent and 70 versus 5 percent, respectively) [19]. Based on these results, veligrotug received regulatory approval in the United States for the treatment of thyroid eye disease. In the presence of proptosis, soft tissue involvement, and/or diplopia, we prefer initial treatment with an IGF-1 receptor antagonist infusion. If such an agent is not available, treatment with glucocorticoids is reasonable. (See \"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'.)\n\nUpdated guidelines on thyroid disease in pregnancy from the American Thyroid Association (July 2026)\n\nThe American Thyroid Association (ATA) published updated guidelines for the diagnosis and management of thyroid disease during pregnancy [20]. Our approach is largely consistent with ATA guidance. Similar to the 2017 guidelines, the ATA recommends using population-based, trimester- and assay method-specific reference ranges for TSH and free T4. Unlike prior guidance, the ATA no longer uses thyroid peroxidase (TPO) antibody positivity to guide levothyroxine treatment decision-making for subclinical hypothyroidism (high TSH, normal free T4). This is due to more recent evidence showing minimal differences in adverse pregnancy outcomes in subclinical hypothyroidism with or without TPO antibody positivity. ATA guidelines generally favor treatment of persistent subclinical hypothyroidism in the first trimester with levothyroxine. While some UpToDate contributors agree with treating subclinical hypothyroidism during pregnancy, others do not treat it in any trimester. (See \"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges' and \"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'.)\n\nOTHER ENDOCRINOLOGY\n\nBisphosphonate plus bone anabolic agent for osteogenesis imperfecta (May 2026)\n\nBisphosphonates, such as zoledronic acid, are commonly used in patients with moderate to severe osteogenesis imperfecta (OI), but they have not been shown to decrease fracture risk. An open-label, randomized study of 350 adults with OI that compared a combination of teriparatide, an anabolic agent that stimulates new bone formation, daily for two years followed by a single infusion of zoledronic acid with standard care found a greater increase in lumbar spine and total hip bone mineral density (BMD) in the teriparatide plus zoledronic acid group compared with the standard therapy group, but no difference in incident fractures [21]. These findings, along with others, suggest that bone quality rather than density drives the pathogenesis of fractures in OI. (See \"Osteogenesis imperfecta: An overview\", section on 'Management'.)",
+    "word_count": 2399,
+    "character_count": 16931,
+    "references": [
+      "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e02229e-262c-4e25-9240-9e9de4eb7c1d (Accessed on October 05, 2026).",
+      "Anderer S. FDA Approves Weekly Basal Insulin for Adults With Type 2 Diabetes. JAMA 2026; 335:1564.",
+      "Insulin icodec prescribing information. Available at: https://www.novo-pi.com/awiqli.pdf#xd_co_f=NmMxNjE0Y2UtZTNmNC00YzAwLTljNTMtZjAwYzM2NjExYTdj~ (Accessed on April 23, 2026).",
+      "Winkler C, Friedl N, Abt R, et al. Screening Children for Early-Stage Type 1 Diabetes. JAMA 2026; 335:2046.",
+      "Teplizumab (TZIELD). US Food and Drug Administration (FDA) approved product information. Revised June 2026. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761183s010lbls014lbl.pdf (Accessed on June 15, 2026).",
+      "FDA clears Control-IQ+AID technology for use in pregnancy complicated by type 1 diabetes. Contemporary Ob/Gyn. April 27, 2026. https://www.contemporaryobgyn.net/view/fda-clears-control-iq-automated-insulin-delivery-technology-for-use-in-pregnancy (Accessed on April 28, 2026).",
+      "Donovan LE, Lemieux P, Dunlop AD, et al. Closed-Loop Insulin Delivery in Type 1 Diabetes in Pregnancy: The CIRCUIT Randomized Clinical Trial. JAMA 2025; 334:2176.",
+      "Go CC, Annie F, Drabish K, Eslami MH. GLP-1 Receptor Agonist Use Is Associated with Venous Ulcer Healing and Fewer Wound Infections. Ann Vasc Surg 2026; 129:35.",
+      "Dib S, Savage MJ, Adams D, et al. Preconception, pregnancy, and postnatal use of GLP-1 receptor agonist-based therapies in women with type 1, type 2, or gestational diabetes: a systematic review, meta-analysis, and international expert consensus statement. Lancet Obstetris, Gynaecology, & Women's Health 2026. (available at https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext).https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext)",
+      "Renoux C, Dell'Aniello S, Suissa S. Hormone replacement therapy and the risk of venous thromboembolism: a population-based study. J Thromb Haemost 2010; 8:979.",
+      "Berggreen J, Pourhadi N, Wood-Kurland H, et al. Contemporary menopausal hormone therapy and thrombotic disease: nationwide nested case-control study. BMJ 2026; 394:e100688.",
+      "Teede HJ, Khomami MB, Morman R, et al. Polyendocrine metabolic ovarian syndrome, the new name for polycystic ovary syndrome: a multistep global consensus process. Lancet 2026; 407:2329.",
+      "Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity. N Engl J Med 2026.",
+      "Bellido V, le Roux CW, Ekinci EI, et al. Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial. Lancet 2026; 408:1455.",
+      "Qaseem A, Cross JT Jr, Harrod CS, et al. Pharmacologic Treatments With Lifestyle Modifications in Nonpregnant Adults With Overweight or Obesity in Outpatient Settings: A Living Clinical Guideline From the American College of Physicians (April 2026). Ann Intern Med 2026; 179:1177.",
+      "Horn DB, Aronne LJ, Wharton S, et al. Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial. Lancet 2026; 407:2305.",
+      "Cabanillas ME, Busaidy NL, Zafereo M, et al. Lenvatinib plus pembrolizumab for the treatment of patients with non-BRAF mutated anaplastic thyroid cancer: A single center, phase 2 clinical trial. Eur J Cancer 2026; 246:117013.",
+      "Gao M, Park YJ, Lin CC, et al. Efficacy and safety of dabrafenib plus trametinib in adults with differentiated thyroid cancer: a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol 2026; 27:994.",
+      "Yen MT, Cockerham K, Saeed P, et al. THRIVE: A Phase 3, Randomized, Double-Masked, Placebo-Controlled Study of Veligrotug for Active Thyroid Eye Disease. Ophthalmology 2026; 133:1085.",
+      "Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid 2026; 36:481.",
+      "Hald JD, Weir CJ, Keerie C, et al. Teriparatide Plus Zoledronic Acid for Osteogenesis Imperfecta: A Randomized Clinical Trial. JAMA 2026; 336:116."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 8354,
+        "title": "1-3",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%221%22"
+      },
+      {
+        "id": 1801,
+        "title": "\"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'",
+        "url": "https://medilib.ir/uptodate/show/1801"
+      },
+      {
+        "id": 8354,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%224%22"
+      },
+      {
+        "id": 1791,
+        "title": "\"Type 1 diabetes mellitus: Disease prediction and screening\", section on 'Whom to screen'",
+        "url": "https://medilib.ir/uptodate/show/1791"
+      },
+      {
+        "id": 140208,
+        "title": "Teplizumab",
+        "url": "https://medilib.ir/uptodate/show/140208"
+      },
+      {
+        "id": 8354,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%225%22"
+      },
+      {
+        "id": 1811,
+        "title": "\"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'",
+        "url": "https://medilib.ir/uptodate/show/1811"
+      },
+      {
+        "id": 8354,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%226%22"
+      },
+      {
+        "id": 8354,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%227%22"
+      },
+      {
+        "id": 4802,
+        "title": "\"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'",
+        "url": "https://medilib.ir/uptodate/show/4802"
+      },
+      {
+        "id": 8354,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%228%22"
+      },
+      {
+        "id": 127144,
+        "title": "\"Evaluation and management of chronic venous insufficiency including venous leg ulcer\", section on 'GLP-1 receptor agonists'",
+        "url": "https://medilib.ir/uptodate/show/127144"
+      },
+      {
+        "id": 8354,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%229%22"
+      },
+      {
+        "id": 4802,
+        "title": "\"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'",
+        "url": "https://medilib.ir/uptodate/show/4802"
+      },
+      {
+        "id": 9424,
+        "title": "conjugated equine estrogen",
+        "url": "https://medilib.ir/uptodate/show/9424"
+      },
+      {
+        "id": 8354,
+        "title": "10,11",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2210%22"
+      },
+      {
+        "id": 7427,
+        "title": "\"Menopausal hormone therapy: Benefits and risks\", section on 'Venous thromboembolism'",
+        "url": "https://medilib.ir/uptodate/show/7427"
+      },
+      {
+        "id": 8354,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2212%22"
+      },
+      {
+        "id": 5852,
+        "title": "\"Polycystic ovary syndrome (PCOS) in adolescents: Clinical features and pathogenesis\", section on 'Introduction'",
+        "url": "https://medilib.ir/uptodate/show/5852"
+      },
+      {
+        "id": 7436,
+        "title": "\"Clinical manifestations of polycystic ovary syndrome in adults\", section on 'Introduction'",
+        "url": "https://medilib.ir/uptodate/show/7436"
+      },
+      {
+        "id": 8354,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2213%22"
+      },
+      {
+        "id": 8354,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2214%22"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 1772,
+        "title": "\"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'",
+        "url": "https://medilib.ir/uptodate/show/1772"
+      },
+      {
+        "id": 8354,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2215%22"
+      },
+      {
+        "id": 115980,
+        "title": "semaglutide",
+        "url": "https://medilib.ir/uptodate/show/115980"
+      },
+      {
+        "id": 138675,
+        "title": "tirzepatide",
+        "url": "https://medilib.ir/uptodate/show/138675"
+      },
+      {
+        "id": 85870,
+        "title": "phentermine-topiramate",
+        "url": "https://medilib.ir/uptodate/show/85870"
+      },
+      {
+        "id": 9522,
+        "title": "liraglutide",
+        "url": "https://medilib.ir/uptodate/show/9522"
+      },
+      {
+        "id": 97033,
+        "title": "naltrexone-bupropion",
+        "url": "https://medilib.ir/uptodate/show/97033"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 138675,
+        "title": "Tirzepatide",
+        "url": "https://medilib.ir/uptodate/show/138675"
+      },
+      {
+        "id": 8354,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2216%22"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\"",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 99962,
+        "title": "lenvatinib",
+        "url": "https://medilib.ir/uptodate/show/99962"
+      },
+      {
+        "id": 96957,
+        "title": "pembrolizumab",
+        "url": "https://medilib.ir/uptodate/show/96957"
+      },
+      {
+        "id": 8354,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2217%22"
+      },
+      {
+        "id": 2189,
+        "title": "\"Anaplastic thyroid cancer\", section on 'Another targetable mutation absent or unknown'",
+        "url": "https://medilib.ir/uptodate/show/2189"
+      },
+      {
+        "id": 89686,
+        "title": "dabrafenib",
+        "url": "https://medilib.ir/uptodate/show/89686"
+      },
+      {
+        "id": 89685,
+        "title": "trametinib",
+        "url": "https://medilib.ir/uptodate/show/89685"
+      },
+      {
+        "id": 8354,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2218%22"
+      },
+      {
+        "id": 2191,
+        "title": "\"Advanced differentiated thyroid cancer: Systemic therapy\", section on 'Refractory disease or kinase intolerance'",
+        "url": "https://medilib.ir/uptodate/show/2191"
+      },
+      {
+        "id": 151976,
+        "title": "Veligrotug",
+        "url": "https://medilib.ir/uptodate/show/151976"
+      },
+      {
+        "id": 8354,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2219%22"
+      },
+      {
+        "id": 7827,
+        "title": "\"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'",
+        "url": "https://medilib.ir/uptodate/show/7827"
+      },
+      {
+        "id": 8354,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2220%22"
+      },
+      {
+        "id": 9557,
+        "title": "levothyroxine",
+        "url": "https://medilib.ir/uptodate/show/9557"
+      },
+      {
+        "id": 7851,
+        "title": "\"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges'",
+        "url": "https://medilib.ir/uptodate/show/7851"
+      },
+      {
+        "id": 16609,
+        "title": "\"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'",
+        "url": "https://medilib.ir/uptodate/show/16609"
+      },
+      {
+        "id": 9902,
+        "title": "zoledronic acid",
+        "url": "https://medilib.ir/uptodate/show/9902"
+      },
+      {
+        "id": 10178,
+        "title": "teriparatide",
+        "url": "https://medilib.ir/uptodate/show/10178"
+      },
+      {
+        "id": 8354,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8354#rid%2221%22"
+      },
+      {
+        "id": 2943,
+        "title": "\"Osteogenesis imperfecta: An overview\", section on 'Management'",
+        "url": "https://medilib.ir/uptodate/show/2943"
+      }
+    ]
+  }
+}

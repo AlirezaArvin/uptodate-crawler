@@ -1,0 +1,772 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8350"
+  },
+  "article": {
+    "id": 8350,
+    "expected_title": "What's new in obstetrics and gynecology",
+    "url": "https://medilib.ir/uptodate/show/8350",
+    "final_url": "https://medilib.ir/uptodate/show/8350",
+    "page_title": "What's new in obstetrics and gynecology",
+    "extracted_at": "2026-11-20T20:52:38.922Z",
+    "title_matches_expected": true,
+    "title": "What's new in obstetrics and gynecology",
+    "contributors": {
+      "authors": [
+        "Alana Chakrabarti, MD, FACOG",
+        "Kristen Eckler, MD, FACOG"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Nov 04, 2026",
+    "version": "Topic 8350 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PRENATAL OBSTETRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "GLP-1 receptor agonist use in pregnancy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [1]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New AAP guideline on consumption of raw milk (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A new guideline from the American Academy of Pediatrics reaffirms a recommendation against consumption of \"raw\" (unpasteurized) milk and provides updated evidence [2]. Consumption of raw milk carries a significant risk of foodborne infection, including typhoid fever (Salmonella typhi and paratyphi), group A Streptococcus, Campylobacter, Brucella, Listeria monocytogenes, and Escherichia coli (with associated risks for hemolytic uremic syndrome); the risks are particularly high in young children and immunocompromised individuals. Furthermore, raw milk has no advantages in nutritional value, gastrointestinal function, or other health benefits compared with pasteurized milk. This supports our recommendation to avoid consumption of raw milk. (See \"Dietary recommendations for toddlers, preschoolers, and school-age children\", section on 'Dairy products' and \"Nutrition in pregnancy: Assessment and counseling\", section on 'Avoidance of foodborne infections'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Increased intake of allergenic foods during pregnancy and lactation does not protect against infant food allergy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Early introduction of allergenic foods into the infant diet may reduce the risk of food allergy, and it has been proposed that including such foods in the maternal diet during pregnancy and lactation also may be protective. In a multicenter trial that randomly assigned over 1000 females who were pregnant or lactating to a diet enriched for egg and peanut or to a standard diet, the percentage of infants with IgE-mediated allergy to egg or peanut at one year of age was similar in both groups (7.8 and 8.4 percent in the enriched and standard groups, respectively) [3]. These data support our practice of not counselling pregnant or lactating patients to purposefully enrich their diets with allergenic foods. (See \"Primary prevention of allergic disease: Maternal diet in pregnancy and lactation\", section on 'Increasing amounts of allergenic foods'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [4]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "ACOG extends window for RSV vaccination in northern hemisphere (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In September 2026, the American College of Obstetricians and Gynecologists (ACOG) updated its guidance on the timing of maternal respiratory syncytial virus (RSV) vaccination with RSVPreF in the northern hemisphere [5]. Previously, they recommended vaccination from September through January. However, with more pediatric RSV cases occurring later in the spring and with greater severity, ACOG now recommends maternal vaccination from September through March 1. The optimal gestational age of vaccination remains between 32 and 36 weeks. As almost half of eligible pregnant individuals opt for maternal RSV vaccination, it is important that clinicians are aware of this extended vaccination window. (See \"Immunizations during pregnancy\", section on 'Strategies for prevention'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Congenital anomalies with vitamin B12 and folate deficiency (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Maternal folate deficiency is known to increase the risk of neural tube defects. In a new study from China that analyzed over 17,000 individuals in a preconception cohort, maternal vitamin B12 or folate deficiency was associated with a greater risk of congenital anomalies in other organ systems, such as cardiac/circulatory, limb, and genitourinary, in a dose-dependent pattern (higher risks associated with more severe deficiency) [6]. In a separate group of over 3000 couples tested before conception, low vitamin B12 levels in either parent predicted a greater risk of congenital anomalies. The overall prevalence of congenital anomalies was low and consistent with other population estimates. These results reinforce the importance of identifying and treating these vitamin deficiencies. (See \"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recommendations on 2026-2027 COVID-19 vaccination (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [7-10]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [11], the American College of Obstetricians and Gynecologists [12], the American Academy of Pediatrics [13], and the Infectious Diseases Society of America [14]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Causes of pregnancy-related death in the United States (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A recent report based on the Centers for Disease Control and Prevention's Pregnancy Mortality Surveillance System (PMSS) has updated the most common causes of pregnancy-related mortality, defined as death during or within one year of pregnancy from a pregnancy complication. In an analysis of 14,000 pregnancy-related deaths in the United States between 2005 and 2024, the leading causes of death were cardiovascular conditions (24 percent), infection or sepsis (18 percent), and hemorrhage (12 percent) [15]. Infectious deaths rose and fell with the COVID-19 pandemic; hemorrhagic deaths increased over time. Of note, PMSS does not include nonpregnancy-related causes of maternal death, such as drug overdose, suicide, or homicide. These data underscore the importance of initiatives to eliminate preventable causes of maternal death. (See \"Overview of maternal mortality\", section on 'United States'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Activity type and duration to reduce risk of hypertensive disorders of pregnancy (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While studies have reported that exercise during pregnancy lowers the risk of hypertensive disorders of pregnancy (HDP), the degree and duration of activity needed to achieve benefit have not been quantified. In a cohort study evaluating 24-hour movement in 470 pregnant individuals, the optimal daily activity composition associated with the lowest risk of developing HDP consisted of nearly six hours of sedentary time, nearly eight hours of light physical activity, seven minutes of moderate to vigorous physical activity, and 10 hours of sleep [16]. This study improves clinicians' ability to counsel pregnant patients on activity goals beyond a \"sit less, move more\" approach. (See \"Exercise during pregnancy and the postpartum period\", section on 'Benefits'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "COVID-19 vaccination during pregnancy (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The optimal timing of COVID-19 vaccination during pregnancy remains unclear, as the approach must consider both maternal and infant benefits. In an analysis of data from over 78,000 infants born in California between July 1, 2021 and June 30, 2023, maternal vaccination at any time during pregnancy reduced infant COVID-19-related illness and hospitalization during the first six months of life [17]. Vaccination prior to pregnancy did not protect infants of any age. Although maternal vaccination during the third trimester had the greatest benefit for the infant, we continue to recommend earlier COVID-19 vaccination during pregnancy to provide benefit during more weeks of the pregnancy. (See \"COVID-19: Overview of pregnancy issues\", section on 'Improved maternal and fetal outcomes'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Light activity and pregnancy outcomes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Exercise is generally considered beneficial for pregnant patients, but sedentary patients can find it daunting to change their habits. In an observational study that used accelerometry to monitor the activity of 470 pregnant patients, individuals with less sedentary time, more light physical activity (including standing), and higher step counts had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy (eg, chronic hypertension, gestational hypertension, preeclampsia) [18]. Patients sitting >10 hours a day had twice the risk of adverse pregnancy outcomes compared with those sitting for 7 hours per day. This study provides further data that modest changes in behavior, such as standing and walking more, can have a positive impact on pregnancy outcomes, and supports the framework of \"sit less, move more.\" (See \"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perinatal support to reduce burnout for pregnant trainees (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Occupational burnout increases medical errors and costs; pregnancy and parenthood are unique stressors that increase the risk of burnout. In a study comparing a tailored parental support package with usual care for 143 pregnant trainees (residents and fellows, procedural and non-procedural specialties), trainees receiving the support package reported lower overall mean burnout scores and a lower increase in scores between enrollment and 24 weeks postpartum compared with usual care [19]. The intervention, which consisted of a smart bassinette, wearable breast pump, virtual perinatal support, and formal faculty mentorship, was relatively low-cost and provided an enterprise-level approach to reducing burnout for high-risk trainees. (See \"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "In utero benzodiazepine exposure and risk of psychiatric disorder (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Benzodiazepine receptor agonists are often prescribed for anxiety or insomnia, which are common in antenatal depression. A recent study found that use of these drugs during pregnancy was not associated with psychiatric disorders in the offspring, after controlling for potential confounding factors [20]. Although we prefer to manage severe antenatal depression with an antidepressant and adjunctive psychotherapy, substantial anxiety or insomnia may necessitate a benzodiazepine receptor agonist as a time-limited adjunct (eg, for two weeks). (See \"Teratogenicity, pregnancy complications, and postnatal risks of antipsychotics, benzodiazepines, lithium, and neuromodulation\", section on 'Postnatal effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nirsevimab versus maternal respiratory syncytial virus vaccination for infants (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Limited data have suggested that infant immunoprophylaxis is associated with lower rates of hospitalization for respiratory syncytial virus (RSV)-associated lower respiratory tract infection (LRTI) than maternal vaccination. In a new cohort study of over 164,000 infants in France followed for a six-month period, infant immunoprophylaxis with nirsevimab was again associated with lower rates of hospitalization for RSV-associated LRTI than maternal RSVpreF vaccination (0.83 versus 0.96 percent) [21]. This difference was not observed when RSVpreF was administered ≥8 weeks prior to birth, although the number of these infants was small. While this strengthens support for neonatal immunoprophylaxis, rates of RSV-associated hospitalization were low in both groups, and we therefore encourage shared decision-making with our patients to determine the optimal preventive strategy. (See \"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Automated insulin delivery during pregnancy in patients with type 1 diabetes (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For pregnant patients with type 1 diabetes, stringent glycemic control reduces risk of obstetric and neonatal complications but is difficult to achieve due to treatment burden and risk of hypoglycemia. The Tandem Control-IQ+ automated insulin delivery algorithm has regulatory approval in the United States for use in patients with type 1 diabetes during pregnancy [22]. Approval was based on a trial including 91 pregnant patients with type 1 diabetes who were randomly assigned to the t:slim X2 insulin pump with Control-IQ+ technology or usual care (non-automated insulin delivery [AID] strategies) [23]. AID therapy increased time in the pregnancy-specific target glucose range and decreased time spent with glucose <63 mg/dL (3.5 mmol/L). The Control-IQ+ algorithm does not have a pregnancy-specific target range, so integrated pumps should be used in Sleep Activity mode with a target range of 112 to 120 mg/dL. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [24]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INTRAPARTUM AND POSTPARTUM OBSTETRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "IV iron in pregnancy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral and intravenous (IV) iron are both effective for replenishing iron stores, but IV iron repletes iron stores and improves hemoglobin faster. In a new meta-analysis that analyzed 29 randomized trials including over 11,000 pregnant participants, IV iron reduced the likelihood of transfusions during the delivery admission and increased maternal hemoglobin and maternal and neonatal ferritins [25]. Adverse effects were mild and less frequent with IV iron. This supports our use of IV iron in pregnant individuals who are beyond the first trimester and cannot tolerate oral iron, those with severe anemia (especially later in the pregnancy), and those for whom oral iron does not effectively increase the hemoglobin and/or ferritin levels. First-trimester safety data are not available. (See \"Anemia in pregnancy\", section on 'Choice between oral and IV iron'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Antibiotic prophylaxis for unplanned cesarean birth (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The risk of postpartum infection related to unplanned cesarean birth is high. In 2016, a seminal trial demonstrated lower infection rates in pregnant patients who received preoperative azithromycin plus cefazolin compared with cefazolin alone, but follow-up data have been lacking. In a recent study of >200,000 patients undergoing unplanned cesarean birth between 2013 and 2024, rates of adjunctive azithromycin use increased while postpartum infection rates decreased significantly (from 9.2 to 8.0 percent) [26]. This observational study suggests an association between broader antibiotic coverage and lower infection risk and supports the use of combination antibiotic prophylaxis for unplanned cesarean birth. (See \"Cesarean birth: Preincision planning and patient preparation\", section on 'Evidence'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Causes of pregnancy-related death in the United States (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A recent report based on the Centers for Disease Control and Prevention's Pregnancy Mortality Surveillance System (PMSS) has updated the most common causes of pregnancy-related mortality, defined as death during or within one year of pregnancy from a pregnancy complication. In an analysis of 14,000 pregnancy-related deaths in the United States between 2005 and 2024, the leading causes of death were cardiovascular conditions (24 percent), infection or sepsis (18 percent), and hemorrhage (12 percent) [15]. Infectious deaths rose and fell with the COVID-19 pandemic; hemorrhagic deaths increased over time. Of note, PMSS does not include nonpregnancy-related causes of maternal death, such as drug overdose, suicide, or homicide. These data underscore the importance of initiatives to eliminate preventable causes of maternal death. (See \"Overview of maternal mortality\", section on 'United States'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated guidelines on thyroid disease in pregnancy from the American Thyroid Association (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Thyroid Association (ATA) published updated guidelines for the diagnosis and management of thyroid disease during pregnancy [27]. Our approach is largely consistent with ATA guidance. Similar to the 2017 guidelines, the ATA recommends using population-based, trimester- and assay method-specific reference ranges for TSH and free T4. Unlike prior guidance, the ATA no longer uses thyroid peroxidase (TPO) antibody positivity to guide levothyroxine treatment decision-making for subclinical hypothyroidism (high TSH, normal free T4). This is due to more recent evidence showing minimal differences in adverse pregnancy outcomes in subclinical hypothyroidism with or without TPO antibody positivity. ATA guidelines generally favor treatment of persistent subclinical hypothyroidism in the first trimester with levothyroxine. While some UpToDate contributors agree with treating subclinical hypothyroidism during pregnancy, others do not treat it in any trimester. (See \"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges' and \"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OFFICE GYNECOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cervical cancer screening in patients vaccinated against human papillomavirus (November 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For females who are vaccinated against human papillomavirus (HPV), the optimal frequency of cervical cancer screening is uncertain, as evidence is lacking. In a randomized trial of approximately 5600 females who received the bivalent HPV 16/18 vaccine by age 15 years, <1 percent developed a histologically confirmed high-grade lesion during 16 years of follow-up [28]. Screening strategies that utilized longer versus shorter screening intervals had similar rates of high-grade lesions, suggesting that less frequent screening may be reasonable for recipients of the HPV vaccine. However, until additional clinical trial data are available, we continue to screen recipients of the HPV vaccine according to the cervical cancer screening recommendations for unvaccinated patients. (See \"Cervical cancer screening: Benefits, harms, screening methods, and patient risk groups\", section on 'Recipients of HPV vaccine'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Mifepristone patient agreement form and abortion knowledge (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mifepristone, a progesterone receptor antagonist for managing induced abortion and pregnancy loss, is available in the United States only with Risk Evaluation and Mitigation Strategy (REMS) restrictions. One such restriction is the patient agreement form (PAF); however, evidence that the PAF improves patient knowledge is lacking. In a recent randomized trial of almost 600 patients treated with mifepristone and misoprostol, those exposed versus unexposed to the PAF had similarly high knowledge about medication abortion (approximately 10 out of 12 correct responses in each group) [29]. This trial raises questions about the value of REMS requirements and the barriers they may pose to medication access, particularly in the absence of improved patient outcomes. (See \"Induced abortion in the first trimester: Medications\", section on 'Provider requirements'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New WHO guidelines on contraception (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The World Health Organization (WHO) has released new guidelines expanding the range of safe and effective contraceptive options [30]. Notable recommendations include supporting the use of extended and continuous combined oral contraceptive regimens, extending the duration of etonogestrel-releasing implants up to five years, and adding mifepristone as an option for emergency contraception. These recommendations are consistent with our guidance. (See \"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use' and \"Emergency contraception\", section on 'Oral medication emergency contraception methods' and \"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "HPV vaccination and pregnancy outcomes (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vaccination against human papillomavirus (HPV) effectively prevents infection and HPV-associated cancer and disease; prior HPV vaccination is also linked to improved pregnancy outcomes. In an observational study of over 624,000 births among females aged 16 to 35 years in Sweden, a history of HPV vaccination was associated with decreased risk of preterm birth and severe small size for gestational age; the association was greatest among women vaccinated at younger ages [31]. Although it is unclear if this association is causal or related to unmeasured confounders, these findings emphasize the importance of universal HPV vaccination, optimally at younger ages, when cervical cancer benefits are also greatest. (See \"Human papillomavirus vaccination\", section on 'Other potential benefits'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intrauterine instillation for reducing pain with IUD placement (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paracervical block is commonly offered to reduce pain associated with intrauterine device (IUD) placement, but injection-related pain has prompted evaluation of other approaches. In a trial comparing intrauterine instillation of mepivacaine with placebo (sodium chloride), patient-reported pain scores at IUD placement were meaningfully lower following mepivacaine treatment (44 versus 59 mm on a 100 mm visual analog scale) [32]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, it is reasonable to offer intrauterine mepivacaine to patients seeking pain reduction during IUD placement. (See \"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Suboptimal HPV vaccine coverage in the United States (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [33]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lower hormone dose contraceptive patch (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Commonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [34]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "HPV vaccination and cervical cancer deaths (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Human papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [35]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Shift in pregnancy loss management following abortion ban (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients experiencing early pregnancy loss may choose expectant management (ie, observation), medication management, or procedural treatment. In a retrospective study of over 123,000 United States patients with early pregnancy loss, patients in states that enacted abortion bans experienced a significant increase in expectant management (2.8 percentage points) and a significant decrease in medication management (2.2 percentage points) when pre- and postabortion ban time frames were compared [36]. We continue to advise treatment selection based on the patient's values and preferences regarding an evidence-based care plan. (See \"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GYNECOLOGIC SURGERY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Apical prolapse repair with hysteropexy or hysterectomy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients undergoing surgical repair of apical pelvic organ prolapse (POP) have the options of uterus preservation (ie, hysteropexy) or removal (ie, hysterectomy). Older studies raised concerns that hysterectomy may contribute to development of recurrent POP. In a retrospective study of over 3300 patients undergoing surgical apical prolapse repair with either hysterectomy or hysteropexy, hysterectomy was associated with lower rates of repeat prolapse surgery (7 versus 11 percent) and prolapse retreatment (10 versus 15 percent) after a median follow-up of nine years [1]. While both approaches are reasonable depending on the patient's goals, we counsel patients that risk of recurrent prolapse appears to be lower with hysterectomy. (See \"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nPRENATAL OBSTETRICS\n\nGLP-1 receptor agonist use in pregnancy (October 2026)\n\nData are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [1]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)\n\nNew AAP guideline on consumption of raw milk (October 2026)\n\nA new guideline from the American Academy of Pediatrics reaffirms a recommendation against consumption of \"raw\" (unpasteurized) milk and provides updated evidence [2]. Consumption of raw milk carries a significant risk of foodborne infection, including typhoid fever (Salmonella typhi and paratyphi), group A Streptococcus, Campylobacter, Brucella, Listeria monocytogenes, and Escherichia coli (with associated risks for hemolytic uremic syndrome); the risks are particularly high in young children and immunocompromised individuals. Furthermore, raw milk has no advantages in nutritional value, gastrointestinal function, or other health benefits compared with pasteurized milk. This supports our recommendation to avoid consumption of raw milk. (See \"Dietary recommendations for toddlers, preschoolers, and school-age children\", section on 'Dairy products' and \"Nutrition in pregnancy: Assessment and counseling\", section on 'Avoidance of foodborne infections'.)\n\nIncreased intake of allergenic foods during pregnancy and lactation does not protect against infant food allergy (October 2026)\n\nEarly introduction of allergenic foods into the infant diet may reduce the risk of food allergy, and it has been proposed that including such foods in the maternal diet during pregnancy and lactation also may be protective. In a multicenter trial that randomly assigned over 1000 females who were pregnant or lactating to a diet enriched for egg and peanut or to a standard diet, the percentage of infants with IgE-mediated allergy to egg or peanut at one year of age was similar in both groups (7.8 and 8.4 percent in the enriched and standard groups, respectively) [3]. These data support our practice of not counselling pregnant or lactating patients to purposefully enrich their diets with allergenic foods. (See \"Primary prevention of allergic disease: Maternal diet in pregnancy and lactation\", section on 'Increasing amounts of allergenic foods'.)\n\nNew American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [4]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)\n\nACOG extends window for RSV vaccination in northern hemisphere (September 2026)\n\nIn September 2026, the American College of Obstetricians and Gynecologists (ACOG) updated its guidance on the timing of maternal respiratory syncytial virus (RSV) vaccination with RSVPreF in the northern hemisphere [5]. Previously, they recommended vaccination from September through January. However, with more pediatric RSV cases occurring later in the spring and with greater severity, ACOG now recommends maternal vaccination from September through March 1. The optimal gestational age of vaccination remains between 32 and 36 weeks. As almost half of eligible pregnant individuals opt for maternal RSV vaccination, it is important that clinicians are aware of this extended vaccination window. (See \"Immunizations during pregnancy\", section on 'Strategies for prevention'.)\n\nCongenital anomalies with vitamin B12 and folate deficiency (September 2026)\n\nMaternal folate deficiency is known to increase the risk of neural tube defects. In a new study from China that analyzed over 17,000 individuals in a preconception cohort, maternal vitamin B12 or folate deficiency was associated with a greater risk of congenital anomalies in other organ systems, such as cardiac/circulatory, limb, and genitourinary, in a dose-dependent pattern (higher risks associated with more severe deficiency) [6]. In a separate group of over 3000 couples tested before conception, low vitamin B12 levels in either parent predicted a greater risk of congenital anomalies. The overall prevalence of congenital anomalies was low and consistent with other population estimates. These results reinforce the importance of identifying and treating these vitamin deficiencies. (See \"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'.)\n\nRecommendations on 2026-2027 COVID-19 vaccination (September 2026)\n\nIn August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [7-10]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [11], the American College of Obstetricians and Gynecologists [12], the American Academy of Pediatrics [13], and the Infectious Diseases Society of America [14]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)\n\nCauses of pregnancy-related death in the United States (August 2026)\n\nA recent report based on the Centers for Disease Control and Prevention's Pregnancy Mortality Surveillance System (PMSS) has updated the most common causes of pregnancy-related mortality, defined as death during or within one year of pregnancy from a pregnancy complication. In an analysis of 14,000 pregnancy-related deaths in the United States between 2005 and 2024, the leading causes of death were cardiovascular conditions (24 percent), infection or sepsis (18 percent), and hemorrhage (12 percent) [15]. Infectious deaths rose and fell with the COVID-19 pandemic; hemorrhagic deaths increased over time. Of note, PMSS does not include nonpregnancy-related causes of maternal death, such as drug overdose, suicide, or homicide. These data underscore the importance of initiatives to eliminate preventable causes of maternal death. (See \"Overview of maternal mortality\", section on 'United States'.)\n\nActivity type and duration to reduce risk of hypertensive disorders of pregnancy (July 2026)\n\nWhile studies have reported that exercise during pregnancy lowers the risk of hypertensive disorders of pregnancy (HDP), the degree and duration of activity needed to achieve benefit have not been quantified. In a cohort study evaluating 24-hour movement in 470 pregnant individuals, the optimal daily activity composition associated with the lowest risk of developing HDP consisted of nearly six hours of sedentary time, nearly eight hours of light physical activity, seven minutes of moderate to vigorous physical activity, and 10 hours of sleep [16]. This study improves clinicians' ability to counsel pregnant patients on activity goals beyond a \"sit less, move more\" approach. (See \"Exercise during pregnancy and the postpartum period\", section on 'Benefits'.)\n\nCOVID-19 vaccination during pregnancy (June 2026)\n\nThe optimal timing of COVID-19 vaccination during pregnancy remains unclear, as the approach must consider both maternal and infant benefits. In an analysis of data from over 78,000 infants born in California between July 1, 2021 and June 30, 2023, maternal vaccination at any time during pregnancy reduced infant COVID-19-related illness and hospitalization during the first six months of life [17]. Vaccination prior to pregnancy did not protect infants of any age. Although maternal vaccination during the third trimester had the greatest benefit for the infant, we continue to recommend earlier COVID-19 vaccination during pregnancy to provide benefit during more weeks of the pregnancy. (See \"COVID-19: Overview of pregnancy issues\", section on 'Improved maternal and fetal outcomes'.)\n\nLight activity and pregnancy outcomes (June 2026)\n\nExercise is generally considered beneficial for pregnant patients, but sedentary patients can find it daunting to change their habits. In an observational study that used accelerometry to monitor the activity of 470 pregnant patients, individuals with less sedentary time, more light physical activity (including standing), and higher step counts had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy (eg, chronic hypertension, gestational hypertension, preeclampsia) [18]. Patients sitting >10 hours a day had twice the risk of adverse pregnancy outcomes compared with those sitting for 7 hours per day. This study provides further data that modest changes in behavior, such as standing and walking more, can have a positive impact on pregnancy outcomes, and supports the framework of \"sit less, move more.\" (See \"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'.)\n\nPerinatal support to reduce burnout for pregnant trainees (May 2026)\n\nOccupational burnout increases medical errors and costs; pregnancy and parenthood are unique stressors that increase the risk of burnout. In a study comparing a tailored parental support package with usual care for 143 pregnant trainees (residents and fellows, procedural and non-procedural specialties), trainees receiving the support package reported lower overall mean burnout scores and a lower increase in scores between enrollment and 24 weeks postpartum compared with usual care [19]. The intervention, which consisted of a smart bassinette, wearable breast pump, virtual perinatal support, and formal faculty mentorship, was relatively low-cost and provided an enterprise-level approach to reducing burnout for high-risk trainees. (See \"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'.)\n\nIn utero benzodiazepine exposure and risk of psychiatric disorder (May 2026)\n\nBenzodiazepine receptor agonists are often prescribed for anxiety or insomnia, which are common in antenatal depression. A recent study found that use of these drugs during pregnancy was not associated with psychiatric disorders in the offspring, after controlling for potential confounding factors [20]. Although we prefer to manage severe antenatal depression with an antidepressant and adjunctive psychotherapy, substantial anxiety or insomnia may necessitate a benzodiazepine receptor agonist as a time-limited adjunct (eg, for two weeks). (See \"Teratogenicity, pregnancy complications, and postnatal risks of antipsychotics, benzodiazepines, lithium, and neuromodulation\", section on 'Postnatal effects'.)\n\nNirsevimab versus maternal respiratory syncytial virus vaccination for infants (May 2026)\n\nLimited data have suggested that infant immunoprophylaxis is associated with lower rates of hospitalization for respiratory syncytial virus (RSV)-associated lower respiratory tract infection (LRTI) than maternal vaccination. In a new cohort study of over 164,000 infants in France followed for a six-month period, infant immunoprophylaxis with nirsevimab was again associated with lower rates of hospitalization for RSV-associated LRTI than maternal RSVpreF vaccination (0.83 versus 0.96 percent) [21]. This difference was not observed when RSVpreF was administered ≥8 weeks prior to birth, although the number of these infants was small. While this strengthens support for neonatal immunoprophylaxis, rates of RSV-associated hospitalization were low in both groups, and we therefore encourage shared decision-making with our patients to determine the optimal preventive strategy. (See \"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'.)\n\nAutomated insulin delivery during pregnancy in patients with type 1 diabetes (May 2026)\n\nFor pregnant patients with type 1 diabetes, stringent glycemic control reduces risk of obstetric and neonatal complications but is difficult to achieve due to treatment burden and risk of hypoglycemia. The Tandem Control-IQ+ automated insulin delivery algorithm has regulatory approval in the United States for use in patients with type 1 diabetes during pregnancy [22]. Approval was based on a trial including 91 pregnant patients with type 1 diabetes who were randomly assigned to the t:slim X2 insulin pump with Control-IQ+ technology or usual care (non-automated insulin delivery [AID] strategies) [23]. AID therapy increased time in the pregnancy-specific target glucose range and decreased time spent with glucose <63 mg/dL (3.5 mmol/L). The Control-IQ+ algorithm does not have a pregnancy-specific target range, so integrated pumps should be used in Sleep Activity mode with a target range of 112 to 120 mg/dL. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'.)\n\nPre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)\n\nThe United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [24]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)\n\nINTRAPARTUM AND POSTPARTUM OBSTETRICS\n\nIV iron in pregnancy (October 2026)\n\nOral and intravenous (IV) iron are both effective for replenishing iron stores, but IV iron repletes iron stores and improves hemoglobin faster. In a new meta-analysis that analyzed 29 randomized trials including over 11,000 pregnant participants, IV iron reduced the likelihood of transfusions during the delivery admission and increased maternal hemoglobin and maternal and neonatal ferritins [25]. Adverse effects were mild and less frequent with IV iron. This supports our use of IV iron in pregnant individuals who are beyond the first trimester and cannot tolerate oral iron, those with severe anemia (especially later in the pregnancy), and those for whom oral iron does not effectively increase the hemoglobin and/or ferritin levels. First-trimester safety data are not available. (See \"Anemia in pregnancy\", section on 'Choice between oral and IV iron'.)\n\nAntibiotic prophylaxis for unplanned cesarean birth (September 2026)\n\nThe risk of postpartum infection related to unplanned cesarean birth is high. In 2016, a seminal trial demonstrated lower infection rates in pregnant patients who received preoperative azithromycin plus cefazolin compared with cefazolin alone, but follow-up data have been lacking. In a recent study of >200,000 patients undergoing unplanned cesarean birth between 2013 and 2024, rates of adjunctive azithromycin use increased while postpartum infection rates decreased significantly (from 9.2 to 8.0 percent) [26]. This observational study suggests an association between broader antibiotic coverage and lower infection risk and supports the use of combination antibiotic prophylaxis for unplanned cesarean birth. (See \"Cesarean birth: Preincision planning and patient preparation\", section on 'Evidence'.)\n\nCauses of pregnancy-related death in the United States (August 2026)\n\nA recent report based on the Centers for Disease Control and Prevention's Pregnancy Mortality Surveillance System (PMSS) has updated the most common causes of pregnancy-related mortality, defined as death during or within one year of pregnancy from a pregnancy complication. In an analysis of 14,000 pregnancy-related deaths in the United States between 2005 and 2024, the leading causes of death were cardiovascular conditions (24 percent), infection or sepsis (18 percent), and hemorrhage (12 percent) [15]. Infectious deaths rose and fell with the COVID-19 pandemic; hemorrhagic deaths increased over time. Of note, PMSS does not include nonpregnancy-related causes of maternal death, such as drug overdose, suicide, or homicide. These data underscore the importance of initiatives to eliminate preventable causes of maternal death. (See \"Overview of maternal mortality\", section on 'United States'.)\n\nUpdated guidelines on thyroid disease in pregnancy from the American Thyroid Association (July 2026)\n\nThe American Thyroid Association (ATA) published updated guidelines for the diagnosis and management of thyroid disease during pregnancy [27]. Our approach is largely consistent with ATA guidance. Similar to the 2017 guidelines, the ATA recommends using population-based, trimester- and assay method-specific reference ranges for TSH and free T4. Unlike prior guidance, the ATA no longer uses thyroid peroxidase (TPO) antibody positivity to guide levothyroxine treatment decision-making for subclinical hypothyroidism (high TSH, normal free T4). This is due to more recent evidence showing minimal differences in adverse pregnancy outcomes in subclinical hypothyroidism with or without TPO antibody positivity. ATA guidelines generally favor treatment of persistent subclinical hypothyroidism in the first trimester with levothyroxine. While some UpToDate contributors agree with treating subclinical hypothyroidism during pregnancy, others do not treat it in any trimester. (See \"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges' and \"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'.)\n\nOFFICE GYNECOLOGY\n\nCervical cancer screening in patients vaccinated against human papillomavirus (November 2026)\n\nFor females who are vaccinated against human papillomavirus (HPV), the optimal frequency of cervical cancer screening is uncertain, as evidence is lacking. In a randomized trial of approximately 5600 females who received the bivalent HPV 16/18 vaccine by age 15 years, <1 percent developed a histologically confirmed high-grade lesion during 16 years of follow-up [28]. Screening strategies that utilized longer versus shorter screening intervals had similar rates of high-grade lesions, suggesting that less frequent screening may be reasonable for recipients of the HPV vaccine. However, until additional clinical trial data are available, we continue to screen recipients of the HPV vaccine according to the cervical cancer screening recommendations for unvaccinated patients. (See \"Cervical cancer screening: Benefits, harms, screening methods, and patient risk groups\", section on 'Recipients of HPV vaccine'.)\n\nMifepristone patient agreement form and abortion knowledge (October 2026)\n\nMifepristone, a progesterone receptor antagonist for managing induced abortion and pregnancy loss, is available in the United States only with Risk Evaluation and Mitigation Strategy (REMS) restrictions. One such restriction is the patient agreement form (PAF); however, evidence that the PAF improves patient knowledge is lacking. In a recent randomized trial of almost 600 patients treated with mifepristone and misoprostol, those exposed versus unexposed to the PAF had similarly high knowledge about medication abortion (approximately 10 out of 12 correct responses in each group) [29]. This trial raises questions about the value of REMS requirements and the barriers they may pose to medication access, particularly in the absence of improved patient outcomes. (See \"Induced abortion in the first trimester: Medications\", section on 'Provider requirements'.)\n\nNew WHO guidelines on contraception (October 2026)\n\nThe World Health Organization (WHO) has released new guidelines expanding the range of safe and effective contraceptive options [30]. Notable recommendations include supporting the use of extended and continuous combined oral contraceptive regimens, extending the duration of etonogestrel-releasing implants up to five years, and adding mifepristone as an option for emergency contraception. These recommendations are consistent with our guidance. (See \"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use' and \"Emergency contraception\", section on 'Oral medication emergency contraception methods' and \"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'.)\n\nHPV vaccination and pregnancy outcomes (October 2026)\n\nVaccination against human papillomavirus (HPV) effectively prevents infection and HPV-associated cancer and disease; prior HPV vaccination is also linked to improved pregnancy outcomes. In an observational study of over 624,000 births among females aged 16 to 35 years in Sweden, a history of HPV vaccination was associated with decreased risk of preterm birth and severe small size for gestational age; the association was greatest among women vaccinated at younger ages [31]. Although it is unclear if this association is causal or related to unmeasured confounders, these findings emphasize the importance of universal HPV vaccination, optimally at younger ages, when cervical cancer benefits are also greatest. (See \"Human papillomavirus vaccination\", section on 'Other potential benefits'.)\n\nIntrauterine instillation for reducing pain with IUD placement (September 2026)\n\nParacervical block is commonly offered to reduce pain associated with intrauterine device (IUD) placement, but injection-related pain has prompted evaluation of other approaches. In a trial comparing intrauterine instillation of mepivacaine with placebo (sodium chloride), patient-reported pain scores at IUD placement were meaningfully lower following mepivacaine treatment (44 versus 59 mm on a 100 mm visual analog scale) [32]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, it is reasonable to offer intrauterine mepivacaine to patients seeking pain reduction during IUD placement. (See \"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'.)\n\nSuboptimal HPV vaccine coverage in the United States (September 2026)\n\nIn the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [33]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)\n\nLower hormone dose contraceptive patch (August 2026)\n\nCommonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [34]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)\n\nHPV vaccination and cervical cancer deaths (June 2026)\n\nHuman papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [35]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)\n\nShift in pregnancy loss management following abortion ban (May 2026)\n\nPatients experiencing early pregnancy loss may choose expectant management (ie, observation), medication management, or procedural treatment. In a retrospective study of over 123,000 United States patients with early pregnancy loss, patients in states that enacted abortion bans experienced a significant increase in expectant management (2.8 percentage points) and a significant decrease in medication management (2.2 percentage points) when pre- and postabortion ban time frames were compared [36]. We continue to advise treatment selection based on the patient's values and preferences regarding an evidence-based care plan. (See \"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'.)\n\nGYNECOLOGIC SURGERY\n\nApical prolapse repair with hysteropexy or hysterectomy (October 2026)\n\nPatients undergoing surgical repair of apical pelvic organ prolapse (POP) have the options of uterus preservation (ie, hysteropexy) or removal (ie, hysterectomy). Older studies raised concerns that hysterectomy may contribute to development of recurrent POP. In a retrospective study of over 3300 patients undergoing surgical apical prolapse repair with either hysterectomy or hysteropexy, hysterectomy was associated with lower rates of repeat prolapse surgery (7 versus 11 percent) and prolapse retreatment (10 versus 15 percent) after a median follow-up of nine years [1]. While both approaches are reasonable depending on the patient's goals, we counsel patients that risk of recurrent prolapse appears to be lower with hysterectomy. (See \"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'.)",
+    "word_count": 4055,
+    "character_count": 28691,
+    "references": [
+      "Dib S, Savage MJ, Adams D, et al. Preconception, pregnancy, and postnatal use of GLP-1 receptor agonist-based therapies in women with type 1, type 2, or gestational diabetes: a systematic review, meta-analysis, and international expert consensus statement. Lancet Obstetris, Gynaecology, & Women's Health 2026. (available at https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext).https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext)",
+      "Ratner AJ, Sardi A, Corkins MR, et al. Consumption of Unpasteurized (Raw) Milk and Milk Products by Pregnant People and Children: Policy Statement. Pediatrics 2026.",
+      "Palmer DJ, Campbell DE, Nanan R, et al. Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy. N Engl J Med 2026; 395:1090.",
+      "Powers JM, Lim MY, Achebe MO, et al. American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv 2026.",
+      "American College of Obstetricians & Gynecologists. Practice Advisory: Maternal respiratory syncytial virus vaccination. https://www.acog.org/clinical/clinical-guidance/practice-advisory/articles/2023/09/maternal-respiratory-syncytial-virus-vaccination (Accessed on September 10, 2026).",
+      "Chen H, Chen X, Zhang Y, et al. Periconception Parental Red Blood Cell Folate, Vitamin B12, and Birth Defects in Offspring : A Prospective Cohort Study. Ann Intern Med 2026; 179:1386.",
+      "SPIKEVAX (COVID-19 Vaccine, mRNA) Suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/155675/download?attachment (Accessed on August 28, 2026).",
+      "MNEXSPIKE (COVID-19 Vaccine, mRNA) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/186738/download (Accessed on August 28, 2026).",
+      "COMIRNATY (COVID-19 Vaccine, mRNA) suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/151707/download?attachment (Accessed on August 28, 2026).",
+      "NUVAXOVID (COVID-19 Vaccine, Adjuvanted) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Updated August 2026. https://www.fda.gov/media/186544/download?attachment (Accessed on August 28, 2026).",
+      "AAFP Announces Fall Immunization Recommendations to Protect Patients and Communities https://www.aafp.org/media-center/press-releases/aafp-announces-fall-immunization-recommendations-to-protect-patients-and-communities (Accessed on September 02, 2026).",
+      "American College of Obstetricians & Gynecologistsߣ Immunization, Infectious Disease, and Public Health Preparedness Expert Work Group. Maternal Immunizations. Obstet Gynecol 2026; 147:e123.",
+      "Committee on Infectious Diseases. Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "IDSA 2026 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19, Influenza, and RSV Infections in Immunocompromised Patients. https://www.idsociety.org/practice-guideline/Seasonal-RTI-Vaccinations-in-Immunocompromised-Patients/s-on-the-use-of-vaccines-for-the-prevention-of-seasonal-covid-19-influenza-and-rsv-infections-in-immunocompromised-patients/ (Accessed on September 02, 2026).",
+      "Njie F, Hollier LM, Gibson C, et al. Trends in Pregnancy-Related Mortality in the United States: Pregnancy Mortality Surveillance System, 2005-2024. Obstet Gynecol 2026.",
+      "Whitaker K, Crisp A, Gallagher J, et al. Optimal 24-hour movement behaviour compositions across trimesters and risk of hypertensive disorders of pregnancy: the Pregnancy 24/7 cohort study. Br J Sports Med 2026; 60:1218.",
+      "Jacobson KB, Merchant M, Fireman B, et al. SARS-CoV-2 Vaccination Before and During Pregnancy and Prevention of Infant COVID-19 Infection. Pediatrics 2026; 157.",
+      "Barone Gibbs B, Kim J, Gallagher J, et al. Adverse Pregnancy Outcomes and Sedentary Behavior, Light-Intensity Physical Activity, and Daily Steps. JAMA 2026; 336:135.",
+      "Rubio-Chavez A, Koelliker EL, Askew EA, et al. Pragmatic Parental Support to Mitigate Burnout Among Pregnant and Postpartum Trainees: A Randomized Clinical Trial. JAMA 2026; 335:1938.",
+      "Cho Y, Choi A, Woo J, et al. Benzodiazepine or Z-hypnotic use during pregnancy and risk of psychiatric disorders in children: population based cohort study. BMJ 2026; 393:e088671.",
+      "Valtuille Z, Fafi I, Kaguelidou F, et al. Effectiveness of nirsevimab immunisation after birth versus RSVpreF maternal vaccination in preventing RSV-related hospitalisations in infants: a population-based retrospective cohort study. Lancet Child Adolesc Health 2026; 10:481.",
+      "FDA clears Control-IQ+AID technology for use in pregnancy complicated by type 1 diabetes. Contemporary Ob/Gyn. April 27, 2026. https://www.contemporaryobgyn.net/view/fda-clears-control-iq-automated-insulin-delivery-technology-for-use-in-pregnancy (Accessed on April 28, 2026).",
+      "Donovan LE, Lemieux P, Dunlop AD, et al. Closed-Loop Insulin Delivery in Type 1 Diabetes in Pregnancy: The CIRCUIT Randomized Clinical Trial. JAMA 2025; 334:2176.",
+      "Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. Department of Health and Human Services. Year. Available at https://clinicalinfo.hiv.gov/en/guidelines/perinatal (Accessed on April 21, 2026).",
+      "Sales SK, Rajprohat S, Simon L, et al. Intravenous vs Oral Iron for Treating Iron Deficiency Anemia in Pregnancy: A Systematic Review and Meta-Analysis. JAMA Netw Open 2026; 9:e2630657.",
+      "Freret TS, Litman E, Wen T, et al. Adoption of Adjunctive Azithromycin for Unscheduled Cesarean Delivery and Postpartum Infections. JAMA 2026.",
+      "Korevaar TIM, Leung AM, Alexander EK, et al. American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. Thyroid 2026; 36:481.",
+      "Lehtinen M, Llobet MO, Eriksson T, et al. Controlled Trial of Cervical Cancer Screening Frequency Among Human Papillomavirus Vaccinated Women II: Cervical Pre-Cancer End-Points by Specific Non-Vaccine HPV Types. Int J Cancer 2026.",
+      "Biggs MA, Ehrenreich K, Kaller S, et al. Mifepristone Patient Agreement Form and Medication Abortion Knowledge: A Randomized Clinical Trial. JAMA Intern Med 2026.",
+      "WHO guidelines on expanding contraceptive options. Human Reproduction Programme. World Health Organization. https://iris.who.int/server/api/core/bitstreams/bb95c68c-ad9d-436e-8969-6eab55d927ca/content (Accessed on October 21, 2026).",
+      "Zhang Z, Ploner A, Sengpiel V, et al. Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study. BMJ 2026; 395:e100739.",
+      "Elgemark K, Envall N, Kopp Kallner H. Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial. JAMA 2026.",
+      "Pingali C, Yankey D, Elam-Evans LD, et al. Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025. MMWR Morb Mortal Wkly Rep 2026; 75:530.",
+      "Prescribing information Gwyn Lo. Mylan Pharmaceutical Inc, a Viatris Company. Morgantown, WV. Revised July 2026. www.gwynlopi.com/-/media/project/common/gwynlopicom/pi.pdf (Accessed on July 30, 2026).",
+      "Sasieni P, Falcaro M. Cervical cancer mortality trends following HPV vaccination in England, 2001-24: an analysis of population-based mortality data. Lancet 2026; 408:162.",
+      "Rodriguez MI, Fuerst M, Schrote K. Management of Spontaneous Abortion Among Commercially Insured Individuals in the United States After Dobbs v Jackson. JAMA 2026; 336:48."
+    ],
+    "graphics": [
+      {
+        "id": 127477,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/127477"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 8350,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%221%22"
+      },
+      {
+        "id": 4802,
+        "title": "\"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'",
+        "url": "https://medilib.ir/uptodate/show/4802"
+      },
+      {
+        "id": 8350,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%222%22"
+      },
+      {
+        "id": 2866,
+        "title": "\"Dietary recommendations for toddlers, preschoolers, and school-age children\", section on 'Dairy products'",
+        "url": "https://medilib.ir/uptodate/show/2866"
+      },
+      {
+        "id": 130920,
+        "title": "\"Nutrition in pregnancy: Assessment and counseling\", section on 'Avoidance of foodborne infections'",
+        "url": "https://medilib.ir/uptodate/show/130920"
+      },
+      {
+        "id": 8350,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%223%22"
+      },
+      {
+        "id": 2404,
+        "title": "\"Primary prevention of allergic disease: Maternal diet in pregnancy and lactation\", section on 'Increasing amounts of allergenic foods'",
+        "url": "https://medilib.ir/uptodate/show/2404"
+      },
+      {
+        "id": 8350,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%224%22"
+      },
+      {
+        "id": 7150,
+        "title": "\"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'",
+        "url": "https://medilib.ir/uptodate/show/7150"
+      },
+      {
+        "id": 141638,
+        "title": "RSVPreF",
+        "url": "https://medilib.ir/uptodate/show/141638"
+      },
+      {
+        "id": 8350,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%225%22"
+      },
+      {
+        "id": 442,
+        "title": "\"Immunizations during pregnancy\", section on 'Strategies for prevention'",
+        "url": "https://medilib.ir/uptodate/show/442"
+      },
+      {
+        "id": 8350,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%226%22"
+      },
+      {
+        "id": 7155,
+        "title": "\"Clinical manifestations and diagnosis of vitamin B12 and folate deficiencies\", section on 'Fetal/neonatal effects'",
+        "url": "https://medilib.ir/uptodate/show/7155"
+      },
+      {
+        "id": 8350,
+        "title": "7-10",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%227%22"
+      },
+      {
+        "id": 8350,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2211%22"
+      },
+      {
+        "id": 8350,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2212%22"
+      },
+      {
+        "id": 8350,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2213%22"
+      },
+      {
+        "id": 8350,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2214%22"
+      },
+      {
+        "id": 129849,
+        "title": "\"COVID-19: Vaccines\", section on 'Indications for vaccination'",
+        "url": "https://medilib.ir/uptodate/show/129849"
+      },
+      {
+        "id": 8350,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2215%22"
+      },
+      {
+        "id": 6713,
+        "title": "\"Overview of maternal mortality\", section on 'United States'",
+        "url": "https://medilib.ir/uptodate/show/6713"
+      },
+      {
+        "id": 8350,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2216%22"
+      },
+      {
+        "id": 412,
+        "title": "\"Exercise during pregnancy and the postpartum period\", section on 'Benefits'",
+        "url": "https://medilib.ir/uptodate/show/412"
+      },
+      {
+        "id": 8350,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2217%22"
+      },
+      {
+        "id": 127535,
+        "title": "\"COVID-19: Overview of pregnancy issues\", section on 'Improved maternal and fetal outcomes'",
+        "url": "https://medilib.ir/uptodate/show/127535"
+      },
+      {
+        "id": 8350,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2218%22"
+      },
+      {
+        "id": 412,
+        "title": "\"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'",
+        "url": "https://medilib.ir/uptodate/show/412"
+      },
+      {
+        "id": 8350,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2219%22"
+      },
+      {
+        "id": 439,
+        "title": "\"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'",
+        "url": "https://medilib.ir/uptodate/show/439"
+      },
+      {
+        "id": 8350,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2220%22"
+      },
+      {
+        "id": 17159,
+        "title": "\"Teratogenicity, pregnancy complications, and postnatal risks of antipsychotics, benzodiazepines, lithium, and neuromodulation\", section on 'Postnatal effects'",
+        "url": "https://medilib.ir/uptodate/show/17159"
+      },
+      {
+        "id": 141488,
+        "title": "nirsevimab",
+        "url": "https://medilib.ir/uptodate/show/141488"
+      },
+      {
+        "id": 141638,
+        "title": "RSVpreF",
+        "url": "https://medilib.ir/uptodate/show/141638"
+      },
+      {
+        "id": 8350,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2221%22"
+      },
+      {
+        "id": 442,
+        "title": "\"Immunizations during pregnancy\", section on 'Choosing the optimal strategy'",
+        "url": "https://medilib.ir/uptodate/show/442"
+      },
+      {
+        "id": 8350,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2222%22"
+      },
+      {
+        "id": 8350,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2223%22"
+      },
+      {
+        "id": 4802,
+        "title": "\"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'No pregnancy-specific target glucose range'",
+        "url": "https://medilib.ir/uptodate/show/4802"
+      },
+      {
+        "id": 8350,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2224%22"
+      },
+      {
+        "id": 8527,
+        "title": "tenofovir disoproxil fumarate-emtricitabine",
+        "url": "https://medilib.ir/uptodate/show/8527"
+      },
+      {
+        "id": 130319,
+        "title": "cabotegravir",
+        "url": "https://medilib.ir/uptodate/show/130319"
+      },
+      {
+        "id": 140392,
+        "title": "lenacapavir",
+        "url": "https://medilib.ir/uptodate/show/140392"
+      },
+      {
+        "id": 113426,
+        "title": "\"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'",
+        "url": "https://medilib.ir/uptodate/show/113426"
+      },
+      {
+        "id": 8350,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2225%22"
+      },
+      {
+        "id": 115637,
+        "title": "\"Anemia in pregnancy\", section on 'Choice between oral and IV iron'",
+        "url": "https://medilib.ir/uptodate/show/115637"
+      },
+      {
+        "id": 9041,
+        "title": "azithromycin",
+        "url": "https://medilib.ir/uptodate/show/9041"
+      },
+      {
+        "id": 9214,
+        "title": "cefazolin",
+        "url": "https://medilib.ir/uptodate/show/9214"
+      },
+      {
+        "id": 8350,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2226%22"
+      },
+      {
+        "id": 4475,
+        "title": "\"Cesarean birth: Preincision planning and patient preparation\", section on 'Evidence'",
+        "url": "https://medilib.ir/uptodate/show/4475"
+      },
+      {
+        "id": 8350,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2227%22"
+      },
+      {
+        "id": 9557,
+        "title": "levothyroxine",
+        "url": "https://medilib.ir/uptodate/show/9557"
+      },
+      {
+        "id": 7851,
+        "title": "\"Overview of thyroid disease and pregnancy\", section on 'Trimester-specific reference ranges'",
+        "url": "https://medilib.ir/uptodate/show/7851"
+      },
+      {
+        "id": 16609,
+        "title": "\"Hypothyroidism during pregnancy: Clinical manifestations, diagnosis, and treatment\", section on 'Treatment'",
+        "url": "https://medilib.ir/uptodate/show/16609"
+      },
+      {
+        "id": 8350,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2228%22"
+      },
+      {
+        "id": 144992,
+        "title": "\"Cervical cancer screening: Benefits, harms, screening methods, and patient risk groups\", section on 'Recipients of HPV vaccine'",
+        "url": "https://medilib.ir/uptodate/show/144992"
+      },
+      {
+        "id": 10263,
+        "title": "Mifepristone",
+        "url": "https://medilib.ir/uptodate/show/10263"
+      },
+      {
+        "id": 9657,
+        "title": "misoprostol",
+        "url": "https://medilib.ir/uptodate/show/9657"
+      },
+      {
+        "id": 8350,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2229%22"
+      },
+      {
+        "id": 3296,
+        "title": "\"Induced abortion in the first trimester: Medications\", section on 'Provider requirements'",
+        "url": "https://medilib.ir/uptodate/show/3296"
+      },
+      {
+        "id": 8350,
+        "title": "30",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2230%22"
+      },
+      {
+        "id": 10263,
+        "title": "mifepristone",
+        "url": "https://medilib.ir/uptodate/show/10263"
+      },
+      {
+        "id": 7398,
+        "title": "\"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use'",
+        "url": "https://medilib.ir/uptodate/show/7398"
+      },
+      {
+        "id": 5475,
+        "title": "\"Emergency contraception\", section on 'Oral medication emergency contraception methods'",
+        "url": "https://medilib.ir/uptodate/show/5475"
+      },
+      {
+        "id": 3266,
+        "title": "\"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'",
+        "url": "https://medilib.ir/uptodate/show/3266"
+      },
+      {
+        "id": 8350,
+        "title": "31",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2231%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Other potential benefits'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 9610,
+        "title": "mepivacaine",
+        "url": "https://medilib.ir/uptodate/show/9610"
+      },
+      {
+        "id": 8350,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2232%22"
+      },
+      {
+        "id": 3267,
+        "title": "\"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'",
+        "url": "https://medilib.ir/uptodate/show/3267"
+      },
+      {
+        "id": 8350,
+        "title": "33",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2233%22"
+      },
+      {
+        "id": 10140,
+        "title": "MenACWY",
+        "url": "https://medilib.ir/uptodate/show/10140"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8350,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2234%22"
+      },
+      {
+        "id": 5425,
+        "title": "\"Contraception: Transdermal contraceptive patches\", section on 'Patch types'",
+        "url": "https://medilib.ir/uptodate/show/5425"
+      },
+      {
+        "id": 8350,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2235%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Females'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8350,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8350#rid%2236%22"
+      },
+      {
+        "id": 130834,
+        "title": "\"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'",
+        "url": "https://medilib.ir/uptodate/show/130834"
+      },
+      {
+        "id": 16554,
+        "title": "\"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'",
+        "url": "https://medilib.ir/uptodate/show/16554"
+      }
+    ]
+  }
+}

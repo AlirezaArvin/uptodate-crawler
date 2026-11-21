@@ -1,0 +1,682 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/16722"
+  },
+  "article": {
+    "id": 16722,
+    "expected_title": "Practice Changing Updates",
+    "url": "https://medilib.ir/uptodate/show/16722",
+    "final_url": "https://medilib.ir/uptodate/show/16722",
+    "page_title": "Practice Changing Updates",
+    "extracted_at": "2026-11-20T20:50:59.339Z",
+    "title_matches_expected": true,
+    "title": "Practice Changing Updates",
+    "contributors": {
+      "authors": [
+        "Sadhna R Vora, MD",
+        "James F Wiley, II, MD, MPH"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Sep 01, 2026",
+    "version": "Topic 16722 Version 14407.0",
+    "blocks": [
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INTRODUCTION —"
+      },
+      {
+        "type": "paragraph",
+        "text": "This section highlights selected specific new recommendations and/or updates that we anticipate may change usual clinical practice. Practice Changing Updates focus on changes that may have significant and broad impact on practice, and therefore do not represent all updates that affect practice. These Practice Changing Updates, reflecting important changes to UpToDate over the past year, are presented chronologically, and are discussed in greater detail in the identified topic reviews."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEMATOLOGY (August 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology (ASH) adult immune thrombocytopenia guidelines"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For initial treatment of adults with immune thrombocytopenia (ITP) and severe bleeding (hemoglobin decrease ≥2 g/dL or requiring ≥2 units of transfusion but otherwise stable), we suggest a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone (Grade 2C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [1]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PULMONARY AND CRITICAL CARE MEDICINE (July 2026, Modified August 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Aspirin for thromboprophylaxis in major hip and knee surgery"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients undergoing hip or knee arthroplasty who are at low risk of thromboembolism, we suggest aspirin alone rather than a strategy that includes a direct oral anticoagulant or low molecular weight heparin (Grade 2B)."
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [2]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ONCOLOGY (July 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients with localized muscle-invasive bladder cancer who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens (Grade 2C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [3]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [4]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEMATOLOGY (July 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of lenalidomide maintenance in standard-risk multiple myeloma"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For standard-risk multiple myeloma, we suggest two years of lenalidomide maintenance rather than treatment until disease progression (Grade 2C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with newly diagnosed, standard-risk multiple myeloma (MM) not undergoing autologous hematopoietic cell transplantation (HCT) commonly receive induction followed by lenalidomide-based maintenance until progression (indefinite maintenance). In a randomized trial in such patients, indefinite versus two years of maintenance lenalidomide following three-drug induction resulted in similar overall and progression-free survival, but increased toxicity, including more second primary malignancies [5]. For patients with standard-risk MM, we now suggest two years of lenalidomide maintenance rather than treatment until progression. For those also receiving an anti-CD38 monoclonal antibody as maintenance, we continue the antibody until progression. While this trial evaluated maintenance after three-drug induction, we extrapolate the results to standard-risk MM treated with more intensive initial therapy, such as four-drug induction with or without autologous HCT. (See \"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease' and \"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEPHROLOGY AND HYPERTENSION (June 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "A trial of finerenone in nondiabetic chronic kidney disease"
+      },
+      {
+        "type": "paragraph",
+        "text": "● In patients with nondiabetic chronic kidney disease (CKD) who, despite treatment with an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) plus an sodium-glucose cotransporter 2 (SGLT-2) inhibitor, have a urine albumin-to-creatinine ratio ≥200 mg/g (or measured albumin excretion ≥200 mg/day), estimated glomerular filtration rate (eGFR) ≥25 mL/min/1.73 m2, and a serum potassium ≤4.8 mEq/L, we suggest addition of finerenone (Grade 2B)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finerenone has been shown to improve kidney and cardiovascular outcomes in patients with diabetic kidney disease and albuminuria. The effect of this agent in nondiabetic chronic kidney disease (CKD) was examined in a trial in which nearly 1600 patients who had estimated glomerular filtration rate (eGFR) 25 to <90 mL/min/1.73m2 and urine albumin-to-creatinine ratio 200 to 3500 mg/g were randomly assigned to finerenone or placebo [6]. At three years, the rates of a composite kidney outcome (ie, a 57 percent reduction in eGFR or kidney failure) and of a composite cardiovascular outcome (ie, hospitalization for heart failure or cardiovascular death) were lower with finerenone, although these findings were not statistically significant. Given these findings and extrapolating from those in patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic CKD who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INFECTIOUS DISEASES (May 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis after household COVID-19 exposure"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For individuals with risk factors for severe COVID-19, we suggest ensitrelvir prophylaxis following household exposure (Grade 2B)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [7]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OBSTETRICS, GYNECOLOGY AND WOMEN'S HEALTH (May 2026, Modified May 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated guidance for patients with postmenopausal vaginal bleeding"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For most patients with postmenopausal bleeding, we perform both endometrial sampling and transvaginal ultrasound for initial evaluation of the endometrium."
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with postmenopausal vaginal bleeding require evaluation of the endometrium for endometrial cancer and premalignant lesions. The American College of Obstetricians and Gynecologists (ACOG) recently updated its guidance for the evaluation of the endometrium in such patients [8]. Previously, they permitted transvaginal ultrasound (TVUS) as an alternative to endometrial sampling in most patients with an endometrial thickness <4 mm. However, due to rising rates of endometrial cancer, the potential for a false negative result on TVUS, and the tendency for high-risk endometrial cancers to present with thinner linings, ACOG now recommends that both endometrial sampling and TVUS, with few exceptions. We follow this updated guidance and counsel most patients with postmenopausal bleeding to have endometrial sampling and TVUS. (See \"Overview of the evaluation of the endometrium for malignant or premalignant disease\", section on 'Postmenopausal patients with bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INFECTIOUS DISEASES (February 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated recommendations for individuals with chronic hepatitis B virus infection"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For persons with chronic hepatitis B virus (HBV) infection in the immune-tolerant phase (hepatitis B e antigen [HBeAg]-positive, markedly elevated HBV DNA, normal alanine aminotransferase) who are at high risk for cirrhosis or hepatocellular carcinoma, we suggest antiviral therapy (Grade 2C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "For people without cirrhosis, the decision to treat chronic hepatitis B virus (HBV) infection is based primarily on the alanine aminotransferase (ALT) and HBV DNA levels (table 1). The American Association for the Study of Liver Diseases (AASLD) guidelines for managing chronic HBV infection were recently updated [9]. As before, they recommend antiviral treatment for patients without cirrhosis in the immune-active phase (elevated ALT and HBV DNA) (table 2). They now also suggest treatment for those in the immune-tolerant phase (hepatitis B e antigen [HBeAg]-positive, normal ALT, markedly elevated HBV DNA) who are at high risk for cirrhosis or hepatocellular carcinoma; risks include age >40 years, ≥F2 fibrosis, and ≥grade 2 inflammation. Although not well studied in this population, antiviral therapy is likely to reduce the risk of these adverse outcomes. For most other patients without cirrhosis, we use shared decision-making to guide treatment. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Determining need for antiviral therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ONCOLOGY (February 2026)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Palbociclib maintenance for advanced hormone receptor-positive, HER2-positive breast cancer"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients with advanced hormone receptor-positive, HER2-positive cancers without progression after induction chemotherapy, we suggest the addition of palbociclib to maintenance therapy with endocrine therapy and anti-HER2 therapy (Grade 2B), although reserving it for a later line of therapy is an acceptable alternative."
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with advanced hormone receptor-positive, HER2-positive cancers, initial treatment often involves taxane-containing chemotherapy plus trastuzumab and pertuzumab (THP) as induction treatment followed by maintenance therapy with endocrine therapy and anti-HER2 therapy. In a randomized trial in 518 such patients, addition of palbociclib to endocrine therapy and anti-HER2 therapy maintenance improved median progression-free survival (44 versus 29 months), but with added toxicity, primarily neutropenia and leukopenia [10]. Overall survival data remain immature. Based on these data, for hormone receptor-positive, HER2-positive cancers treated with THP induction, we suggest the addition of palbociclib to maintenance with endocrine therapy and anti-HER2 therapy. (See \"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Chemotherapy induction with endocrine therapy maintenance for hormone receptor-positive cancers'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CARDIOVASCULAR MEDICINE (November 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Long-term antiplatelet therapy after percutaneous coronary intervention in patients taking oral anticoagulation"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For most patients on long-term oral anticoagulant therapy, we now suggest not continuing antiplatelet therapy indefinitely (Grade 2B), and typically stop 6 to 12 months after percutaneous coronary intervention. However, for selected patients who are at very high risk of thrombotic events, it is reasonable to continue a single antiplatelet drug."
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with an indication for oral anticoagulation (OAC) who undergo percutaneous coronary intervention (PCI) often receive combination antithrombotic therapy (ie, OAC plus an antiplatelet medication) indefinitely; however, it is uncertain whether long-term antiplatelet therapy is necessary. Two recent trials addressed this question:"
+      },
+      {
+        "type": "paragraph",
+        "text": "• A trial in over 800 patients with stent placement >6 months prior to enrollment and current treatment with long-term OAC found that participants randomly assigned to aspirin had higher rates of death and major bleeding compared with those assigned to placebo [11]."
+      },
+      {
+        "type": "paragraph",
+        "text": "• A trial in over 900 patients with stent placement >12 months prior to enrollment found that patients randomly assigned to direct oral anticoagulant (DOAC) monotherapy had lower rates of a composite endpoint of death, myocardial infarction, stent thrombosis, stroke, systemic embolism, and clinically important bleeding compared with those assigned to combination therapy (DOAC plus clopidogrel); this difference was driven primarily by a reduction in bleeding [12]."
+      },
+      {
+        "type": "paragraph",
+        "text": "For most patients on long-term OAC, we now suggest not continuing antiplatelet therapy indefinitely, and typically stop 6 to 12 months after PCI. However, for selected patients at very high risk of thrombotic events, it is reasonable to continue a single antiplatelet drug. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Long-term therapy studies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEPHROLOGY AND HYPERTENSION (November 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fish oil supplements for patients on maintenance dialysis"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients on maintenance dialysis, we suggest fish oil supplements (Grade 2B) to prevent new and recurrent cardiovascular events. However, future trials to confirm benefit are warranted."
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients on dialysis are at high risk of cardiovascular (CV) morbidity and mortality. In a trial in which over 1200 patients on maintenance hemodialysis were randomly assigned to either high-dose fish oil supplementation or placebo, the rate of serious CV events (ie, CV death, nonfatal myocardial infarction, nonfatal stroke, and peripheral vascular disease leading to amputation) was lower in the fish oil group during 3.5 years of follow-up (0.31 versus 0.61 per 1000 patient-days) [13]. The benefit in patients without a history of CV disease (approximately two-thirds of the study population) was similar to that in patients with such a history. However, fish oil did not lead to a statistically significant reduction in all-cause mortality. Based on these data, we now suggest fish oil supplements for patients on maintenance dialysis. (See \"Secondary prevention of cardiovascular disease in end-stage kidney disease (dialysis)\", section on 'Fish oil'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PRIMARY CARE (ADULT) (October 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Clopidogrel versus aspirin for secondary prevention of chronic coronary disease"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients with chronic coronary disease who have not had acute coronary syndrome or percutaneous coronary intervention in the past 12 months, we suggest long-term antiplatelet therapy with clopidogrel (Grade 2C). Aspirin is a reasonable alternative."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aspirin has traditionally been the mainstay of antiplatelet therapy for the long-term secondary prevention of cardiovascular disease. However, in a meta-analysis of seven randomized trials that included almost 29,000 patients with established coronary artery disease, rates of major adverse cardiovascular or cerebrovascular events were lower in those receiving clopidogrel than in those receiving aspirin (2.61 versus 2.99 per 100 patient-years) at 5.5 years of follow-up [14]. Both groups experienced similar rates of major bleeding, cardiovascular death, and all-cause mortality. Although most participants had presented with acute coronary syndrome (ACS) and undergone percutaneous coronary intervention (PCI), approximately 25 percent were managed with medical therapy alone. Based on these findings, we now suggest long-term antiplatelet therapy with clopidogrel in patients with chronic coronary disease who have not had ACS or PCI in the past 12 months; aspirin remains a reasonable alternative. (See \"Aspirin and antiplatelet therapy for the secondary prevention of atherosclerotic cardiovascular disease\", section on 'Patients with chronic ASCVD'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GASTROENTEROLOGY AND HEPATOLOGY (August 2025, Modified September 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Semaglutide in metabolic dysfunction-associated steatohepatitis"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients with metabolic dysfunction-associated steatohepatitis (MASH) and stage ≥2 fibrosis who do not achieve their weight loss goals with lifestyle interventions alone, we suggest GLP-1-based therapy for treatment of MASH (Grade 2C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Glucagon-like peptide-1 (GLP-1)-based therapies are widely used to treat obesity, and they improve liver inflammation in metabolic dysfunction-associated steatohepatitis (MASH). New data show that a GLP-1 receptor agonist can also improve fibrosis [15]. In an interim analysis of a randomized controlled trial including 800 patients with MASH and stage 2 or 3 fibrosis, the GLP-1 agonist semaglutide for 72 weeks improved liver fibrosis compared with placebo (37 versus 22 percent) and resolved steatohepatitis. These data support our suggestion to use GLP-1-based therapies in patients with MASH. In August 2025, the US Food and Drug Administration approved semaglutide for treatment of MASH [16]. (See \"Management of metabolic dysfunction-associated steatotic liver disease (nonalcoholic fatty liver disease) in adults\", section on 'GLP-1-based therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PULMONARY AND CRITICAL CARE MEDICINE (September 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Brensocatib for bronchiectasis with frequent exacerbations"
+      },
+      {
+        "type": "paragraph",
+        "text": "● For patients with bronchiectasis who have two or more exacerbations in a year despite a trial of antibiotic therapy (eg, macrolide, antipseudomonal inhaled antibiotic), or for those who cannot tolerate ongoing antibiotic therapy, we suggest the addition of brensocatib (Grade 2B)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Brensocatib is a new oral therapy for bronchiectasis that inhibits activation of neutrophil elastases. In a new randomized trial in which 1721 patients with at least two bronchiectasis exacerbations in the prior year were assigned to brensocatib 10 mg or 25 mg daily or placebo for 52 weeks, brensocatib (either dose) reduced annual exacerbation rates by 20 percent and increased the proportion of patients who remained exacerbation-free (48.5 versus 40 percent) [17]. Brensocatib was well tolerated, with mild to moderate hyperkeratosis as the most frequent side effect, occurring in 1.4 to 3 percent of patients. Brensocatib was approved in the United States for non-cystic fibrosis bronchiectasis in individuals >12 years. We suggest brensocatib as add-on therapy in those who continue to have exacerbations despite a macrolide or inhaled antipseudomonal antibiotic. (See \"Bronchiectasis in adults: Maintaining lung health\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INFECTIOUS DISEASES (May 2025, Modified August 2025)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Chikungunya vaccination in travelers"
+      },
+      {
+        "type": "paragraph",
+        "text": "● When chikungunya vaccination is indicated, we recommend recombinant virus-like particle over live-attenuated virus vaccine because of potential safety signals of the live-attenuated virus vaccine (Grade 1C)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chikungunya virus is a growing public health concern; travelers frequently acquire infection and can import the virus into new areas. Apart from avoiding mosquito exposure, vaccination is the primary preventive strategy:"
+      },
+      {
+        "type": "paragraph",
+        "text": "• In 2025, the US Food and Drug Administration (FDA) approved and the Centers for Disease Control and Prevention (CDC) recommended recombinant virus-like particle (VLP) chikungunya vaccine (VIMKUNYA) for selected high-risk travelers aged 12 years and older [18,19]; approval was based on several trials demonstrating high seroconversion rates."
+      },
+      {
+        "type": "paragraph",
+        "text": "• Reports of serious adverse effects in older adults following receipt of the previously approved live-attenuated virus chikungunya vaccine (IXCHIQ) prompted several regulatory agencies to restrict use in older adults or advise caution [20,21]. In the United States, the FDA withdrew approval of the live-attenuated virus chikungunya vaccine [22]."
+      },
+      {
+        "type": "paragraph",
+        "text": "When indicated, we recommend the recombinant VLP over the live-attenuated virus vaccine; if the recombinant VLP vaccine is unavailable, the live-attenuated virus vaccine may be used in immunocompetent adults <60 years old. (See \"Chikungunya fever: Treatment and prevention\", section on 'Indication and choice of vaccine'.)"
+      }
+    ],
+    "plain_text": "INTRODUCTION —\n\nThis section highlights selected specific new recommendations and/or updates that we anticipate may change usual clinical practice. Practice Changing Updates focus on changes that may have significant and broad impact on practice, and therefore do not represent all updates that affect practice. These Practice Changing Updates, reflecting important changes to UpToDate over the past year, are presented chronologically, and are discussed in greater detail in the identified topic reviews.\n\nHEMATOLOGY (August 2026)\n\nNew American Society of Hematology (ASH) adult immune thrombocytopenia guidelines\n\n● For initial treatment of adults with immune thrombocytopenia (ITP) and severe bleeding (hemoglobin decrease ≥2 g/dL or requiring ≥2 units of transfusion but otherwise stable), we suggest a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone (Grade 2C).\n\nThe American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [1]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)\n\nPULMONARY AND CRITICAL CARE MEDICINE (July 2026, Modified August 2026)\n\nAspirin for thromboprophylaxis in major hip and knee surgery\n\n● For patients undergoing hip or knee arthroplasty who are at low risk of thromboembolism, we suggest aspirin alone rather than a strategy that includes a direct oral anticoagulant or low molecular weight heparin (Grade 2B).\n\nFor patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [2]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)\n\nONCOLOGY (July 2026)\n\nPerioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients\n\n● For patients with localized muscle-invasive bladder cancer who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens (Grade 2C).\n\nThe United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [3]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [4]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)\n\nHEMATOLOGY (July 2026)\n\nDuration of lenalidomide maintenance in standard-risk multiple myeloma\n\n● For standard-risk multiple myeloma, we suggest two years of lenalidomide maintenance rather than treatment until disease progression (Grade 2C).\n\nPatients with newly diagnosed, standard-risk multiple myeloma (MM) not undergoing autologous hematopoietic cell transplantation (HCT) commonly receive induction followed by lenalidomide-based maintenance until progression (indefinite maintenance). In a randomized trial in such patients, indefinite versus two years of maintenance lenalidomide following three-drug induction resulted in similar overall and progression-free survival, but increased toxicity, including more second primary malignancies [5]. For patients with standard-risk MM, we now suggest two years of lenalidomide maintenance rather than treatment until progression. For those also receiving an anti-CD38 monoclonal antibody as maintenance, we continue the antibody until progression. While this trial evaluated maintenance after three-drug induction, we extrapolate the results to standard-risk MM treated with more intensive initial therapy, such as four-drug induction with or without autologous HCT. (See \"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease' and \"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'.)\n\nNEPHROLOGY AND HYPERTENSION (June 2026)\n\nA trial of finerenone in nondiabetic chronic kidney disease\n\n● In patients with nondiabetic chronic kidney disease (CKD) who, despite treatment with an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) plus an sodium-glucose cotransporter 2 (SGLT-2) inhibitor, have a urine albumin-to-creatinine ratio ≥200 mg/g (or measured albumin excretion ≥200 mg/day), estimated glomerular filtration rate (eGFR) ≥25 mL/min/1.73 m2, and a serum potassium ≤4.8 mEq/L, we suggest addition of finerenone (Grade 2B).\n\nFinerenone has been shown to improve kidney and cardiovascular outcomes in patients with diabetic kidney disease and albuminuria. The effect of this agent in nondiabetic chronic kidney disease (CKD) was examined in a trial in which nearly 1600 patients who had estimated glomerular filtration rate (eGFR) 25 to <90 mL/min/1.73m2 and urine albumin-to-creatinine ratio 200 to 3500 mg/g were randomly assigned to finerenone or placebo [6]. At three years, the rates of a composite kidney outcome (ie, a 57 percent reduction in eGFR or kidney failure) and of a composite cardiovascular outcome (ie, hospitalization for heart failure or cardiovascular death) were lower with finerenone, although these findings were not statistically significant. Given these findings and extrapolating from those in patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic CKD who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)\n\nINFECTIOUS DISEASES (May 2026)\n\nEnsitrelvir for post-exposure prophylaxis after household COVID-19 exposure\n\n● For individuals with risk factors for severe COVID-19, we suggest ensitrelvir prophylaxis following household exposure (Grade 2B).\n\nEnsitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [7]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)\n\nOBSTETRICS, GYNECOLOGY AND WOMEN'S HEALTH (May 2026, Modified May 2026)\n\nUpdated guidance for patients with postmenopausal vaginal bleeding\n\n● For most patients with postmenopausal bleeding, we perform both endometrial sampling and transvaginal ultrasound for initial evaluation of the endometrium.\n\nPatients with postmenopausal vaginal bleeding require evaluation of the endometrium for endometrial cancer and premalignant lesions. The American College of Obstetricians and Gynecologists (ACOG) recently updated its guidance for the evaluation of the endometrium in such patients [8]. Previously, they permitted transvaginal ultrasound (TVUS) as an alternative to endometrial sampling in most patients with an endometrial thickness <4 mm. However, due to rising rates of endometrial cancer, the potential for a false negative result on TVUS, and the tendency for high-risk endometrial cancers to present with thinner linings, ACOG now recommends that both endometrial sampling and TVUS, with few exceptions. We follow this updated guidance and counsel most patients with postmenopausal bleeding to have endometrial sampling and TVUS. (See \"Overview of the evaluation of the endometrium for malignant or premalignant disease\", section on 'Postmenopausal patients with bleeding'.)\n\nINFECTIOUS DISEASES (February 2026)\n\nUpdated recommendations for individuals with chronic hepatitis B virus infection\n\n● For persons with chronic hepatitis B virus (HBV) infection in the immune-tolerant phase (hepatitis B e antigen [HBeAg]-positive, markedly elevated HBV DNA, normal alanine aminotransferase) who are at high risk for cirrhosis or hepatocellular carcinoma, we suggest antiviral therapy (Grade 2C).\n\nFor people without cirrhosis, the decision to treat chronic hepatitis B virus (HBV) infection is based primarily on the alanine aminotransferase (ALT) and HBV DNA levels (table 1). The American Association for the Study of Liver Diseases (AASLD) guidelines for managing chronic HBV infection were recently updated [9]. As before, they recommend antiviral treatment for patients without cirrhosis in the immune-active phase (elevated ALT and HBV DNA) (table 2). They now also suggest treatment for those in the immune-tolerant phase (hepatitis B e antigen [HBeAg]-positive, normal ALT, markedly elevated HBV DNA) who are at high risk for cirrhosis or hepatocellular carcinoma; risks include age >40 years, ≥F2 fibrosis, and ≥grade 2 inflammation. Although not well studied in this population, antiviral therapy is likely to reduce the risk of these adverse outcomes. For most other patients without cirrhosis, we use shared decision-making to guide treatment. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Determining need for antiviral therapy'.)\n\nONCOLOGY (February 2026)\n\nPalbociclib maintenance for advanced hormone receptor-positive, HER2-positive breast cancer\n\n● For patients with advanced hormone receptor-positive, HER2-positive cancers without progression after induction chemotherapy, we suggest the addition of palbociclib to maintenance therapy with endocrine therapy and anti-HER2 therapy (Grade 2B), although reserving it for a later line of therapy is an acceptable alternative.\n\nFor patients with advanced hormone receptor-positive, HER2-positive cancers, initial treatment often involves taxane-containing chemotherapy plus trastuzumab and pertuzumab (THP) as induction treatment followed by maintenance therapy with endocrine therapy and anti-HER2 therapy. In a randomized trial in 518 such patients, addition of palbociclib to endocrine therapy and anti-HER2 therapy maintenance improved median progression-free survival (44 versus 29 months), but with added toxicity, primarily neutropenia and leukopenia [10]. Overall survival data remain immature. Based on these data, for hormone receptor-positive, HER2-positive cancers treated with THP induction, we suggest the addition of palbociclib to maintenance with endocrine therapy and anti-HER2 therapy. (See \"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Chemotherapy induction with endocrine therapy maintenance for hormone receptor-positive cancers'.)\n\nCARDIOVASCULAR MEDICINE (November 2025)\n\nLong-term antiplatelet therapy after percutaneous coronary intervention in patients taking oral anticoagulation\n\n● For most patients on long-term oral anticoagulant therapy, we now suggest not continuing antiplatelet therapy indefinitely (Grade 2B), and typically stop 6 to 12 months after percutaneous coronary intervention. However, for selected patients who are at very high risk of thrombotic events, it is reasonable to continue a single antiplatelet drug.\n\nPatients with an indication for oral anticoagulation (OAC) who undergo percutaneous coronary intervention (PCI) often receive combination antithrombotic therapy (ie, OAC plus an antiplatelet medication) indefinitely; however, it is uncertain whether long-term antiplatelet therapy is necessary. Two recent trials addressed this question:\n\n• A trial in over 800 patients with stent placement >6 months prior to enrollment and current treatment with long-term OAC found that participants randomly assigned to aspirin had higher rates of death and major bleeding compared with those assigned to placebo [11].\n\n• A trial in over 900 patients with stent placement >12 months prior to enrollment found that patients randomly assigned to direct oral anticoagulant (DOAC) monotherapy had lower rates of a composite endpoint of death, myocardial infarction, stent thrombosis, stroke, systemic embolism, and clinically important bleeding compared with those assigned to combination therapy (DOAC plus clopidogrel); this difference was driven primarily by a reduction in bleeding [12].\n\nFor most patients on long-term OAC, we now suggest not continuing antiplatelet therapy indefinitely, and typically stop 6 to 12 months after PCI. However, for selected patients at very high risk of thrombotic events, it is reasonable to continue a single antiplatelet drug. (See \"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Long-term therapy studies'.)\n\nNEPHROLOGY AND HYPERTENSION (November 2025)\n\nFish oil supplements for patients on maintenance dialysis\n\n● For patients on maintenance dialysis, we suggest fish oil supplements (Grade 2B) to prevent new and recurrent cardiovascular events. However, future trials to confirm benefit are warranted.\n\nPatients on dialysis are at high risk of cardiovascular (CV) morbidity and mortality. In a trial in which over 1200 patients on maintenance hemodialysis were randomly assigned to either high-dose fish oil supplementation or placebo, the rate of serious CV events (ie, CV death, nonfatal myocardial infarction, nonfatal stroke, and peripheral vascular disease leading to amputation) was lower in the fish oil group during 3.5 years of follow-up (0.31 versus 0.61 per 1000 patient-days) [13]. The benefit in patients without a history of CV disease (approximately two-thirds of the study population) was similar to that in patients with such a history. However, fish oil did not lead to a statistically significant reduction in all-cause mortality. Based on these data, we now suggest fish oil supplements for patients on maintenance dialysis. (See \"Secondary prevention of cardiovascular disease in end-stage kidney disease (dialysis)\", section on 'Fish oil'.)\n\nPRIMARY CARE (ADULT) (October 2025)\n\nClopidogrel versus aspirin for secondary prevention of chronic coronary disease\n\n● For patients with chronic coronary disease who have not had acute coronary syndrome or percutaneous coronary intervention in the past 12 months, we suggest long-term antiplatelet therapy with clopidogrel (Grade 2C). Aspirin is a reasonable alternative.\n\nAspirin has traditionally been the mainstay of antiplatelet therapy for the long-term secondary prevention of cardiovascular disease. However, in a meta-analysis of seven randomized trials that included almost 29,000 patients with established coronary artery disease, rates of major adverse cardiovascular or cerebrovascular events were lower in those receiving clopidogrel than in those receiving aspirin (2.61 versus 2.99 per 100 patient-years) at 5.5 years of follow-up [14]. Both groups experienced similar rates of major bleeding, cardiovascular death, and all-cause mortality. Although most participants had presented with acute coronary syndrome (ACS) and undergone percutaneous coronary intervention (PCI), approximately 25 percent were managed with medical therapy alone. Based on these findings, we now suggest long-term antiplatelet therapy with clopidogrel in patients with chronic coronary disease who have not had ACS or PCI in the past 12 months; aspirin remains a reasonable alternative. (See \"Aspirin and antiplatelet therapy for the secondary prevention of atherosclerotic cardiovascular disease\", section on 'Patients with chronic ASCVD'.)\n\nGASTROENTEROLOGY AND HEPATOLOGY (August 2025, Modified September 2025)\n\nSemaglutide in metabolic dysfunction-associated steatohepatitis\n\n● For patients with metabolic dysfunction-associated steatohepatitis (MASH) and stage ≥2 fibrosis who do not achieve their weight loss goals with lifestyle interventions alone, we suggest GLP-1-based therapy for treatment of MASH (Grade 2C).\n\nGlucagon-like peptide-1 (GLP-1)-based therapies are widely used to treat obesity, and they improve liver inflammation in metabolic dysfunction-associated steatohepatitis (MASH). New data show that a GLP-1 receptor agonist can also improve fibrosis [15]. In an interim analysis of a randomized controlled trial including 800 patients with MASH and stage 2 or 3 fibrosis, the GLP-1 agonist semaglutide for 72 weeks improved liver fibrosis compared with placebo (37 versus 22 percent) and resolved steatohepatitis. These data support our suggestion to use GLP-1-based therapies in patients with MASH. In August 2025, the US Food and Drug Administration approved semaglutide for treatment of MASH [16]. (See \"Management of metabolic dysfunction-associated steatotic liver disease (nonalcoholic fatty liver disease) in adults\", section on 'GLP-1-based therapies'.)\n\nPULMONARY AND CRITICAL CARE MEDICINE (September 2025)\n\nBrensocatib for bronchiectasis with frequent exacerbations\n\n● For patients with bronchiectasis who have two or more exacerbations in a year despite a trial of antibiotic therapy (eg, macrolide, antipseudomonal inhaled antibiotic), or for those who cannot tolerate ongoing antibiotic therapy, we suggest the addition of brensocatib (Grade 2B).\n\nBrensocatib is a new oral therapy for bronchiectasis that inhibits activation of neutrophil elastases. In a new randomized trial in which 1721 patients with at least two bronchiectasis exacerbations in the prior year were assigned to brensocatib 10 mg or 25 mg daily or placebo for 52 weeks, brensocatib (either dose) reduced annual exacerbation rates by 20 percent and increased the proportion of patients who remained exacerbation-free (48.5 versus 40 percent) [17]. Brensocatib was well tolerated, with mild to moderate hyperkeratosis as the most frequent side effect, occurring in 1.4 to 3 percent of patients. Brensocatib was approved in the United States for non-cystic fibrosis bronchiectasis in individuals >12 years. We suggest brensocatib as add-on therapy in those who continue to have exacerbations despite a macrolide or inhaled antipseudomonal antibiotic. (See \"Bronchiectasis in adults: Maintaining lung health\".)\n\nINFECTIOUS DISEASES (May 2025, Modified August 2025)\n\nChikungunya vaccination in travelers\n\n● When chikungunya vaccination is indicated, we recommend recombinant virus-like particle over live-attenuated virus vaccine because of potential safety signals of the live-attenuated virus vaccine (Grade 1C).\n\nChikungunya virus is a growing public health concern; travelers frequently acquire infection and can import the virus into new areas. Apart from avoiding mosquito exposure, vaccination is the primary preventive strategy:\n\n• In 2025, the US Food and Drug Administration (FDA) approved and the Centers for Disease Control and Prevention (CDC) recommended recombinant virus-like particle (VLP) chikungunya vaccine (VIMKUNYA) for selected high-risk travelers aged 12 years and older [18,19]; approval was based on several trials demonstrating high seroconversion rates.\n\n• Reports of serious adverse effects in older adults following receipt of the previously approved live-attenuated virus chikungunya vaccine (IXCHIQ) prompted several regulatory agencies to restrict use in older adults or advise caution [20,21]. In the United States, the FDA withdrew approval of the live-attenuated virus chikungunya vaccine [22].\n\nWhen indicated, we recommend the recombinant VLP over the live-attenuated virus vaccine; if the recombinant VLP vaccine is unavailable, the live-attenuated virus vaccine may be used in immunocompetent adults <60 years old. (See \"Chikungunya fever: Treatment and prevention\", section on 'Indication and choice of vaccine'.)",
+    "word_count": 3158,
+    "character_count": 22757,
+    "references": [
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 Guidelines for Immune Thrombocytopenia (ITP): Initial and Second-Line Therapy in Adults with Primary ITP. Blood Adv 2026.",
+      "Shivakumar S, Matino D, Zukor D, et al. Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty. N Engl J Med 2026.",
+      "DailyMed Drug Information: https://dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on August 28, 2026).",
+      "Galsky MD, Valderrama BP, Maruzzo M, et al. Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer. N Engl J Med 2026; 395:338.",
+      "Kumar S, Jacobus S, Cohen A, et al. Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma. N Engl J Med 2026; 395:221.",
+      "Heerspink HJL, Neuen BL, Agarwal R, et al. Finerenone in Persons with Chronic Kidney Disease without Diabetes. N Engl J Med 2026; 395:533.",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "Updated Guidance Regarding The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Individuals With Postmenopausal Bleeding. Obstet Gynecol 2026; 148:e87.",
+      "Ghany MG, Pan CQ, Lok AS, et al. AASLD ISDA Practice Guideline on treatment of chronic hepatitis B. Hepatology 2026; 83:974.",
+      "Metzger O, Mandrekar S, Goel S, et al. Palbociclib for Hormone-Receptor-Positive, HER2-Positive Advanced Breast Cancer. N Engl J Med 2026; 394:451.",
+      "Lemesle G, Didier R, Steg PG, et al. Aspirin in Patients with Chronic Coronary Syndrome Receiving Oral Anticoagulation. N Engl J Med 2025; 393:1578.",
+      "Lee SJ, Yu HT, Lee YJ, et al. Therapy for Atrial Fibrillation in Patients with Drug-Eluting Stents. N Engl J Med 2026; 394:658.",
+      "Lok CE, Farkouh M, Hemmelgarn BR, et al. Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis. N Engl J Med 2026; 394:128.",
+      "Valgimigli M, Choi KH, Giacoppo D, et al. Clopidogrel versus aspirin for secondary prevention of coronary artery disease: a systematic review and individual patient data meta-analysis. Lancet 2025; 406:1091.",
+      "Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 Trial of Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis. N Engl J Med 2025; 392:2089.",
+      "Wegovy (semaglutide) injection, for subcutaneous use. US Food and Drug Administration (FDA) approved product information. Revised August 2025. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed September 5, 2025).",
+      "Chalmers JD, Burgel PR, Daley CL, et al. Phase 3 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis. N Engl J Med 2025; 392:1569.",
+      "Evidence to recommendations and proposed recommendations for use of virus-like particle chikungunya vaccine among adolescent and adult travelers. Advisory Committee on Immunization Practices (ACIP), US Centers for Disease Control and Prevention (CDC). https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/02-Hills-chikungunya-508.pdf (Accessed on April 23, 2025).",
+      "Recent meeting recommendations. Advisory Committee on Immunization Practices (ACIP), US Centers for Disease Control and Prevention (CDC). https://www.cdc.gov/acip/vaccine-recommendations/index.html#cdc_toolkit_main_toolkit_cat_1-recent-meeting-recommendations (Accessed on May 16, 2025).",
+      "FDA and CDC Recommend Pause in Use of U.S. Food and Drug Administration. FDA and CDC Recommend Pause in Use of Ixchiq (Chikungunya Vaccine, Live) in Individuals 60 Years of Age and Older While Postmarketing Safety Reports are Investigated. https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-and-cdc-recommend-pause-use-ixchiq-chikungunya-vaccine-live-individuals-60-years-age-and-older (Accessed on May 12, 2025).",
+      "European Medicines Agency. Ixchiq: temporary restriction on vaccinating people 65 years and older to be lifted. https://www.ema.europa.eu/en/news/ixchiq-temporary-restriction-vaccinating-people-65-years-older-be-lifted (Accessed on July 21, 2025).",
+      "FDA update on the safety of Ixchiq (chikungunya vaccine, live). US Food and Drug Administration. https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/fda-update-safety-ixchiq-chikungunya-vaccine-live (Accessed on August 27, 2025)."
+    ],
+    "graphics": [
+      {
+        "id": 58520,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/58520"
+      },
+      {
+        "id": 60627,
+        "title": "table 2",
+        "url": "https://medilib.ir/uptodate/show/60627"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": null,
+        "title": "Grade 2C",
+        "url": "https://medilib.ir/uptodate/show/grades6.html"
+      },
+      {
+        "id": 16722,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%221%22"
+      },
+      {
+        "id": 16471,
+        "title": "immune globulin",
+        "url": "https://medilib.ir/uptodate/show/16471"
+      },
+      {
+        "id": 6677,
+        "title": "\"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'",
+        "url": "https://medilib.ir/uptodate/show/6677"
+      },
+      {
+        "id": 8907,
+        "title": "aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": null,
+        "title": "Grade 2B",
+        "url": "https://medilib.ir/uptodate/show/grades5.html"
+      },
+      {
+        "id": 9498,
+        "title": "rivaroxaban",
+        "url": "https://medilib.ir/uptodate/show/9498"
+      },
+      {
+        "id": 16722,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%222%22"
+      },
+      {
+        "id": 1335,
+        "title": "\"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\"",
+        "url": "https://medilib.ir/uptodate/show/1335"
+      },
+      {
+        "id": 126407,
+        "title": "enfortumab vedotin",
+        "url": "https://medilib.ir/uptodate/show/126407"
+      },
+      {
+        "id": 96957,
+        "title": "pembrolizumab",
+        "url": "https://medilib.ir/uptodate/show/96957"
+      },
+      {
+        "id": 112994,
+        "title": "durvalumab",
+        "url": "https://medilib.ir/uptodate/show/112994"
+      },
+      {
+        "id": 8487,
+        "title": "gemcitabine",
+        "url": "https://medilib.ir/uptodate/show/8487"
+      },
+      {
+        "id": 9271,
+        "title": "cisplatin",
+        "url": "https://medilib.ir/uptodate/show/9271"
+      },
+      {
+        "id": 16722,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%223%22"
+      },
+      {
+        "id": 16722,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%224%22"
+      },
+      {
+        "id": 2991,
+        "title": "\"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'",
+        "url": "https://medilib.ir/uptodate/show/2991"
+      },
+      {
+        "id": 9822,
+        "title": "lenalidomide",
+        "url": "https://medilib.ir/uptodate/show/9822"
+      },
+      {
+        "id": 16722,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%225%22"
+      },
+      {
+        "id": 6656,
+        "title": "\"Multiple myeloma: Use of hematopoietic cell transplantation\", section on 'Standard-risk disease'",
+        "url": "https://medilib.ir/uptodate/show/6656"
+      },
+      {
+        "id": 6647,
+        "title": "\"Multiple myeloma: Initial treatment\", section on 'Standard-risk myeloma'",
+        "url": "https://medilib.ir/uptodate/show/6647"
+      },
+      {
+        "id": 132042,
+        "title": "finerenone",
+        "url": "https://medilib.ir/uptodate/show/132042"
+      },
+      {
+        "id": 132042,
+        "title": "Finerenone",
+        "url": "https://medilib.ir/uptodate/show/132042"
+      },
+      {
+        "id": 16722,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%226%22"
+      },
+      {
+        "id": 7172,
+        "title": "\"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'",
+        "url": "https://medilib.ir/uptodate/show/7172"
+      },
+      {
+        "id": 151777,
+        "title": "ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 16722,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%227%22"
+      },
+      {
+        "id": 126981,
+        "title": "\"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/126981"
+      },
+      {
+        "id": 16722,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%228%22"
+      },
+      {
+        "id": 3232,
+        "title": "\"Overview of the evaluation of the endometrium for malignant or premalignant disease\", section on 'Postmenopausal patients with bleeding'",
+        "url": "https://medilib.ir/uptodate/show/3232"
+      },
+      {
+        "id": 16722,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%229%22"
+      },
+      {
+        "id": 3642,
+        "title": "\"Hepatitis B virus infection: Overview of management in adults\", section on 'Determining need for antiviral therapy'",
+        "url": "https://medilib.ir/uptodate/show/3642"
+      },
+      {
+        "id": 99759,
+        "title": "palbociclib",
+        "url": "https://medilib.ir/uptodate/show/99759"
+      },
+      {
+        "id": 10101,
+        "title": "trastuzumab",
+        "url": "https://medilib.ir/uptodate/show/10101"
+      },
+      {
+        "id": 85639,
+        "title": "pertuzumab",
+        "url": "https://medilib.ir/uptodate/show/85639"
+      },
+      {
+        "id": 16722,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2210%22"
+      },
+      {
+        "id": 15749,
+        "title": "\"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Chemotherapy induction with endocrine therapy maintenance for hormone receptor-positive cancers'",
+        "url": "https://medilib.ir/uptodate/show/15749"
+      },
+      {
+        "id": 16722,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2211%22"
+      },
+      {
+        "id": 8921,
+        "title": "clopidogrel",
+        "url": "https://medilib.ir/uptodate/show/8921"
+      },
+      {
+        "id": 16722,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2212%22"
+      },
+      {
+        "id": 1535,
+        "title": "\"Coronary artery disease patients requiring combined anticoagulant and antiplatelet therapy\", section on 'Long-term therapy studies'",
+        "url": "https://medilib.ir/uptodate/show/1535"
+      },
+      {
+        "id": 16722,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2213%22"
+      },
+      {
+        "id": 1962,
+        "title": "\"Secondary prevention of cardiovascular disease in end-stage kidney disease (dialysis)\", section on 'Fish oil'",
+        "url": "https://medilib.ir/uptodate/show/1962"
+      },
+      {
+        "id": 8907,
+        "title": "Aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": 16722,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2214%22"
+      },
+      {
+        "id": 110006,
+        "title": "\"Aspirin and antiplatelet therapy for the secondary prevention of atherosclerotic cardiovascular disease\", section on 'Patients with chronic ASCVD'",
+        "url": "https://medilib.ir/uptodate/show/110006"
+      },
+      {
+        "id": 16722,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2215%22"
+      },
+      {
+        "id": 115980,
+        "title": "semaglutide",
+        "url": "https://medilib.ir/uptodate/show/115980"
+      },
+      {
+        "id": 16722,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2216%22"
+      },
+      {
+        "id": 3600,
+        "title": "\"Management of metabolic dysfunction-associated steatotic liver disease (nonalcoholic fatty liver disease) in adults\", section on 'GLP-1-based therapies'",
+        "url": "https://medilib.ir/uptodate/show/3600"
+      },
+      {
+        "id": 149454,
+        "title": "brensocatib",
+        "url": "https://medilib.ir/uptodate/show/149454"
+      },
+      {
+        "id": 149454,
+        "title": "Brensocatib",
+        "url": "https://medilib.ir/uptodate/show/149454"
+      },
+      {
+        "id": 16722,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2217%22"
+      },
+      {
+        "id": 129310,
+        "title": "\"Bronchiectasis in adults: Maintaining lung health\"",
+        "url": "https://medilib.ir/uptodate/show/129310"
+      },
+      {
+        "id": null,
+        "title": "Grade 1C",
+        "url": "https://medilib.ir/uptodate/show/grades3.html"
+      },
+      {
+        "id": 16722,
+        "title": "18,19",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2218%22"
+      },
+      {
+        "id": 143436,
+        "title": "live-attenuated virus chikungunya vaccine",
+        "url": "https://medilib.ir/uptodate/show/143436"
+      },
+      {
+        "id": 16722,
+        "title": "20,21",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2220%22"
+      },
+      {
+        "id": 16722,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/16722#rid%2222%22"
+      },
+      {
+        "id": 111764,
+        "title": "\"Chikungunya fever: Treatment and prevention\", section on 'Indication and choice of vaccine'",
+        "url": "https://medilib.ir/uptodate/show/111764"
+      }
+    ]
+  }
+}

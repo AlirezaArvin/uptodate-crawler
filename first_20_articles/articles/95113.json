@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/95113"
+  },
+  "article": {
+    "id": 95113,
+    "expected_title": "What's new in palliative care",
+    "url": "https://medilib.ir/uptodate/show/95113",
+    "final_url": "https://medilib.ir/uptodate/show/95113",
+    "page_title": "What's new in palliative care",
+    "extracted_at": "2026-11-20T20:52:50.525Z",
+    "title_matches_expected": true,
+    "title": "What's new in palliative care",
+    "contributors": {
+      "authors": [
+        "Jane Givens, MD, MSCE"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Sep 22, 2026",
+    "version": "Topic 95113 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GENERAL PRINCIPLES OF PALLIATIVE CARE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Timing of interventions to promote advance care planning (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Advance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [1]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Palliative care provided by hepatologists in end-stage liver disease (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Clinicians who are not palliative care specialists but who work with patients with serious illness may be trained to provide palliative care, to expand access. In a cluster-randomized trial among patients with end-stage liver disease, palliative care delivered by hepatologists provided with 12 weeks of palliative care training resulted in similar improvements in quality of life at three months when compared with care provided by palliative care specialists, and was associated with greater improvement in patient satisfaction [2]. Providing targeted training to non-palliative care providers can improve patient access to beneficial services. (See \"Palliative care for patients with end-stage liver disease\", section on 'What is the difference between primary and secondary (subspecialty) palliative care?'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SELECTED END-STAGE CONDITIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Decreasing futile radiation therapy near the end of life (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Studies are evaluating strategies to decrease futile radiation therapy (RT) for patients near the end of life. In a retrospective analysis of 450 hospitalized patients with metastatic cancer who died within 14 days of consultation for RT, consultation after, compared with prior to, the implementation of an inpatient radiation oncology service was associated with decreased rates of RT administration (20 versus 32 percent), decreased incomplete RT courses (10 versus 18 percent), and decreased inpatient mortality among patients who received RT (14 versus 24 percent) [3]. These findings support the role of a dedicated inpatient radiation oncology team to help reduce futile RT for patients near the end of life. (See \"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nGENERAL PRINCIPLES OF PALLIATIVE CARE\n\nTiming of interventions to promote advance care planning (August 2026)\n\nAdvance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [1]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)\n\nPalliative care provided by hepatologists in end-stage liver disease (May 2026)\n\nClinicians who are not palliative care specialists but who work with patients with serious illness may be trained to provide palliative care, to expand access. In a cluster-randomized trial among patients with end-stage liver disease, palliative care delivered by hepatologists provided with 12 weeks of palliative care training resulted in similar improvements in quality of life at three months when compared with care provided by palliative care specialists, and was associated with greater improvement in patient satisfaction [2]. Providing targeted training to non-palliative care providers can improve patient access to beneficial services. (See \"Palliative care for patients with end-stage liver disease\", section on 'What is the difference between primary and secondary (subspecialty) palliative care?'.)\n\nSELECTED END-STAGE CONDITIONS\n\nDecreasing futile radiation therapy near the end of life (September 2026)\n\nStudies are evaluating strategies to decrease futile radiation therapy (RT) for patients near the end of life. In a retrospective analysis of 450 hospitalized patients with metastatic cancer who died within 14 days of consultation for RT, consultation after, compared with prior to, the implementation of an inpatient radiation oncology service was associated with decreased rates of RT administration (20 versus 32 percent), decreased incomplete RT courses (10 versus 18 percent), and decreased inpatient mortality among patients who received RT (14 versus 24 percent) [3]. These findings support the role of a dedicated inpatient radiation oncology team to help reduce futile RT for patients near the end of life. (See \"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'.)",
+    "word_count": 421,
+    "character_count": 2835,
+    "references": [
+      "Wenger NS, Sanz Vidorreta FJ, Tseng CH, et al. Timing Prompts for Advance Care Planning Discussions and Advance Directive Completion. JAMA Netw Open 2026; 9:e2628366.",
+      "Verma M, Navarro V, Kosinski A, et al. Palliative Care Intervention for Patients With End-Stage Liver Disease: A Cluster Randomized Clinical Trial. JAMA Intern Med 2026; 186:677.",
+      "Deshane A, Freret M, Brennan VS, et al. Futile Radiotherapy for Patients With Cancer Near the End of Life. JAMA Netw Open 2026; 9:e2618668."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 95113,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/95113#rid%221%22"
+      },
+      {
+        "id": 86248,
+        "title": "\"Advance care planning and advance directives\", section on 'Timing'",
+        "url": "https://medilib.ir/uptodate/show/86248"
+      },
+      {
+        "id": 95113,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/95113#rid%222%22"
+      },
+      {
+        "id": 86296,
+        "title": "\"Palliative care for patients with end-stage liver disease\", section on 'What is the difference between primary and secondary (subspecialty) palliative care?'",
+        "url": "https://medilib.ir/uptodate/show/86296"
+      },
+      {
+        "id": 95113,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/95113#rid%223%22"
+      },
+      {
+        "id": 5212,
+        "title": "\"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'",
+        "url": "https://medilib.ir/uptodate/show/5212"
+      }
+    ]
+  }
+}

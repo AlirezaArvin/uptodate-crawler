@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/152219"
+  },
+  "article": {
+    "id": 152219,
+    "expected_title": "What's new in patient education",
+    "url": "https://medilib.ir/uptodate/show/152219",
+    "final_url": "https://medilib.ir/uptodate/show/152219",
+    "page_title": "What's new in patient education",
+    "extracted_at": "2026-11-20T20:52:56.047Z",
+    "title_matches_expected": true,
+    "title": "What's new in patient education",
+    "contributors": {
+      "authors": [
+        "Jennifer Mitty, MD, MPH",
+        "Kelly Crowley, BA"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Nov 04, 2026",
+    "version": "Topic 152219 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT PRIMARY CARE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of medical cannabis for insomnia (November 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Our patient education topics have been updated to clarify that cannabis and cannabinoids are not routinely recommended for treatment of insomnia. (See \"Patient education: Insomnia (The Basics)\" and \"Patient education: Insomnia treatments (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Loss of muscle mass with GLP-1-based medications (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "GLP-1-based medications can help patients achieve significant weight loss. One study found that weight loss with GLP-1-based medications is associated with a large reduction in muscle mass [2]. Our patient education topics have been updated to include this risk and discuss possible prevention strategies such as adequate nutrition and exercise. (See \"Patient education: Weight loss medicines (The Basics)\" and \"Patient education: Losing weight (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ALLERGY AND IMMUNOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Macrolide therapy for severe asthma (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Severe asthma is treated with glucocorticoids and inhalers, but some individuals also require biologic therapies. For those who cannot receive a biologic therapy, the utility of adding a macrolide antibiotic has been uncertain, despite several clinical trials. In a new meta-analysis, macrolide treatment modestly reduced rates of severe exacerbations and improved symptom control [3]. The patient education Beyond the Basics topic on asthma in adolescents and adults has been updated to discuss macrolides as add-on treatment for people with severe asthma who cannot receive biologic therapies. (See \"Patient education: Asthma treatment in adolescents and adults (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DERMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Oral antihistamines and eczema (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral antihistamines are commonly used for itching due to eczema (atopic dermatitis), but their efficacy for this condition has not been established. A network meta-analysis found that antihistamines did not meaningfully improve itching or eczema severity compared with placebo [4]. Our patient education topics have been updated to acknowledge the lack of evidence supporting antihistamines for treating eczema; they discuss other available treatment options. (See \"Patient education: Eczema (atopic dermatitis) (The Basics)\" and \"Patient education: Eczema (atopic dermatitis) (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ENDOCRINOLOGY AND DIABETES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Proposed new name for PCOS (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Polycystic ovary syndrome (PCOS) is a condition associated with menstrual irregularity and androgen excess. A consortium of experts suggested renaming PCOS to \"polyendocrine metabolic ovarian syndrome\" (PMOS) to better reflect the clinical features and underlying endocrine and metabolic pathophysiology [5]. Our patient education materials have been updated to acknowledge the new terminology; over the coming years, we will continue to evolve the content if the name is more widely adopted. (See \"Patient education: Polycystic ovary syndrome (The Basics)\" and \"Patient education: Polycystic ovary syndrome (PCOS) (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Once weekly basal insulin for people with type 2 diabetes (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with type 2 diabetes often require insulin therapy, and daily insulin injections can be burdensome. Insulin icodec, a once-weekly basal insulin analog, has been approved for use in adults with type 2 diabetes, providing an additional option for some patients who might benefit from longer-acting insulin or prefer to avoid daily injections [6]. Our patient education materials discuss the use of insulin in type 2 diabetes; the Beyond the Basics topic has been updated to include insulin icodec. (See \"Patient education: Diabetes – Using insulin (The Basics)\"and \"Patient education: Type 2 diabetes: Insulin treatment (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Teplizumab to delay the onset of type 1 diabetes (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Teplizumab is an anti-CD3 monoclonal antibody that is given by infusion and can delay the onset of type 1 diabetes. The US Food and Drug Administration (FDA) has approved an expanded indication for teplizumab, allowing its use in children aged ≥1 year (previously ≥8 years) with abnormal blood sugars and elevated levels of two or more pancreatic autoantibodies [7]. The patient education Beyond the Basics topic on type 1 diabetes has been updated to include this information, which may be of interest to patients or caregivers of people at risk for developing type 1 diabetes. (See \"Patient education: Type 1 diabetes: Overview (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GASTROENTEROLOGY AND HEPATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Risk of esophageal cancer in people with achalasia (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The risk of esophageal cancer among people with achalasia is not clear. In a recent study, the prevalence of achalasia was higher in people with esophageal cancer than in the general population, but the absolute risk remained low [8]. For patients with achalasia, indications for upper endoscopy include evaluating recurrent or concerning symptoms and post-treatment monitoring, rather than routine cancer surveillance. Our patient education topics have been updated with an expanded discussion of long-term monitoring. (See \"Patient education: Achalasia (The Basics)\" and \"Patient education: Achalasia (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEMATOLOGY AND ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New guidelines for immune thrombocytopenia in adults (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology has published new guidelines for treating immune thrombocytopenia (ITP) in adults [9]. For people with newly diagnosed ITP who need treatment, the new guidelines recommend using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist. Our patient education topic on ITP has been updated to reflect the new treatment guidelines. (See \"Patient education: Immune thrombocytopenia (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Daraxonrasib for metastatic pancreatic adenocarcinoma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Current therapeutic options for treatment-refractory pancreatic adenocarcinoma provide only modest benefit. The US Food and Drug Administration approved daraxonrasib, a RAS(ON) multiselective inhibitor, for the treatment of adult patients with metastatic pancreatic adenocarcinoma who have received at least one prior systemic therapy or who are not candidates for multi-agent systemic therapy [10]. Our patient education topics discuss the available treatment options; the Beyond the Basics topic has been updated so patients with metastatic pancreatic adenocarcinoma are aware of this novel medication. (See \"Patient education: Pancreatic cancer (The Basics)\"and \"Patient education: Pancreatic cancer (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INFECTIOUS DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis to reduce the risk of COVID-19 (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Until recently, there were no approved antiviral medications for postexposure prophylaxis of COVID-19. Ensitrelvir was approved by the US Food and Drug Administration (FDA) after a randomized trial found that starting a five-day course within 72 hours of a household exposure reduced the incidence of COVID-19 by approximately 67 percent compared with placebo [11]. UpToDate suggests ensitrelvir for people who are at high risk for severe COVID-19 (eg, age ≥65 years, other health problems, or immunocompromise) following exposure to SARS-CoV-2 through close contact with a person with confirmed infection. Our patient education overview topic has been updated to discuss this option in addition to vaccination for pre-exposure prophylaxis. (See \"Patient education: COVID-19 overview (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hantavirus cruise ship outbreak (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In May 2026, there was an outbreak of hantavirus due to Andes virus [12]. The outbreak occurred on a cruise ship; Andes virus is the only hantavirus species to have demonstrated person-to-person transmission. A new patient education topic has been added to address frequently asked questions about hantavirus. (See \"Patient education: Hantavirus (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ticks and tick-borne illnesses (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Different types of ticks are found in different parts of the US; tick activity is high in many areas of the country. To support clinicians in answering common questions, a new patient education topic has been added to provide an overview of tick-borne illnesses, what to do after a tick bite, and prevention measures. (See \"Patient education: Tick bites (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Outbreak of Bundibugyo virus (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In May 2026, the World Health Organization (WHO) declared a public health emergency of international concern due to an outbreak of Ebola disease in the Democratic Republic of the Congo and Uganda caused by the Bundibugyo virus [13]. To support clinicians in providing evidence-based information, UpToDate offers patient education content on Ebola disease. (See \"Patient education: Ebola (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OBSTETRICS, GYNECOLOGY, AND WOMEN'S HEALTH"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Options for reducing pain with IUD placement (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Individuals experience varying degrees of discomfort or pain during IUD placement; it's important to inform patients of their options for pain relief. Paracervical block is commonly offered, but other approaches have also been explored. A trial found that patients reported lower pain scores after intrauterine instillation of mepivacaine (compared with placebo) [14]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, this provides another potential option for pain relief. Our patient education topic on IUD placement has been updated to discuss pain management and emphasize that various options are available. (See \"Patient education: IUD placement (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Physical activity and pregnancy (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Exercise has benefits during pregnancy, including a reduced risk of adverse outcomes, but it can be difficult for people to change their habits. In a recent study, individuals with less sedentary time and more physical activity had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy [15]. Encouraging pregnant patients to \"sit less, move more\" and gradually increase their activity level can help. Our patient education topic discusses the importance of exercise during pregnancy and provides tips on how to increase activity level safely. (See \"Patient education: Exercise and activity during pregnancy (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated guidance for evaluation of postmenopausal vaginal bleeding (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with postmenopausal vaginal bleeding require evaluation of the endometrium for endometrial cancer and premalignant lesions. The American College of Obstetricians and Gynecologists (ACOG) recently updated its guidance to recommend both endometrial sampling and transvaginal ultrasound in most cases [16]. Our patient education Beyond the Basics topic has been updated to reflect the new guidance. (See \"Patient education: Abnormal uterine bleeding (Beyond the Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PEDIATRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Health effects of excessive screen time in children and teens (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Excessive screen time, including smartphone use, can impact children's and teens' physical and mental health. In an observational study, acquiring a smartphone at age 13 years was associated with insufficient sleep at age 14 years; this risk was mitigated by leaving the phone outside the bedroom [17]. Spending more than five hours a day on the smartphone was associated with an increased likelihood of obesity and depression. Our patient education topic discusses screen time recommendations and provides guidance for parents and caregivers on monitoring use and promoting online safety for children and teens. (See \"Patient education: Screen time and online safety for children and teens (The Basics)\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SLEEP MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of medical cannabis for insomnia (November 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Our patient education topics have been updated to clarify that cannabis and cannabinoids are not routinely recommended for treatment of insomnia. (See \"Patient education: Insomnia (The Basics)\" and \"Patient education: Insomnia treatments (Beyond the Basics)\".)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nADULT PRIMARY CARE\n\nNo benefit of medical cannabis for insomnia (November 2026)\n\nCannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Our patient education topics have been updated to clarify that cannabis and cannabinoids are not routinely recommended for treatment of insomnia. (See \"Patient education: Insomnia (The Basics)\" and \"Patient education: Insomnia treatments (Beyond the Basics)\".)\n\nLoss of muscle mass with GLP-1-based medications (May 2026)\n\nGLP-1-based medications can help patients achieve significant weight loss. One study found that weight loss with GLP-1-based medications is associated with a large reduction in muscle mass [2]. Our patient education topics have been updated to include this risk and discuss possible prevention strategies such as adequate nutrition and exercise. (See \"Patient education: Weight loss medicines (The Basics)\" and \"Patient education: Losing weight (Beyond the Basics)\".)\n\nALLERGY AND IMMUNOLOGY\n\nMacrolide therapy for severe asthma (October 2026)\n\nSevere asthma is treated with glucocorticoids and inhalers, but some individuals also require biologic therapies. For those who cannot receive a biologic therapy, the utility of adding a macrolide antibiotic has been uncertain, despite several clinical trials. In a new meta-analysis, macrolide treatment modestly reduced rates of severe exacerbations and improved symptom control [3]. The patient education Beyond the Basics topic on asthma in adolescents and adults has been updated to discuss macrolides as add-on treatment for people with severe asthma who cannot receive biologic therapies. (See \"Patient education: Asthma treatment in adolescents and adults (Beyond the Basics)\".)\n\nDERMATOLOGY\n\nOral antihistamines and eczema (August 2026)\n\nOral antihistamines are commonly used for itching due to eczema (atopic dermatitis), but their efficacy for this condition has not been established. A network meta-analysis found that antihistamines did not meaningfully improve itching or eczema severity compared with placebo [4]. Our patient education topics have been updated to acknowledge the lack of evidence supporting antihistamines for treating eczema; they discuss other available treatment options. (See \"Patient education: Eczema (atopic dermatitis) (The Basics)\" and \"Patient education: Eczema (atopic dermatitis) (Beyond the Basics)\".)\n\nENDOCRINOLOGY AND DIABETES\n\nProposed new name for PCOS (May 2026)\n\nPolycystic ovary syndrome (PCOS) is a condition associated with menstrual irregularity and androgen excess. A consortium of experts suggested renaming PCOS to \"polyendocrine metabolic ovarian syndrome\" (PMOS) to better reflect the clinical features and underlying endocrine and metabolic pathophysiology [5]. Our patient education materials have been updated to acknowledge the new terminology; over the coming years, we will continue to evolve the content if the name is more widely adopted. (See \"Patient education: Polycystic ovary syndrome (The Basics)\" and \"Patient education: Polycystic ovary syndrome (PCOS) (Beyond the Basics)\".)\n\nOnce weekly basal insulin for people with type 2 diabetes (May 2026)\n\nPatients with type 2 diabetes often require insulin therapy, and daily insulin injections can be burdensome. Insulin icodec, a once-weekly basal insulin analog, has been approved for use in adults with type 2 diabetes, providing an additional option for some patients who might benefit from longer-acting insulin or prefer to avoid daily injections [6]. Our patient education materials discuss the use of insulin in type 2 diabetes; the Beyond the Basics topic has been updated to include insulin icodec. (See \"Patient education: Diabetes – Using insulin (The Basics)\"and \"Patient education: Type 2 diabetes: Insulin treatment (Beyond the Basics)\".)\n\nTeplizumab to delay the onset of type 1 diabetes (May 2026)\n\nTeplizumab is an anti-CD3 monoclonal antibody that is given by infusion and can delay the onset of type 1 diabetes. The US Food and Drug Administration (FDA) has approved an expanded indication for teplizumab, allowing its use in children aged ≥1 year (previously ≥8 years) with abnormal blood sugars and elevated levels of two or more pancreatic autoantibodies [7]. The patient education Beyond the Basics topic on type 1 diabetes has been updated to include this information, which may be of interest to patients or caregivers of people at risk for developing type 1 diabetes. (See \"Patient education: Type 1 diabetes: Overview (Beyond the Basics)\".)\n\nGASTROENTEROLOGY AND HEPATOLOGY\n\nRisk of esophageal cancer in people with achalasia (May 2026)\n\nThe risk of esophageal cancer among people with achalasia is not clear. In a recent study, the prevalence of achalasia was higher in people with esophageal cancer than in the general population, but the absolute risk remained low [8]. For patients with achalasia, indications for upper endoscopy include evaluating recurrent or concerning symptoms and post-treatment monitoring, rather than routine cancer surveillance. Our patient education topics have been updated with an expanded discussion of long-term monitoring. (See \"Patient education: Achalasia (The Basics)\" and \"Patient education: Achalasia (Beyond the Basics)\".)\n\nHEMATOLOGY AND ONCOLOGY\n\nNew guidelines for immune thrombocytopenia in adults (September 2026)\n\nThe American Society of Hematology has published new guidelines for treating immune thrombocytopenia (ITP) in adults [9]. For people with newly diagnosed ITP who need treatment, the new guidelines recommend using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist. Our patient education topic on ITP has been updated to reflect the new treatment guidelines. (See \"Patient education: Immune thrombocytopenia (The Basics)\".)\n\nDaraxonrasib for metastatic pancreatic adenocarcinoma (June 2026)\n\nCurrent therapeutic options for treatment-refractory pancreatic adenocarcinoma provide only modest benefit. The US Food and Drug Administration approved daraxonrasib, a RAS(ON) multiselective inhibitor, for the treatment of adult patients with metastatic pancreatic adenocarcinoma who have received at least one prior systemic therapy or who are not candidates for multi-agent systemic therapy [10]. Our patient education topics discuss the available treatment options; the Beyond the Basics topic has been updated so patients with metastatic pancreatic adenocarcinoma are aware of this novel medication. (See \"Patient education: Pancreatic cancer (The Basics)\"and \"Patient education: Pancreatic cancer (Beyond the Basics)\".)\n\nINFECTIOUS DISEASES\n\nEnsitrelvir for post-exposure prophylaxis to reduce the risk of COVID-19 (June 2026)\n\nUntil recently, there were no approved antiviral medications for postexposure prophylaxis of COVID-19. Ensitrelvir was approved by the US Food and Drug Administration (FDA) after a randomized trial found that starting a five-day course within 72 hours of a household exposure reduced the incidence of COVID-19 by approximately 67 percent compared with placebo [11]. UpToDate suggests ensitrelvir for people who are at high risk for severe COVID-19 (eg, age ≥65 years, other health problems, or immunocompromise) following exposure to SARS-CoV-2 through close contact with a person with confirmed infection. Our patient education overview topic has been updated to discuss this option in addition to vaccination for pre-exposure prophylaxis. (See \"Patient education: COVID-19 overview (The Basics)\".)\n\nHantavirus cruise ship outbreak (May 2026)\n\nIn May 2026, there was an outbreak of hantavirus due to Andes virus [12]. The outbreak occurred on a cruise ship; Andes virus is the only hantavirus species to have demonstrated person-to-person transmission. A new patient education topic has been added to address frequently asked questions about hantavirus. (See \"Patient education: Hantavirus (The Basics)\".)\n\nTicks and tick-borne illnesses (May 2026)\n\nDifferent types of ticks are found in different parts of the US; tick activity is high in many areas of the country. To support clinicians in answering common questions, a new patient education topic has been added to provide an overview of tick-borne illnesses, what to do after a tick bite, and prevention measures. (See \"Patient education: Tick bites (The Basics)\".)\n\nOutbreak of Bundibugyo virus (May 2026)\n\nIn May 2026, the World Health Organization (WHO) declared a public health emergency of international concern due to an outbreak of Ebola disease in the Democratic Republic of the Congo and Uganda caused by the Bundibugyo virus [13]. To support clinicians in providing evidence-based information, UpToDate offers patient education content on Ebola disease. (See \"Patient education: Ebola (The Basics)\".)\n\nOBSTETRICS, GYNECOLOGY, AND WOMEN'S HEALTH\n\nOptions for reducing pain with IUD placement (September 2026)\n\nIndividuals experience varying degrees of discomfort or pain during IUD placement; it's important to inform patients of their options for pain relief. Paracervical block is commonly offered, but other approaches have also been explored. A trial found that patients reported lower pain scores after intrauterine instillation of mepivacaine (compared with placebo) [14]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, this provides another potential option for pain relief. Our patient education topic on IUD placement has been updated to discuss pain management and emphasize that various options are available. (See \"Patient education: IUD placement (The Basics)\".)\n\nPhysical activity and pregnancy (June 2026)\n\nExercise has benefits during pregnancy, including a reduced risk of adverse outcomes, but it can be difficult for people to change their habits. In a recent study, individuals with less sedentary time and more physical activity had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy [15]. Encouraging pregnant patients to \"sit less, move more\" and gradually increase their activity level can help. Our patient education topic discusses the importance of exercise during pregnancy and provides tips on how to increase activity level safely. (See \"Patient education: Exercise and activity during pregnancy (The Basics)\".)\n\nUpdated guidance for evaluation of postmenopausal vaginal bleeding (May 2026)\n\nPatients with postmenopausal vaginal bleeding require evaluation of the endometrium for endometrial cancer and premalignant lesions. The American College of Obstetricians and Gynecologists (ACOG) recently updated its guidance to recommend both endometrial sampling and transvaginal ultrasound in most cases [16]. Our patient education Beyond the Basics topic has been updated to reflect the new guidance. (See \"Patient education: Abnormal uterine bleeding (Beyond the Basics)\".)\n\nPEDIATRICS\n\nHealth effects of excessive screen time in children and teens (August 2026)\n\nExcessive screen time, including smartphone use, can impact children's and teens' physical and mental health. In an observational study, acquiring a smartphone at age 13 years was associated with insufficient sleep at age 14 years; this risk was mitigated by leaving the phone outside the bedroom [17]. Spending more than five hours a day on the smartphone was associated with an increased likelihood of obesity and depression. Our patient education topic discusses screen time recommendations and provides guidance for parents and caregivers on monitoring use and promoting online safety for children and teens. (See \"Patient education: Screen time and online safety for children and teens (The Basics)\".)\n\nSLEEP MEDICINE\n\nNo benefit of medical cannabis for insomnia (November 2026)\n\nCannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Our patient education topics have been updated to clarify that cannabis and cannabinoids are not routinely recommended for treatment of insomnia. (See \"Patient education: Insomnia (The Basics)\" and \"Patient education: Insomnia treatments (Beyond the Basics)\".)",
+    "word_count": 1840,
+    "character_count": 12814,
+    "references": [
+      "Varela LB, Miño Zambrano JE, Maura Goncalves Costa B, et al. Medical cannabis for the treatment of insomnia. Cochrane Database Syst Rev 2026; 10:CD016216.",
+      "Batsis JA, Gavras A, Gross DC, et al. Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition : A Systematic Review. Ann Intern Med 2026; 179:996.",
+      "Ologundudu LM, Wong MM, Islam N, et al. Macrolides for asthma: A systematic review and meta-analysis of randomized trials. J Allergy Clin Immunol 2026; 158:970.",
+      "Chu AWL, Wen A, Guyatt GH, et al. Antihistamines for atopic dermatitis (eczema): systematic review and network meta-analysis of randomised trials. BMJ 2026; 394:e100163.",
+      "Teede HJ, Khomami MB, Morman R, et al. Polyendocrine metabolic ovarian syndrome, the new name for polycystic ovary syndrome: a multistep global consensus process. Lancet 2026; 407:2329.",
+      "Anderer S. FDA Approves Weekly Basal Insulin for Adults With Type 2 Diabetes. JAMA 2026; 335:1564.",
+      "Teplizumab (TZIELD). US Food and Drug Administration (FDA) approved product information. Revised June 2026. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761183s010lbls014lbl.pdf (Accessed on June 15, 2026).",
+      "Leijonmarck W et al. Achalasia and risk of esophageal squamous cell carcinoma and adenocarcinoma in a multinational study. Gastroenterology 2026. [DOI: https://doi.org/10.1053/j.gastro.2026.03.024] https://www.gastrojournal.org/article/S0016-5085(26)00346-X/pdf (Accessed on April 20, 2026).",
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv 2026; 10:7076.",
+      "DailyMed Drug Information: https://dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on October 13, 2026).",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "World Health Organization. Disease Outbreak News. Hantavirus outbreak linked to cruise ship travel, Multi-locations https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON604 (Accessed on May 28, 2026).",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern. https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern (Accessed on May 18, 2026).",
+      "Elgemark K, Envall N, Kopp Kallner H. Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial. JAMA 2026.",
+      "Barone Gibbs B, Kim J, Gallagher J, et al. Adverse Pregnancy Outcomes and Sedentary Behavior, Light-Intensity Physical Activity, and Daily Steps. JAMA 2026; 336:135.",
+      "American College of Obstetricians & Gynecologists. Updated Guidance Regarding The Role of Transvaginal Ultrasonography in Evaluating the Endometrium of Individuals With Postmenopausal Bleeding. Obstet Gynecol 2026; 148:e87.",
+      "Bren Z, Tran KT, Visoki E, et al. Smartphone Acquisition and Use at Age 13 Years and Health Outcomes at Age 14 Years. JAMA Pediatr 2026; 180:858."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 134930,
+        "title": "medical cannabis",
+        "url": "https://medilib.ir/uptodate/show/134930"
+      },
+      {
+        "id": 152219,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%221%22"
+      },
+      {
+        "id": 16177,
+        "title": "\"Patient education: Insomnia (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/16177"
+      },
+      {
+        "id": 7718,
+        "title": "\"Patient education: Insomnia treatments (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/7718"
+      },
+      {
+        "id": 152219,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%222%22"
+      },
+      {
+        "id": 146010,
+        "title": "\"Patient education: Weight loss medicines (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/146010"
+      },
+      {
+        "id": 1988,
+        "title": "\"Patient education: Losing weight (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/1988"
+      },
+      {
+        "id": 152219,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%223%22"
+      },
+      {
+        "id": 371,
+        "title": "\"Patient education: Asthma treatment in adolescents and adults (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/371"
+      },
+      {
+        "id": 152219,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%224%22"
+      },
+      {
+        "id": 15392,
+        "title": "\"Patient education: Eczema (atopic dermatitis) (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/15392"
+      },
+      {
+        "id": 7638,
+        "title": "\"Patient education: Eczema (atopic dermatitis) (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/7638"
+      },
+      {
+        "id": 152219,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%225%22"
+      },
+      {
+        "id": 15605,
+        "title": "\"Patient education: Polycystic ovary syndrome (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/15605"
+      },
+      {
+        "id": 2163,
+        "title": "\"Patient education: Polycystic ovary syndrome (PCOS) (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/2163"
+      },
+      {
+        "id": 145413,
+        "title": "Insulin icodec",
+        "url": "https://medilib.ir/uptodate/show/145413"
+      },
+      {
+        "id": 152219,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%226%22"
+      },
+      {
+        "id": 15594,
+        "title": "\"Patient education: Diabetes – Using insulin (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/15594"
+      },
+      {
+        "id": 1745,
+        "title": "\"Patient education: Type 2 diabetes: Insulin treatment (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/1745"
+      },
+      {
+        "id": 140208,
+        "title": "Teplizumab",
+        "url": "https://medilib.ir/uptodate/show/140208"
+      },
+      {
+        "id": 152219,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%227%22"
+      },
+      {
+        "id": 1736,
+        "title": "\"Patient education: Type 1 diabetes: Overview (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/1736"
+      },
+      {
+        "id": 152219,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%228%22"
+      },
+      {
+        "id": 16153,
+        "title": "\"Patient education: Achalasia (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/16153"
+      },
+      {
+        "id": 1998,
+        "title": "\"Patient education: Achalasia (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/1998"
+      },
+      {
+        "id": 152219,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%229%22"
+      },
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 16735,
+        "title": "\"Patient education: Immune thrombocytopenia (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/16735"
+      },
+      {
+        "id": 152365,
+        "title": "daraxonrasib",
+        "url": "https://medilib.ir/uptodate/show/152365"
+      },
+      {
+        "id": 152219,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2210%22"
+      },
+      {
+        "id": 15493,
+        "title": "\"Patient education: Pancreatic cancer (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/15493"
+      },
+      {
+        "id": 854,
+        "title": "\"Patient education: Pancreatic cancer (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/854"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 152219,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2211%22"
+      },
+      {
+        "id": 126678,
+        "title": "\"Patient education: COVID-19 overview (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/126678"
+      },
+      {
+        "id": 152219,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2212%22"
+      },
+      {
+        "id": 151557,
+        "title": "\"Patient education: Hantavirus (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/151557"
+      },
+      {
+        "id": 151331,
+        "title": "\"Patient education: Tick bites (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/151331"
+      },
+      {
+        "id": 152219,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2213%22"
+      },
+      {
+        "id": 96684,
+        "title": "\"Patient education: Ebola (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/96684"
+      },
+      {
+        "id": 9610,
+        "title": "mepivacaine",
+        "url": "https://medilib.ir/uptodate/show/9610"
+      },
+      {
+        "id": 152219,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2214%22"
+      },
+      {
+        "id": 141006,
+        "title": "\"Patient education: IUD placement (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/141006"
+      },
+      {
+        "id": 152219,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2215%22"
+      },
+      {
+        "id": 85378,
+        "title": "\"Patient education: Exercise and activity during pregnancy (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/85378"
+      },
+      {
+        "id": 152219,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2216%22"
+      },
+      {
+        "id": 8401,
+        "title": "\"Patient education: Abnormal uterine bleeding (Beyond the Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/8401"
+      },
+      {
+        "id": 152219,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/152219#rid%2217%22"
+      },
+      {
+        "id": 142842,
+        "title": "\"Patient education: Screen time and online safety for children and teens (The Basics)\"",
+        "url": "https://medilib.ir/uptodate/show/142842"
+      }
+    ]
+  }
+}

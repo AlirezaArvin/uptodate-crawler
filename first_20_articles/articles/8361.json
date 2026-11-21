@@ -1,0 +1,1238 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8361"
+  },
+  "article": {
+    "id": 8361,
+    "expected_title": "What's new in oncology",
+    "url": "https://medilib.ir/uptodate/show/8361",
+    "final_url": "https://medilib.ir/uptodate/show/8361",
+    "page_title": "What's new in oncology",
+    "extracted_at": "2026-11-20T20:52:44.697Z",
+    "title_matches_expected": true,
+    "title": "What's new in oncology",
+    "contributors": {
+      "authors": [
+        "Sadhna R Vora, MD",
+        "Sonali M Shah, MD",
+        "Melinda Yushak, MD, MPH"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Oct 30, 2026",
+    "version": "Topic 8361 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "BREAST CANCER"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Anbenitamab plus HB1801 in HER2-positive metastatic breast cancer (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Studies are evaluating novel strategies for HER2-positive metastatic breast cancer, including the combination of anbenitamab, a HER2-targeted bispecific antibody, and albumin-bound docetaxel (HB1801). In a randomized trial in 885 patients with HER2-positive breast cancer, initial treatment for metastatic disease with anbenitamab and HB1801 improved 24-month progression-free survival relative to standard treatment with docetaxel, trastuzumab, and pertuzumab (59 versus 34 percent) [1]. Grade ≥3 adverse events occurred in 46 versus 34 percent of patients. We await longer-term outcomes and regulatory approval prior to use of anbenitamab/HB1801. (See \"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Other alternatives, irrespective of hormone receptor status'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit with ablation for oligometastases from breast cancer (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating the role of metastasis-directed therapy for patients with oligometastatic breast cancer. In a randomized trial in 125 patients with ≤4 metastases from breast cancer and ≤12 months of initial systemic therapy without progression, systemic therapy alone (no ablation) resulted in similar progression-free survival as metastasis-directed ablation using stereotactic body radiation therapy (23 months versus 19.5 months) [2]. There was a trend towards improved overall survival rates with systemic therapy alone that did not reach statistical significance (88 versus 78 percent at two years). Given these and prior data, for most asymptomatic patients with oligometastatic breast cancer, we administer systemic therapy alone, reserving local therapies for symptomatic metastases or those that threaten organ function (eg, in the central nervous system). (See \"The role of local therapies in metastatic breast cancer\", section on 'Selection of patients for local therapy to the metastasis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Giredestrant-everolimus in advanced breast cancer (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating therapies for patients with advanced breast cancer who have experienced progression on endocrine therapy plus a cyclin-dependent kinase 4/6 inhibitor. In a randomized trial in such patients, the combination of giredestrant-everolimus improved progression-free survival relative to standard endocrine therapy-everolimus, particularly among those whose tumors harbored ESR1 mutations (10.0 versus 5.5 months, in this subset) [3]. Although these results are promising, especially given that this represents an all-oral treatment strategy, this combination does not yet have regulatory approval or availability in the United States. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Gedatolisib in hormone receptor-positive, HER2-negative advanced breast cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with advanced hormone receptor-positive, HER2-negative PIK3CA wildtype cancers that have progressed on prior endocrine therapy, the pan-PI3K inhibitor gedatolisib has been approved by the US Food and Drug Administration in combination with fulvestrant, with or without palbociclib [4]. Approval is based on a randomized trial demonstrating progression free survival benefits with gedatolisib and fulvestrant (with or without palbociclib) relative to fulvestrant alone [5]. All patients in the trial had disease progression on a CDK 4/6 inhibitor (CDK 4/6i) and aromatase inhibitor (AI). We offer fulvestrant and gedatolisib to patients with cancers lacking mutations in the PI3K pathway with progression on CDK 4/6i/AI therapy. We add palbociclib if the patient previously tolerated CDK 4/6i and has not received palbociclib. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type, without mutations in the PI3K pathway'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Low-dose tamoxifen for noninvasive breast intraepithelial neoplasia (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The standard tamoxifen regimen for breast cancer risk reduction after noninvasive breast intraepithelial neoplasia is 20 mg daily for five years, although lower-dose strategies are being explored. In a patient-level analysis including 1545 patients enrolled in three studies, three years of tamoxifen 5 mg daily resulted in a 10-year absolute risk reduction of 11.2 percent compared with control (placebo or no therapy) [6]. The benefits may be diminished in premenopausal patients. This effect size is similar to that of full-dose tamoxifen, although the regimens have not been directly compared. We continue to suggest the 20 mg daily dose for five years, given the lack of direct comparisons, but 5 mg daily is a reasonable alternative for those unable to tolerate the higher dose, and a shorter duration appears to offer benefit compared with no treatment. (See \"Selective estrogen receptor modulators and aromatase inhibitors for breast cancer prevention\", section on 'Dose and duration'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant zoledronic acid dosing in breast cancer (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zoledronic acid 4 mg administered intravenously every six months for three to five years is a standard anticancer regimen for postmenopausal patients treated for early breast cancer with a moderate or high risk of distant recurrence, but less intensive dosing strategies are under investigation. In a randomized trial in 211 postmenopausal patients treated for early breast cancer assigned to either a single infusion of zoledronic acid 4 mg or an infusion every six months for three years, there were no statistically significant differences in recurrence free survival (89 versus 84 percent), bone metastasis free survival (91 versus 86 percent), and overall survival (92 versus 88 percent) after a follow up of five years [7]. Adverse events were also similar. Although these data are promising, given the limited number of events in this trial, we continue to use the standard dosing regimen until further studies are available. (See \"Osteoclast inhibitors as adjuvant anticancer therapy in early breast cancer\", section on 'Dosing and duration'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Datopotamab deruxtecan in advanced triple-negative breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration has granted regulatory approval for use of datopotamab deruxtecan in patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for programmed cell death protein-1 (PD-1)/programmed cell death ligand 1 (PD-L1) inhibitor therapy [8]. Approval is based on results of a randomized trial in which datopotamab deruxtecan improved both median progression-free survival (11 versus 5.6 months) and overall survival (24 versus 19 months) compared with investigator's choice of chemotherapy in such patients [9]. Treatment-related adverse events of grade ≥3 were reported in 33 versus 29 percent of patients. Based on these results, we now consider datopotamab deruxtecan to be an appropriate option for patients with TNBC whose tumors express low PD-L1 (combined positive score [CPS] <10) as well as those with contraindications to PD-1/PD-L1 inhibitors. (See \"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Trastuzumab deruxtecan as neoadjuvant therapy in HER2-positive breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration has granted approval for use of fam-trastuzumab deruxtecan (TDXd) followed by a taxane for the neoadjuvant treatment of adult patients with HER2-positive stage II or III breast cancer [10]. Approval is based on results from a randomized trial in such patients that demonstrated superior pathologic complete response rates among those assigned to the sequence of TDXd followed by paclitaxel, trastuzumab, and pertuzumab (THP) compared with those assigned to doxorubicin and cyclophosphamide followed by paclitaxel, trastuzumab, and pertuzumab (AC-THP; 67 versus 56 percent) [11]. The incidence of grade >3 toxicities was lower in the T-DXd-THP arm. Although we await longer-term outcomes with this strategy prior to routine use, we consider it to be an acceptable alternative to standard regimens in this setting. (See \"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Vepdegestrant in ESR1-mutated advanced breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vepdegestrant is an oral proteolysis targeting chimera (PROTAC) estrogen receptor (ER) degrader that utilizes the ubiquitin-proteosome system and has gained regulatory approval in the United States for ER-positive, HER2-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer that has progressed following at least one line of endocrine therapy [12]. In a randomized trial, among 270 such patients who had received one to two prior lines of endocrine therapy and a prior cyclin-dependent kinase 4/6 inhibitor, median progression-free survival was 5 months with vepdegestrant and 2.1 months with fulvestrant. The most common adverse events (any grade) in the vepdegestrant group were fatigue (27 percent), increased liver function tests, and nausea. We consider vepdegestrant to be one of several appropriate options in this setting. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ovarian function suppression in premenopausal breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The addition of ovarian function suppression (OFS) to either an aromatase inhibitor (AI) or tamoxifen is a well-studied option for premenopausal females with hormone receptor-positive breast cancer. In a meta-analysis of 23 randomized trials in 15,075 premenopausal patients <55 years with estrogen receptor (ER)-positive or ER-unknown tumors, OFS reduced breast cancer recurrence rate compared with no OFS (rate ratio [RR] 0.82), with improvements in breast cancer mortality in those younger than 45 years (RR 0.74) [13]. Given toxicities associated with OFS (eg, menopausal symptoms and loss of bone mineral density), we continue to recommend its use with either tamoxifen or an AI for premenopausal patients with hormone receptor-positive disease at higher risk of recurrence, but tamoxifen alone for those at low or average risk. (See \"Adjuvant endocrine therapy for premenopausal females with hormone receptor-positive breast cancer\", section on 'Rationale for OFS'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GASTROINTESTINAL CANCER"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lirafugratinib for FGFR2-fusion positive metastatic cholangiocarcinoma (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lirafugratinib, an oral FGFR2 tyrosine kinase inhibitor, was approved by the United States Food and Drug Administration (FDA) for the treatment of adults with previously treated, unresectable, locally advanced or metastatic cholangiocarcinoma harboring an FGFR2 fusion or other rearrangements [14]. This approval was based on a phase II trial of over 100 such patients, in which lirafugratinib demonstrated an objective response rate of 46 percent and was well-tolerated [15]. For patients with advanced unresectable or metastatic FGFR2-fusion positive cholangiocarcinoma who progress on multiple lines of systemic therapy, we consider lirafugratinib to be an appropriate option. (See \"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Lirafugratinib'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Low-dose aspirin for preventing Lynch syndrome-associated cancers (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether low-dose aspirin lowers the risk of Lynch syndrome-associated cancers is uncertain. In a trial comparing 100 mg with 600 mg aspirin daily in nearly 1900 patients with Lynch syndrome, there were no significant differences in Lynch syndrome-related cancer burden or in the time-to-first Lynch syndrome-associated cancer between groups after at least two years [16]. Low-dose aspirin resulted in lower rates of adverse events overall (25 versus 31 percent) and serious bleeding (0 versus 11 percent). These data support our practice of using low-dose aspirin for chemoprevention in patients with Lynch syndrome who are carriers of MLH1, MSH2, MSH6, or EPCAM pathogenic variants. (See \"Lynch syndrome (hereditary nonpolyposis colorectal cancer): Cancer screening and management\", section on 'Chemoprevention with aspirin'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lack of overall survival benefit for adagrasib plus cetuximab in KRAS G12C-mutant metastatic colorectal cancer (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Adagrasib, an irreversible inhibitor of KRAS G12C, previously showed favorable response rates in patients with KRAS G12C-mutant metastatic colorectal cancer (mCRC) who received prior treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based therapy [17,18], initially leading to accelerated approval by the US Food and Drug Administration (FDA). However, in a subsequent phase III trial of over 400 such patients, adagrasib plus cetuximab did not improve overall survival (median 22 months each) compared with chemotherapy with or without a vascular endothelial growth factor (VEGF) inhibitor [19]. Based on these data, FDA approval was withdrawn for adagrasib in combination with cetuximab for patients with treatment-refractory KRAS G12C-mutant mCRC [14]. (See \"Second- and later-line systemic therapy for metastatic colorectal cancer\", section on 'Other agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tremelimumab plus durvalumab and TACE in unresectable localized hepatocellular carcinoma (July 2026, Modified September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with previously untreated, unresectable hepatocellular carcinoma (HCC) and no distant metastases, studies are evaluating the addition of combination immunotherapy to transarterial chemoembolization (TACE). In a randomized trial that included almost 500 such patients, the addition of tremelimumab plus durvalumab to TACE improved two-year progression-free survival (PFS; 30 versus 20 percent) and overall survival (OS; 65 versus 58 percent), with an acceptable toxicity profile [20]. For patients with previously untreated, unresectable, localized HCC, the addition of tremelimumab plus durvalumab to TACE remains investigational. (See \"Localized hepatocellular carcinoma: Liver-directed therapies for nonsurgical candidates not eligible for local thermal ablation\", section on 'Tremelimumab plus durvalumab plus TACE'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit for continuation of immunotherapy after progression in metastatic hepatocellular carcinoma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with advanced unresectable or metastatic hepatocellular carcinoma (HCC) who progress on an immunotherapy-based regimen, lenvatinib is preferred as second-line therapy; trials are evaluating whether continuing immunotherapy with lenvatinib improves outcomes. In a randomized trial of approximately 560 patients with locally advanced or metastatic HCC who progressed on atezolizumab plus bevacizumab, the addition of atezolizumab to an antiangiogenic agent (lenvatinib received in 92 percent) did not confer an additional overall survival advantage (median 15 versus 13 months) [21]. Based on these data, for patients with advanced unresectable or metastatic HCC who progress on an immunotherapy-based regimen, we continue to suggest second-line therapy with lenvatinib alone. (See \"Systemic treatment for advanced unresectable and metastatic hepatocellular carcinoma\", section on 'Lenvatinib'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GENITOURINARY ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pembrolizumab and olaparib in BRCA non-mutated ovarian cancer (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating the role of PARP and immune checkpoint inhibitors in patients with advanced BRCA non-mutated epithelial ovarian cancer (EOC). In a randomized trial in nearly 1400 such patients, the addition of pembrolizumab to chemotherapy followed by pembrolizumab and olaparib maintenance improved progression-free survival compared with chemotherapy alone (control; hazard ratio 0.68); however, benefits were not seen with the addition of pembrolizumab followed by pembrolizumab maintenance [22]. Serious treatment-related adverse events were reported in 24 percent of those in the pembrolizumab-olaparib group, 21 percent in the pembrolizumab group, and 9 percent in the control group. Although provocative, these findings do not change our approach to non-BRCA-mutated ovarian cancer given the lack of survival outcomes, toxicity profile, and uncertain contribution of pembrolizumab to the observed benefits. (See \"First-line chemotherapy for advanced (stage III or IV) epithelial ovarian, fallopian tube, and peritoneal cancer\", section on 'Incorporation of angiogenesis inhibitors or immune checkpoint inhibitors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant pembrolizumab in resected clear cell renal cell carcinoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with resected clear cell renal cell carcinoma (RCC), adjuvant pembrolizumab is a standard treatment option, but long-term data on survival were previously limited. In extended follow-up of a randomized trial of almost 1000 patients with clear cell RCC treated with nephrectomy, one year of adjuvant pembrolizumab continued to improve five-year disease-free survival (61 versus 52 percent) and overall survival (88 versus 82 percent) relative to placebo [23]. For patients with resected RCC at intermediate-high or high risk of disease recurrence, we continue to suggest adjuvant pembrolizumab. (See \"Overview of the treatment of renal cell carcinoma\", section on 'Pembrolizumab'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant atezolizumab for high-risk, muscle-invasive bladder cancer (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) approved atezolizumab as adjuvant therapy for adults with muscle-invasive bladder cancer after cystectomy who have circulating tumor deoxyribonucleic acid (ctDNA) molecular residual disease, as determined by an FDA-authorized test [14]. This approval is based on a randomized trial of 250 patients with high-risk, muscle-invasive urothelial carcinoma of the bladder who underwent cystectomy and tested positive for ctDNA during postoperative surveillance, in whom one year of adjuvant atezolizumab improved disease-free survival (median 10 versus 5 months) and overall survival (median 33 versus 21 months) compared with placebo [24]. Based on these data, for patients with high-risk, muscle-invasive urothelial carcinoma of the bladder following cystectomy whose initial postoperative ctDNA test is positive, we now suggest one year of adjuvant atezolizumab. (See \"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [14]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [25]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GYNECOLOGIC ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sacituzumab tirumotecan in previously treated endometrial cancer (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating novel strategies for patients with advanced endometrial cancer previously treated with platinum-based chemotherapy and immunotherapy. A randomized trial among 776 such patients evaluated the novel antibody drug conjugate sacituzumab tirumotecan (sac-TMT), a trophoblast cell-surface antigen 2-directed antibody-drug conjugate with a bifunctional linker and a topoisomerase I inhibitor payload [26]. Sac-TMT improved median progression-free survival relative to physician's choice of chemotherapy (7.2 versus 3.9 months). Median overall survival was also better (19 versus 12 months), while serious adverse events were similar. We await regulatory approval prior to incorporating sac-TMT into treatment for endometrial cancer. (See \"Subsequent-line systemic therapy for metastatic endometrial cancer\", section on 'Prior chemotherapy and immunotherapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pembrolizumab monotherapy for mismatch repair deficient endometrial cancer (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While pembrolizumab plus chemotherapy is a standard regimen for patients with advanced endometrial cancer receiving initial treatment, chemotherapy-free options are under investigation. In a randomized trial in 299 such patients with mismatch repair deficient (dMMR) cancers, pembrolizumab improved progression-free survival over chemotherapy (38 versus 8.4 months) [27]. Grade ≥3 events were lower in the pembrolizumab group (18 versus 51 percent). Although we consider pembrolizumab monotherapy for patients with dMMR endometrial cancers who are poor candidates for chemotherapy, we continue to incorporate chemotherapy with immunotherapy for most patients, given that pembrolizumab monotherapy has not been compared with chemoimmunotherapy. (See \"Initial treatment of metastatic endometrial cancer\", section on 'MMR deficient tumors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "MELANOMA AND OTHER SKIN CANCER"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nivolumab plus oderparepvec in patients with unresectable melanoma (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The combination of nivolumab plus vusolimogene oderparepvec, an oncolytic viral therapy, has been granted accelerated approval by the US Food and Drug Administration for patients with unresectable melanoma who have progressed on programmed death-1 (PD-1) inhibitors [28]. In the study supporting its approval, vusolimogene oderparepvec was administered intratumorally for up to eight doses in combination with nivolumab, which was given for up to two years [29]. The overall response rate was 33 percent with a median response duration of 34 months. For patients with unresectable melanoma who have progressed on a PD-1 inhibitor and have lesions that are accessible for intratumoral injection, the combination of nivolumab plus vusolimogene oderparepvec represents a new treatment option. Our incorporation of this strategy depends on BRAF mutation status and extent of disease. (See \"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\" and \"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant therapy with intisimeran autogene plus pembrolizumab in cutaneous melanoma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Intisimeran autogene is a novel messenger ribonucleic acid (mRNA)-based individualized neoantigen therapy (vaccine) under investigation as an adjuvant therapy for cutaneous melanoma. In a randomized trial including 157 patients with stage IIIB to IV completely resected melanoma, intisimeran autogene plus pembrolizumab versus pembrolizumab alone improved both recurrence-free survival (72 versus 49 percent) and distant metastasis-free survival (84 versus 65 percent) after four years [30]. Grade ≥3 treatment-related adverse events occurred in 25 versus 14 percent of patients. Although these data are promising, intisimeran autogene does not yet have regulatory approval and is not available outside of clinical trials. (See \"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEUROONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tile-based radiation therapy for resected brain metastases (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Studies are evaluating alternatives to stereotactic radiation therapy (SRS) after resection of a brain metastasis. In a randomized trial, patients with resected brain metastases were assigned to tile-based radiation therapy (TBRT) or SRS [31]. TBRT implants cesium-131 collagen tiles into the postoperative bed after surgical resection of the tumor and begins delivering radiation immediately. Among 230 patients with a median follow-up of 12.9 months, the time to surgical bed recurrence was not reached in the TBRT arm compared with 17.4 months in the SRS arm (HR 0.06). Grade ≥3 treatment-related adverse events were similar in both groups. While TBRT appears promising, a longer follow-up is needed. (See \"Overview of the treatment of brain metastases\", section on 'Postoperative radiation therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant radiation therapy for completely resected atypical meningioma (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with atypical (WHO grade 2) meningioma who undergo a complete resection, studies are evaluating the role of adjuvant radiation therapy (RT) to reduce the risk of recurrence. In a randomized trial of approximately 160 patients with newly diagnosed resected atypical meningioma, adjuvant RT delivered to a dose of 60 Gy in 30 fractions improved recurrence rates (14 versus 30 percent) and five-year disease-free survival (80 versus 64 percent) compared with observation, but increased toxicities (most commonly hair loss, fatigue, and headache) [32]. For most patients with atypical meningioma who undergo complete resection, we suggest adjuvant RT. However, observation remains an appropriate alternative for patients who lack high-risk clinicopathologic features, those at increased risk of complications from RT, or those who prefer to avoid the risk of RT toxicity. (See \"Management of atypical and malignant (WHO grade 2 and 3) meningioma\", section on 'Completely resected tumors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Autologous transplantation for primary central nervous system lymphoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The choice of autologous hematopoietic cell transplantation (HCT) versus non-myeloablative chemotherapy for preventing relapse of primary central nervous system lymphoma (PCNSL) has been controversial because their relative benefits and toxicities were unproven. A recent trial of 230 transplant-eligible patients with PCNSL reported that, compared with non-myeloablative chemotherapy, autologous HCT improved three-year survival (86 versus 71 percent) and reduced relapses (19 versus 45 percent) with a trend toward improved quality of life [33]. Toxicities were greater with autologous HCT, including more infections (53 versus 14 percent) and treatment-related deaths (five versus two). Outcomes of this trial support our suggestion for autologous HCT in transplant-eligible patients with PCNSL. (See \"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PALLIATIVE AND SUPPORTIVE CARE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Decreasing futile radiation therapy near the end of life (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Studies are evaluating strategies to decrease futile radiation therapy (RT) for patients near the end of life. In a retrospective analysis of 450 hospitalized patients with metastatic cancer who died within 14 days of consultation for RT, consultation after, compared with prior to, the implementation of an inpatient radiation oncology service was associated with decreased rates of RT administration (20 versus 32 percent), decreased incomplete RT courses (10 versus 18 percent), and decreased inpatient mortality among patients who received RT (14 versus 24 percent) [34]. These findings support the role of a dedicated inpatient radiation oncology team to help reduce futile RT for patients near the end of life. (See \"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "THORACIC ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Divarasib in KRAS G12C-mutated advanced NSCLC (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Novel agents are under investigation for KRAS G12C-mutated advanced non-small cell lung cancer (NSCLC), including divarasib, a next-generation oral KRAS G12C inhibitor. In a randomized trial of 338 patients with previously treated KRAS G12C-mutated advanced NSCLC, divarasib versus control (sotorasib or adagrasib) improved progression-free survival (9.8 versus 5.7 months) as well as overall survival (18 versus 12 months) [35]. Objective response rates were 58 versus 32 percent. Fewer grade ≥3 events occurred with divarasib (25 versus 35 percent). We await regulatory approval prior to use of divarasib outside of a clinical trial. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'Other agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Osimertinib-savolitinib in advanced EGFR-positive NSCLC with MET abnormalities (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with advanced EGFR-positive non-small cell lung cancer (NSCLC) progressive on a tyrosine kinase inhibitor, MET amplification or overexpression is a frequent resistance mechanism. In a randomized trial including 338 such patients with MET amplification and/or overexpression, osimertinib plus the MET inhibitor savolitinib versus platinum-pemetrexed improved both median progression-free survival (7.6 versus 5.4 months) and overall survival (18 versus 13 months) [36]. The most frequently reported adverse events with osimertinib–savolitinib were peripheral edema (49 percent), anemia (26 percent), and diarrhea (26 percent). Grade ≥3 adverse events were similar between the two groups (64 and 63 percent). We await regulatory approval prior to use of savolitinib. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Actionable driver present'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Novel antibody drug conjugates for EGFR-positive advanced NSCLC (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Novel antibody drug conjugates (ADCs) are being evaluated in randomized trials for advanced EGFR-positive non-small cell lung cancer (NSCLC) progressive on a prior tyrosine kinase inhibitor:"
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among 498 patients, the HER3-directed ADC ruzaltatug rezetecan improved progression-free survival (PFS) relative to chemotherapy (8.3 versus 5.4 months), with similar rates of grade ≥3 adverse events (41 versus 39 percent) [37]."
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among 432 patients, izalontamab brengitecan (iza-bren) improved PFS (11.1 versus 5.7 months) relative to chemotherapy, with grade ≥3 adverse events of 79 versus 62 percent [38]. Iza-bren is a bispecific antibody-drug conjugate targeting both EGFR and HER3."
+      },
+      {
+        "type": "paragraph",
+        "text": "While results are promising, these agents remain investigational at this time. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Investigational strategies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tambotatug pelitecan in small cell lung cancer (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tambotatug pelitecan, an antibody drug conjugate that targets the immune-checkpoint molecule B7-H3, is under investigation for the treatment of advanced small cell lung cancer (SCLC). In a randomized trial of 451 patients with SCLC who had experienced progression after first-line platinum-based therapy, tambotatug pelitecan improved overall survival relative to topotecan (13.3 versus 9.4 months) [39]. Progression-free survival (7.4 versus 2.8 months) and objective response rates (59 versus 9.7 percent) were also better with tambotatug pelitecan, while grade ≥3 adverse events were less frequent (55 versus 78 percent). We await regulatory approval prior to use of this agent in advanced SCLC. (See \"Treatment of refractory and relapsed small cell lung cancer\", section on 'Other options'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No role for immune checkpoint inhibitors with SBRT for early NSCLC (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating the role of immune checkpoint inhibitors with stereotactic body radiation therapy (SBRT) in early non-small cell lung cancer (NSCLC) that is not amenable to surgery. In a randomized trial of 417 patients who had T1-T3N0M0 NSCLC ≤7 cm, were medically inoperable or declined surgery, and had at least one risk factor for recurrence, the addition of atezolizumab to SBRT did not improve overall survival (82 percent in both groups) [40]. Grade 3 or higher adverse events occurred in 12 percent in the atezolizumab/SBRT group and 3 percent in the group that received SBRT alone. Pending further data, we do not incorporate immune checkpoint inhibitors for patients receiving SBRT for early NSCLC. (See \"Management of stage I and stage II non-small cell lung cancer\", section on 'Stereotactic body radiation therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Daraxonrasib in previously treated RAS-mutant NSCLC (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Daraxonrasib (RMC-6236) is an orally bioavailable noncovalent RAS(ON) multiselective inhibitor of active GTP-bound mutant and wild-type RAS protein isoforms that has recently shown benefit in pancreatic cancer. In a dose escalation and expansion study of 136 patients with previously treated metastatic RAS mutant non-small cell lung cancer (NSCLC), daraxonrasib showed antitumor activity in more than 30 percent [41]. Adverse events of grade 3 or higher were reported in over half of patients and most commonly included pneumonia, diarrhea, rash, and anemia. We offer off-label daraxonrasib as a later-line option for patients with previously treated KRAS-mutant NSCLC, particularly those with non-KRAS G12C, given limited targeted therapy treatment options in this population. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Chemotherapy with osimertinib in advanced EGFR-positive NSCLC (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Adding chemotherapy to osimertinib has been shown to improve survival in patients with epidermal growth factor receptor (EGFR)-positive advanced non-small cell lung cancer (NSCLC); studies are evaluating subsets most likely to benefit from this intensified regimen. In a randomized trial conducted in patients whose tumors harbored concurrent TP53 and EGFR-mutations, the addition of chemotherapy to osimertinib improved median progression-free survival (34 versus 16 months), with a trend toward improved overall survival [42]. Chemotherapy with osimertinib remains one of our preferred regimens for EGFR-positive advanced NSCLC, including in patients whose tumors harbor concurrent TP53 mutations. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Osimertinib with chemotherapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Durvalumab and radiation for inoperable, locally advanced NSCLC (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with inoperable locally advanced non-small cell lung cancer (NSCLC), standard therapy consists of chemotherapy and radiation therapy (RT) followed by the immune checkpoint inhibitor durvalumab; however, not all patients are candidates for chemotherapy. In a multicenter, single arm study, among 58 such patients with a median age 82 years, treatment with conventional RT plus concurrent and consolidative durvalumab was associated with a two-year progression-free survival of 39 percent and overall survival of 54 percent, which was better than historical controls [43]. We consider radiation and durvalumab to be an acceptable alternative for patients with inoperable locally advanced NSCLC who are poor candidates for chemotherapy. (See \"Management of stage III non-small cell lung cancer\", section on 'Poor performance status'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Zidesamtinib in ROS1-positive non-small cell lung cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The tyrosine kinase inhibitor (TKI) zidesamtinib has received US Food and Drug Administration approval for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC) who have received a prior TKI [44]. In the study supporting its approval, among 117 patients with previously treated locally advanced or metastatic ROS1-positive NSCLC, the response rate was 44 percent; in the subset treated with at least two prior ROS1 TKIs, the response rate was 38 percent. For patients with prior treatment with a ROS1 TKI for ROS1-positive NSCLC, we now suggest zidesamtinib. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lung transplant in medically refractory lung-limited advanced NSCLC (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with stage IV non-small cell lung cancer (NSCLC) that is limited to the lungs but refractory to medical treatment, studies are evaluating lung transplant. Among 98 such patients included in a single-center registry study, 17 patients underwent lung transplant while 81 patients met eligibility criteria but did not undergo transplant due to nonbiologic barriers (logistical, financial, or geographic) [45]. The estimated one-year survival was 100 percent among lung transplant recipients versus 41 percent among those who did not receive transplant. While promising, further data are needed to confirm these findings prior to routine use of lung transplant in medically refractory advanced NSCLC. (See \"Later-line management in non-small cell lung cancer lacking an actionable genetic alteration\", section on 'Refractory lung-limited disease'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ivonescimab plus chemotherapy in EGFR-positive advanced NSCLC (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A randomized trial in patients with EGFR-mutant advanced non-small cell lung cancer previously demonstrated that the addition of ivonescimab, a bispecific antibody targeting programmed death 1 and vascular endothelial growth factor, to chemotherapy improved progression-free survival. With a longer follow-up of 33 months, ivonescimab plus chemotherapy also improved median overall survival compared with chemotherapy alone (16.8 versus 14.1 months) [46,47]. Ivonescimab is under review by the US Food and Drug Administration but does not yet have regulatory approval. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Investigational strategies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Checkpoint inhibitor with or without chemotherapy in PD-L1-high NSCLC (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with programmed death-ligand 1 (PD-L1)-high (≥50 percent expression) non-small cell lung cancer (NSCLC), trials have not directly compared the combination of a checkpoint inhibitor and chemotherapy versus a checkpoint inhibitor alone. In a meta-analysis of 24 randomized trials evaluating either of these strategies against other interventions, indirect comparisons suggest overall survival benefits with the checkpoint inhibitor-chemotherapy combination versus a checkpoint inhibitor alone (29 versus 20 months), as well as longer progression-free survival (11 versus 7 months) [48]. For patients with PD-L1-high NSCLCs that are rapidly progressive, symptomatic, or have a high tumor burden, we suggest combining a checkpoint inhibitor with chemotherapy; however, we consider either this combination or a checkpoint inhibitor alone to be acceptable for those with less aggressive disease. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Choosing between checkpoint inhibitor monotherapy and chemoimmunotherapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ivonescimab in advanced squamous NSCLC (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are investigating novel agents for advanced squamous non-small cell lung cancer (NSCLC). In a randomized trial in 532 patients with such cancers, the combination of chemotherapy and ivonescimab, an investigational bispecific antibody targeting programmed cell death protein 1 (PD-1) and vascular endothelial growth factor (VEGF), improved progression-free survival relative to chemotherapy and the anti-PD-1 antibody tislelizumab. Now, with longer follow-up of 21 months, the median overall survival was also improved (27.9 versus 24 months) [49]. We await regulatory approval of ivonescimab prior to incorporating it into treatment paradigms for advanced squamous NSCLC. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Investigational strategies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sacituzumab tirumotecan for advanced NSCLC (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating novel agents for advanced non-small cell lung cancer (NSCLC), including the antibody-drug conjugate sacituzumab tirumotecan. In two randomized trials, the combination of sacituzumab tirumotecan plus pembrolizumab resulted in progression-free survival benefits among patients with programmed death-ligand 1 (PD-L1) positive cancers (median not reached versus 5.7 months, HR 0.35) and PD-L1 negative cancers (median 15 versus 5.7 months, HR 0.49) [50,51]. We await further data and regulatory approval prior to use of sacituzumab tirumotecan and pembrolizumab in advanced NSCLC. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Investigational strategies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant selpercatinib in RET-positive NSCLC (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are investigating adjuvant systemic therapies following resection of non-small cell lung cancers (NSCLC) that have a targetable genetic driver mutation. In a randomized trial in 151 patients with resected stage IB to IIIA RET-positive NSCLC, adjuvant selpercatinib improved two-year event-free survival relative to placebo (94 versus 70 percent) [52]. Three deaths occurred, all in the placebo group, and were due to disease progression. The most common grade ≥3 adverse events with selpercatinib were increased alanine aminotransferase (17 percent) and aspartate aminotransferase (19 percent). For patients with completely resected, RET-positive stage IB to IIIA NSCLC, we now suggest adjuvant selpercatinib to be continued until progression or unacceptable toxicity for up to three years. (See \"Systemic therapy in resectable non-small cell lung cancer\", section on 'RET-positive cancers'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sunvozertinib for advanced NSCLC with EGFR exon 20 insertions (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trials are evaluating novel strategies for patients with advanced nonsquamous non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertions. In a randomized trial in 324 such patients, sunvozertinib increased median progression-free survival relative to chemotherapy (10.3 versus 7.5 months) [53]. Data for overall survival are immature. Grade ≥3 adverse events were reported in 76 versus 57 percent, with the most common among those assigned to sunvozertinib being increased serum creatine kinase levels (21 percent), diarrhea (14 percent), and anemia (9.2 percent). Although these data are promising, sunvozertinib does not yet have regulatory approval in the United States for treatment-naive patients. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'For treatment-naïve disease'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Taletrectinib in advanced ROS1-positive non-small cell lung cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A single-arm study previously suggested efficacy of the ROS1 tyrosine kinase inhibitor (TKI) taletrectinib in patients with ROS1-positive advanced non-small cell lung cancer (NSCLC), but survival outcomes were immature. Now, with longer follow-up (median 51 months), median overall survival was not reached among TKI-naïve patients and was 26 months among TKI-pretreated patients [54]. For patients with advanced ROS1-positive NSCLC, taletrectinib is one of our preferred treatments. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rasburicase for tumor lysis syndrome (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rasburicase is more effective than allopurinol for controlling hyperuricemia from tumor lysis syndrome (TLS), but it has not been proven to reduce kidney injury or death. In a retrospective study of over 1200 adults with various cancers, rasburicase administration within 12 hours of TLS onset, compared with delayed or no rasburicase, was associated with a lower risk of acute kidney injury requiring kidney replacement therapy or death (33 versus 42 percent), as well as lower 90-day mortality (46 versus 54 percent) [55]. Adverse events occurred in only three total patients, including rasburicase-associated hemolytic anemia and methemoglobinemia each in one patient. This study provides evidence that prompt administration of rasburicase improves clinically important outcomes in patients with TLS and further supports our use of this agent for TLS prevention and treatment. (See \"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nBREAST CANCER\n\nAnbenitamab plus HB1801 in HER2-positive metastatic breast cancer (October 2026)\n\nStudies are evaluating novel strategies for HER2-positive metastatic breast cancer, including the combination of anbenitamab, a HER2-targeted bispecific antibody, and albumin-bound docetaxel (HB1801). In a randomized trial in 885 patients with HER2-positive breast cancer, initial treatment for metastatic disease with anbenitamab and HB1801 improved 24-month progression-free survival relative to standard treatment with docetaxel, trastuzumab, and pertuzumab (59 versus 34 percent) [1]. Grade ≥3 adverse events occurred in 46 versus 34 percent of patients. We await longer-term outcomes and regulatory approval prior to use of anbenitamab/HB1801. (See \"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Other alternatives, irrespective of hormone receptor status'.)\n\nNo benefit with ablation for oligometastases from breast cancer (October 2026)\n\nTrials are evaluating the role of metastasis-directed therapy for patients with oligometastatic breast cancer. In a randomized trial in 125 patients with ≤4 metastases from breast cancer and ≤12 months of initial systemic therapy without progression, systemic therapy alone (no ablation) resulted in similar progression-free survival as metastasis-directed ablation using stereotactic body radiation therapy (23 months versus 19.5 months) [2]. There was a trend towards improved overall survival rates with systemic therapy alone that did not reach statistical significance (88 versus 78 percent at two years). Given these and prior data, for most asymptomatic patients with oligometastatic breast cancer, we administer systemic therapy alone, reserving local therapies for symptomatic metastases or those that threaten organ function (eg, in the central nervous system). (See \"The role of local therapies in metastatic breast cancer\", section on 'Selection of patients for local therapy to the metastasis'.)\n\nGiredestrant-everolimus in advanced breast cancer (October 2026)\n\nTrials are evaluating therapies for patients with advanced breast cancer who have experienced progression on endocrine therapy plus a cyclin-dependent kinase 4/6 inhibitor. In a randomized trial in such patients, the combination of giredestrant-everolimus improved progression-free survival relative to standard endocrine therapy-everolimus, particularly among those whose tumors harbored ESR1 mutations (10.0 versus 5.5 months, in this subset) [3]. Although these results are promising, especially given that this represents an all-oral treatment strategy, this combination does not yet have regulatory approval or availability in the United States. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)\n\nGedatolisib in hormone receptor-positive, HER2-negative advanced breast cancer (July 2026)\n\nFor patients with advanced hormone receptor-positive, HER2-negative PIK3CA wildtype cancers that have progressed on prior endocrine therapy, the pan-PI3K inhibitor gedatolisib has been approved by the US Food and Drug Administration in combination with fulvestrant, with or without palbociclib [4]. Approval is based on a randomized trial demonstrating progression free survival benefits with gedatolisib and fulvestrant (with or without palbociclib) relative to fulvestrant alone [5]. All patients in the trial had disease progression on a CDK 4/6 inhibitor (CDK 4/6i) and aromatase inhibitor (AI). We offer fulvestrant and gedatolisib to patients with cancers lacking mutations in the PI3K pathway with progression on CDK 4/6i/AI therapy. We add palbociclib if the patient previously tolerated CDK 4/6i and has not received palbociclib. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type, without mutations in the PI3K pathway'.)\n\nLow-dose tamoxifen for noninvasive breast intraepithelial neoplasia (June 2026)\n\nThe standard tamoxifen regimen for breast cancer risk reduction after noninvasive breast intraepithelial neoplasia is 20 mg daily for five years, although lower-dose strategies are being explored. In a patient-level analysis including 1545 patients enrolled in three studies, three years of tamoxifen 5 mg daily resulted in a 10-year absolute risk reduction of 11.2 percent compared with control (placebo or no therapy) [6]. The benefits may be diminished in premenopausal patients. This effect size is similar to that of full-dose tamoxifen, although the regimens have not been directly compared. We continue to suggest the 20 mg daily dose for five years, given the lack of direct comparisons, but 5 mg daily is a reasonable alternative for those unable to tolerate the higher dose, and a shorter duration appears to offer benefit compared with no treatment. (See \"Selective estrogen receptor modulators and aromatase inhibitors for breast cancer prevention\", section on 'Dose and duration'.)\n\nAdjuvant zoledronic acid dosing in breast cancer (June 2026)\n\nZoledronic acid 4 mg administered intravenously every six months for three to five years is a standard anticancer regimen for postmenopausal patients treated for early breast cancer with a moderate or high risk of distant recurrence, but less intensive dosing strategies are under investigation. In a randomized trial in 211 postmenopausal patients treated for early breast cancer assigned to either a single infusion of zoledronic acid 4 mg or an infusion every six months for three years, there were no statistically significant differences in recurrence free survival (89 versus 84 percent), bone metastasis free survival (91 versus 86 percent), and overall survival (92 versus 88 percent) after a follow up of five years [7]. Adverse events were also similar. Although these data are promising, given the limited number of events in this trial, we continue to use the standard dosing regimen until further studies are available. (See \"Osteoclast inhibitors as adjuvant anticancer therapy in early breast cancer\", section on 'Dosing and duration'.)\n\nDatopotamab deruxtecan in advanced triple-negative breast cancer (May 2026)\n\nThe US Food and Drug Administration has granted regulatory approval for use of datopotamab deruxtecan in patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for programmed cell death protein-1 (PD-1)/programmed cell death ligand 1 (PD-L1) inhibitor therapy [8]. Approval is based on results of a randomized trial in which datopotamab deruxtecan improved both median progression-free survival (11 versus 5.6 months) and overall survival (24 versus 19 months) compared with investigator's choice of chemotherapy in such patients [9]. Treatment-related adverse events of grade ≥3 were reported in 33 versus 29 percent of patients. Based on these results, we now consider datopotamab deruxtecan to be an appropriate option for patients with TNBC whose tumors express low PD-L1 (combined positive score [CPS] <10) as well as those with contraindications to PD-1/PD-L1 inhibitors. (See \"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'.)\n\nTrastuzumab deruxtecan as neoadjuvant therapy in HER2-positive breast cancer (May 2026)\n\nThe US Food and Drug Administration has granted approval for use of fam-trastuzumab deruxtecan (TDXd) followed by a taxane for the neoadjuvant treatment of adult patients with HER2-positive stage II or III breast cancer [10]. Approval is based on results from a randomized trial in such patients that demonstrated superior pathologic complete response rates among those assigned to the sequence of TDXd followed by paclitaxel, trastuzumab, and pertuzumab (THP) compared with those assigned to doxorubicin and cyclophosphamide followed by paclitaxel, trastuzumab, and pertuzumab (AC-THP; 67 versus 56 percent) [11]. The incidence of grade >3 toxicities was lower in the T-DXd-THP arm. Although we await longer-term outcomes with this strategy prior to routine use, we consider it to be an acceptable alternative to standard regimens in this setting. (See \"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'.)\n\nVepdegestrant in ESR1-mutated advanced breast cancer (May 2026)\n\nVepdegestrant is an oral proteolysis targeting chimera (PROTAC) estrogen receptor (ER) degrader that utilizes the ubiquitin-proteosome system and has gained regulatory approval in the United States for ER-positive, HER2-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer that has progressed following at least one line of endocrine therapy [12]. In a randomized trial, among 270 such patients who had received one to two prior lines of endocrine therapy and a prior cyclin-dependent kinase 4/6 inhibitor, median progression-free survival was 5 months with vepdegestrant and 2.1 months with fulvestrant. The most common adverse events (any grade) in the vepdegestrant group were fatigue (27 percent), increased liver function tests, and nausea. We consider vepdegestrant to be one of several appropriate options in this setting. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)\n\nOvarian function suppression in premenopausal breast cancer (May 2026)\n\nThe addition of ovarian function suppression (OFS) to either an aromatase inhibitor (AI) or tamoxifen is a well-studied option for premenopausal females with hormone receptor-positive breast cancer. In a meta-analysis of 23 randomized trials in 15,075 premenopausal patients <55 years with estrogen receptor (ER)-positive or ER-unknown tumors, OFS reduced breast cancer recurrence rate compared with no OFS (rate ratio [RR] 0.82), with improvements in breast cancer mortality in those younger than 45 years (RR 0.74) [13]. Given toxicities associated with OFS (eg, menopausal symptoms and loss of bone mineral density), we continue to recommend its use with either tamoxifen or an AI for premenopausal patients with hormone receptor-positive disease at higher risk of recurrence, but tamoxifen alone for those at low or average risk. (See \"Adjuvant endocrine therapy for premenopausal females with hormone receptor-positive breast cancer\", section on 'Rationale for OFS'.)\n\nGASTROINTESTINAL CANCER\n\nLirafugratinib for FGFR2-fusion positive metastatic cholangiocarcinoma (October 2026)\n\nLirafugratinib, an oral FGFR2 tyrosine kinase inhibitor, was approved by the United States Food and Drug Administration (FDA) for the treatment of adults with previously treated, unresectable, locally advanced or metastatic cholangiocarcinoma harboring an FGFR2 fusion or other rearrangements [14]. This approval was based on a phase II trial of over 100 such patients, in which lirafugratinib demonstrated an objective response rate of 46 percent and was well-tolerated [15]. For patients with advanced unresectable or metastatic FGFR2-fusion positive cholangiocarcinoma who progress on multiple lines of systemic therapy, we consider lirafugratinib to be an appropriate option. (See \"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Lirafugratinib'.)\n\nLow-dose aspirin for preventing Lynch syndrome-associated cancers (September 2026)\n\nWhether low-dose aspirin lowers the risk of Lynch syndrome-associated cancers is uncertain. In a trial comparing 100 mg with 600 mg aspirin daily in nearly 1900 patients with Lynch syndrome, there were no significant differences in Lynch syndrome-related cancer burden or in the time-to-first Lynch syndrome-associated cancer between groups after at least two years [16]. Low-dose aspirin resulted in lower rates of adverse events overall (25 versus 31 percent) and serious bleeding (0 versus 11 percent). These data support our practice of using low-dose aspirin for chemoprevention in patients with Lynch syndrome who are carriers of MLH1, MSH2, MSH6, or EPCAM pathogenic variants. (See \"Lynch syndrome (hereditary nonpolyposis colorectal cancer): Cancer screening and management\", section on 'Chemoprevention with aspirin'.)\n\nLack of overall survival benefit for adagrasib plus cetuximab in KRAS G12C-mutant metastatic colorectal cancer (September 2026)\n\nAdagrasib, an irreversible inhibitor of KRAS G12C, previously showed favorable response rates in patients with KRAS G12C-mutant metastatic colorectal cancer (mCRC) who received prior treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based therapy [17,18], initially leading to accelerated approval by the US Food and Drug Administration (FDA). However, in a subsequent phase III trial of over 400 such patients, adagrasib plus cetuximab did not improve overall survival (median 22 months each) compared with chemotherapy with or without a vascular endothelial growth factor (VEGF) inhibitor [19]. Based on these data, FDA approval was withdrawn for adagrasib in combination with cetuximab for patients with treatment-refractory KRAS G12C-mutant mCRC [14]. (See \"Second- and later-line systemic therapy for metastatic colorectal cancer\", section on 'Other agents'.)\n\nTremelimumab plus durvalumab and TACE in unresectable localized hepatocellular carcinoma (July 2026, Modified September 2026)\n\nFor patients with previously untreated, unresectable hepatocellular carcinoma (HCC) and no distant metastases, studies are evaluating the addition of combination immunotherapy to transarterial chemoembolization (TACE). In a randomized trial that included almost 500 such patients, the addition of tremelimumab plus durvalumab to TACE improved two-year progression-free survival (PFS; 30 versus 20 percent) and overall survival (OS; 65 versus 58 percent), with an acceptable toxicity profile [20]. For patients with previously untreated, unresectable, localized HCC, the addition of tremelimumab plus durvalumab to TACE remains investigational. (See \"Localized hepatocellular carcinoma: Liver-directed therapies for nonsurgical candidates not eligible for local thermal ablation\", section on 'Tremelimumab plus durvalumab plus TACE'.)\n\nNo benefit for continuation of immunotherapy after progression in metastatic hepatocellular carcinoma (June 2026)\n\nFor patients with advanced unresectable or metastatic hepatocellular carcinoma (HCC) who progress on an immunotherapy-based regimen, lenvatinib is preferred as second-line therapy; trials are evaluating whether continuing immunotherapy with lenvatinib improves outcomes. In a randomized trial of approximately 560 patients with locally advanced or metastatic HCC who progressed on atezolizumab plus bevacizumab, the addition of atezolizumab to an antiangiogenic agent (lenvatinib received in 92 percent) did not confer an additional overall survival advantage (median 15 versus 13 months) [21]. Based on these data, for patients with advanced unresectable or metastatic HCC who progress on an immunotherapy-based regimen, we continue to suggest second-line therapy with lenvatinib alone. (See \"Systemic treatment for advanced unresectable and metastatic hepatocellular carcinoma\", section on 'Lenvatinib'.)\n\nGENITOURINARY ONCOLOGY\n\nPembrolizumab and olaparib in BRCA non-mutated ovarian cancer (September 2026)\n\nTrials are evaluating the role of PARP and immune checkpoint inhibitors in patients with advanced BRCA non-mutated epithelial ovarian cancer (EOC). In a randomized trial in nearly 1400 such patients, the addition of pembrolizumab to chemotherapy followed by pembrolizumab and olaparib maintenance improved progression-free survival compared with chemotherapy alone (control; hazard ratio 0.68); however, benefits were not seen with the addition of pembrolizumab followed by pembrolizumab maintenance [22]. Serious treatment-related adverse events were reported in 24 percent of those in the pembrolizumab-olaparib group, 21 percent in the pembrolizumab group, and 9 percent in the control group. Although provocative, these findings do not change our approach to non-BRCA-mutated ovarian cancer given the lack of survival outcomes, toxicity profile, and uncertain contribution of pembrolizumab to the observed benefits. (See \"First-line chemotherapy for advanced (stage III or IV) epithelial ovarian, fallopian tube, and peritoneal cancer\", section on 'Incorporation of angiogenesis inhibitors or immune checkpoint inhibitors'.)\n\nAdjuvant pembrolizumab in resected clear cell renal cell carcinoma (September 2026)\n\nFor patients with resected clear cell renal cell carcinoma (RCC), adjuvant pembrolizumab is a standard treatment option, but long-term data on survival were previously limited. In extended follow-up of a randomized trial of almost 1000 patients with clear cell RCC treated with nephrectomy, one year of adjuvant pembrolizumab continued to improve five-year disease-free survival (61 versus 52 percent) and overall survival (88 versus 82 percent) relative to placebo [23]. For patients with resected RCC at intermediate-high or high risk of disease recurrence, we continue to suggest adjuvant pembrolizumab. (See \"Overview of the treatment of renal cell carcinoma\", section on 'Pembrolizumab'.)\n\nAdjuvant atezolizumab for high-risk, muscle-invasive bladder cancer (August 2026)\n\nThe US Food and Drug Administration (FDA) approved atezolizumab as adjuvant therapy for adults with muscle-invasive bladder cancer after cystectomy who have circulating tumor deoxyribonucleic acid (ctDNA) molecular residual disease, as determined by an FDA-authorized test [14]. This approval is based on a randomized trial of 250 patients with high-risk, muscle-invasive urothelial carcinoma of the bladder who underwent cystectomy and tested positive for ctDNA during postoperative surveillance, in whom one year of adjuvant atezolizumab improved disease-free survival (median 10 versus 5 months) and overall survival (median 33 versus 21 months) compared with placebo [24]. Based on these data, for patients with high-risk, muscle-invasive urothelial carcinoma of the bladder following cystectomy whose initial postoperative ctDNA test is positive, we now suggest one year of adjuvant atezolizumab. (See \"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'.)\n\nPerioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients (July 2026)\n\nThe United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [14]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [25]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)\n\nGYNECOLOGIC ONCOLOGY\n\nSacituzumab tirumotecan in previously treated endometrial cancer (October 2026)\n\nTrials are evaluating novel strategies for patients with advanced endometrial cancer previously treated with platinum-based chemotherapy and immunotherapy. A randomized trial among 776 such patients evaluated the novel antibody drug conjugate sacituzumab tirumotecan (sac-TMT), a trophoblast cell-surface antigen 2-directed antibody-drug conjugate with a bifunctional linker and a topoisomerase I inhibitor payload [26]. Sac-TMT improved median progression-free survival relative to physician's choice of chemotherapy (7.2 versus 3.9 months). Median overall survival was also better (19 versus 12 months), while serious adverse events were similar. We await regulatory approval prior to incorporating sac-TMT into treatment for endometrial cancer. (See \"Subsequent-line systemic therapy for metastatic endometrial cancer\", section on 'Prior chemotherapy and immunotherapy'.)\n\nPembrolizumab monotherapy for mismatch repair deficient endometrial cancer (October 2026)\n\nWhile pembrolizumab plus chemotherapy is a standard regimen for patients with advanced endometrial cancer receiving initial treatment, chemotherapy-free options are under investigation. In a randomized trial in 299 such patients with mismatch repair deficient (dMMR) cancers, pembrolizumab improved progression-free survival over chemotherapy (38 versus 8.4 months) [27]. Grade ≥3 events were lower in the pembrolizumab group (18 versus 51 percent). Although we consider pembrolizumab monotherapy for patients with dMMR endometrial cancers who are poor candidates for chemotherapy, we continue to incorporate chemotherapy with immunotherapy for most patients, given that pembrolizumab monotherapy has not been compared with chemoimmunotherapy. (See \"Initial treatment of metastatic endometrial cancer\", section on 'MMR deficient tumors'.)\n\nMELANOMA AND OTHER SKIN CANCER\n\nNivolumab plus oderparepvec in patients with unresectable melanoma (August 2026)\n\nThe combination of nivolumab plus vusolimogene oderparepvec, an oncolytic viral therapy, has been granted accelerated approval by the US Food and Drug Administration for patients with unresectable melanoma who have progressed on programmed death-1 (PD-1) inhibitors [28]. In the study supporting its approval, vusolimogene oderparepvec was administered intratumorally for up to eight doses in combination with nivolumab, which was given for up to two years [29]. The overall response rate was 33 percent with a median response duration of 34 months. For patients with unresectable melanoma who have progressed on a PD-1 inhibitor and have lesions that are accessible for intratumoral injection, the combination of nivolumab plus vusolimogene oderparepvec represents a new treatment option. Our incorporation of this strategy depends on BRAF mutation status and extent of disease. (See \"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\" and \"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'.)\n\nAdjuvant therapy with intisimeran autogene plus pembrolizumab in cutaneous melanoma (June 2026)\n\nIntisimeran autogene is a novel messenger ribonucleic acid (mRNA)-based individualized neoantigen therapy (vaccine) under investigation as an adjuvant therapy for cutaneous melanoma. In a randomized trial including 157 patients with stage IIIB to IV completely resected melanoma, intisimeran autogene plus pembrolizumab versus pembrolizumab alone improved both recurrence-free survival (72 versus 49 percent) and distant metastasis-free survival (84 versus 65 percent) after four years [30]. Grade ≥3 treatment-related adverse events occurred in 25 versus 14 percent of patients. Although these data are promising, intisimeran autogene does not yet have regulatory approval and is not available outside of clinical trials. (See \"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'.)\n\nNEUROONCOLOGY\n\nTile-based radiation therapy for resected brain metastases (October 2026)\n\nStudies are evaluating alternatives to stereotactic radiation therapy (SRS) after resection of a brain metastasis. In a randomized trial, patients with resected brain metastases were assigned to tile-based radiation therapy (TBRT) or SRS [31]. TBRT implants cesium-131 collagen tiles into the postoperative bed after surgical resection of the tumor and begins delivering radiation immediately. Among 230 patients with a median follow-up of 12.9 months, the time to surgical bed recurrence was not reached in the TBRT arm compared with 17.4 months in the SRS arm (HR 0.06). Grade ≥3 treatment-related adverse events were similar in both groups. While TBRT appears promising, a longer follow-up is needed. (See \"Overview of the treatment of brain metastases\", section on 'Postoperative radiation therapy'.)\n\nAdjuvant radiation therapy for completely resected atypical meningioma (October 2026)\n\nFor patients with atypical (WHO grade 2) meningioma who undergo a complete resection, studies are evaluating the role of adjuvant radiation therapy (RT) to reduce the risk of recurrence. In a randomized trial of approximately 160 patients with newly diagnosed resected atypical meningioma, adjuvant RT delivered to a dose of 60 Gy in 30 fractions improved recurrence rates (14 versus 30 percent) and five-year disease-free survival (80 versus 64 percent) compared with observation, but increased toxicities (most commonly hair loss, fatigue, and headache) [32]. For most patients with atypical meningioma who undergo complete resection, we suggest adjuvant RT. However, observation remains an appropriate alternative for patients who lack high-risk clinicopathologic features, those at increased risk of complications from RT, or those who prefer to avoid the risk of RT toxicity. (See \"Management of atypical and malignant (WHO grade 2 and 3) meningioma\", section on 'Completely resected tumors'.)\n\nAutologous transplantation for primary central nervous system lymphoma (September 2026)\n\nThe choice of autologous hematopoietic cell transplantation (HCT) versus non-myeloablative chemotherapy for preventing relapse of primary central nervous system lymphoma (PCNSL) has been controversial because their relative benefits and toxicities were unproven. A recent trial of 230 transplant-eligible patients with PCNSL reported that, compared with non-myeloablative chemotherapy, autologous HCT improved three-year survival (86 versus 71 percent) and reduced relapses (19 versus 45 percent) with a trend toward improved quality of life [33]. Toxicities were greater with autologous HCT, including more infections (53 versus 14 percent) and treatment-related deaths (five versus two). Outcomes of this trial support our suggestion for autologous HCT in transplant-eligible patients with PCNSL. (See \"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'.)\n\nPALLIATIVE AND SUPPORTIVE CARE\n\nDecreasing futile radiation therapy near the end of life (September 2026)\n\nStudies are evaluating strategies to decrease futile radiation therapy (RT) for patients near the end of life. In a retrospective analysis of 450 hospitalized patients with metastatic cancer who died within 14 days of consultation for RT, consultation after, compared with prior to, the implementation of an inpatient radiation oncology service was associated with decreased rates of RT administration (20 versus 32 percent), decreased incomplete RT courses (10 versus 18 percent), and decreased inpatient mortality among patients who received RT (14 versus 24 percent) [34]. These findings support the role of a dedicated inpatient radiation oncology team to help reduce futile RT for patients near the end of life. (See \"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'.)\n\nTHORACIC ONCOLOGY\n\nDivarasib in KRAS G12C-mutated advanced NSCLC (October 2026)\n\nNovel agents are under investigation for KRAS G12C-mutated advanced non-small cell lung cancer (NSCLC), including divarasib, a next-generation oral KRAS G12C inhibitor. In a randomized trial of 338 patients with previously treated KRAS G12C-mutated advanced NSCLC, divarasib versus control (sotorasib or adagrasib) improved progression-free survival (9.8 versus 5.7 months) as well as overall survival (18 versus 12 months) [35]. Objective response rates were 58 versus 32 percent. Fewer grade ≥3 events occurred with divarasib (25 versus 35 percent). We await regulatory approval prior to use of divarasib outside of a clinical trial. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'Other agents'.)\n\nOsimertinib-savolitinib in advanced EGFR-positive NSCLC with MET abnormalities (October 2026)\n\nFor patients with advanced EGFR-positive non-small cell lung cancer (NSCLC) progressive on a tyrosine kinase inhibitor, MET amplification or overexpression is a frequent resistance mechanism. In a randomized trial including 338 such patients with MET amplification and/or overexpression, osimertinib plus the MET inhibitor savolitinib versus platinum-pemetrexed improved both median progression-free survival (7.6 versus 5.4 months) and overall survival (18 versus 13 months) [36]. The most frequently reported adverse events with osimertinib–savolitinib were peripheral edema (49 percent), anemia (26 percent), and diarrhea (26 percent). Grade ≥3 adverse events were similar between the two groups (64 and 63 percent). We await regulatory approval prior to use of savolitinib. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Actionable driver present'.)\n\nNovel antibody drug conjugates for EGFR-positive advanced NSCLC (October 2026)\n\nNovel antibody drug conjugates (ADCs) are being evaluated in randomized trials for advanced EGFR-positive non-small cell lung cancer (NSCLC) progressive on a prior tyrosine kinase inhibitor:\n\n● Among 498 patients, the HER3-directed ADC ruzaltatug rezetecan improved progression-free survival (PFS) relative to chemotherapy (8.3 versus 5.4 months), with similar rates of grade ≥3 adverse events (41 versus 39 percent) [37].\n\n● Among 432 patients, izalontamab brengitecan (iza-bren) improved PFS (11.1 versus 5.7 months) relative to chemotherapy, with grade ≥3 adverse events of 79 versus 62 percent [38]. Iza-bren is a bispecific antibody-drug conjugate targeting both EGFR and HER3.\n\nWhile results are promising, these agents remain investigational at this time. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Investigational strategies'.)\n\nTambotatug pelitecan in small cell lung cancer (September 2026)\n\nTambotatug pelitecan, an antibody drug conjugate that targets the immune-checkpoint molecule B7-H3, is under investigation for the treatment of advanced small cell lung cancer (SCLC). In a randomized trial of 451 patients with SCLC who had experienced progression after first-line platinum-based therapy, tambotatug pelitecan improved overall survival relative to topotecan (13.3 versus 9.4 months) [39]. Progression-free survival (7.4 versus 2.8 months) and objective response rates (59 versus 9.7 percent) were also better with tambotatug pelitecan, while grade ≥3 adverse events were less frequent (55 versus 78 percent). We await regulatory approval prior to use of this agent in advanced SCLC. (See \"Treatment of refractory and relapsed small cell lung cancer\", section on 'Other options'.)\n\nNo role for immune checkpoint inhibitors with SBRT for early NSCLC (September 2026)\n\nTrials are evaluating the role of immune checkpoint inhibitors with stereotactic body radiation therapy (SBRT) in early non-small cell lung cancer (NSCLC) that is not amenable to surgery. In a randomized trial of 417 patients who had T1-T3N0M0 NSCLC ≤7 cm, were medically inoperable or declined surgery, and had at least one risk factor for recurrence, the addition of atezolizumab to SBRT did not improve overall survival (82 percent in both groups) [40]. Grade 3 or higher adverse events occurred in 12 percent in the atezolizumab/SBRT group and 3 percent in the group that received SBRT alone. Pending further data, we do not incorporate immune checkpoint inhibitors for patients receiving SBRT for early NSCLC. (See \"Management of stage I and stage II non-small cell lung cancer\", section on 'Stereotactic body radiation therapy'.)\n\nDaraxonrasib in previously treated RAS-mutant NSCLC (September 2026)\n\nDaraxonrasib (RMC-6236) is an orally bioavailable noncovalent RAS(ON) multiselective inhibitor of active GTP-bound mutant and wild-type RAS protein isoforms that has recently shown benefit in pancreatic cancer. In a dose escalation and expansion study of 136 patients with previously treated metastatic RAS mutant non-small cell lung cancer (NSCLC), daraxonrasib showed antitumor activity in more than 30 percent [41]. Adverse events of grade 3 or higher were reported in over half of patients and most commonly included pneumonia, diarrhea, rash, and anemia. We offer off-label daraxonrasib as a later-line option for patients with previously treated KRAS-mutant NSCLC, particularly those with non-KRAS G12C, given limited targeted therapy treatment options in this population. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\".)\n\nChemotherapy with osimertinib in advanced EGFR-positive NSCLC (August 2026)\n\nAdding chemotherapy to osimertinib has been shown to improve survival in patients with epidermal growth factor receptor (EGFR)-positive advanced non-small cell lung cancer (NSCLC); studies are evaluating subsets most likely to benefit from this intensified regimen. In a randomized trial conducted in patients whose tumors harbored concurrent TP53 and EGFR-mutations, the addition of chemotherapy to osimertinib improved median progression-free survival (34 versus 16 months), with a trend toward improved overall survival [42]. Chemotherapy with osimertinib remains one of our preferred regimens for EGFR-positive advanced NSCLC, including in patients whose tumors harbor concurrent TP53 mutations. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Osimertinib with chemotherapy'.)\n\nDurvalumab and radiation for inoperable, locally advanced NSCLC (July 2026)\n\nFor patients with inoperable locally advanced non-small cell lung cancer (NSCLC), standard therapy consists of chemotherapy and radiation therapy (RT) followed by the immune checkpoint inhibitor durvalumab; however, not all patients are candidates for chemotherapy. In a multicenter, single arm study, among 58 such patients with a median age 82 years, treatment with conventional RT plus concurrent and consolidative durvalumab was associated with a two-year progression-free survival of 39 percent and overall survival of 54 percent, which was better than historical controls [43]. We consider radiation and durvalumab to be an acceptable alternative for patients with inoperable locally advanced NSCLC who are poor candidates for chemotherapy. (See \"Management of stage III non-small cell lung cancer\", section on 'Poor performance status'.)\n\nZidesamtinib in ROS1-positive non-small cell lung cancer (July 2026)\n\nThe tyrosine kinase inhibitor (TKI) zidesamtinib has received US Food and Drug Administration approval for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC) who have received a prior TKI [44]. In the study supporting its approval, among 117 patients with previously treated locally advanced or metastatic ROS1-positive NSCLC, the response rate was 44 percent; in the subset treated with at least two prior ROS1 TKIs, the response rate was 38 percent. For patients with prior treatment with a ROS1 TKI for ROS1-positive NSCLC, we now suggest zidesamtinib. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)\n\nLung transplant in medically refractory lung-limited advanced NSCLC (July 2026)\n\nFor patients with stage IV non-small cell lung cancer (NSCLC) that is limited to the lungs but refractory to medical treatment, studies are evaluating lung transplant. Among 98 such patients included in a single-center registry study, 17 patients underwent lung transplant while 81 patients met eligibility criteria but did not undergo transplant due to nonbiologic barriers (logistical, financial, or geographic) [45]. The estimated one-year survival was 100 percent among lung transplant recipients versus 41 percent among those who did not receive transplant. While promising, further data are needed to confirm these findings prior to routine use of lung transplant in medically refractory advanced NSCLC. (See \"Later-line management in non-small cell lung cancer lacking an actionable genetic alteration\", section on 'Refractory lung-limited disease'.)\n\nIvonescimab plus chemotherapy in EGFR-positive advanced NSCLC (June 2026)\n\nA randomized trial in patients with EGFR-mutant advanced non-small cell lung cancer previously demonstrated that the addition of ivonescimab, a bispecific antibody targeting programmed death 1 and vascular endothelial growth factor, to chemotherapy improved progression-free survival. With a longer follow-up of 33 months, ivonescimab plus chemotherapy also improved median overall survival compared with chemotherapy alone (16.8 versus 14.1 months) [46,47]. Ivonescimab is under review by the US Food and Drug Administration but does not yet have regulatory approval. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Investigational strategies'.)\n\nCheckpoint inhibitor with or without chemotherapy in PD-L1-high NSCLC (June 2026)\n\nFor patients with programmed death-ligand 1 (PD-L1)-high (≥50 percent expression) non-small cell lung cancer (NSCLC), trials have not directly compared the combination of a checkpoint inhibitor and chemotherapy versus a checkpoint inhibitor alone. In a meta-analysis of 24 randomized trials evaluating either of these strategies against other interventions, indirect comparisons suggest overall survival benefits with the checkpoint inhibitor-chemotherapy combination versus a checkpoint inhibitor alone (29 versus 20 months), as well as longer progression-free survival (11 versus 7 months) [48]. For patients with PD-L1-high NSCLCs that are rapidly progressive, symptomatic, or have a high tumor burden, we suggest combining a checkpoint inhibitor with chemotherapy; however, we consider either this combination or a checkpoint inhibitor alone to be acceptable for those with less aggressive disease. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Choosing between checkpoint inhibitor monotherapy and chemoimmunotherapy'.)\n\nIvonescimab in advanced squamous NSCLC (June 2026)\n\nTrials are investigating novel agents for advanced squamous non-small cell lung cancer (NSCLC). In a randomized trial in 532 patients with such cancers, the combination of chemotherapy and ivonescimab, an investigational bispecific antibody targeting programmed cell death protein 1 (PD-1) and vascular endothelial growth factor (VEGF), improved progression-free survival relative to chemotherapy and the anti-PD-1 antibody tislelizumab. Now, with longer follow-up of 21 months, the median overall survival was also improved (27.9 versus 24 months) [49]. We await regulatory approval of ivonescimab prior to incorporating it into treatment paradigms for advanced squamous NSCLC. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Investigational strategies'.)\n\nSacituzumab tirumotecan for advanced NSCLC (June 2026)\n\nTrials are evaluating novel agents for advanced non-small cell lung cancer (NSCLC), including the antibody-drug conjugate sacituzumab tirumotecan. In two randomized trials, the combination of sacituzumab tirumotecan plus pembrolizumab resulted in progression-free survival benefits among patients with programmed death-ligand 1 (PD-L1) positive cancers (median not reached versus 5.7 months, HR 0.35) and PD-L1 negative cancers (median 15 versus 5.7 months, HR 0.49) [50,51]. We await further data and regulatory approval prior to use of sacituzumab tirumotecan and pembrolizumab in advanced NSCLC. (See \"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Investigational strategies'.)\n\nAdjuvant selpercatinib in RET-positive NSCLC (June 2026)\n\nTrials are investigating adjuvant systemic therapies following resection of non-small cell lung cancers (NSCLC) that have a targetable genetic driver mutation. In a randomized trial in 151 patients with resected stage IB to IIIA RET-positive NSCLC, adjuvant selpercatinib improved two-year event-free survival relative to placebo (94 versus 70 percent) [52]. Three deaths occurred, all in the placebo group, and were due to disease progression. The most common grade ≥3 adverse events with selpercatinib were increased alanine aminotransferase (17 percent) and aspartate aminotransferase (19 percent). For patients with completely resected, RET-positive stage IB to IIIA NSCLC, we now suggest adjuvant selpercatinib to be continued until progression or unacceptable toxicity for up to three years. (See \"Systemic therapy in resectable non-small cell lung cancer\", section on 'RET-positive cancers'.)\n\nSunvozertinib for advanced NSCLC with EGFR exon 20 insertions (May 2026)\n\nTrials are evaluating novel strategies for patients with advanced nonsquamous non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertions. In a randomized trial in 324 such patients, sunvozertinib increased median progression-free survival relative to chemotherapy (10.3 versus 7.5 months) [53]. Data for overall survival are immature. Grade ≥3 adverse events were reported in 76 versus 57 percent, with the most common among those assigned to sunvozertinib being increased serum creatine kinase levels (21 percent), diarrhea (14 percent), and anemia (9.2 percent). Although these data are promising, sunvozertinib does not yet have regulatory approval in the United States for treatment-naive patients. (See \"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'For treatment-naïve disease'.)\n\nTaletrectinib in advanced ROS1-positive non-small cell lung cancer (May 2026)\n\nA single-arm study previously suggested efficacy of the ROS1 tyrosine kinase inhibitor (TKI) taletrectinib in patients with ROS1-positive advanced non-small cell lung cancer (NSCLC), but survival outcomes were immature. Now, with longer follow-up (median 51 months), median overall survival was not reached among TKI-naïve patients and was 26 months among TKI-pretreated patients [54]. For patients with advanced ROS1-positive NSCLC, taletrectinib is one of our preferred treatments. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)\n\nOTHER ONCOLOGY\n\nRasburicase for tumor lysis syndrome (September 2026)\n\nRasburicase is more effective than allopurinol for controlling hyperuricemia from tumor lysis syndrome (TLS), but it has not been proven to reduce kidney injury or death. In a retrospective study of over 1200 adults with various cancers, rasburicase administration within 12 hours of TLS onset, compared with delayed or no rasburicase, was associated with a lower risk of acute kidney injury requiring kidney replacement therapy or death (33 versus 42 percent), as well as lower 90-day mortality (46 versus 54 percent) [55]. Adverse events occurred in only three total patients, including rasburicase-associated hemolytic anemia and methemoglobinemia each in one patient. This study provides evidence that prompt administration of rasburicase improves clinically important outcomes in patients with TLS and further supports our use of this agent for TLS prevention and treatment. (See \"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'.)",
+    "word_count": 6111,
+    "character_count": 44400,
+    "references": [
+      "Wang J, Li H, Xu F, et al. Anbenitamab plus HB1801 for HER2-Positive Advanced Breast Cancer. N Engl J Med 2026.",
+      "Chmura SJ, Winter KA, Woodward WA, et al. NRG-BR002: A Randomized Phase II/III Trial of Metastasis-Directed Ablation With First-Line Systemic Therapy for Oligometastatic Breast Cancer. J Clin Oncol 2026; :JCO2600201.",
+      "Mayer EL, Tolaney SM, Martín M, et al. Giredestrant plus Everolimus in Advanced Breast Cancer. N Engl J Med 2026; 395:1285.",
+      "REVTORPYK - gedatolisib. DailyMed. Available at: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda (Accessed on July 17, 2026).",
+      "Hurvitz SA, Layman RM, Curigliano G, et al. VIKTORIA-1 Trial of Gedatolisib Plus Fulvestrant With or Without Palbociclib in Hormone Receptor-Positive/HER2-/PIK3CA Wild-Type Advanced Breast Cancer. J Clin Oncol 2026; 44:1108.",
+      "Gandini S, Guerrieri-Gonzaga A, Serrano D, et al. Low-Dose Tamoxifen in Noninvasive Breast Neoplasia: Long-Term Results From an Individual-Participant Data Pooled Analysis. J Clin Oncol 2026; 44:2121.",
+      "Clemons M, Stober C, Pond GR, et al. Every Six-Month versus Single-Dose Adjuvant Zoledronate in Early Breast Cancer. NEJM Evid 2026; 5:EVIDoa2500202.",
+      "DATROWAY® (datopotamab deruxtecan-dlnk) for injection, for intravenous use. United States prescribing information. Revised May 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2950227c-6230-4ca4-a135-46e44d9424a0&type=display (Accessed on June 04, 2026).",
+      "Dent R, Shao Z, Schmid P, et al. Datopotamab deruxtecan in patients with untreated, advanced triple-negative breast cancer (TROPION-Breast02): a randomised, open-label, international, phase III trial. Ann Oncol 2026; 37:1066.",
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761139s041s043lbl.pdf (Accessed on May 20, 2026).",
+      "Harbeck N, Modi S, Pusztai L, et al. Neoadjuvant trastuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertuzumab for high-risk HER2-positive early breast cancer (DESTINY-Breast11): a randomised, open-label, multicentre, phase III trial. Ann Oncol 2026; 37:166.",
+      "VEPPANU- vepdegestrant tablet. US Food and Drug Administration (FDA) approved product information. Revised May 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=751e18d5-1d41-4b67-b1f3-10272ca5312d (Accessed on May 21, 2026).",
+      "Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Electronic address: bc.overview@ndph.ox.ac.uk, Early Breast Cancer Trialists' Collaborative Group (EBCTCG). Effects of ovarian ablation or suppression on breast cancer recurrence and survival: patient-level meta-analysis of 15 000 women in 23 randomised trials. Lancet 2026; 407:1699.",
+      "DailyMed Drug Information: https://dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on October 13, 2026).",
+      "Antoine Hollebecque, Mitesh J. Borad, Peter Lu, et al. Efficacy and safety of lirafugratinib in FGFRi-naïve cholangiocarcinoma (CCA) patients harboring FGFR2 fusions/rearrangements (FGFR2 f/r). J Clin Oncol 2026; 44; 2S.",
+      "Burn J, Borthwick GM, Elliott F, et al. Aspirin for cancer prevention in individuals with Lynch syndrome: first results from the CaPP3 multicentre, randomised, double-blind, non-inferiority trial. Lancet Gastroenterol Hepatol 2026; 11:760.",
+      "Yaeger R, Weiss J, Pelster MS, et al. Adagrasib with or without Cetuximab in Colorectal Cancer with Mutated KRAS G12C. N Engl J Med 2023; 388:44.",
+      "Yaeger R, Uboha NV, Pelster MS, et al. Efficacy and Safety of Adagrasib plus Cetuximab in Patients with KRASG12C-Mutated Metastatic Colorectal Cancer. Cancer Discov 2024; 14:982.",
+      "Taberno et al. LBA1 - Second-line adagrasib plus cetuximab vs chemotherapy in patients with KRASG12C-mutated metastatic colorectal cancer: Results from the KRYSTAL-10 trial https://cslide.ctimeetingtech.com/coasis_21569/attendee/confcal/show/session/22 (Accessed on September 09, 2026).",
+      "Kudo M, Abou-Alfa GK, Ren Z, et al. Durvalumab and tremelimumab, with or without lenvatinib, combined with transarterial chemoembolisation in participants with embolisation-eligible hepatocellular carcinoma (EMERALD-3): a global, randomised, open-label, sponsor-blinded, phase 3 study. Lancet Oncol 2026; 27:1077.",
+      "Arndt Vogel et. IMbrave251: Final analysis of atezolizumab (atezo) + lenvatinib (lenva) or sorafenib (sora) vs lenva or sora alone in locally advanced or metastatic hepatocellular carcinoma (LA/mHCC) previously treated with atezo and bevacizumab (bev). J Clin Oncol 2026; 44;16S.",
+      "Vergote I, Cibula D, Powell M, et al. Chemotherapy with or without pembrolizumab followed by maintenance pembrolizumab with or without olaparib as first-line treatment of patients with advanced BRCA non-mutated epithelial ovarian cancer (ENGOT-OV43/GOG-3036/KEYLYNK-001): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet Oncol 2026; 27:1221.",
+      "Haas NB, Powles TB, Tomczak P, et al. Adjuvant pembrolizumab for the treatment of clear cell renal cell carcinoma: five-year results from the phase III KEYNOTE-564 study. Ann Oncol 2026.",
+      "Powles T, Kann AG, Castellano D, et al. ctDNA-Guided Adjuvant Atezolizumab in Muscle-Invasive Bladder Cancer. N Engl J Med 2025; 393:2395.",
+      "Galsky MD, Valderrama BP, Maruzzo M, et al. Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer. N Engl J Med 2026; 395:338.",
+      "Lorusso D, Martin-Babau J, Backes F, et al. Sacituzumab tirumotecan versus treatment of physician's choice in previously treated endometrial cancer (TroFuse-005/ENGOT-en23/GOG-3095): a randomised, open-label, phase 3 trial. Lancet 2026.",
+      "Slomovitz BM, Zhu J, Yin R, et al. First-line pembrolizumab versus carboplatin plus paclitaxel in participants with mismatch repair-deficient advanced or recurrent endometrial cancer (KEYNOTE-C93/GOG-3064/ENGOT-en15): interim analysis of a multicentre, open-label, randomised, active-comparator controlled, phase 3 trial. Lancet 2026.",
+      "Package insert- TUDRIQEV. https://www.fda.gov/media/194127/download?attachment (Accessed on August 17, 2026).",
+      "Wong MK, Milhem MM, Sacco JJ, et al. RP1 Combined With Nivolumab in Advanced Anti-PD-1-Failed Melanoma (IGNYTE). J Clin Oncol 2025; 43:3589.",
+      "Khattak A, Carlino MS, Meniawy T, et al. Intismeran Autogene Plus Pembrolizumab Versus Pembrolizumab Alone in High-Risk Resected Melanoma: 5-Year Update of the Randomized Phase IIb KEYNOTE-942 Study. J Clin Oncol 2026; 44:2482.",
+      "Weinberg JS, Imber BS, DiNapoli V, et al. Surgery and tile-based radiation therapy versus surgery and stereotactic radiation for newly diagnosed brain metastases (ROADS): a randomized, open-label, phase 3 trial. J Clin Oncol 2026; :101200JCO2601894.",
+      "Jenkinson MD, Rosala-Hallas A, Sahm F, et al. Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial. Lancet 2026; 408:1473.",
+      "Illerhaus G, Ferreri AJM, Wendler J, et al. High-dose chemotherapy followed by autologous stem-cell transplantation versus non-myeloablative consolidation in primary CNS lymphoma (MATRix/IELSG43): a randomised phase 3 trial. Lancet 2026; 408:532.",
+      "Deshane A, Freret M, Brennan VS, et al. Futile Radiotherapy for Patients With Cancer Near the End of Life. JAMA Netw Open 2026; 9:e2618668.",
+      "Sacher A, LoRusso P, Patel MR, et al. Single-Agent Divarasib (GDC-6036) in Solid Tumors with a KRAS G12C Mutation. N Engl J Med 2023; 389:710.",
+      "Lu S, Girard N, Yang JC, et al. Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy. N Engl J Med 2026.",
+      "Xu CR, Zhang Y, Lin G, et al. Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China. Lancet 2026.",
+      "Hong S, Zhou T, Hou X, et al. Izalontamab brengitecan versus platinum-based chemotherapy in EGFR-mutated advanced non-squamous non-small-cell lung cancer after progression on third-generation EGFR tyrosine kinase inhibitors (PANKU-Lung01): a multicentre, randomised, open-label, phase 3 trial in China. Lancet 2026.",
+      "Zhao Y, Liu H, Meng X, et al. Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy. N Engl J Med 2026; 395:1610.",
+      "Daly ME, Simone CB 2nd, Redman MW, et al. Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial. Lancet 2026; 408:1313.",
+      "Arbour KC, Punekar S, Luo J, et al. Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer. N Engl J Med 2026; 395:882.",
+      "Zhou T, Zhou H, Gao F, et al. Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial. JAMA 2026; 336:838.",
+      "Rimner A, Lebow ES, Fitzgerald KJ, et al. Durvalumab With Radiation Therapy in Patients With Inoperable Locally Advanced Non-Small Cell Lung Cancer Ineligible for Concurrent Chemoradiotherapy (DART). J Clin Oncol 2026; :JCO2502517.",
+      "Jideytro prescribing information. Nuvalent. Available at: https://www.jideytrohcp.com/prescribing-information.pdf (Accessed on July 23, 2026).",
+      "Bharat A, Kurihara C, Chung LI, et al. Lung Transplant for Refractory Lung-Limited Stage IV Non-Small Cell Lung Cancer. JAMA 2026; 336:484.",
+      "HARMONi-A Study Investigators, Fang W, Zhao Y, et al. Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: The HARMONi-A Randomized Clinical Trial. JAMA 2026; 336:306.",
+      "Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: Research Summary. JAMA 2026; 336:e267804.",
+      "Di Federico A, Compagno S, Mantuano F, et al. PD-(L)1 Inhibitor Monotherapy vs Chemoimmunotherapy for Advanced NSCLC With High PD-L1 Expression: A Systematic Review and Meta-Analysis. JAMA Oncol 2026; 12:753.",
+      "Lu S, Liu B, Luo Y, et al. Ivonescimab plus chemotherapy versus tislelizumab plus chemotherapy in advanced squamous non-small-cell lung cancer (HARMONi-6): interim overall survival analysis of a randomised, double-blind, phase 3 trial in China. Lancet 2026; 407:2620.",
+      "Xiong A, Yao W, Zheng W, et al. Sacituzumab tirumotecan plus pembrolizumab versus pembrolizumab in PD-L1-positive advanced non-small-cell lung cancer (OptiTROP-Lung05): interim analysis of a randomised, open-label, phase 3 trial. Lancet 2026; 407:2607.",
+      "Zhou F, Meng X, Ding Q, et al. Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1-Negative Advanced NSCLC. N Engl J Med 2026.",
+      "Wu YL, Hochmair M, Yang Y, et al. Selpercatinib in Early-Stage RET Fusion-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2026; 395:660.",
+      "First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations (Accessed on May 29, 2026).",
+      "Li W, Zhang Y, Fan H, et al. Long-Term Efficacy and Safety of Taletrectinib in Patients With ROS1+ Non-Small Cell Lung Cancer: Results From the Phase II TRUST-I Study. J Clin Oncol 2026; 44:1670.",
+      "Shenoy T, Sanchez-Almanzar D, Dias JA, et al. Early treatment with rasburicase and risk of kidney replacement therapy and death in adults with tumour lysis syndrome: emulated target trial. BMJ 2026; 394:e100040."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 9381,
+        "title": "docetaxel",
+        "url": "https://medilib.ir/uptodate/show/9381"
+      },
+      {
+        "id": 10101,
+        "title": "trastuzumab",
+        "url": "https://medilib.ir/uptodate/show/10101"
+      },
+      {
+        "id": 85639,
+        "title": "pertuzumab",
+        "url": "https://medilib.ir/uptodate/show/85639"
+      },
+      {
+        "id": 8361,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%221%22"
+      },
+      {
+        "id": 15749,
+        "title": "\"Systemic treatment for HER2-positive metastatic breast cancer\", section on 'Other alternatives, irrespective of hormone receptor status'",
+        "url": "https://medilib.ir/uptodate/show/15749"
+      },
+      {
+        "id": 8361,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%222%22"
+      },
+      {
+        "id": 760,
+        "title": "\"The role of local therapies in metastatic breast cancer\", section on 'Selection of patients for local therapy to the metastasis'",
+        "url": "https://medilib.ir/uptodate/show/760"
+      },
+      {
+        "id": 8361,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%223%22"
+      },
+      {
+        "id": 778,
+        "title": "\"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'",
+        "url": "https://medilib.ir/uptodate/show/778"
+      },
+      {
+        "id": 152084,
+        "title": "gedatolisib",
+        "url": "https://medilib.ir/uptodate/show/152084"
+      },
+      {
+        "id": 8784,
+        "title": "fulvestrant",
+        "url": "https://medilib.ir/uptodate/show/8784"
+      },
+      {
+        "id": 99759,
+        "title": "palbociclib",
+        "url": "https://medilib.ir/uptodate/show/99759"
+      },
+      {
+        "id": 8361,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%224%22"
+      },
+      {
+        "id": 8361,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%225%22"
+      },
+      {
+        "id": 778,
+        "title": "\"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type, without mutations in the PI3K pathway'",
+        "url": "https://medilib.ir/uptodate/show/778"
+      },
+      {
+        "id": 9972,
+        "title": "tamoxifen",
+        "url": "https://medilib.ir/uptodate/show/9972"
+      },
+      {
+        "id": 8361,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%226%22"
+      },
+      {
+        "id": 756,
+        "title": "\"Selective estrogen receptor modulators and aromatase inhibitors for breast cancer prevention\", section on 'Dose and duration'",
+        "url": "https://medilib.ir/uptodate/show/756"
+      },
+      {
+        "id": 9902,
+        "title": "Zoledronic acid",
+        "url": "https://medilib.ir/uptodate/show/9902"
+      },
+      {
+        "id": 8361,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%227%22"
+      },
+      {
+        "id": 776,
+        "title": "\"Osteoclast inhibitors as adjuvant anticancer therapy in early breast cancer\", section on 'Dosing and duration'",
+        "url": "https://medilib.ir/uptodate/show/776"
+      },
+      {
+        "id": 147508,
+        "title": "datopotamab deruxtecan",
+        "url": "https://medilib.ir/uptodate/show/147508"
+      },
+      {
+        "id": 8361,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%228%22"
+      },
+      {
+        "id": 8361,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%229%22"
+      },
+      {
+        "id": 14227,
+        "title": "\"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'",
+        "url": "https://medilib.ir/uptodate/show/14227"
+      },
+      {
+        "id": 126410,
+        "title": "fam-trastuzumab deruxtecan",
+        "url": "https://medilib.ir/uptodate/show/126410"
+      },
+      {
+        "id": 8361,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2210%22"
+      },
+      {
+        "id": 9735,
+        "title": "paclitaxel",
+        "url": "https://medilib.ir/uptodate/show/9735"
+      },
+      {
+        "id": 9391,
+        "title": "doxorubicin",
+        "url": "https://medilib.ir/uptodate/show/9391"
+      },
+      {
+        "id": 9308,
+        "title": "cyclophosphamide",
+        "url": "https://medilib.ir/uptodate/show/9308"
+      },
+      {
+        "id": 8361,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2211%22"
+      },
+      {
+        "id": 106774,
+        "title": "\"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'",
+        "url": "https://medilib.ir/uptodate/show/106774"
+      },
+      {
+        "id": 151542,
+        "title": "Vepdegestrant",
+        "url": "https://medilib.ir/uptodate/show/151542"
+      },
+      {
+        "id": 8361,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2212%22"
+      },
+      {
+        "id": 8361,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2213%22"
+      },
+      {
+        "id": 120706,
+        "title": "\"Adjuvant endocrine therapy for premenopausal females with hormone receptor-positive breast cancer\", section on 'Rationale for OFS'",
+        "url": "https://medilib.ir/uptodate/show/120706"
+      },
+      {
+        "id": 152600,
+        "title": "Lirafugratinib",
+        "url": "https://medilib.ir/uptodate/show/152600"
+      },
+      {
+        "id": 8361,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2214%22"
+      },
+      {
+        "id": 8361,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2215%22"
+      },
+      {
+        "id": 2524,
+        "title": "\"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Lirafugratinib'",
+        "url": "https://medilib.ir/uptodate/show/2524"
+      },
+      {
+        "id": 8907,
+        "title": "aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": 8361,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2216%22"
+      },
+      {
+        "id": 15804,
+        "title": "\"Lynch syndrome (hereditary nonpolyposis colorectal cancer): Cancer screening and management\", section on 'Chemoprevention with aspirin'",
+        "url": "https://medilib.ir/uptodate/show/15804"
+      },
+      {
+        "id": 140357,
+        "title": "Adagrasib",
+        "url": "https://medilib.ir/uptodate/show/140357"
+      },
+      {
+        "id": 8361,
+        "title": "17,18",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2217%22"
+      },
+      {
+        "id": 9209,
+        "title": "cetuximab",
+        "url": "https://medilib.ir/uptodate/show/9209"
+      },
+      {
+        "id": 8361,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2219%22"
+      },
+      {
+        "id": 129349,
+        "title": "\"Second- and later-line systemic therapy for metastatic colorectal cancer\", section on 'Other agents'",
+        "url": "https://medilib.ir/uptodate/show/129349"
+      },
+      {
+        "id": 139983,
+        "title": "tremelimumab",
+        "url": "https://medilib.ir/uptodate/show/139983"
+      },
+      {
+        "id": 112994,
+        "title": "durvalumab",
+        "url": "https://medilib.ir/uptodate/show/112994"
+      },
+      {
+        "id": 8361,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2220%22"
+      },
+      {
+        "id": 15589,
+        "title": "\"Localized hepatocellular carcinoma: Liver-directed therapies for nonsurgical candidates not eligible for local thermal ablation\", section on 'Tremelimumab plus durvalumab plus TACE'",
+        "url": "https://medilib.ir/uptodate/show/15589"
+      },
+      {
+        "id": 99962,
+        "title": "lenvatinib",
+        "url": "https://medilib.ir/uptodate/show/99962"
+      },
+      {
+        "id": 108314,
+        "title": "atezolizumab",
+        "url": "https://medilib.ir/uptodate/show/108314"
+      },
+      {
+        "id": 8683,
+        "title": "bevacizumab",
+        "url": "https://medilib.ir/uptodate/show/8683"
+      },
+      {
+        "id": 8361,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2221%22"
+      },
+      {
+        "id": 2486,
+        "title": "\"Systemic treatment for advanced unresectable and metastatic hepatocellular carcinoma\", section on 'Lenvatinib'",
+        "url": "https://medilib.ir/uptodate/show/2486"
+      },
+      {
+        "id": 96957,
+        "title": "pembrolizumab",
+        "url": "https://medilib.ir/uptodate/show/96957"
+      },
+      {
+        "id": 98761,
+        "title": "olaparib",
+        "url": "https://medilib.ir/uptodate/show/98761"
+      },
+      {
+        "id": 8361,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2222%22"
+      },
+      {
+        "id": 3239,
+        "title": "\"First-line chemotherapy for advanced (stage III or IV) epithelial ovarian, fallopian tube, and peritoneal cancer\", section on 'Incorporation of angiogenesis inhibitors or immune checkpoint inhibitors'",
+        "url": "https://medilib.ir/uptodate/show/3239"
+      },
+      {
+        "id": 8361,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2223%22"
+      },
+      {
+        "id": 15719,
+        "title": "\"Overview of the treatment of renal cell carcinoma\", section on 'Pembrolizumab'",
+        "url": "https://medilib.ir/uptodate/show/15719"
+      },
+      {
+        "id": 8361,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2224%22"
+      },
+      {
+        "id": 2966,
+        "title": "\"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'",
+        "url": "https://medilib.ir/uptodate/show/2966"
+      },
+      {
+        "id": 126407,
+        "title": "enfortumab vedotin",
+        "url": "https://medilib.ir/uptodate/show/126407"
+      },
+      {
+        "id": 8487,
+        "title": "gemcitabine",
+        "url": "https://medilib.ir/uptodate/show/8487"
+      },
+      {
+        "id": 9271,
+        "title": "cisplatin",
+        "url": "https://medilib.ir/uptodate/show/9271"
+      },
+      {
+        "id": 8361,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2225%22"
+      },
+      {
+        "id": 2991,
+        "title": "\"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'",
+        "url": "https://medilib.ir/uptodate/show/2991"
+      },
+      {
+        "id": 8361,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2226%22"
+      },
+      {
+        "id": 141321,
+        "title": "\"Subsequent-line systemic therapy for metastatic endometrial cancer\", section on 'Prior chemotherapy and immunotherapy'",
+        "url": "https://medilib.ir/uptodate/show/141321"
+      },
+      {
+        "id": 8361,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2227%22"
+      },
+      {
+        "id": 126055,
+        "title": "\"Initial treatment of metastatic endometrial cancer\", section on 'MMR deficient tumors'",
+        "url": "https://medilib.ir/uptodate/show/126055"
+      },
+      {
+        "id": 98764,
+        "title": "nivolumab",
+        "url": "https://medilib.ir/uptodate/show/98764"
+      },
+      {
+        "id": 152246,
+        "title": "vusolimogene oderparepvec",
+        "url": "https://medilib.ir/uptodate/show/152246"
+      },
+      {
+        "id": 8361,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2228%22"
+      },
+      {
+        "id": 8361,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2229%22"
+      },
+      {
+        "id": 15408,
+        "title": "\"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\"",
+        "url": "https://medilib.ir/uptodate/show/15408"
+      },
+      {
+        "id": 15863,
+        "title": "\"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'",
+        "url": "https://medilib.ir/uptodate/show/15863"
+      },
+      {
+        "id": 8361,
+        "title": "30",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2230%22"
+      },
+      {
+        "id": 7615,
+        "title": "\"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'",
+        "url": "https://medilib.ir/uptodate/show/7615"
+      },
+      {
+        "id": 8361,
+        "title": "31",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2231%22"
+      },
+      {
+        "id": 5212,
+        "title": "\"Overview of the treatment of brain metastases\", section on 'Postoperative radiation therapy'",
+        "url": "https://medilib.ir/uptodate/show/5212"
+      },
+      {
+        "id": 8361,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2232%22"
+      },
+      {
+        "id": 15692,
+        "title": "\"Management of atypical and malignant (WHO grade 2 and 3) meningioma\", section on 'Completely resected tumors'",
+        "url": "https://medilib.ir/uptodate/show/15692"
+      },
+      {
+        "id": 8361,
+        "title": "33",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2233%22"
+      },
+      {
+        "id": 4706,
+        "title": "\"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'",
+        "url": "https://medilib.ir/uptodate/show/4706"
+      },
+      {
+        "id": 8361,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2234%22"
+      },
+      {
+        "id": 5212,
+        "title": "\"Overview of the treatment of brain metastases\", section on 'Patients with poor performance status'",
+        "url": "https://medilib.ir/uptodate/show/5212"
+      },
+      {
+        "id": 131755,
+        "title": "sotorasib",
+        "url": "https://medilib.ir/uptodate/show/131755"
+      },
+      {
+        "id": 140357,
+        "title": "adagrasib",
+        "url": "https://medilib.ir/uptodate/show/140357"
+      },
+      {
+        "id": 8361,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2235%22"
+      },
+      {
+        "id": 16538,
+        "title": "\"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'Other agents'",
+        "url": "https://medilib.ir/uptodate/show/16538"
+      },
+      {
+        "id": 105441,
+        "title": "osimertinib",
+        "url": "https://medilib.ir/uptodate/show/105441"
+      },
+      {
+        "id": 8361,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2236%22"
+      },
+      {
+        "id": 4630,
+        "title": "\"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Actionable driver present'",
+        "url": "https://medilib.ir/uptodate/show/4630"
+      },
+      {
+        "id": 8361,
+        "title": "37",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2237%22"
+      },
+      {
+        "id": 8361,
+        "title": "38",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2238%22"
+      },
+      {
+        "id": 4630,
+        "title": "\"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Investigational strategies'",
+        "url": "https://medilib.ir/uptodate/show/4630"
+      },
+      {
+        "id": 10007,
+        "title": "topotecan",
+        "url": "https://medilib.ir/uptodate/show/10007"
+      },
+      {
+        "id": 8361,
+        "title": "39",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2239%22"
+      },
+      {
+        "id": 4614,
+        "title": "\"Treatment of refractory and relapsed small cell lung cancer\", section on 'Other options'",
+        "url": "https://medilib.ir/uptodate/show/4614"
+      },
+      {
+        "id": 8361,
+        "title": "40",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2240%22"
+      },
+      {
+        "id": 4642,
+        "title": "\"Management of stage I and stage II non-small cell lung cancer\", section on 'Stereotactic body radiation therapy'",
+        "url": "https://medilib.ir/uptodate/show/4642"
+      },
+      {
+        "id": 152365,
+        "title": "Daraxonrasib",
+        "url": "https://medilib.ir/uptodate/show/152365"
+      },
+      {
+        "id": 8361,
+        "title": "41",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2241%22"
+      },
+      {
+        "id": 16538,
+        "title": "\"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\"",
+        "url": "https://medilib.ir/uptodate/show/16538"
+      },
+      {
+        "id": 8361,
+        "title": "42",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2242%22"
+      },
+      {
+        "id": 4630,
+        "title": "\"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'Osimertinib with chemotherapy'",
+        "url": "https://medilib.ir/uptodate/show/4630"
+      },
+      {
+        "id": 8361,
+        "title": "43",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2243%22"
+      },
+      {
+        "id": 4623,
+        "title": "\"Management of stage III non-small cell lung cancer\", section on 'Poor performance status'",
+        "url": "https://medilib.ir/uptodate/show/4623"
+      },
+      {
+        "id": 152125,
+        "title": "zidesamtinib",
+        "url": "https://medilib.ir/uptodate/show/152125"
+      },
+      {
+        "id": 8361,
+        "title": "44",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2244%22"
+      },
+      {
+        "id": 16538,
+        "title": "\"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'",
+        "url": "https://medilib.ir/uptodate/show/16538"
+      },
+      {
+        "id": 8361,
+        "title": "45",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2245%22"
+      },
+      {
+        "id": 4629,
+        "title": "\"Later-line management in non-small cell lung cancer lacking an actionable genetic alteration\", section on 'Refractory lung-limited disease'",
+        "url": "https://medilib.ir/uptodate/show/4629"
+      },
+      {
+        "id": 8361,
+        "title": "46,47",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2246%22"
+      },
+      {
+        "id": 8361,
+        "title": "48",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2248%22"
+      },
+      {
+        "id": 90312,
+        "title": "\"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Choosing between checkpoint inhibitor monotherapy and chemoimmunotherapy'",
+        "url": "https://medilib.ir/uptodate/show/90312"
+      },
+      {
+        "id": 144548,
+        "title": "tislelizumab",
+        "url": "https://medilib.ir/uptodate/show/144548"
+      },
+      {
+        "id": 8361,
+        "title": "49",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2249%22"
+      },
+      {
+        "id": 90312,
+        "title": "\"Initial systemic therapy for advanced non-small cell lung cancer lacking a driver mutation\", section on 'Investigational strategies'",
+        "url": "https://medilib.ir/uptodate/show/90312"
+      },
+      {
+        "id": 8361,
+        "title": "50,51",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2250%22"
+      },
+      {
+        "id": 128157,
+        "title": "selpercatinib",
+        "url": "https://medilib.ir/uptodate/show/128157"
+      },
+      {
+        "id": 8361,
+        "title": "52",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2252%22"
+      },
+      {
+        "id": 4636,
+        "title": "\"Systemic therapy in resectable non-small cell lung cancer\", section on 'RET-positive cancers'",
+        "url": "https://medilib.ir/uptodate/show/4636"
+      },
+      {
+        "id": 149178,
+        "title": "sunvozertinib",
+        "url": "https://medilib.ir/uptodate/show/149178"
+      },
+      {
+        "id": 8361,
+        "title": "53",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2253%22"
+      },
+      {
+        "id": 4630,
+        "title": "\"Systemic therapy for advanced non-small cell lung cancer with an activating mutation in the epidermal growth factor receptor\", section on 'For treatment-naïve disease'",
+        "url": "https://medilib.ir/uptodate/show/4630"
+      },
+      {
+        "id": 148888,
+        "title": "taletrectinib",
+        "url": "https://medilib.ir/uptodate/show/148888"
+      },
+      {
+        "id": 8361,
+        "title": "54",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2254%22"
+      },
+      {
+        "id": 10189,
+        "title": "Rasburicase",
+        "url": "https://medilib.ir/uptodate/show/10189"
+      },
+      {
+        "id": 8439,
+        "title": "allopurinol",
+        "url": "https://medilib.ir/uptodate/show/8439"
+      },
+      {
+        "id": 8361,
+        "title": "55",
+        "url": "https://medilib.ir/uptodate/show/8361#rid%2255%22"
+      },
+      {
+        "id": 17050,
+        "title": "\"Tumor lysis syndrome: Prevention and treatment\", section on 'High risk'",
+        "url": "https://medilib.ir/uptodate/show/17050"
+      }
+    ]
+  }
+}

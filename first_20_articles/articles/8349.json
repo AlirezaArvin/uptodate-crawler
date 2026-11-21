@@ -1,0 +1,1387 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8349"
+  },
+  "article": {
+    "id": 8349,
+    "expected_title": "What's new in family medicine",
+    "url": "https://medilib.ir/uptodate/show/8349",
+    "final_url": "https://medilib.ir/uptodate/show/8349",
+    "page_title": "What's new in family medicine",
+    "extracted_at": "2026-11-20T20:51:50.944Z",
+    "title_matches_expected": true,
+    "title": "What's new in family medicine",
+    "contributors": {
+      "authors": [
+        "Jane Givens, MD, MSCE",
+        "Zehra Hussain, MD, FACP",
+        "Han Li, MD",
+        "Sara Swenson, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Oct 28, 2026",
+    "version": "Topic 8349 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT GENERAL INTERNAL MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of medical cannabis for insomnia (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Consistent with these results, we do not routinely use cannabis in the treatment of insomnia. (See \"Pharmacotherapy for insomnia in adults\", section on 'Cannabinoids'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated AAO-HNS tinnitus guidelines (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) has released an updated clinical practice guideline for the evaluation and management of tinnitus [2]. Key changes include recommending audiologic testing for all patients with tinnitus and supporting bimodal stimulation as a treatment option for persistent, bothersome tinnitus. They continue to recommend cognitive behavioral therapy and sound enrichment (using one sound to block another sound, also referred to as masking) as initial treatment options and recommend against medications or supplements. Our guidance largely aligns with their recommendations, although we do not routinely use bimodal stimulation. (See \"Etiology and diagnosis of tinnitus\", section on 'Audiometry for all patients' and \"Treatment of tinnitus\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Use of other tobacco products during attempts at vaping cessation (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For adolescents and young adults who vape nicotine, nicotine dependence often interferes with quit attempts. In an observational survey study of 963 young adults who vaped, 62 percent made a quit attempt during the past year, and approximately 15 percent substituted other tobacco products to aid with vaping cessation (usually nicotine pouches or cigarettes) [3].To reduce this risk, it is important to remind them about the harms of tobacco products, assess for signs of nicotine dependence, and support the quit attempt with behavioral supports and pharmacotherapy, if needed. (See \"Management of smoking and vaping cessation in adolescents\", section on 'Address nicotine withdrawal symptoms and other barriers to quitting'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [4]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GERIATRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Timing of interventions to promote advance care planning (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Advance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [5]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "IMMUNIZATIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No immunologic mechanism identified for immediate reactions to COVID-19 mRNA vaccines (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "An immunologic mechanism for immediate reactions to COVID-19 mRNA vaccines has not been demonstrated. A randomized trial of over 700 patients examined possible mechanisms for these reactions by administering one of two brands of mRNA COVID-19 vaccine or a placebo injection and performing extensive laboratory testing in those who reacted [6]. A small and similar percentage (between 1 and 3 percent) of patients had immediate reactions to a vaccine or to placebo, and these occurred exclusively in patients with past severe reactions to other allergens or mast cell disorders. Laboratory testing found no evidence of an immunologic process. Thus, the most likely explanation for these reactions is a psychological and physical response to the stress or fear of getting a vaccine (ie, an immunization stress-related response). (See \"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Suboptimal HPV vaccine coverage in the United States (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [7]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recombinant zoster vaccine and cardiovascular benefits (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [8]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recommendations on 2026-2027 COVID-19 vaccination (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [9-12]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [13], the American College of Obstetricians and Gynecologists [14], the American Academy of Pediatrics [15], and the Infectious Diseases Society of America [16]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Receipt of MMR vaccine not associated with autism spectrum disorder (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Multiple studies have failed to demonstrate an association between measles, mumps, and rubella (MMR) vaccination and autism spectrum disorder (ASD). In another recent large observational study of 2.5 million children living in the United States, receipt of the first dose of the MMR vaccine between the ages of 11.5 and 24 months was not associated with an increased risk of ASD diagnosis [17]. The study included data between 2015 and 2024 and provides further evidence that the MMR vaccine does not cause ASD. (See \"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "HPV vaccination and cervical cancer deaths (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Human papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [18]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT CARDIOVASCULAR MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Coronary artery calcium scoring in nongated chest CT scans (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While traditionally coronary artery calcium (CAC) scoring has been performed on electrocardiogram (ECG)-gated chest CT scans, incidental CAC can be found on nongated CT chest scans obtained for other reasons. The use of incidental CAC to inform management increasingly is being considered, with the 2026 American College of Cardiology/American Heart Association (ACC/AHA) dyslipidemia guidelines supporting its use for lipid management [19]. In a recent study of 2472 patients who obtained same-day ECG-gated and nongated scans, CAC scores obtained from nongated scans were highly correlated with gated CAC scores, with comparable ability to predict incident coronary heart disease, cardiovascular disease, and all-cause mortality [20]. These findings suggest that use of nongated CAC scoring could allow for earlier cardiac risk stratification and initiation of guideline-recommended preventative care in a wide spectrum of patients. (See \"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Weight reduction in atrial fibrillation (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Weight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [21]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT DERMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of oral antihistamines in atopic dermatitis (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [22]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT ENDOCRINOLOGY AND DIABETES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Retatrutide for obesity management (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Retatrutide is a triple agonist at the GLP-1, GIP, and glucagon receptors under investigation for individuals with obesity, with or without diabetes. In randomized trials:"
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among over 2300 adults without diabetes with body mass index (BMI) of ≥30 kg/m² or ≥27 kg/m² with ≥1 weight-related complication, retatrutide 12 mg reduced body weight by 25 percent at 80 weeks, compared with 4 percent with placebo, with associated improvements in knee osteoarthritis and obstructive sleep apnea in those with these conditions [23]."
+      },
+      {
+        "type": "paragraph",
+        "text": "● Among over 1100 participants with diabetes and BMI of ≥27 kg/m², retatrutide 12 mg versus placebo reduced both body weight (19 versus 5 percent) and glycated hemoglobin (-1.45 versus -0.45 percentage points) at 80 weeks [24]."
+      },
+      {
+        "type": "paragraph",
+        "text": "The most common adverse events in both trials were mild to moderate gastrointestinal symptoms. While promising, retatrutide is not yet commercially available. (See \"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents' and \"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New ACP guidelines for obesity management (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American College of Physicians (ACP) has released new guidelines for the pharmacologic treatment of adults with overweight or obesity [25]. They suggest initiating pharmacotherapy with lifestyle modification in nonpregnant adults with body mass index (BMI) ≥30 kg/m2 or BMI ≥27 to 30 kg/m2 with certain weight-related conditions. They suggest semaglutide and tirzepatide as first-line treatments in both groups. Later-line treatments for those with BMI ≥30 kg/m2 include phentermine-topiramate, liraglutide, and naltrexone-bupropion, but for those with BMI <30 kg/m2, only liraglutide is recommended. Our guidance is generally consistent with these guidelines, although we use non-glucagon-like peptide 1 (GLP-1)-based agents more broadly, particularly if patients cannot access or tolerate tirzepatide or semaglutide. (See \"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Reduced tirzepatide maintenance dosing and weight regain (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tirzepatide is highly efficacious for weight loss, but optimal maintenance dosing has not previously been evaluated in clinical trials. In a new randomized trial including approximately 380 participants who lost at least 5 percent of their bodyweight on tirzepatide and tolerated at least the 10 mg dose, bodyweight reduction from baseline after 52 weeks of maintenance therapy was 22 percent with the maximum tolerated dose (10 or 15 mg); 17 percent with 5 mg maintenance dosing; and 10 percent with placebo [26]. These findings provide insight regarding the magnitude of weight regain with reduced tirzepatide maintenance dosing and support our strategy of continuing the maximum tolerated dose for long-term maintenance. (See \"Obesity in adults: Pharmacotherapy\".)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT GASTROENTEROLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of fecal microbiota transplantation in IBS (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fecal microbiota transplantation (FMT) has been investigated as a treatment option for irritable bowel syndrome (IBS). In a randomized trial of 450 patients with moderate-to-severe IBS, FMT with feces from healthy donors did not increase the likelihood of symptom improvement compared with FMT with feces from the participants themselves (placebo group) [27]. Consistent with these findings, we do not use FMT in the management of IBS. (See \"Treatment of irritable bowel syndrome in adults\", section on 'Other therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rome V criteria for esophageal disorders of gut-brain interaction (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Esophageal disorders of gut-brain interaction (E-DGBIs; functional esophageal disorders) are characterized by esophageal symptoms that are not explained by structural, inflammatory, or major motor abnormalities. The recently published Rome V classification of E-DGBIs provides updated diagnostic criteria for five disorders, including functional chest pain, functional heartburn, functional dysphagia, reflux hypersensitivity, and globus [28]. Rome V incorporates other diagnostic frameworks to exclude esophageal motility disorders and gastroesophageal reflux disease. For functional chest pain, Rome V requires esophageal biopsies only for patients with meal-related symptoms. These revised criteria emphasize a standardized, positive diagnostic approach and facilitate the care of E-DGBIs. (See \"Approach to the adult with chest pain of esophageal origin\", section on 'Functional chest pain'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rome V criteria for gastroduodenal disorders of brain-gut interaction (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Rome criteria provide a classification system for disorders of gut-brain interaction (DGBIs). The newly published Rome V classification offers revised diagnostic criteria for gastroduodenal DBGIs [29]. The five categories of these disorders include functional dyspepsia, chronic nausea and vomiting disorders, excessive belching disorders, rumination syndrome, and a new category: inability to belch syndrome. The updated criteria for functional dyspepsia emphasize the importance of identifying the subtype of functional dyspepsia as either epigastric pain syndrome or postprandial distress syndrome and tailoring management according to the specific subtype. Gastroduodenal DBGIs affect up to 10 percent of adults, highlighting the importance of clear criteria to diagnose these conditions and target management. (See \"Approach to the adult with nausea and vomiting\", section on 'Functional nausea and vomiting disorders'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT HEMATOLOGY AND ONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [30]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Normal life expectancy and limited complications with sickle cell trait (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sickle cell trait (heterozygosity for the sickle cell point mutation) is an unaffected carrier state, but questions continue to arise about health risks. A new study of nearly 500,000 individuals from the United Kingdom biobank followed for 15 years reported no increased mortality from sickle cell trait and no increased risk of cardiovascular death, myocardial infarction, heart failure, ischemic stroke, or pulmonary embolism [31]. Risks were increased for diabetes, chronic kidney disease, and hypertension. This study adds to existing data about clinical manifestations and eliminates biases from analyzing individuals with sickle cell trait who were preselected due to other morbidities. (See \"Sickle cell trait\", section on 'Life expectancy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [32]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT INFECTIOUS DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cyclosporiasis outbreak in the United States (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [33]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [34]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tebipenem pivoxil for complicated urinary tract infections (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "When complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [35]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [36]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT NEPHROLOGY AND HYPERTENSION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Financial incentives and hypertension control in a large health system (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Financial incentives, such as pay-for-performance (P4P) programs in the United States, may improve processes of care for hypertension control, but their impact on clinical outcomes is uncertain. In an observational study of over 330,000 patients with hypertension within a large United States health care system, 63 of 103 primary care practices adopted financial incentives to physicians for blood pressure (BP) control (defined as <140/90 mmHg) [37]. Incentives were associated with a 4.1 percent increase in BP control among patients whose systolic BP was 140 to 145 mmHg and a 2.2 percent increase among those whose systolic BP was >145 mmHg. However, these increases appeared largely due to more frequent BP remeasurement at incentivized versus non-incentivized clinics; intensification of antihypertensive medications did not differ significantly between these groups. This study highlights the complexity and potential downstream effects of financial incentives as a means of improving hypertension quality metrics. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT PULMONOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tozorakimab for refractory COPD exacerbations (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tozorakimab is an anti-IL-33 monoclonal antibody under investigation for the treatment of refractory chronic obstructive pulmonary disease (COPD). In two identical phase 3 trials of 884 current or former smokers with COPD who had had at least one exacerbation in the last 12 months despite optimized inhaled treatments, tozorakimab reduced rates of moderate or severe exacerbation by approximately 30 percent compared with placebo (annualized rate of exacerbations 1.4 versus 2.0 in both trials) [38]. The efficacy appeared largely similar regardless of eosinophil count, age, severity of airflow limitation, or symptom burden. Despite fewer exacerbations, there were no clinically meaningful differences in quality of life, symptoms, or lung function. Pending regulatory approval, tozorakimab is likely to have a role in the treatment of patients with refractory COPD exacerbations. (See \"Management of refractory chronic obstructive pulmonary disease\", section on 'Future directions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Astegolimab therapy for refractory COPD exacerbations (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Astegolimab is a monoclonal antibody against the interleukin-33 (IL-33) receptor (ST2) under investigation for treating chronic obstructive pulmonary disease (COPD). In a combined analysis of two randomized trials including 2682 participants with moderate-severe COPD and frequent exacerbations despite inhaled therapies, subcutaneous astegolimab every two weeks reduced exacerbations by approximately 15 percent compared with placebo (adjusted rate, 1.04 versus 1.22 exacerbations annually) [39,40]. There were no clinically meaningful differences in symptom scores or lung function decline. Post hoc subgroup analyses suggest that there may be additional benefit in individuals with more frequent baseline exacerbations and less severe airflow limitation. This is the first biologic therapy to demonstrate reductions in exacerbation rates in patients with COPD without a hypereosinophilic phenotype. (See \"Management of refractory chronic obstructive pulmonary disease\", section on 'Future directions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Decreased life expectancy in COPD (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chronic obstructive pulmonary disease (COPD) is associated with increased mortality, but this effect has not previously been quantified. In a new cohort study including almost 46,000 participants followed for a median of 15 years, those with COPD had a lower life expectancy compared with those without COPD [41]. After adjusting for demographic factors, comorbidities, educational attainment, and smoking history, years of life lost ranged from 0.7 years for those with GOLD stage 1 disease (forced expiratory volume in one second [FEV1] ≥80 percent predicted) to 7 years for those with GOLD stage 4 disease (FEV1 <30 percent predicted). These findings provide important insight regarding prognosis and help inform patient counseling and care planning. (See \"Chronic obstructive pulmonary disease: Prognostic factors and comorbid conditions\", section on 'Forced expiratory volume in one second'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADULT RHEUMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dual mobility femoral components in hip arthroplasty (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dislocation is the most common early complication of total hip arthroplasty (THA). Dual mobility (DM; also called dual articulation) femoral head components for THA are designed to provide greater range of motion compared with traditional single-articulation components, but it is not certain whether they reduce the risk of dislocation. In a randomized trial of 1600 patients at high risk of dislocation (aged 65 years or older) with displaced femoral neck fractures, dislocation of the joint, or its treatment with closed reduction or open surgery within one year, occurred in fewer patients with DM-THA compared with standard THA (1.3 versus 4.2 percent) [42]. The results of this trial support our use of DM-THA for selected patients at higher risk for dislocation. (See \"Total hip arthroplasty\", section on 'Femoral head'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GYNECOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New WHO guidelines on contraception (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The World Health Organization (WHO) has released new guidelines expanding the range of safe and effective contraceptive options [43]. Notable recommendations include supporting the use of extended and continuous combined oral contraceptive regimens, extending the duration of etonogestrel-releasing implants up to five years, and adding mifepristone as an option for emergency contraception. These recommendations are consistent with our guidance. (See \"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use' and \"Emergency contraception\", section on 'Oral medication emergency contraception methods' and \"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Apical prolapse repair with hysteropexy or hysterectomy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients undergoing surgical repair of apical pelvic organ prolapse (POP) have the options of uterus preservation (ie, hysteropexy) or removal (ie, hysterectomy). Older studies raised concerns that hysterectomy may contribute to development of recurrent POP. In a retrospective study of over 3300 patients undergoing surgical apical prolapse repair with either hysterectomy or hysteropexy, hysterectomy was associated with lower rates of repeat prolapse surgery (7 versus 11 percent) and prolapse retreatment (10 versus 15 percent) after a median follow-up of nine years [1]. While both approaches are reasonable depending on the patient's goals, we counsel patients that risk of recurrent prolapse appears to be lower with hysterectomy. (See \"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intrauterine instillation for reducing pain with IUD placement (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paracervical block is commonly offered to reduce pain associated with intrauterine device (IUD) placement, but injection-related pain has prompted evaluation of other approaches. In a trial comparing intrauterine instillation of mepivacaine with placebo (sodium chloride), patient-reported pain scores at IUD placement were meaningfully lower following mepivacaine treatment (44 versus 59 mm on a 100 mm visual analog scale) [44]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, it is reasonable to offer intrauterine mepivacaine to patients seeking pain reduction during IUD placement. (See \"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lower hormone dose contraceptive patch (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Commonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [45]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Shift in pregnancy loss management following abortion ban (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients experiencing early pregnancy loss may choose expectant management (ie, observation), medication management, or procedural treatment. In a retrospective study of over 123,000 United States patients with early pregnancy loss, patients in states that enacted abortion bans experienced a significant increase in expectant management (2.8 percentage points) and a significant decrease in medication management (2.2 percentage points) when pre- and postabortion ban time frames were compared [46]. We continue to advise treatment selection based on the patient's values and preferences regarding an evidence-based care plan. (See \"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OBSTETRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "GLP-1 receptor agonist use in pregnancy (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [47]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Activity type and duration to reduce risk of hypertensive disorders of pregnancy (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While studies have reported that exercise during pregnancy lowers the risk of hypertensive disorders of pregnancy (HDP), the degree and duration of activity needed to achieve benefit have not been quantified. In a cohort study evaluating 24-hour movement in 470 pregnant individuals, the optimal daily activity composition associated with the lowest risk of developing HDP consisted of nearly six hours of sedentary time, nearly eight hours of light physical activity, seven minutes of moderate to vigorous physical activity, and 10 hours of sleep [48]. This study improves clinicians' ability to counsel pregnant patients on activity goals beyond a \"sit less, move more\" approach. (See \"Exercise during pregnancy and the postpartum period\", section on 'Benefits'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Light activity and pregnancy outcomes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Exercise is generally considered beneficial for pregnant patients, but sedentary patients can find it daunting to change their habits. In an observational study that used accelerometry to monitor the activity of 470 pregnant patients, individuals with less sedentary time, more light physical activity (including standing), and higher step counts had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy (eg, chronic hypertension, gestational hypertension, preeclampsia) [49]. Patients sitting >10 hours a day had twice the risk of adverse pregnancy outcomes compared with those sitting for 7 hours per day. This study provides further data that modest changes in behavior, such as standing and walking more, can have a positive impact on pregnancy outcomes, and supports the framework of \"sit less, move more.\" (See \"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perinatal support to reduce burnout for pregnant trainees (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Occupational burnout increases medical errors and costs; pregnancy and parenthood are unique stressors that increase the risk of burnout. In a study comparing a tailored parental support package with usual care for 143 pregnant trainees (residents and fellows, procedural and non-procedural specialties), trainees receiving the support package reported lower overall mean burnout scores and a lower increase in scores between enrollment and 24 weeks postpartum compared with usual care [50]. The intervention, which consisted of a smart bassinette, wearable breast pump, virtual perinatal support, and formal faculty mentorship, was relatively low-cost and provided an enterprise-level approach to reducing burnout for high-risk trainees. (See \"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PEDIATRICS: GENERAL PEDIATRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Seasonal influenza vaccination for children in 2026 to 2027 (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Influenza vaccination continues to be an important strategy for preventing serious complications from infection. In a new policy statement, the American Academy of Pediatrics reaffirmed previous recommendations for routine influenza vaccination in children without medical contraindications starting at age 6 months [51]. Children ages 6 months to <9 years who have not received at least two doses of any influenza vaccine prior to the 2026 to 2027 influenza season require two influenza vaccine doses given at least four weeks apart in the current season. We agree with these recommendations. (See \"Seasonal influenza in children: Prevention with vaccines\", section on 'United States'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Diagnostic imaging in children with suspected physical child abuse (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American College of Radiology (ACR) has updated its criteria for imaging in children with suspected physical abuse [52]. The ACR criteria reaffirm the skeletal survey as the best method for detecting fractures in these patients. However, the criteria now advise neuroimaging (primarily unenhanced head computed tomography) for all children with suspected physical abuse who are ≤24 months old (including those with no apparent neurologic, skeletal, or visceral injury) and potentially for asymptomatic siblings of abused children. The new ACR criteria for neuroimaging differ from our approach and that of many child abuse experts. We routinely perform neuroimaging in all infants <6 months old with suspected child abuse and in selected infants 6 to 24 months old with clinical signs of intracranial injury, head trauma, skull fractures, rib fractures, or metaphyseal (\"corner\" or \"bucket handle\") fractures. (See \"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Childhood consumption of sugar-sweetened beverages and hypertension risk (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Consumption of sugar-sweetened beverages (SSB) has been associated with cardiovascular disease risk in adults, but this relationship is less clear in children. In a longitudinal cohort study of more than 25,000 individuals followed from childhood to early adulthood (mean ages at study entry and completion, 12 and 36 years), each additional serving per day of SSB (eg, soda, sports drink) was associated with a 14 percent higher risk of hypertension [53]. Consuming ≥1.5 servings per day of fruit juice was associated with a higher risk of hypertension than <1 serving per week; all associations remained significant after controlling for body mass index (BMI). Replacing one SSB per day with water, milk, or whole fruit was associated with 9, 13, and 22 percent reductions in hypertension risk, respectively. This supports existing limits on SSB and juice in childhood (figure 1). (See \"Hypertension in children and adolescents: Epidemiology, risk factors, and etiology\", section on 'Modifiable risk factors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Caregivers' concerns about vaccine safety and sources of misinformation (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Caregiver concerns about vaccine safety are a significant cause of vaccine exemption requests. These concerns are intensified by negative word of mouth or media messages, which may be based on results of methodologically flawed studies that have reported associations between vaccines and certain conditions despite a lack of evidence to support these claims. Recently, studies that previously reported associations between vaccination and adverse outcomes have been retracted or are under investigation due to concerns about their statistical methods and the validity of their results, including those related to sudden infant death syndrome [54]; autism spectrum disorder [55]; and asthma, ear infections, and developmental delays [56]. It is important for clinicians to be aware of misinformation about vaccines so they can address caregiver concerns effectively. (See \"Standard childhood vaccines: Caregiver hesitancy or refusal\", section on 'Vaccine safety misinformation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "POCUS in infants and young children undergoing transurethral bladder catheterization (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Transurethral bladder catheterization (TUBC) is the preferred method for obtaining urine specimens for culture in infants and young children who are not toilet trained; visualization of urine in the bladder with point-of-care ultrasound (POCUS) prior to TUBC may facilitate collection. In a meta-analysis of three trials (337 children undergoing TUBC), first attempt success rate was higher for patients undergoing POCUS (89.7 versus 72.5 percent) and the rate of catheterization attempts resulting in no urine present (\"dry taps\") was lower (3.6 versus 23.9 percent) compared with patients undergoing TUBC without POCUS [57]. These findings confirm improved success rates reported in prior studies and support routine use of POCUS prior to TUBC in this population whenever available. (See \"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nirmatrelvir-ritonavir in children ≥6 years old with mild to moderate COVID-19 (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nirmatrelvir-ritonavir is an oral protease inhibitor for the treatment of mild to moderate coronavirus disease 2019 (COVID-19) and is approved for children ≥12 years of age (≥40 kg), but safety in younger children is not established. In an open-label study, 75 children 6 to 18 years old with recently diagnosed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and at least one risk factor for severe COVID-19 received a twice-daily dose of either nirmatrelvir-ritonavir 300 mg/100 mg (weight ≥40 kg) or 150 mg/100 mg (weight 20 to ≥40 kg) [58]. During the 34-day follow-up period, there were no COVID-19 hospitalizations, severe treatment-related side effects, or deaths. Common adverse events (diarrhea and headache) and reductions in SARS-CoV-2 ribonucleic acid (RNA) were comparable to those seen in adults. These findings suggest that nirmatrelvir-ritonavir is safe and effective for the prevention of severe COVID-19 in children 6 to 12 years old, although it does not have regulatory approval for this age group. (See \"COVID-19: Management in children\", section on 'Nirmatrelvir-ritonavir'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Oxygen saturation threshold for oxygen therapy in children with bronchiolitis (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The recommended peripheral oxygen saturation (SpO2) threshold for initiation of oxygen therapy in hospitalized children with bronchiolitis is <90 percent, but lower thresholds have been proposed. In an unblinded randomized trial of 566 children <12 years old who were admitted to the hospital for acute respiratory distress (38 percent with bronchiolitis), those assigned to a permissive SpO2 threshold (≤88 percent) compared with a liberal threshold (≤92 percent) had a shorter time to meeting discharge criteria (adjusted absolute difference 16.8 hours) and a shorter hospital length of stay [59]. Hospital readmissions and pediatric intensive care unit (PICU) admissions within 28 days were similar in both groups. These findings suggest that a SpO2 threshold ≤88 percent may be safe. However, we continue to use SpO2 <90 percent while awaiting further confirmation. (See \"Bronchiolitis in infants and children: Treatment, outcome, and prevention\", section on 'Oxygen saturation target and monitoring'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Poisoning-related fatality from illicit substances in children and adolescents (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Illicit substances such as opioids can result in poisoning-related fatality in pediatric patients. In an analysis conducted on national surveillance databases from the Centers for Disease Control, the rate of death from poisoning (including illicit drug overdoses) in children and adolescents aged 1 to 19 years increased by 12.7 percent from 2020 to 2023 [60]. In 2023, 1913 deaths were from illicit drug overdoses, and the majority (79.5 percent) were from fentanyl. These findings confirm that illicit substances remain a common cause of fatality in children and adolescents, and that ongoing educational and other preventive measures are warranted in this population. (See \"Poisoning in children: Prevention\", section on 'Fatalities'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Poisoning-related injury from ingested household products in young children (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ingested household products remain a common cause of poisoning-related injury in young children. An analysis of national surveillance data estimated that over 240,000 children aged ≤5 years were treated in United States emergency departments for injuries from exposure to household cleaning products from 2007 to 2022 [61]. Approximately 60 percent of injuries were from ingestion. The products and containers associated with the most injuries were bleach (30.1 percent), detergents (28.6 percent), detergent packets (33 percent), and spray bottles (28.2 percent). These findings highlight the importance of ongoing educational, regulatory, and product engineering measures to prevent injuries from ingested substances in pediatric patients. (See \"Poisoning in children: Prevention\", section on 'Ingested substances'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Use of natural health products among children and adolescents (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Natural health products (NHPs) are among the most commonly used complementary therapies in children and adolescents. In an observational study of data from the National Health and Nutrition Examination Survey involving over 12,500 children and adolescents, approximately 35 percent used a vitamin/mineral or dietary supplement between 2015 and 2023 [62]. During the study period, the use of dietary supplements as alternative medicines increased from 3 to 4.2 percent; the largest increases were for melatonin, fiber, and probiotics. Adolescent boys were more likely to use melatonin and bodybuilding supplements, while adolescent girls were more likely to use probiotics and weight-loss supplements. These findings document increasing use of NHPs as alternative therapies in children and adolescents and emphasize the importance of asking about NHP use and educating families about the potential adverse effects. (See \"Integrative pediatric health care\", section on 'Natural health products'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "International guidelines for the management of pediatric sepsis and septic shock (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The 2026 Surviving Sepsis Campaign International Pediatric Guidelines for the management of sepsis and septic shock in children are available [63]. The guidelines reaffirm the prime importance of the rapid recognition of septic shock and treatment that includes timely administration of fluid bolus therapy, empiric broad-spectrum antibiotics, and, in patients not responding to fluid bolus therapy, initiation of vasoactive medications (epinephrine or norepinephrine) (algorithm 1). The 2026 guidelines also provide new recommendations that promote the use of blood lactate trends, lung and cardiac point-of-care ultrasound, and central venous oxygen saturation (ScvO2 ≥ 70 percent) to monitor resuscitation. Our approach is consistent with these guidelines. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Balanced crystalloid solution versus normal saline for children with septic shock (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For children with septic shock, whether to administer balanced crystalloid solutions (BCS; for example, lactated Ringer's) versus normal saline (NS) during initial fluid resuscitation is unclear. In a new randomized trial of over 8400 children with suspected septic shock, the combined outcomes of death, initiation of renal-replacement therapy, and persistent kidney dysfunction at 30 days were not significantly different in patients who were assigned to fluid resuscitation for up to 48 hours with BCS (3.4 percent) versus NS (3 percent) [64]. Hyperchloremia and hypernatremia were more common in patients receiving NS; increased blood lactate was more common in patients receiving BCS. Otherwise, adverse effects were similar in both groups. These findings suggest that either BCS or NS is an appropriate choice for fluid resuscitation of children with septic shock. However, the results may not be generalizable to patients with hospital-acquired sepsis or those treated in resource-limited settings. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nADULT GENERAL INTERNAL MEDICINE\n\nNo benefit of medical cannabis for insomnia (October 2026)\n\nCannabis has been evaluated as a potential therapy for insomnia, but its efficacy has not been established. In a meta-analysis of nine trials including adults with acute or chronic insomnia, medical cannabis did not improve sleep quality or satisfaction with sleep, total sleep time, or daytime functioning compared with placebo [1]. Consistent with these results, we do not routinely use cannabis in the treatment of insomnia. (See \"Pharmacotherapy for insomnia in adults\", section on 'Cannabinoids'.)\n\nUpdated AAO-HNS tinnitus guidelines (October 2026)\n\nThe American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) has released an updated clinical practice guideline for the evaluation and management of tinnitus [2]. Key changes include recommending audiologic testing for all patients with tinnitus and supporting bimodal stimulation as a treatment option for persistent, bothersome tinnitus. They continue to recommend cognitive behavioral therapy and sound enrichment (using one sound to block another sound, also referred to as masking) as initial treatment options and recommend against medications or supplements. Our guidance largely aligns with their recommendations, although we do not routinely use bimodal stimulation. (See \"Etiology and diagnosis of tinnitus\", section on 'Audiometry for all patients' and \"Treatment of tinnitus\".)\n\nUse of other tobacco products during attempts at vaping cessation (June 2026)\n\nFor adolescents and young adults who vape nicotine, nicotine dependence often interferes with quit attempts. In an observational survey study of 963 young adults who vaped, 62 percent made a quit attempt during the past year, and approximately 15 percent substituted other tobacco products to aid with vaping cessation (usually nicotine pouches or cigarettes) [3].To reduce this risk, it is important to remind them about the harms of tobacco products, assess for signs of nicotine dependence, and support the quit attempt with behavioral supports and pharmacotherapy, if needed. (See \"Management of smoking and vaping cessation in adolescents\", section on 'Address nicotine withdrawal symptoms and other barriers to quitting'.)\n\nEnsitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)\n\nEnsitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [4]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)\n\nGERIATRICS\n\nTiming of interventions to promote advance care planning (August 2026)\n\nAdvance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [5]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)\n\nIMMUNIZATIONS\n\nNo immunologic mechanism identified for immediate reactions to COVID-19 mRNA vaccines (October 2026)\n\nAn immunologic mechanism for immediate reactions to COVID-19 mRNA vaccines has not been demonstrated. A randomized trial of over 700 patients examined possible mechanisms for these reactions by administering one of two brands of mRNA COVID-19 vaccine or a placebo injection and performing extensive laboratory testing in those who reacted [6]. A small and similar percentage (between 1 and 3 percent) of patients had immediate reactions to a vaccine or to placebo, and these occurred exclusively in patients with past severe reactions to other allergens or mast cell disorders. Laboratory testing found no evidence of an immunologic process. Thus, the most likely explanation for these reactions is a psychological and physical response to the stress or fear of getting a vaccine (ie, an immunization stress-related response). (See \"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'.)\n\nSuboptimal HPV vaccine coverage in the United States (September 2026)\n\nIn the United States, human papillomavirus (HPV) vaccine coverage lags behind that of other recommended vaccines. In a study using data from a national survey of adolescents with provider-reported vaccination records, estimated HPV vaccine coverage among individuals aged 13 to 17 was 78 percent for at least one dose and 63 percent for the series; overall coverage did not improve between 2021 and 2025 [7]. By contrast, vaccination coverage was >90 percent for at least one dose of Tdap and MenACWY. These results emphasize the importance of efforts to improve HPV vaccine coverage in target populations. (See \"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'.)\n\nRecombinant zoster vaccine and cardiovascular benefits (September 2026)\n\nMost studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [8]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)\n\nRecommendations on 2026-2027 COVID-19 vaccination (September 2026)\n\nIn August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [9-12]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [13], the American College of Obstetricians and Gynecologists [14], the American Academy of Pediatrics [15], and the Infectious Diseases Society of America [16]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)\n\nReceipt of MMR vaccine not associated with autism spectrum disorder (August 2026)\n\nMultiple studies have failed to demonstrate an association between measles, mumps, and rubella (MMR) vaccination and autism spectrum disorder (ASD). In another recent large observational study of 2.5 million children living in the United States, receipt of the first dose of the MMR vaccine between the ages of 11.5 and 24 months was not associated with an increased risk of ASD diagnosis [17]. The study included data between 2015 and 2024 and provides further evidence that the MMR vaccine does not cause ASD. (See \"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'.)\n\nHPV vaccination and cervical cancer deaths (June 2026)\n\nHuman papillomavirus (HPV) vaccination decreases the incidence of cervical cancer; new data suggest that it is also associated with reduced cervical cancer mortality. In a study evaluating the impact of the national HPV vaccination program in England, there were zero deaths due to cervical cancer among females who were aged 20 to 24 years between 2020 and 2024 (a cohort that had achieved high rates of HPV vaccine coverage at age 12 to 13 years) [18]. The study estimated that 23 cervical cancer deaths would have occurred in this age group in the absence of national vaccination. HPV vaccination was also associated with an estimated cervical cancer mortality reduction up to 80 percent among older birth cohorts who had been vaccinated up to age 18 and had lower rates of vaccine coverage. These findings support our recommendation for routine HPV vaccination at an early age. (See \"Human papillomavirus vaccination\", section on 'Females'.)\n\nADULT CARDIOVASCULAR MEDICINE\n\nCoronary artery calcium scoring in nongated chest CT scans (August 2026)\n\nWhile traditionally coronary artery calcium (CAC) scoring has been performed on electrocardiogram (ECG)-gated chest CT scans, incidental CAC can be found on nongated CT chest scans obtained for other reasons. The use of incidental CAC to inform management increasingly is being considered, with the 2026 American College of Cardiology/American Heart Association (ACC/AHA) dyslipidemia guidelines supporting its use for lipid management [19]. In a recent study of 2472 patients who obtained same-day ECG-gated and nongated scans, CAC scores obtained from nongated scans were highly correlated with gated CAC scores, with comparable ability to predict incident coronary heart disease, cardiovascular disease, and all-cause mortality [20]. These findings suggest that use of nongated CAC scoring could allow for earlier cardiac risk stratification and initiation of guideline-recommended preventative care in a wide spectrum of patients. (See \"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'.)\n\nWeight reduction in atrial fibrillation (May 2026)\n\nWeight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [21]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)\n\nADULT DERMATOLOGY\n\nNo benefit of oral antihistamines in atopic dermatitis (August 2026)\n\nOral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [22]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)\n\nADULT ENDOCRINOLOGY AND DIABETES\n\nRetatrutide for obesity management (October 2026)\n\nRetatrutide is a triple agonist at the GLP-1, GIP, and glucagon receptors under investigation for individuals with obesity, with or without diabetes. In randomized trials:\n\n● Among over 2300 adults without diabetes with body mass index (BMI) of ≥30 kg/m² or ≥27 kg/m² with ≥1 weight-related complication, retatrutide 12 mg reduced body weight by 25 percent at 80 weeks, compared with 4 percent with placebo, with associated improvements in knee osteoarthritis and obstructive sleep apnea in those with these conditions [23].\n\n● Among over 1100 participants with diabetes and BMI of ≥27 kg/m², retatrutide 12 mg versus placebo reduced both body weight (19 versus 5 percent) and glycated hemoglobin (-1.45 versus -0.45 percentage points) at 80 weeks [24].\n\nThe most common adverse events in both trials were mild to moderate gastrointestinal symptoms. While promising, retatrutide is not yet commercially available. (See \"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents' and \"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'.)\n\nNew ACP guidelines for obesity management (June 2026)\n\nThe American College of Physicians (ACP) has released new guidelines for the pharmacologic treatment of adults with overweight or obesity [25]. They suggest initiating pharmacotherapy with lifestyle modification in nonpregnant adults with body mass index (BMI) ≥30 kg/m2 or BMI ≥27 to 30 kg/m2 with certain weight-related conditions. They suggest semaglutide and tirzepatide as first-line treatments in both groups. Later-line treatments for those with BMI ≥30 kg/m2 include phentermine-topiramate, liraglutide, and naltrexone-bupropion, but for those with BMI <30 kg/m2, only liraglutide is recommended. Our guidance is generally consistent with these guidelines, although we use non-glucagon-like peptide 1 (GLP-1)-based agents more broadly, particularly if patients cannot access or tolerate tirzepatide or semaglutide. (See \"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'.)\n\nReduced tirzepatide maintenance dosing and weight regain (May 2026)\n\nTirzepatide is highly efficacious for weight loss, but optimal maintenance dosing has not previously been evaluated in clinical trials. In a new randomized trial including approximately 380 participants who lost at least 5 percent of their bodyweight on tirzepatide and tolerated at least the 10 mg dose, bodyweight reduction from baseline after 52 weeks of maintenance therapy was 22 percent with the maximum tolerated dose (10 or 15 mg); 17 percent with 5 mg maintenance dosing; and 10 percent with placebo [26]. These findings provide insight regarding the magnitude of weight regain with reduced tirzepatide maintenance dosing and support our strategy of continuing the maximum tolerated dose for long-term maintenance. (See \"Obesity in adults: Pharmacotherapy\".)\n\nADULT GASTROENTEROLOGY\n\nNo benefit of fecal microbiota transplantation in IBS (October 2026)\n\nFecal microbiota transplantation (FMT) has been investigated as a treatment option for irritable bowel syndrome (IBS). In a randomized trial of 450 patients with moderate-to-severe IBS, FMT with feces from healthy donors did not increase the likelihood of symptom improvement compared with FMT with feces from the participants themselves (placebo group) [27]. Consistent with these findings, we do not use FMT in the management of IBS. (See \"Treatment of irritable bowel syndrome in adults\", section on 'Other therapies'.)\n\nRome V criteria for esophageal disorders of gut-brain interaction (April 2026)\n\nEsophageal disorders of gut-brain interaction (E-DGBIs; functional esophageal disorders) are characterized by esophageal symptoms that are not explained by structural, inflammatory, or major motor abnormalities. The recently published Rome V classification of E-DGBIs provides updated diagnostic criteria for five disorders, including functional chest pain, functional heartburn, functional dysphagia, reflux hypersensitivity, and globus [28]. Rome V incorporates other diagnostic frameworks to exclude esophageal motility disorders and gastroesophageal reflux disease. For functional chest pain, Rome V requires esophageal biopsies only for patients with meal-related symptoms. These revised criteria emphasize a standardized, positive diagnostic approach and facilitate the care of E-DGBIs. (See \"Approach to the adult with chest pain of esophageal origin\", section on 'Functional chest pain'.)\n\nRome V criteria for gastroduodenal disorders of brain-gut interaction (April 2026)\n\nThe Rome criteria provide a classification system for disorders of gut-brain interaction (DGBIs). The newly published Rome V classification offers revised diagnostic criteria for gastroduodenal DBGIs [29]. The five categories of these disorders include functional dyspepsia, chronic nausea and vomiting disorders, excessive belching disorders, rumination syndrome, and a new category: inability to belch syndrome. The updated criteria for functional dyspepsia emphasize the importance of identifying the subtype of functional dyspepsia as either epigastric pain syndrome or postprandial distress syndrome and tailoring management according to the specific subtype. Gastroduodenal DBGIs affect up to 10 percent of adults, highlighting the importance of clear criteria to diagnose these conditions and target management. (See \"Approach to the adult with nausea and vomiting\", section on 'Functional nausea and vomiting disorders'.)\n\nADULT HEMATOLOGY AND ONCOLOGY\n\nNew American Society of Hematology guidelines on diagnosing iron deficiency (September 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines on diagnosing iron deficiency using serum ferritin cutoffs [30]. These include ferritin ≤20 ng/mL in children 9 months to 4 years (and extrapolating through age 11 years), ≤30 ng/mL in adolescents and adults (including pregnant individuals), and ≤50 ng/mL in individuals with heavy menstrual bleeding, other iron deficiency risk factors, iron deficiency symptoms, upcoming surgery, or planning pregnancy. For adults with anemia of inflammation, they suggest using both ferritin and transferrin saturation (TSAT) and considering a diagnosis of iron deficiency with ferritin <100 ng/mL or TSAT of <20 percent, understanding that other causes of anemia may be present. These guidelines add to the ongoing focus on screening for iron deficiency in high-risk populations and diagnosing iron deficiency before anemia develops. (See \"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'.)\n\nNormal life expectancy and limited complications with sickle cell trait (August 2026)\n\nSickle cell trait (heterozygosity for the sickle cell point mutation) is an unaffected carrier state, but questions continue to arise about health risks. A new study of nearly 500,000 individuals from the United Kingdom biobank followed for 15 years reported no increased mortality from sickle cell trait and no increased risk of cardiovascular death, myocardial infarction, heart failure, ischemic stroke, or pulmonary embolism [31]. Risks were increased for diabetes, chronic kidney disease, and hypertension. This study adds to existing data about clinical manifestations and eliminates biases from analyzing individuals with sickle cell trait who were preselected due to other morbidities. (See \"Sickle cell trait\", section on 'Life expectancy'.)\n\nNew American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [32]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)\n\nADULT INFECTIOUS DISEASES\n\nCyclosporiasis outbreak in the United States (July 2026)\n\nCyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [33]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [34]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)\n\nTebipenem pivoxil for complicated urinary tract infections (June 2026)\n\nWhen complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [35]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)\n\nPre-exposure prophylaxis against HIV for people who engage in vaginal sex (May 2026)\n\nThe United States Department of Health and Human Services (DHHS) recently updated the perinatal HIV guidelines to emphasize a shared decision-making approach to determine the best option for pre-exposure prophylaxis (PrEP) against HIV in people engaging in receptive vaginal sex, including those who are pregnant [36]. Previously, daily oral tenofovir disoproxil fumarate-emtricitabine was the only recommended option for such patients. The updated guidelines added long-acting cabotegravir and lenacapavir as other recommended options based on data demonstrating that these injectable agents are highly effective in preventing HIV through vaginal exposure; no increased incidence of adverse birth outcomes with use during pregnancy has been identified. This update expands HIV prevention options for females at risk of acquiring HIV. (See \"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'.)\n\nADULT NEPHROLOGY AND HYPERTENSION\n\nFinancial incentives and hypertension control in a large health system (June 2026)\n\nFinancial incentives, such as pay-for-performance (P4P) programs in the United States, may improve processes of care for hypertension control, but their impact on clinical outcomes is uncertain. In an observational study of over 330,000 patients with hypertension within a large United States health care system, 63 of 103 primary care practices adopted financial incentives to physicians for blood pressure (BP) control (defined as <140/90 mmHg) [37]. Incentives were associated with a 4.1 percent increase in BP control among patients whose systolic BP was 140 to 145 mmHg and a 2.2 percent increase among those whose systolic BP was >145 mmHg. However, these increases appeared largely due to more frequent BP remeasurement at incentivized versus non-incentivized clinics; intensification of antihypertensive medications did not differ significantly between these groups. This study highlights the complexity and potential downstream effects of financial incentives as a means of improving hypertension quality metrics. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)\n\nADULT PULMONOLOGY\n\nTozorakimab for refractory COPD exacerbations (September 2026)\n\nTozorakimab is an anti-IL-33 monoclonal antibody under investigation for the treatment of refractory chronic obstructive pulmonary disease (COPD). In two identical phase 3 trials of 884 current or former smokers with COPD who had had at least one exacerbation in the last 12 months despite optimized inhaled treatments, tozorakimab reduced rates of moderate or severe exacerbation by approximately 30 percent compared with placebo (annualized rate of exacerbations 1.4 versus 2.0 in both trials) [38]. The efficacy appeared largely similar regardless of eosinophil count, age, severity of airflow limitation, or symptom burden. Despite fewer exacerbations, there were no clinically meaningful differences in quality of life, symptoms, or lung function. Pending regulatory approval, tozorakimab is likely to have a role in the treatment of patients with refractory COPD exacerbations. (See \"Management of refractory chronic obstructive pulmonary disease\", section on 'Future directions'.)\n\nAstegolimab therapy for refractory COPD exacerbations (May 2026)\n\nAstegolimab is a monoclonal antibody against the interleukin-33 (IL-33) receptor (ST2) under investigation for treating chronic obstructive pulmonary disease (COPD). In a combined analysis of two randomized trials including 2682 participants with moderate-severe COPD and frequent exacerbations despite inhaled therapies, subcutaneous astegolimab every two weeks reduced exacerbations by approximately 15 percent compared with placebo (adjusted rate, 1.04 versus 1.22 exacerbations annually) [39,40]. There were no clinically meaningful differences in symptom scores or lung function decline. Post hoc subgroup analyses suggest that there may be additional benefit in individuals with more frequent baseline exacerbations and less severe airflow limitation. This is the first biologic therapy to demonstrate reductions in exacerbation rates in patients with COPD without a hypereosinophilic phenotype. (See \"Management of refractory chronic obstructive pulmonary disease\", section on 'Future directions'.)\n\nDecreased life expectancy in COPD (May 2026)\n\nChronic obstructive pulmonary disease (COPD) is associated with increased mortality, but this effect has not previously been quantified. In a new cohort study including almost 46,000 participants followed for a median of 15 years, those with COPD had a lower life expectancy compared with those without COPD [41]. After adjusting for demographic factors, comorbidities, educational attainment, and smoking history, years of life lost ranged from 0.7 years for those with GOLD stage 1 disease (forced expiratory volume in one second [FEV1] ≥80 percent predicted) to 7 years for those with GOLD stage 4 disease (FEV1 <30 percent predicted). These findings provide important insight regarding prognosis and help inform patient counseling and care planning. (See \"Chronic obstructive pulmonary disease: Prognostic factors and comorbid conditions\", section on 'Forced expiratory volume in one second'.)\n\nADULT RHEUMATOLOGY\n\nDual mobility femoral components in hip arthroplasty (July 2026)\n\nDislocation is the most common early complication of total hip arthroplasty (THA). Dual mobility (DM; also called dual articulation) femoral head components for THA are designed to provide greater range of motion compared with traditional single-articulation components, but it is not certain whether they reduce the risk of dislocation. In a randomized trial of 1600 patients at high risk of dislocation (aged 65 years or older) with displaced femoral neck fractures, dislocation of the joint, or its treatment with closed reduction or open surgery within one year, occurred in fewer patients with DM-THA compared with standard THA (1.3 versus 4.2 percent) [42]. The results of this trial support our use of DM-THA for selected patients at higher risk for dislocation. (See \"Total hip arthroplasty\", section on 'Femoral head'.)\n\nGYNECOLOGY\n\nNew WHO guidelines on contraception (October 2026)\n\nThe World Health Organization (WHO) has released new guidelines expanding the range of safe and effective contraceptive options [43]. Notable recommendations include supporting the use of extended and continuous combined oral contraceptive regimens, extending the duration of etonogestrel-releasing implants up to five years, and adding mifepristone as an option for emergency contraception. These recommendations are consistent with our guidance. (See \"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use' and \"Emergency contraception\", section on 'Oral medication emergency contraception methods' and \"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'.)\n\nApical prolapse repair with hysteropexy or hysterectomy (October 2026)\n\nPatients undergoing surgical repair of apical pelvic organ prolapse (POP) have the options of uterus preservation (ie, hysteropexy) or removal (ie, hysterectomy). Older studies raised concerns that hysterectomy may contribute to development of recurrent POP. In a retrospective study of over 3300 patients undergoing surgical apical prolapse repair with either hysterectomy or hysteropexy, hysterectomy was associated with lower rates of repeat prolapse surgery (7 versus 11 percent) and prolapse retreatment (10 versus 15 percent) after a median follow-up of nine years [1]. While both approaches are reasonable depending on the patient's goals, we counsel patients that risk of recurrent prolapse appears to be lower with hysterectomy. (See \"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'.)\n\nIntrauterine instillation for reducing pain with IUD placement (September 2026)\n\nParacervical block is commonly offered to reduce pain associated with intrauterine device (IUD) placement, but injection-related pain has prompted evaluation of other approaches. In a trial comparing intrauterine instillation of mepivacaine with placebo (sodium chloride), patient-reported pain scores at IUD placement were meaningfully lower following mepivacaine treatment (44 versus 59 mm on a 100 mm visual analog scale) [44]. This study involved placement of smaller-diameter IUDs, which may limit generalizability; however, it is reasonable to offer intrauterine mepivacaine to patients seeking pain reduction during IUD placement. (See \"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'.)\n\nLower hormone dose contraceptive patch (August 2026)\n\nCommonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [45]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)\n\nShift in pregnancy loss management following abortion ban (May 2026)\n\nPatients experiencing early pregnancy loss may choose expectant management (ie, observation), medication management, or procedural treatment. In a retrospective study of over 123,000 United States patients with early pregnancy loss, patients in states that enacted abortion bans experienced a significant increase in expectant management (2.8 percentage points) and a significant decrease in medication management (2.2 percentage points) when pre- and postabortion ban time frames were compared [46]. We continue to advise treatment selection based on the patient's values and preferences regarding an evidence-based care plan. (See \"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'.)\n\nOBSTETRICS\n\nGLP-1 receptor agonist use in pregnancy (October 2026)\n\nData are accumulating on fetal outcomes in pregnant patients treated with glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for managing preexisting diabetes. In a meta-analysis of over 40,000 pregnancies that evaluated the risk of exposure to GLP-1 RAs during pregnancy versus no exposure, the risk of congenital anomalies was similar for both groups (3.4 percent), as were the risks of preterm birth and stillbirth [47]. While these results are reassuring, we continue to transition patients planning to become pregnant or who are pregnant from GLP-1 RAs to insulin to manage hyperglycemia, as the impact of GLP-1 exposure during pregnancy is not fully known, and insulin has an established safety profile. (See \"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'.)\n\nActivity type and duration to reduce risk of hypertensive disorders of pregnancy (July 2026)\n\nWhile studies have reported that exercise during pregnancy lowers the risk of hypertensive disorders of pregnancy (HDP), the degree and duration of activity needed to achieve benefit have not been quantified. In a cohort study evaluating 24-hour movement in 470 pregnant individuals, the optimal daily activity composition associated with the lowest risk of developing HDP consisted of nearly six hours of sedentary time, nearly eight hours of light physical activity, seven minutes of moderate to vigorous physical activity, and 10 hours of sleep [48]. This study improves clinicians' ability to counsel pregnant patients on activity goals beyond a \"sit less, move more\" approach. (See \"Exercise during pregnancy and the postpartum period\", section on 'Benefits'.)\n\nLight activity and pregnancy outcomes (June 2026)\n\nExercise is generally considered beneficial for pregnant patients, but sedentary patients can find it daunting to change their habits. In an observational study that used accelerometry to monitor the activity of 470 pregnant patients, individuals with less sedentary time, more light physical activity (including standing), and higher step counts had a reduced risk of adverse pregnancy outcomes, including hypertensive disorders of pregnancy (eg, chronic hypertension, gestational hypertension, preeclampsia) [49]. Patients sitting >10 hours a day had twice the risk of adverse pregnancy outcomes compared with those sitting for 7 hours per day. This study provides further data that modest changes in behavior, such as standing and walking more, can have a positive impact on pregnancy outcomes, and supports the framework of \"sit less, move more.\" (See \"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'.)\n\nPerinatal support to reduce burnout for pregnant trainees (May 2026)\n\nOccupational burnout increases medical errors and costs; pregnancy and parenthood are unique stressors that increase the risk of burnout. In a study comparing a tailored parental support package with usual care for 143 pregnant trainees (residents and fellows, procedural and non-procedural specialties), trainees receiving the support package reported lower overall mean burnout scores and a lower increase in scores between enrollment and 24 weeks postpartum compared with usual care [50]. The intervention, which consisted of a smart bassinette, wearable breast pump, virtual perinatal support, and formal faculty mentorship, was relatively low-cost and provided an enterprise-level approach to reducing burnout for high-risk trainees. (See \"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'.)\n\nPEDIATRICS: GENERAL PEDIATRICS\n\nSeasonal influenza vaccination for children in 2026 to 2027 (August 2026)\n\nInfluenza vaccination continues to be an important strategy for preventing serious complications from infection. In a new policy statement, the American Academy of Pediatrics reaffirmed previous recommendations for routine influenza vaccination in children without medical contraindications starting at age 6 months [51]. Children ages 6 months to <9 years who have not received at least two doses of any influenza vaccine prior to the 2026 to 2027 influenza season require two influenza vaccine doses given at least four weeks apart in the current season. We agree with these recommendations. (See \"Seasonal influenza in children: Prevention with vaccines\", section on 'United States'.)\n\nDiagnostic imaging in children with suspected physical child abuse (August 2026)\n\nThe American College of Radiology (ACR) has updated its criteria for imaging in children with suspected physical abuse [52]. The ACR criteria reaffirm the skeletal survey as the best method for detecting fractures in these patients. However, the criteria now advise neuroimaging (primarily unenhanced head computed tomography) for all children with suspected physical abuse who are ≤24 months old (including those with no apparent neurologic, skeletal, or visceral injury) and potentially for asymptomatic siblings of abused children. The new ACR criteria for neuroimaging differ from our approach and that of many child abuse experts. We routinely perform neuroimaging in all infants <6 months old with suspected child abuse and in selected infants 6 to 24 months old with clinical signs of intracranial injury, head trauma, skull fractures, rib fractures, or metaphyseal (\"corner\" or \"bucket handle\") fractures. (See \"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'.)\n\nChildhood consumption of sugar-sweetened beverages and hypertension risk (July 2026)\n\nConsumption of sugar-sweetened beverages (SSB) has been associated with cardiovascular disease risk in adults, but this relationship is less clear in children. In a longitudinal cohort study of more than 25,000 individuals followed from childhood to early adulthood (mean ages at study entry and completion, 12 and 36 years), each additional serving per day of SSB (eg, soda, sports drink) was associated with a 14 percent higher risk of hypertension [53]. Consuming ≥1.5 servings per day of fruit juice was associated with a higher risk of hypertension than <1 serving per week; all associations remained significant after controlling for body mass index (BMI). Replacing one SSB per day with water, milk, or whole fruit was associated with 9, 13, and 22 percent reductions in hypertension risk, respectively. This supports existing limits on SSB and juice in childhood (figure 1). (See \"Hypertension in children and adolescents: Epidemiology, risk factors, and etiology\", section on 'Modifiable risk factors'.)\n\nCaregivers' concerns about vaccine safety and sources of misinformation (July 2026)\n\nCaregiver concerns about vaccine safety are a significant cause of vaccine exemption requests. These concerns are intensified by negative word of mouth or media messages, which may be based on results of methodologically flawed studies that have reported associations between vaccines and certain conditions despite a lack of evidence to support these claims. Recently, studies that previously reported associations between vaccination and adverse outcomes have been retracted or are under investigation due to concerns about their statistical methods and the validity of their results, including those related to sudden infant death syndrome [54]; autism spectrum disorder [55]; and asthma, ear infections, and developmental delays [56]. It is important for clinicians to be aware of misinformation about vaccines so they can address caregiver concerns effectively. (See \"Standard childhood vaccines: Caregiver hesitancy or refusal\", section on 'Vaccine safety misinformation'.)\n\nPOCUS in infants and young children undergoing transurethral bladder catheterization (July 2026)\n\nTransurethral bladder catheterization (TUBC) is the preferred method for obtaining urine specimens for culture in infants and young children who are not toilet trained; visualization of urine in the bladder with point-of-care ultrasound (POCUS) prior to TUBC may facilitate collection. In a meta-analysis of three trials (337 children undergoing TUBC), first attempt success rate was higher for patients undergoing POCUS (89.7 versus 72.5 percent) and the rate of catheterization attempts resulting in no urine present (\"dry taps\") was lower (3.6 versus 23.9 percent) compared with patients undergoing TUBC without POCUS [57]. These findings confirm improved success rates reported in prior studies and support routine use of POCUS prior to TUBC in this population whenever available. (See \"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'.)\n\nNirmatrelvir-ritonavir in children ≥6 years old with mild to moderate COVID-19 (July 2026)\n\nNirmatrelvir-ritonavir is an oral protease inhibitor for the treatment of mild to moderate coronavirus disease 2019 (COVID-19) and is approved for children ≥12 years of age (≥40 kg), but safety in younger children is not established. In an open-label study, 75 children 6 to 18 years old with recently diagnosed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and at least one risk factor for severe COVID-19 received a twice-daily dose of either nirmatrelvir-ritonavir 300 mg/100 mg (weight ≥40 kg) or 150 mg/100 mg (weight 20 to ≥40 kg) [58]. During the 34-day follow-up period, there were no COVID-19 hospitalizations, severe treatment-related side effects, or deaths. Common adverse events (diarrhea and headache) and reductions in SARS-CoV-2 ribonucleic acid (RNA) were comparable to those seen in adults. These findings suggest that nirmatrelvir-ritonavir is safe and effective for the prevention of severe COVID-19 in children 6 to 12 years old, although it does not have regulatory approval for this age group. (See \"COVID-19: Management in children\", section on 'Nirmatrelvir-ritonavir'.)\n\nOxygen saturation threshold for oxygen therapy in children with bronchiolitis (June 2026)\n\nThe recommended peripheral oxygen saturation (SpO2) threshold for initiation of oxygen therapy in hospitalized children with bronchiolitis is <90 percent, but lower thresholds have been proposed. In an unblinded randomized trial of 566 children <12 years old who were admitted to the hospital for acute respiratory distress (38 percent with bronchiolitis), those assigned to a permissive SpO2 threshold (≤88 percent) compared with a liberal threshold (≤92 percent) had a shorter time to meeting discharge criteria (adjusted absolute difference 16.8 hours) and a shorter hospital length of stay [59]. Hospital readmissions and pediatric intensive care unit (PICU) admissions within 28 days were similar in both groups. These findings suggest that a SpO2 threshold ≤88 percent may be safe. However, we continue to use SpO2 <90 percent while awaiting further confirmation. (See \"Bronchiolitis in infants and children: Treatment, outcome, and prevention\", section on 'Oxygen saturation target and monitoring'.)\n\nPoisoning-related fatality from illicit substances in children and adolescents (May 2026)\n\nIllicit substances such as opioids can result in poisoning-related fatality in pediatric patients. In an analysis conducted on national surveillance databases from the Centers for Disease Control, the rate of death from poisoning (including illicit drug overdoses) in children and adolescents aged 1 to 19 years increased by 12.7 percent from 2020 to 2023 [60]. In 2023, 1913 deaths were from illicit drug overdoses, and the majority (79.5 percent) were from fentanyl. These findings confirm that illicit substances remain a common cause of fatality in children and adolescents, and that ongoing educational and other preventive measures are warranted in this population. (See \"Poisoning in children: Prevention\", section on 'Fatalities'.)\n\nPoisoning-related injury from ingested household products in young children (May 2026)\n\nIngested household products remain a common cause of poisoning-related injury in young children. An analysis of national surveillance data estimated that over 240,000 children aged ≤5 years were treated in United States emergency departments for injuries from exposure to household cleaning products from 2007 to 2022 [61]. Approximately 60 percent of injuries were from ingestion. The products and containers associated with the most injuries were bleach (30.1 percent), detergents (28.6 percent), detergent packets (33 percent), and spray bottles (28.2 percent). These findings highlight the importance of ongoing educational, regulatory, and product engineering measures to prevent injuries from ingested substances in pediatric patients. (See \"Poisoning in children: Prevention\", section on 'Ingested substances'.)\n\nUse of natural health products among children and adolescents (May 2026)\n\nNatural health products (NHPs) are among the most commonly used complementary therapies in children and adolescents. In an observational study of data from the National Health and Nutrition Examination Survey involving over 12,500 children and adolescents, approximately 35 percent used a vitamin/mineral or dietary supplement between 2015 and 2023 [62]. During the study period, the use of dietary supplements as alternative medicines increased from 3 to 4.2 percent; the largest increases were for melatonin, fiber, and probiotics. Adolescent boys were more likely to use melatonin and bodybuilding supplements, while adolescent girls were more likely to use probiotics and weight-loss supplements. These findings document increasing use of NHPs as alternative therapies in children and adolescents and emphasize the importance of asking about NHP use and educating families about the potential adverse effects. (See \"Integrative pediatric health care\", section on 'Natural health products'.)\n\nInternational guidelines for the management of pediatric sepsis and septic shock (May 2026)\n\nThe 2026 Surviving Sepsis Campaign International Pediatric Guidelines for the management of sepsis and septic shock in children are available [63]. The guidelines reaffirm the prime importance of the rapid recognition of septic shock and treatment that includes timely administration of fluid bolus therapy, empiric broad-spectrum antibiotics, and, in patients not responding to fluid bolus therapy, initiation of vasoactive medications (epinephrine or norepinephrine) (algorithm 1). The 2026 guidelines also provide new recommendations that promote the use of blood lactate trends, lung and cardiac point-of-care ultrasound, and central venous oxygen saturation (ScvO2 ≥ 70 percent) to monitor resuscitation. Our approach is consistent with these guidelines. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'.)\n\nBalanced crystalloid solution versus normal saline for children with septic shock (April 2026)\n\nFor children with septic shock, whether to administer balanced crystalloid solutions (BCS; for example, lactated Ringer's) versus normal saline (NS) during initial fluid resuscitation is unclear. In a new randomized trial of over 8400 children with suspected septic shock, the combined outcomes of death, initiation of renal-replacement therapy, and persistent kidney dysfunction at 30 days were not significantly different in patients who were assigned to fluid resuscitation for up to 48 hours with BCS (3.4 percent) versus NS (3 percent) [64]. Hyperchloremia and hypernatremia were more common in patients receiving NS; increased blood lactate was more common in patients receiving BCS. Otherwise, adverse effects were similar in both groups. These findings suggest that either BCS or NS is an appropriate choice for fluid resuscitation of children with septic shock. However, the results may not be generalizable to patients with hospital-acquired sepsis or those treated in resource-limited settings. (See \"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'.)",
+    "word_count": 7212,
+    "character_count": 50802,
+    "references": [
+      "Varela LB, Miño Zambrano JE, Maura Goncalves Costa B, et al. Medical cannabis for the treatment of insomnia. Cochrane Database Syst Rev 2026; 10:CD016216.",
+      "Adams ME, Cramer JD, Tunkel DE, et al. Clinical Practice Guideline: Tinnitus Update. Otolaryngol Head Neck Surg 2026; 175 Suppl 1:S1.",
+      "Williams BS, Kasza KA, Hyland A, et al. Predictors of E-Cigarette Quit Attempts and Cessation in Young Adults. Pediatrics 2026; 157.",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "Wenger NS, Sanz Vidorreta FJ, Tseng CH, et al. Timing Prompts for Advance Care Planning Discussions and Advance Directive Completion. JAMA Netw Open 2026; 9:e2628366.",
+      "Wheatley LM, Baker JR Jr, Adkinson NF, et al. Systemic Allergic Reactions to mRNA COVID-19 Vaccines: A Randomized Placebo-controlled Trial. J Allergy Clin Immunol 2026.",
+      "Pingali C, Yankey D, Elam-Evans LD, et al. Vaccination Coverage Among Adolescents Aged 13-17 Years - National Immunization Survey-Teen, United States, 2025. MMWR Morb Mortal Wkly Rep 2026; 75:530.",
+      "Corsi-Zuelli F, Li F, Upthegrove R, et al. Recombinant shingles vaccination and the risk of cardiovascular events. Nat Med 2026; 32:3612.",
+      "SPIKEVAX (COVID-19 Vaccine, mRNA) Suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/155675/download?attachment (Accessed on August 28, 2026).",
+      "MNEXSPIKE (COVID-19 Vaccine, mRNA) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/186738/download (Accessed on August 28, 2026).",
+      "COMIRNATY (COVID-19 Vaccine, mRNA) suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/151707/download?attachment (Accessed on August 28, 2026).",
+      "NUVAXOVID (COVID-19 Vaccine, Adjuvanted) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Updated August 2026. https://www.fda.gov/media/186544/download?attachment (Accessed on August 28, 2026).",
+      "AAFP Announces Fall Immunization Recommendations to Protect Patients and Communities https://www.aafp.org/media-center/press-releases/aafp-announces-fall-immunization-recommendations-to-protect-patients-and-communities (Accessed on September 02, 2026).",
+      "American College of Obstetricians & Gynecologistsߣ Immunization, Infectious Disease, and Public Health Preparedness Expert Work Group. Maternal Immunizations. Obstet Gynecol 2026; 147:e123.",
+      "Committee on Infectious Diseases. Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "IDSA 2026 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19, Influenza, and RSV Infections in Immunocompromised Patients. https://www.idsociety.org/practice-guideline/Seasonal-RTI-Vaccinations-in-Immunocompromised-Patients/s-on-the-use-of-vaccines-for-the-prevention-of-seasonal-covid-19-influenza-and-rsv-infections-in-immunocompromised-patients/ (Accessed on September 02, 2026).",
+      "Burstain TL, Jacques D, Burstain JM. Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children. Pediatr Infect Dis J 2026.",
+      "Sasieni P, Falcaro M. Cervical cancer mortality trends following HPV vaccination in England, 2001-24: an analysis of population-based mortality data. Lancet 2026; 408:162.",
+      "Writing Committee Members, Blumenthal RS, Morris PB, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 2026; 153:e1154.",
+      "Verghese D, Trujillo R, Abraham D, et al. Predictive Value of Coronary Artery Calcium Score From Nongated Chest CT Scans Compared With Gated Scans and Incidence of Cardiovascular Events. Circulation 2026; 154:302.",
+      "Sclafani M, Spartera M, Esmati Y, et al. Weight Loss in Older Patients With Persistent Atrial Fibrillation: The LOSE-AF Randomized Clinical Trial. JAMA 2026; 336:205.",
+      "Chu AWL, Wen A, Guyatt GH, et al. Antihistamines for atopic dermatitis (eczema): systematic review and network meta-analysis of randomised trials. BMJ 2026; 394:e100163.",
+      "Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity. N Engl J Med 2026.",
+      "Bellido V, le Roux CW, Ekinci EI, et al. Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial. Lancet 2026; 408:1455.",
+      "Qaseem A, Cross JT Jr, Harrod CS, et al. Pharmacologic Treatments With Lifestyle Modifications in Nonpregnant Adults With Overweight or Obesity in Outpatient Settings: A Living Clinical Guideline From the American College of Physicians (April 2026). Ann Intern Med 2026; 179:1177.",
+      "Horn DB, Aronne LJ, Wharton S, et al. Tirzepatide for maintenance of bodyweight reduction in people with obesity in the USA (SURMOUNT-MAINTAIN): a multicentre, double-blind, randomised, placebo-controlled trial. Lancet 2026; 407:2305.",
+      "Johnsen PH, Juul FE, Hoff DAL, et al. Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet 2026.",
+      "Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026; 170:1224.",
+      "Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026; 170:1240.",
+      "Powers JM, Lim MY, Achebe MO, et al. American Society of Hematology 2026 guidelines for diagnosis of iron deficiency. Blood Adv 2026.",
+      "Warny M, Glenthøj A, Afzal S, et al. No overall increased risk of death in individuals with sickle cell trait: a study of 467 779 general population adults. Blood 2026; 148:1033.",
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv 2026; 10:7076.",
+      "United States Centers for Disease Control and Prevention. Health Alert Network: Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026. https://www.cdc.gov/han/php/notices/han00531.html (Accessed on July 16, 2026).",
+      "United States Centers for Disease Control and Prevention. Cyclosporiasis. Cyclospora Outbreak Linked to Shredded Iceberg Lettuce Served at Taco Bell in 5 States https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html (Accessed on July 17, 2026).",
+      "Tebipenem pivoxil. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed on June 18, 2026).",
+      "Panel on Treatment of HIV During Pregnancy and Prevention of Perinatal Transmission. Recommendations for the Use of Antiretroviral Drugs During Pregnancy and Interventions to Reduce Perinatal HIV Transmission in the United States. Department of Health and Human Services. Year. Available at https://clinicalinfo.hiv.gov/en/guidelines/perinatal (Accessed on April 21, 2026).",
+      "Boone C, Robicsek A. Evaluating the Consequences of a Hypertension Management Incentive. JAMA Intern Med 2026; 186:965.",
+      "Sciurba FC, Watz H, Bourdin A, et al. Tozorakimab to Prevent COPD Exacerbations. N Engl J Med 2026.",
+      "Wedzicha JA, Agustí À, Brightling CE, et al. Astegolimab for chronic obstructive pulmonary disease with frequent exacerbations: pooled analysis of the ALIENTO and ARNASA trials. Am J Respir Crit Care Med 2026; 212:2050.",
+      "Papi A, Greening NJ, Bhatt SP, et al. Safety and efficacy of astegolimab for COPD with frequent exacerbations regardless of baseline blood eosinophil counts (ALIENTO and ARNASA): randomised, double-blind, placebo-controlled, phase 2b and 3 trials. Lancet 2026; 407:2027.",
+      "Bhatt SP, Sun Y, Wang Y, et al. Life Expectancy in Chronic Obstructive Pulmonary Disease. JAMA Intern Med 2026; 186:852.",
+      "Hailer NP, Griffin XL, Mukka S, et al. Dual mobility versus standard cups in total hip replacement for displaced femoral neck fractures (Duality): an international, multicentre, randomised, controlled, superiority trial. Lancet 2026; 408:348.",
+      "WHO guidelines on expanding contraceptive options. Human Reproduction Programme. World Health Organization. https://iris.who.int/server/api/core/bitstreams/bb95c68c-ad9d-436e-8969-6eab55d927ca/content (Accessed on October 21, 2026).",
+      "Elgemark K, Envall N, Kopp Kallner H. Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial. JAMA 2026.",
+      "Prescribing information Gwyn Lo. Mylan Pharmaceutical Inc, a Viatris Company. Morgantown, WV. Revised July 2026. www.gwynlopi.com/-/media/project/common/gwynlopicom/pi.pdf (Accessed on July 30, 2026).",
+      "Rodriguez MI, Fuerst M, Schrote K. Management of Spontaneous Abortion Among Commercially Insured Individuals in the United States After Dobbs v Jackson. JAMA 2026; 336:48.",
+      "Dib S, Savage MJ, Adams D, et al. Preconception, pregnancy, and postnatal use of GLP-1 receptor agonist-based therapies in women with type 1, type 2, or gestational diabetes: a systematic review, meta-analysis, and international expert consensus statement. Lancet Obstetris, Gynaecology, & Women's Health 2026. (available at https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext).https://www.thelancet.com/journals/lanogw/article/PIIS3050-5038(26)00266-9/fulltext)",
+      "Whitaker K, Crisp A, Gallagher J, et al. Optimal 24-hour movement behaviour compositions across trimesters and risk of hypertensive disorders of pregnancy: the Pregnancy 24/7 cohort study. Br J Sports Med 2026; 60:1218.",
+      "Barone Gibbs B, Kim J, Gallagher J, et al. Adverse Pregnancy Outcomes and Sedentary Behavior, Light-Intensity Physical Activity, and Daily Steps. JAMA 2026; 336:135.",
+      "Rubio-Chavez A, Koelliker EL, Askew EA, et al. Pragmatic Parental Support to Mitigate Burnout Among Pregnant and Postpartum Trainees: A Randomized Clinical Trial. JAMA 2026; 335:1938.",
+      "Committee on Infectious Diseases. Recommendations for Prevention and Control of Influenza in Children, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "Expert Panel on Pediatric Imaging, Mirsky DM, Bardo DME, et al. ACR Appropriateness Criteria® Suspected Physical Abuse-Child: Update 2025. J Am Coll Radiol 2026; 23:1613.",
+      "Nguyen M, AlEssa HB, Glenn AJ, et al. Consumption of Fructose-Containing Food and Beverage Sources in Childhood Through to Adulthood and Risk of Hypertension: A Prospective Cohort Study. Circulation 2026; 154:612.",
+      "Miller NZ. Removal notice to \"Vaccines and sudden infant death: An analysis of the VAERS database 1990-2019 and review of the medical literature\" [Toxicol. Rep. 8 (2021) 1324-1335]. Toxicol Rep 2026; 16:102250.",
+      "Statement of Retraction: Hepatitis B Vaccination of Male Neonates and Autism Diagnosis, NHIS 1997-2002. J Toxicol Environ Health A 2026; 89:1031.",
+      "Corrigendum to \"Analysis of health outcomes in vaccinated and unvaccinated children: Developmental delays, asthma, ear infections and gastrointestinal disorders\". SAGE Open Med 2026; 14:20503121261448849.",
+      "Vieira da Silva HF, Watanabe ET, Tavares MC, et al. Point-of-Care Ultrasound for Pediatric Urethral Catheterization: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Acad Emerg Med 2026; 33:e70342.",
+      "Gerhart J, Leister-Tebbe H, Chan PLS, et al. Nirmatrelvir/Ritonavir for the Treatment of COVID-19 in Children Aged 6 Years and Older. Pediatrics 2026; 158.",
+      "Louman S, van Stralen KJ, Koppelman GH, et al. Oxygen saturation thresholds in children with acute respiratory distress (OxyKids): a multicentre, open, parallel-group, randomised clinical trial. Lancet Respir Med 2026; 14:673.",
+      "Raymond-King C, Jeffery MM, Melnick ER. Current Causes of Death among Children and Adolescents in the United States. N Engl J Med 2026; 394:1958.",
+      "McAdams RJ, Shonia M, Roberts KJ, McKenzie LB. Cleaning Product-Related Injuries Treated in US Emergency Departments: 2007-2022. Pediatrics 2026; 157.",
+      "Recio B, Qingrong L, Guadamuz J, et al.. Changes in Dietary Supplement Use Among Children and Adolescents in the United States, 2015–2016 to 2021–2023. Pediatr Open Science 2026; 2:1.",
+      "Weiss SL, Peters MJ, Oczkowski SJW, et al. Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026. Pediatr Crit Care Med 2026; 27:379.",
+      "Balamuth F, Weiss SL, Long E, et al. Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock. N Engl J Med 2026; 395:870."
+    ],
+    "graphics": [
+      {
+        "id": 127477,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/127477"
+      },
+      {
+        "id": 147724,
+        "title": "figure 1",
+        "url": "https://medilib.ir/uptodate/show/147724"
+      },
+      {
+        "id": 128375,
+        "title": "algorithm 1",
+        "url": "https://medilib.ir/uptodate/show/128375"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 134930,
+        "title": "medical cannabis",
+        "url": "https://medilib.ir/uptodate/show/134930"
+      },
+      {
+        "id": 8349,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%221%22"
+      },
+      {
+        "id": 97868,
+        "title": "\"Pharmacotherapy for insomnia in adults\", section on 'Cannabinoids'",
+        "url": "https://medilib.ir/uptodate/show/97868"
+      },
+      {
+        "id": 8349,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%222%22"
+      },
+      {
+        "id": 6855,
+        "title": "\"Etiology and diagnosis of tinnitus\", section on 'Audiometry for all patients'",
+        "url": "https://medilib.ir/uptodate/show/6855"
+      },
+      {
+        "id": 6856,
+        "title": "\"Treatment of tinnitus\"",
+        "url": "https://medilib.ir/uptodate/show/6856"
+      },
+      {
+        "id": 8349,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%223%22"
+      },
+      {
+        "id": 6359,
+        "title": "\"Management of smoking and vaping cessation in adolescents\", section on 'Address nicotine withdrawal symptoms and other barriers to quitting'",
+        "url": "https://medilib.ir/uptodate/show/6359"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 8349,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%224%22"
+      },
+      {
+        "id": 126981,
+        "title": "\"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/126981"
+      },
+      {
+        "id": 8349,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%225%22"
+      },
+      {
+        "id": 86248,
+        "title": "\"Advance care planning and advance directives\", section on 'Timing'",
+        "url": "https://medilib.ir/uptodate/show/86248"
+      },
+      {
+        "id": 130318,
+        "title": "COVID-19 mRNA vaccines",
+        "url": "https://medilib.ir/uptodate/show/130318"
+      },
+      {
+        "id": 8349,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%226%22"
+      },
+      {
+        "id": 132246,
+        "title": "\"COVID-19: Immediate hypersensitivity reactions to SARS-CoV-2 vaccines\", section on 'Unclear mechanism(s)'",
+        "url": "https://medilib.ir/uptodate/show/132246"
+      },
+      {
+        "id": 8349,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%227%22"
+      },
+      {
+        "id": 10140,
+        "title": "MenACWY",
+        "url": "https://medilib.ir/uptodate/show/10140"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Strategies to improve vaccine coverage'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 115351,
+        "title": "recombinant zoster vaccine",
+        "url": "https://medilib.ir/uptodate/show/115351"
+      },
+      {
+        "id": 8349,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%228%22"
+      },
+      {
+        "id": 8343,
+        "title": "\"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'",
+        "url": "https://medilib.ir/uptodate/show/8343"
+      },
+      {
+        "id": 8349,
+        "title": "9-12",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%229%22"
+      },
+      {
+        "id": 8349,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2213%22"
+      },
+      {
+        "id": 8349,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2214%22"
+      },
+      {
+        "id": 8349,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2215%22"
+      },
+      {
+        "id": 8349,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2216%22"
+      },
+      {
+        "id": 129849,
+        "title": "\"COVID-19: Vaccines\", section on 'Indications for vaccination'",
+        "url": "https://medilib.ir/uptodate/show/129849"
+      },
+      {
+        "id": 8349,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2217%22"
+      },
+      {
+        "id": 101273,
+        "title": "\"Measles, mumps, and rubella immunization in infants, children, and adolescents\", section on 'Lack of association with autism spectrum disorder'",
+        "url": "https://medilib.ir/uptodate/show/101273"
+      },
+      {
+        "id": 8349,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2218%22"
+      },
+      {
+        "id": 8325,
+        "title": "\"Human papillomavirus vaccination\", section on 'Females'",
+        "url": "https://medilib.ir/uptodate/show/8325"
+      },
+      {
+        "id": 8349,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2219%22"
+      },
+      {
+        "id": 8349,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2220%22"
+      },
+      {
+        "id": 5297,
+        "title": "\"Coronary artery calcium (CAC) scoring: Overview and clinical utilization\", section on 'CAC identification and quantification'",
+        "url": "https://medilib.ir/uptodate/show/5297"
+      },
+      {
+        "id": 8349,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2221%22"
+      },
+      {
+        "id": 1022,
+        "title": "\"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'",
+        "url": "https://medilib.ir/uptodate/show/1022"
+      },
+      {
+        "id": 8349,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2222%22"
+      },
+      {
+        "id": 9236,
+        "title": "cetirizine",
+        "url": "https://medilib.ir/uptodate/show/9236"
+      },
+      {
+        "id": 9443,
+        "title": "levocetirizine",
+        "url": "https://medilib.ir/uptodate/show/9443"
+      },
+      {
+        "id": 1730,
+        "title": "\"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'",
+        "url": "https://medilib.ir/uptodate/show/1730"
+      },
+      {
+        "id": 8349,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2223%22"
+      },
+      {
+        "id": 8349,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2224%22"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\", section on 'Investigational agents'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 1772,
+        "title": "\"Glucagon-like peptide 1-based therapies for the treatment of type 2 diabetes mellitus\", section on 'Triple-acting GLP-1, GIP, and glucagon receptor agonist'",
+        "url": "https://medilib.ir/uptodate/show/1772"
+      },
+      {
+        "id": 8349,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2225%22"
+      },
+      {
+        "id": 115980,
+        "title": "semaglutide",
+        "url": "https://medilib.ir/uptodate/show/115980"
+      },
+      {
+        "id": 138675,
+        "title": "tirzepatide",
+        "url": "https://medilib.ir/uptodate/show/138675"
+      },
+      {
+        "id": 85870,
+        "title": "phentermine-topiramate",
+        "url": "https://medilib.ir/uptodate/show/85870"
+      },
+      {
+        "id": 9522,
+        "title": "liraglutide",
+        "url": "https://medilib.ir/uptodate/show/9522"
+      },
+      {
+        "id": 97033,
+        "title": "naltrexone-bupropion",
+        "url": "https://medilib.ir/uptodate/show/97033"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\", section on 'Choice of GLP-1-based agent'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 138675,
+        "title": "Tirzepatide",
+        "url": "https://medilib.ir/uptodate/show/138675"
+      },
+      {
+        "id": 8349,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2226%22"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Pharmacotherapy\"",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 8349,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2227%22"
+      },
+      {
+        "id": 2631,
+        "title": "\"Treatment of irritable bowel syndrome in adults\", section on 'Other therapies'",
+        "url": "https://medilib.ir/uptodate/show/2631"
+      },
+      {
+        "id": 8349,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2228%22"
+      },
+      {
+        "id": 2262,
+        "title": "\"Approach to the adult with chest pain of esophageal origin\", section on 'Functional chest pain'",
+        "url": "https://medilib.ir/uptodate/show/2262"
+      },
+      {
+        "id": 8349,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2229%22"
+      },
+      {
+        "id": 2537,
+        "title": "\"Approach to the adult with nausea and vomiting\", section on 'Functional nausea and vomiting disorders'",
+        "url": "https://medilib.ir/uptodate/show/2537"
+      },
+      {
+        "id": 8349,
+        "title": "30",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2230%22"
+      },
+      {
+        "id": 7150,
+        "title": "\"Diagnosis of iron deficiency and iron deficiency anemia in adults\", section on 'Diagnosis'",
+        "url": "https://medilib.ir/uptodate/show/7150"
+      },
+      {
+        "id": 8349,
+        "title": "31",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2231%22"
+      },
+      {
+        "id": 7145,
+        "title": "\"Sickle cell trait\", section on 'Life expectancy'",
+        "url": "https://medilib.ir/uptodate/show/7145"
+      },
+      {
+        "id": 8349,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2232%22"
+      },
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 16471,
+        "title": "immune globulin",
+        "url": "https://medilib.ir/uptodate/show/16471"
+      },
+      {
+        "id": 6677,
+        "title": "\"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'",
+        "url": "https://medilib.ir/uptodate/show/6677"
+      },
+      {
+        "id": 8349,
+        "title": "33",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2233%22"
+      },
+      {
+        "id": 8349,
+        "title": "34",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2234%22"
+      },
+      {
+        "id": 5724,
+        "title": "\"Cyclospora infection\", section on 'Epidemiology'",
+        "url": "https://medilib.ir/uptodate/show/5724"
+      },
+      {
+        "id": 151905,
+        "title": "tebipenem pivoxil",
+        "url": "https://medilib.ir/uptodate/show/151905"
+      },
+      {
+        "id": 8349,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2235%22"
+      },
+      {
+        "id": 8675,
+        "title": "ertapenem",
+        "url": "https://medilib.ir/uptodate/show/8675"
+      },
+      {
+        "id": 8553,
+        "title": "imipenem",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 16109,
+        "title": "\"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'",
+        "url": "https://medilib.ir/uptodate/show/16109"
+      },
+      {
+        "id": 8349,
+        "title": "36",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2236%22"
+      },
+      {
+        "id": 8527,
+        "title": "tenofovir disoproxil fumarate-emtricitabine",
+        "url": "https://medilib.ir/uptodate/show/8527"
+      },
+      {
+        "id": 130319,
+        "title": "cabotegravir",
+        "url": "https://medilib.ir/uptodate/show/130319"
+      },
+      {
+        "id": 140392,
+        "title": "lenacapavir",
+        "url": "https://medilib.ir/uptodate/show/140392"
+      },
+      {
+        "id": 113426,
+        "title": "\"HIV pre-exposure prophylaxis\", section on 'Persons who are pregnant or of child bearing potential'",
+        "url": "https://medilib.ir/uptodate/show/113426"
+      },
+      {
+        "id": 8349,
+        "title": "37",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2237%22"
+      },
+      {
+        "id": 3851,
+        "title": "\"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'",
+        "url": "https://medilib.ir/uptodate/show/3851"
+      },
+      {
+        "id": 8349,
+        "title": "38",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2238%22"
+      },
+      {
+        "id": 112250,
+        "title": "\"Management of refractory chronic obstructive pulmonary disease\", section on 'Future directions'",
+        "url": "https://medilib.ir/uptodate/show/112250"
+      },
+      {
+        "id": 8349,
+        "title": "39,40",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2239%22"
+      },
+      {
+        "id": 8349,
+        "title": "41",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2241%22"
+      },
+      {
+        "id": 1439,
+        "title": "\"Chronic obstructive pulmonary disease: Prognostic factors and comorbid conditions\", section on 'Forced expiratory volume in one second'",
+        "url": "https://medilib.ir/uptodate/show/1439"
+      },
+      {
+        "id": 8349,
+        "title": "42",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2242%22"
+      },
+      {
+        "id": 7972,
+        "title": "\"Total hip arthroplasty\", section on 'Femoral head'",
+        "url": "https://medilib.ir/uptodate/show/7972"
+      },
+      {
+        "id": 8349,
+        "title": "43",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2243%22"
+      },
+      {
+        "id": 10263,
+        "title": "mifepristone",
+        "url": "https://medilib.ir/uptodate/show/10263"
+      },
+      {
+        "id": 7398,
+        "title": "\"Combined estrogen-progestin oral contraceptives: Patient selection, counseling, and use\", section on 'Continuous or extended use'",
+        "url": "https://medilib.ir/uptodate/show/7398"
+      },
+      {
+        "id": 5475,
+        "title": "\"Emergency contraception\", section on 'Oral medication emergency contraception methods'",
+        "url": "https://medilib.ir/uptodate/show/5475"
+      },
+      {
+        "id": 3266,
+        "title": "\"Contraception: Etonogestrel implant\", section on 'Efficacy and duration of use'",
+        "url": "https://medilib.ir/uptodate/show/3266"
+      },
+      {
+        "id": 16554,
+        "title": "\"Prophylactic vaginal apex suspension at the time of hysterectomy\", section on 'Impact of hysterectomy on prolapse risk'",
+        "url": "https://medilib.ir/uptodate/show/16554"
+      },
+      {
+        "id": 9610,
+        "title": "mepivacaine",
+        "url": "https://medilib.ir/uptodate/show/9610"
+      },
+      {
+        "id": 8349,
+        "title": "44",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2244%22"
+      },
+      {
+        "id": 3267,
+        "title": "\"Intrauterine contraception: Placement and removal\", section on 'Review of pharmacologic options'",
+        "url": "https://medilib.ir/uptodate/show/3267"
+      },
+      {
+        "id": 8349,
+        "title": "45",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2245%22"
+      },
+      {
+        "id": 5425,
+        "title": "\"Contraception: Transdermal contraceptive patches\", section on 'Patch types'",
+        "url": "https://medilib.ir/uptodate/show/5425"
+      },
+      {
+        "id": 8349,
+        "title": "46",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2246%22"
+      },
+      {
+        "id": 130834,
+        "title": "\"Pregnancy loss (miscarriage): Counseling and comparison of treatment options and discussion of related care\", section on 'Expectant management'",
+        "url": "https://medilib.ir/uptodate/show/130834"
+      },
+      {
+        "id": 8349,
+        "title": "47",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2247%22"
+      },
+      {
+        "id": 4802,
+        "title": "\"Preexisting (pregestational) diabetes mellitus: Antenatal glycemic management\", section on 'Overview'",
+        "url": "https://medilib.ir/uptodate/show/4802"
+      },
+      {
+        "id": 8349,
+        "title": "48",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2248%22"
+      },
+      {
+        "id": 412,
+        "title": "\"Exercise during pregnancy and the postpartum period\", section on 'Benefits'",
+        "url": "https://medilib.ir/uptodate/show/412"
+      },
+      {
+        "id": 8349,
+        "title": "49",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2249%22"
+      },
+      {
+        "id": 412,
+        "title": "\"Exercise during pregnancy and the postpartum period\", section on 'Patient counseling'",
+        "url": "https://medilib.ir/uptodate/show/412"
+      },
+      {
+        "id": 8349,
+        "title": "50",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2250%22"
+      },
+      {
+        "id": 439,
+        "title": "\"Working during pregnancy\", section on 'Specific to medical trainees (residents and fellows)'",
+        "url": "https://medilib.ir/uptodate/show/439"
+      },
+      {
+        "id": 8349,
+        "title": "51",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2251%22"
+      },
+      {
+        "id": 5960,
+        "title": "\"Seasonal influenza in children: Prevention with vaccines\", section on 'United States'",
+        "url": "https://medilib.ir/uptodate/show/5960"
+      },
+      {
+        "id": 8349,
+        "title": "52",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2252%22"
+      },
+      {
+        "id": 6600,
+        "title": "\"Physical child abuse: Diagnostic evaluation and management\", section on 'Occult intracranial injury'",
+        "url": "https://medilib.ir/uptodate/show/6600"
+      },
+      {
+        "id": 8349,
+        "title": "53",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2253%22"
+      },
+      {
+        "id": 6111,
+        "title": "\"Hypertension in children and adolescents: Epidemiology, risk factors, and etiology\", section on 'Modifiable risk factors'",
+        "url": "https://medilib.ir/uptodate/show/6111"
+      },
+      {
+        "id": 8349,
+        "title": "54",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2254%22"
+      },
+      {
+        "id": 8349,
+        "title": "55",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2255%22"
+      },
+      {
+        "id": 8349,
+        "title": "56",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2256%22"
+      },
+      {
+        "id": 2846,
+        "title": "\"Standard childhood vaccines: Caregiver hesitancy or refusal\", section on 'Vaccine safety misinformation'",
+        "url": "https://medilib.ir/uptodate/show/2846"
+      },
+      {
+        "id": 8349,
+        "title": "57",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2257%22"
+      },
+      {
+        "id": 6339,
+        "title": "\"Urine collection techniques in infants and children with suspected urinary tract infection\", section on 'Transurethral bladder catheterization'",
+        "url": "https://medilib.ir/uptodate/show/6339"
+      },
+      {
+        "id": 134695,
+        "title": "Nirmatrelvir-ritonavir",
+        "url": "https://medilib.ir/uptodate/show/134695"
+      },
+      {
+        "id": 8349,
+        "title": "58",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2258%22"
+      },
+      {
+        "id": 128389,
+        "title": "\"COVID-19: Management in children\", section on 'Nirmatrelvir-ritonavir'",
+        "url": "https://medilib.ir/uptodate/show/128389"
+      },
+      {
+        "id": 8349,
+        "title": "59",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2259%22"
+      },
+      {
+        "id": 6020,
+        "title": "\"Bronchiolitis in infants and children: Treatment, outcome, and prevention\", section on 'Oxygen saturation target and monitoring'",
+        "url": "https://medilib.ir/uptodate/show/6020"
+      },
+      {
+        "id": 8349,
+        "title": "60",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2260%22"
+      },
+      {
+        "id": 8441,
+        "title": "fentanyl",
+        "url": "https://medilib.ir/uptodate/show/8441"
+      },
+      {
+        "id": 2873,
+        "title": "\"Poisoning in children: Prevention\", section on 'Fatalities'",
+        "url": "https://medilib.ir/uptodate/show/2873"
+      },
+      {
+        "id": 8349,
+        "title": "61",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2261%22"
+      },
+      {
+        "id": 2873,
+        "title": "\"Poisoning in children: Prevention\", section on 'Ingested substances'",
+        "url": "https://medilib.ir/uptodate/show/2873"
+      },
+      {
+        "id": 8349,
+        "title": "62",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2262%22"
+      },
+      {
+        "id": 2851,
+        "title": "\"Integrative pediatric health care\", section on 'Natural health products'",
+        "url": "https://medilib.ir/uptodate/show/2851"
+      },
+      {
+        "id": 8349,
+        "title": "63",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2263%22"
+      },
+      {
+        "id": 85767,
+        "title": "\"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Approach'",
+        "url": "https://medilib.ir/uptodate/show/85767"
+      },
+      {
+        "id": 108196,
+        "title": "lactated Ringer",
+        "url": "https://medilib.ir/uptodate/show/108196"
+      },
+      {
+        "id": 9929,
+        "title": "saline",
+        "url": "https://medilib.ir/uptodate/show/9929"
+      },
+      {
+        "id": 8349,
+        "title": "64",
+        "url": "https://medilib.ir/uptodate/show/8349#rid%2264%22"
+      },
+      {
+        "id": 85767,
+        "title": "\"Children with sepsis in resource-abundant settings: Rapid recognition and initial resuscitation (first hour)\", section on 'Fluid resuscitation'",
+        "url": "https://medilib.ir/uptodate/show/85767"
+      }
+    ]
+  }
+}

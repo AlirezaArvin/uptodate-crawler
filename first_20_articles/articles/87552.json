@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/87552"
+  },
+  "article": {
+    "id": 87552,
+    "expected_title": "What's new in dermatology",
+    "url": "https://medilib.ir/uptodate/show/87552",
+    "final_url": "https://medilib.ir/uptodate/show/87552",
+    "page_title": "What's new in dermatology",
+    "extracted_at": "2026-11-20T20:51:23.387Z",
+    "title_matches_expected": true,
+    "title": "What's new in dermatology",
+    "contributors": {
+      "authors": [
+        "Rosamaria Corona, MD, DSc",
+        "Abena O Ofori, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Sep 29, 2026",
+    "version": "Topic 87552 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ATOPIC DERMATITIS AND OTHER DERMATITIS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational rezpegaldesleukin for moderate to severe atopic dermatitis (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rezpegaldesleukin is an interleukin (IL)-2 receptor agonist designed to expand the regulatory T cells (Treg) population with minimal activation of conventional T cells. In a multicenter trial in nearly 400 adults with moderate to severe atopic dermatitis (AD) who were randomly assigned to subcutaneous rezpegaldesleukin at variable doses or placebo, the mean Eczema Area and Severity Index (EASI) percentage change from baseline was greater in all rezpegaldesleukin groups compared with the placebo group (-53 to -61 versus -31 percent) at 16 weeks [1]. Adverse effects occurring more frequently with rezpegaldesleukin included injection site reaction, eosinophilia, fever, headache, and upper respiratory infection. These findings suggest that rezpegaldesleukin is a promising new addition to the armamentarium of targeted therapies for AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational IL-2 receptor agonists'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Topical delgocitinib in adolescents with moderate to severe chronic hand eczema (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Delgocitinib is a topical pan-Janus kinase inhibitor approved for the treatment of moderate to severe chronic hand eczema (CHE) in adults with inadequate response to topical corticosteroids. In a small randomized trial that included 98 adolescents (12 to 17 years) with moderate to severe CHE, more patients assigned to twice daily delgocitinib 2% cream achieved an Investigator Global Assessment (IGA)-CHE score of clear/almost clear or a ≥2 points improvement from baseline at 16 weeks, compared with those assigned to vehicle (64 versus 29 percent) [2]. These findings suggest that delgocitinib is a promising nonsteroidal treatment alternative for severe CHE in adolescents. (See \"Chronic hand eczema\", section on 'Topical delgocitinib'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "No benefit of oral antihistamines in atopic dermatitis (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [3]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigative topical ivarmacitinib for mild to moderate atopic dermatitis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ivarmacitinib is a highly selective oral Janus kinase 1 (JAK1) inhibitor approved in China, but not in other countries, for the treatment of moderate to severe atopic dermatitis (AD) in adolescents and adults. In a trial in which over 360 adults with mild to moderate AD were randomly assigned to topical ivarmacitinib (0.5% or 1%) or vehicle, more patients in the ivarmacitinib groups achieved an Investigative Global Assessment of clear/almost clear and a 75 percent improvement in the Eczema Area and Severity Index compared with vehicle at eight weeks (21 and 26 versus 11 percent and 43 and 45 versus 18 percent, respectively) [4]. Although preliminary, these findings suggest that topical ivarmacitinib is a promising agent to add to the currently available topical JAK inhibitors (eg, ruxolitinib, delgocitinib) for the management of mild to moderate AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "AUTOIMMUNE AND SYSTEMIC DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational oral small molecule bitopertin for protoporphyria (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Protoporphyria causes painful nonblistering skin sensitivity that severely limits sunlight tolerance and quality of life. The main treatment is afamelanotide, a subcutaneous implant that increases skin melanin production, but access is limited. Bitopertin is an investigational oral small molecule that reduces protoporphyrin production by decreasing transport of glycine, the initial substrate for heme synthesis. In a randomized trial in 75 adults with protoporphyria, bitopertin improved sunlight tolerance and reduced phototoxic reactions without major adverse effects [5]. Further study is ongoing. (See \"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "INFECTIONS AND INFESTATIONS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "High-dose versus standard-dose oral ivermectin for severe scabies (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral ivermectin is commonly used for the treatment of crusted scabies; however, optimal dosing is uncertain and primarily based on clinical experience. In a randomized trial of over 130 patients with severe scabies (profuse or crusted), cure rates were similar with 400 mcg/kg or 200 mcg/kg of ivermectin given at day 0, 7, and 14, and both doses were generally well tolerated [6]. All patients also received topical permethrin on days 0 and 7, along with daily emollient creams. These findings support our dosing guidance for crusted scabies and reinforce the efficacy of ivermectin in combination with permethrin for severe scabies. (See \"Scabies: Management\", section on 'Crusted scabies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PEDIATRIC DERMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Temporal appearance of café-au-lait macules in neurofibromatosis type 1 (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Café-au-lait macules (CALM) are dermatologic findings present in the general population as well as in children with neurofibromatosis type 1 (NF1), in whom they can be present at birth or increase in number to fulfill the diagnostic criterion (ie, ≥6 CALMs) in early childhood (picture 1). In a cohort of 63 infants with NF1, the proportion of those with CALMs that fulfilled the diagnostic criterion increased from 38 percent at 6 months to 97 percent at 24 months old [7]. These results can help identify the expected pattern of appearance of CALM in children with NF1. (See \"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PSORIASIS AND OTHER PAPULOSQUAMOUS DISORDERS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ixekizumab plus tirzepatide versus ixekizumab for psoriasis in patients with overweight or obesity (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Overweight and obesity are common comorbidities of psoriasis and are associated with similar inflammatory pathways, but these conditions and psoriasis are often managed with separate therapeutic plans. In an open-label randomized trial of over 250 adults with moderate to severe plaque psoriasis, combination therapy with ixekizumab and tirzepatide both improved skin clearance and reduced weight more than ixekizumab alone [8]. Gastrointestinal effects were more common in patients who received tirzepatide, but both regimens were generally well tolerated. Although further study is necessary to confirm these findings and determine whether other drug combinations elicit similar effects, the results suggest that treating both psoriasis and obesity may be beneficial for patients with psoriasis. (See \"Chronic plaque psoriasis in adults: Treatment of disease requiring phototherapy or systemic therapy\", section on 'Glucagon-like peptide 1-based therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational imsidolimab for generalized pustular psoriasis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Recognition of the role of interleukin (IL)-36 in the pathophysiology of generalized pustular psoriasis (GPP) has led to the use of therapies targeting this cytokine pathway. In a phase 3 randomized trial of 45 adults with moderate to severe GPP, a single intravenous dose of imsidolimab (an investigational biologic IL-36 receptor antagonist) was more effective than placebo for inducing clear or almost clear skin after four weeks [9]. In a follow-up trial, subsequent monthly subcutaneous doses of imsidolimab were well tolerated in patients who received treatment for at least 24 weeks (maximum treatment period of 104 weeks). The findings support imsidolimab as a potential new treatment for GPP. (See \"Pustular psoriasis: Management\", section on 'Other therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SKIN CANCER"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant therapy with intisimeran autogene plus pembrolizumab in cutaneous melanoma (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Intisimeran autogene is a novel messenger ribonucleic acid (mRNA)-based individualized neoantigen therapy (vaccine) under investigation as an adjuvant therapy for cutaneous melanoma. In a randomized trial including 157 patients with stage IIIB to IV completely resected melanoma, intisimeran autogene plus pembrolizumab versus pembrolizumab alone improved both recurrence-free survival (72 versus 49 percent) and distant metastasis-free survival (84 versus 65 percent) after four years [10]. Grade ≥3 treatment-related adverse events occurred in 25 versus 14 percent of patients. Although these data are promising, intisimeran autogene does not yet have regulatory approval and is not available outside of clinical trials. (See \"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "URTICARIA AND ANGIOEDEMA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cold urticaria with negative cold stimulation testing (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cold urticaria presents with recurrent episodes of hives and/or angioedema after exposure to cold. Positive standard cold stimulation testing (SCST), in the form of either the ice cube test or testing with a specialized device, confirms the diagnosis, but negative results do not exclude the disorder and little is known about the characteristics of patients with negative testing. In an analysis of 364 patients with cold urticaria, SCST results were negative in 33 percent [11,12]. These patients were younger, more likely to have concomitant chronic spontaneous urticaria (CSU) or a family history of cold urticaria, and less likely to have cold-induced anaphylaxis, suggesting that the underlying pathophysiology of this subgroup may differ somewhat from those with positive testing. (See \"Cold urticaria\", section on 'Atypical forms'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Predicting evolution from acute to chronic urticaria (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Among patients who develop acute urticaria, symptoms will persist and become chronic in 20 to 30 percent. At present, there are no known biomarkers or other testing that can identify who will develop chronic urticaria, although this is an area of active investigation. In a prospective, cohort study of 129 patients with acute urticaria followed for two years, the presence of certain IgE autoantibodies (to thyroid peroxidase, eosinophil peroxidase, eosinophil cationic protein) was correlated with evolution to chronic urticaria [13]. Although preliminary, these findings are a step towards identifying useful biomarkers of persistence. (See \"New-onset urticaria (hives)\", section on 'Prognosis'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nATOPIC DERMATITIS AND OTHER DERMATITIS\n\nInvestigational rezpegaldesleukin for moderate to severe atopic dermatitis (September 2026)\n\nRezpegaldesleukin is an interleukin (IL)-2 receptor agonist designed to expand the regulatory T cells (Treg) population with minimal activation of conventional T cells. In a multicenter trial in nearly 400 adults with moderate to severe atopic dermatitis (AD) who were randomly assigned to subcutaneous rezpegaldesleukin at variable doses or placebo, the mean Eczema Area and Severity Index (EASI) percentage change from baseline was greater in all rezpegaldesleukin groups compared with the placebo group (-53 to -61 versus -31 percent) at 16 weeks [1]. Adverse effects occurring more frequently with rezpegaldesleukin included injection site reaction, eosinophilia, fever, headache, and upper respiratory infection. These findings suggest that rezpegaldesleukin is a promising new addition to the armamentarium of targeted therapies for AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational IL-2 receptor agonists'.)\n\nTopical delgocitinib in adolescents with moderate to severe chronic hand eczema (August 2026)\n\nDelgocitinib is a topical pan-Janus kinase inhibitor approved for the treatment of moderate to severe chronic hand eczema (CHE) in adults with inadequate response to topical corticosteroids. In a small randomized trial that included 98 adolescents (12 to 17 years) with moderate to severe CHE, more patients assigned to twice daily delgocitinib 2% cream achieved an Investigator Global Assessment (IGA)-CHE score of clear/almost clear or a ≥2 points improvement from baseline at 16 weeks, compared with those assigned to vehicle (64 versus 29 percent) [2]. These findings suggest that delgocitinib is a promising nonsteroidal treatment alternative for severe CHE in adolescents. (See \"Chronic hand eczema\", section on 'Topical delgocitinib'.)\n\nNo benefit of oral antihistamines in atopic dermatitis (August 2026)\n\nOral antihistamines are commonly used for atopic dermatitis-associated pruritus, but their efficacy for this condition has not been established. In a network meta-analysis of 47 randomized trials including over 6200 participants with atopic dermatitis, the addition of a first or second-generation antihistamine did not result in clinically important reductions in dermatitis severity or pruritus compared with placebo, and there was no effect on sleep disturbance or frequency of flares [3]. Moreover, first-generation antihistamines and second-generation cetirizine and levocetirizine increased cognitive impairment. Consistent with these findings, we do not routinely use antihistamines for atopic dermatitis. (See \"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'.)\n\nInvestigative topical ivarmacitinib for mild to moderate atopic dermatitis (May 2026)\n\nIvarmacitinib is a highly selective oral Janus kinase 1 (JAK1) inhibitor approved in China, but not in other countries, for the treatment of moderate to severe atopic dermatitis (AD) in adolescents and adults. In a trial in which over 360 adults with mild to moderate AD were randomly assigned to topical ivarmacitinib (0.5% or 1%) or vehicle, more patients in the ivarmacitinib groups achieved an Investigative Global Assessment of clear/almost clear and a 75 percent improvement in the Eczema Area and Severity Index compared with vehicle at eight weeks (21 and 26 versus 11 percent and 43 and 45 versus 18 percent, respectively) [4]. Although preliminary, these findings suggest that topical ivarmacitinib is a promising agent to add to the currently available topical JAK inhibitors (eg, ruxolitinib, delgocitinib) for the management of mild to moderate AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'.)\n\nAUTOIMMUNE AND SYSTEMIC DISEASES\n\nInvestigational oral small molecule bitopertin for protoporphyria (June 2026)\n\nProtoporphyria causes painful nonblistering skin sensitivity that severely limits sunlight tolerance and quality of life. The main treatment is afamelanotide, a subcutaneous implant that increases skin melanin production, but access is limited. Bitopertin is an investigational oral small molecule that reduces protoporphyrin production by decreasing transport of glycine, the initial substrate for heme synthesis. In a randomized trial in 75 adults with protoporphyria, bitopertin improved sunlight tolerance and reduced phototoxic reactions without major adverse effects [5]. Further study is ongoing. (See \"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'.)\n\nINFECTIONS AND INFESTATIONS\n\nHigh-dose versus standard-dose oral ivermectin for severe scabies (May 2026)\n\nOral ivermectin is commonly used for the treatment of crusted scabies; however, optimal dosing is uncertain and primarily based on clinical experience. In a randomized trial of over 130 patients with severe scabies (profuse or crusted), cure rates were similar with 400 mcg/kg or 200 mcg/kg of ivermectin given at day 0, 7, and 14, and both doses were generally well tolerated [6]. All patients also received topical permethrin on days 0 and 7, along with daily emollient creams. These findings support our dosing guidance for crusted scabies and reinforce the efficacy of ivermectin in combination with permethrin for severe scabies. (See \"Scabies: Management\", section on 'Crusted scabies'.)\n\nPEDIATRIC DERMATOLOGY\n\nTemporal appearance of café-au-lait macules in neurofibromatosis type 1 (July 2026)\n\nCafé-au-lait macules (CALM) are dermatologic findings present in the general population as well as in children with neurofibromatosis type 1 (NF1), in whom they can be present at birth or increase in number to fulfill the diagnostic criterion (ie, ≥6 CALMs) in early childhood (picture 1). In a cohort of 63 infants with NF1, the proportion of those with CALMs that fulfilled the diagnostic criterion increased from 38 percent at 6 months to 97 percent at 24 months old [7]. These results can help identify the expected pattern of appearance of CALM in children with NF1. (See \"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'.)\n\nPSORIASIS AND OTHER PAPULOSQUAMOUS DISORDERS\n\nIxekizumab plus tirzepatide versus ixekizumab for psoriasis in patients with overweight or obesity (May 2026)\n\nOverweight and obesity are common comorbidities of psoriasis and are associated with similar inflammatory pathways, but these conditions and psoriasis are often managed with separate therapeutic plans. In an open-label randomized trial of over 250 adults with moderate to severe plaque psoriasis, combination therapy with ixekizumab and tirzepatide both improved skin clearance and reduced weight more than ixekizumab alone [8]. Gastrointestinal effects were more common in patients who received tirzepatide, but both regimens were generally well tolerated. Although further study is necessary to confirm these findings and determine whether other drug combinations elicit similar effects, the results suggest that treating both psoriasis and obesity may be beneficial for patients with psoriasis. (See \"Chronic plaque psoriasis in adults: Treatment of disease requiring phototherapy or systemic therapy\", section on 'Glucagon-like peptide 1-based therapy'.)\n\nInvestigational imsidolimab for generalized pustular psoriasis (May 2026)\n\nRecognition of the role of interleukin (IL)-36 in the pathophysiology of generalized pustular psoriasis (GPP) has led to the use of therapies targeting this cytokine pathway. In a phase 3 randomized trial of 45 adults with moderate to severe GPP, a single intravenous dose of imsidolimab (an investigational biologic IL-36 receptor antagonist) was more effective than placebo for inducing clear or almost clear skin after four weeks [9]. In a follow-up trial, subsequent monthly subcutaneous doses of imsidolimab were well tolerated in patients who received treatment for at least 24 weeks (maximum treatment period of 104 weeks). The findings support imsidolimab as a potential new treatment for GPP. (See \"Pustular psoriasis: Management\", section on 'Other therapies'.)\n\nSKIN CANCER\n\nAdjuvant therapy with intisimeran autogene plus pembrolizumab in cutaneous melanoma (June 2026)\n\nIntisimeran autogene is a novel messenger ribonucleic acid (mRNA)-based individualized neoantigen therapy (vaccine) under investigation as an adjuvant therapy for cutaneous melanoma. In a randomized trial including 157 patients with stage IIIB to IV completely resected melanoma, intisimeran autogene plus pembrolizumab versus pembrolizumab alone improved both recurrence-free survival (72 versus 49 percent) and distant metastasis-free survival (84 versus 65 percent) after four years [10]. Grade ≥3 treatment-related adverse events occurred in 25 versus 14 percent of patients. Although these data are promising, intisimeran autogene does not yet have regulatory approval and is not available outside of clinical trials. (See \"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'.)\n\nURTICARIA AND ANGIOEDEMA\n\nCold urticaria with negative cold stimulation testing (September 2026)\n\nCold urticaria presents with recurrent episodes of hives and/or angioedema after exposure to cold. Positive standard cold stimulation testing (SCST), in the form of either the ice cube test or testing with a specialized device, confirms the diagnosis, but negative results do not exclude the disorder and little is known about the characteristics of patients with negative testing. In an analysis of 364 patients with cold urticaria, SCST results were negative in 33 percent [11,12]. These patients were younger, more likely to have concomitant chronic spontaneous urticaria (CSU) or a family history of cold urticaria, and less likely to have cold-induced anaphylaxis, suggesting that the underlying pathophysiology of this subgroup may differ somewhat from those with positive testing. (See \"Cold urticaria\", section on 'Atypical forms'.)\n\nPredicting evolution from acute to chronic urticaria (April 2026)\n\nAmong patients who develop acute urticaria, symptoms will persist and become chronic in 20 to 30 percent. At present, there are no known biomarkers or other testing that can identify who will develop chronic urticaria, although this is an area of active investigation. In a prospective, cohort study of 129 patients with acute urticaria followed for two years, the presence of certain IgE autoantibodies (to thyroid peroxidase, eosinophil peroxidase, eosinophil cationic protein) was correlated with evolution to chronic urticaria [13]. Although preliminary, these findings are a step towards identifying useful biomarkers of persistence. (See \"New-onset urticaria (hives)\", section on 'Prognosis'.)",
+    "word_count": 1590,
+    "character_count": 11256,
+    "references": [
+      "Silverberg JI, Rosmarin D, Bieber T, et al. Rezpegaldesleukin treatment of moderate-to-severe atopic dermatitis (REZOLVE-AD): final results from the 16-week induction period of an international, double-blind, placebo-controlled, randomised phase 2b study. Lancet 2026; 408:833.",
+      "Molin S, Baselga E, Navarro-Triviño FJ, et al. Delgocitinib cream for adolescents with moderate to severe chronic hand eczema (DELTA TEEN): a multicentre, double-blind, phase 3 randomised controlled trial. Lancet Child Adolesc Health 2026; 10:552.",
+      "Chu AWL, Wen A, Guyatt GH, et al. Antihistamines for atopic dermatitis (eczema): systematic review and network meta-analysis of randomised trials. BMJ 2026; 394:e100163.",
+      "Wang D, Wu J, Guo Q, et al. Ivarmacitinib ointment in treatment of adults with mild-to-moderate atopic dermatitis: phase III of a randomized double-blind placebo-controlled phase II/III clinical trial. Br J Dermatol 2026; 194:629.",
+      "Yeung AK, Bonkovsky HL, Balwani M, et al. Bitopertin shows efficacy in patients with erythropoietic protoporphyria: Results from the randomized, double-blind, placebo-controlled AURORA trial. J Am Acad Dermatol 2026; 94:1167.",
+      "Bernigaud C, Do-Pham G, Guichard E, et al. Combined Oral Ivermectin and 5% Permethrin Cream to Treat Severe Scabies. N Engl J Med 2026; 394:1814.",
+      "Alexopoulos A, Ntokos D, Kontara L, et al. Early quantitative progression of café-au-lait macules and diagnostic threshold fulfilment by 24 months in neurofibromatosis type 1. Eur J Pediatr 2026; 185.",
+      "Lebwohl M, Blauvelt A, Kartman CE, et al. Ixekizumab With or Without Tirzepatide in Adults With Psoriasis and Overweight or Obesity: A Phase 3b Randomized Clinical Trial. JAMA Dermatol 2026; 162:709.",
+      "Smieszek S, Przychodzen B, Tyner C, et al. Efficacy and Safety of Imsidolimab for Generalized Pustular Psoriasis. NEJM Evid 2026; 5:EVIDoa2500272.",
+      "Khattak A, Carlino MS, Meniawy T, et al. Intismeran Autogene Plus Pembrolizumab Versus Pembrolizumab Alone in High-Risk Resected Melanoma: 5-Year Update of the Randomized Phase IIb KEYNOTE-942 Study. J Clin Oncol 2026; 44:2482.",
+      "Bizjak M, Korošec P, Košnik M, et al. Cold-induced anaphylaxis: new insights into clinical and genetic characteristics. Front Immunol 2025; 16:1558284.",
+      "Terhorst-Molawi D, Ahsan DM, Fomina D, et al. Cold Urticaria With Negative Standard Cold Stimulation Testing: Results From the COLD-CE Study. J Allergy Clin Immunol Pract 2026; 14:2397.",
+      "Sánchez J, Biol AS, Caraballo A, et al. Clinical Evolution of Acute Urticaria and Association With IgE Autoantibodies. J Allergy Clin Immunol Pract 2026; 14:1440."
+    ],
+    "graphics": [
+      {
+        "id": 96125,
+        "title": "picture 1",
+        "url": "https://medilib.ir/uptodate/show/96125"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 87552,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%221%22"
+      },
+      {
+        "id": 149274,
+        "title": "\"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational IL-2 receptor agonists'",
+        "url": "https://medilib.ir/uptodate/show/149274"
+      },
+      {
+        "id": 149254,
+        "title": "Delgocitinib",
+        "url": "https://medilib.ir/uptodate/show/149254"
+      },
+      {
+        "id": 87552,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%222%22"
+      },
+      {
+        "id": 13658,
+        "title": "\"Chronic hand eczema\", section on 'Topical delgocitinib'",
+        "url": "https://medilib.ir/uptodate/show/13658"
+      },
+      {
+        "id": 87552,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%223%22"
+      },
+      {
+        "id": 9236,
+        "title": "cetirizine",
+        "url": "https://medilib.ir/uptodate/show/9236"
+      },
+      {
+        "id": 9443,
+        "title": "levocetirizine",
+        "url": "https://medilib.ir/uptodate/show/9443"
+      },
+      {
+        "id": 1730,
+        "title": "\"Atopic dermatitis: Initial treatment\", section on 'Controlling pruritus'",
+        "url": "https://medilib.ir/uptodate/show/1730"
+      },
+      {
+        "id": 87552,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%224%22"
+      },
+      {
+        "id": 17096,
+        "title": "ruxolitinib",
+        "url": "https://medilib.ir/uptodate/show/17096"
+      },
+      {
+        "id": 149254,
+        "title": "delgocitinib",
+        "url": "https://medilib.ir/uptodate/show/149254"
+      },
+      {
+        "id": 149274,
+        "title": "\"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'",
+        "url": "https://medilib.ir/uptodate/show/149274"
+      },
+      {
+        "id": 122889,
+        "title": "afamelanotide",
+        "url": "https://medilib.ir/uptodate/show/122889"
+      },
+      {
+        "id": 87552,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%225%22"
+      },
+      {
+        "id": 7125,
+        "title": "\"Erythropoietic protoporphyria and X-linked protoporphyria\", section on 'Dersimelagon, bitopertin, and other therapies under development'",
+        "url": "https://medilib.ir/uptodate/show/7125"
+      },
+      {
+        "id": 8641,
+        "title": "ivermectin",
+        "url": "https://medilib.ir/uptodate/show/8641"
+      },
+      {
+        "id": 87552,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%226%22"
+      },
+      {
+        "id": 9759,
+        "title": "permethrin",
+        "url": "https://medilib.ir/uptodate/show/9759"
+      },
+      {
+        "id": 114369,
+        "title": "\"Scabies: Management\", section on 'Crusted scabies'",
+        "url": "https://medilib.ir/uptodate/show/114369"
+      },
+      {
+        "id": 87552,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%227%22"
+      },
+      {
+        "id": 2939,
+        "title": "\"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'",
+        "url": "https://medilib.ir/uptodate/show/2939"
+      },
+      {
+        "id": 107448,
+        "title": "ixekizumab",
+        "url": "https://medilib.ir/uptodate/show/107448"
+      },
+      {
+        "id": 138675,
+        "title": "tirzepatide",
+        "url": "https://medilib.ir/uptodate/show/138675"
+      },
+      {
+        "id": 87552,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%228%22"
+      },
+      {
+        "id": 143595,
+        "title": "\"Chronic plaque psoriasis in adults: Treatment of disease requiring phototherapy or systemic therapy\", section on 'Glucagon-like peptide 1-based therapy'",
+        "url": "https://medilib.ir/uptodate/show/143595"
+      },
+      {
+        "id": 87552,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%229%22"
+      },
+      {
+        "id": 93554,
+        "title": "\"Pustular psoriasis: Management\", section on 'Other therapies'",
+        "url": "https://medilib.ir/uptodate/show/93554"
+      },
+      {
+        "id": 96957,
+        "title": "pembrolizumab",
+        "url": "https://medilib.ir/uptodate/show/96957"
+      },
+      {
+        "id": 87552,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%2210%22"
+      },
+      {
+        "id": 7615,
+        "title": "\"Adjuvant and neoadjuvant therapy for cutaneous melanoma\", section on 'Investigational adjuvant approaches'",
+        "url": "https://medilib.ir/uptodate/show/7615"
+      },
+      {
+        "id": 87552,
+        "title": "11,12",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%2211%22"
+      },
+      {
+        "id": 8102,
+        "title": "\"Cold urticaria\", section on 'Atypical forms'",
+        "url": "https://medilib.ir/uptodate/show/8102"
+      },
+      {
+        "id": 87552,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/87552#rid%2213%22"
+      },
+      {
+        "id": 8101,
+        "title": "\"New-onset urticaria (hives)\", section on 'Prognosis'",
+        "url": "https://medilib.ir/uptodate/show/8101"
+      }
+    ]
+  }
+}

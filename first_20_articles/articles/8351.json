@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8351"
+  },
+  "article": {
+    "id": 8351,
+    "expected_title": "What's new in gastroenterology and hepatology",
+    "url": "https://medilib.ir/uptodate/show/8351",
+    "final_url": "https://medilib.ir/uptodate/show/8351",
+    "page_title": "What's new in gastroenterology and hepatology",
+    "extracted_at": "2026-11-20T20:51:58.235Z",
+    "title_matches_expected": true,
+    "title": "What's new in gastroenterology and hepatology",
+    "contributors": {
+      "authors": [
+        "Kristen M Robson, MD, MBA, FACG",
+        "Anne C Travis, MD, MSc, FACG, AGAF",
+        "Claire Meyer, MD"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Aug 27, 2026",
+    "version": "Topic 8351 Version 14407.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ENDOSCOPY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Low-dose nonsteroidal anti-inflammatory drugs for preventing post-ERCP pancreatitis (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether low-dose nonsteroidal anti-inflammatory drugs (NSAIDs) prevent post-endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis is unclear. In a trial including 2562 patients who underwent ERCP, rates of post-ERCP pancreatitis were not significantly different for patients given pre-procedure rectal indomethacin 50 mg versus 100 mg (8.1 versus 7.7 percent) [1]. The risk of other adverse events (eg, bleeding) was not significantly different between groups. Although these data demonstrate that higher-dose NSAIDs may not be more effective at preventing post-ERCP pancreatitis, further studies are needed before routinely using low-dose NSAID prophylaxis. (See \"Post-endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis\", section on 'Rectal nonsteroidal anti-inflammatory drugs'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Post-banding ulcer bleeding after endoscopic variceal ligation (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Post-banding ulcer bleeding can complicate endoscopic variceal ligation (EVL; or banding), a common intervention for esophageal varices. In a study including 206 patients with cirrhosis who underwent a total of 630 EVL sessions, post-banding ulcer bleeding was reported in 17 percent of patients after 7 percent of EVL sessions, with a median onset time of 12 days [2]. At one month, overall survival rates were lower in patients with post-banding ulcer bleeding compared with no bleeding (71 versus 95 percent). Risk factors for bleeding included urgent EVL and kidney impairment. Additional studies are needed to inform strategies to lower the risk of post-banding ulcer bleeding. (See \"Endoscopic variceal ligation\", section on 'Post-banding ulcer bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ESOPHAGEAL AND GASTRIC DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Follow-up after nonendoscopic screening for Barrett's esophagus (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Capsule-sponge plus biomarker (trefoil factor 3 [TTF3]) testing is a non-endoscopic screening method for Barrett's esophagus, but long-term safety data are limited. In a study including 1370 patients who had a negative or equivocal capsule-sponge-TFF3 test at baseline, no new cases of esophageal cancer were identified through a linked, nationwide cancer registry after a median follow-up of nearly seven years [3]. One case of gastric cardia cancer was reported after five years, resulting in a missed cancer rate of 0.07 percent for a negative capsule-sponge-TFF3 test. These findings suggest that capsule-sponge-TFF3 testing is safe and associated with a very low risk of detecting a missed cancer during long-term follow-up. (See \"Barrett's esophagus: Epidemiology, clinical manifestations, and diagnosis\", section on 'Nonendoscopic methods'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Achalasia and the risk of esophageal cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The risk of esophageal cancer among patients with achalasia is not clear. In a population-based case-control study that included over 390,000 individuals, the prevalence of achalasia was higher in those with esophageal cancer than in the general population (0.38 versus 0.06 percent) [4]. After adjusting for gastroesophageal reflux disease, achalasia was associated with a higher risk of esophageal squamous cell cancer but not adenocarcinoma. The low absolute risk of esophageal cancer in patients with achalasia supports our approach of performing endoscopic evaluation for recurrent or concerning symptoms (eg, weight loss) rather than for routine cancer screening. (See \"Overview of the management of achalasia\", section on 'Cancer surveillance'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rome V criteria for esophageal disorders of gut-brain interaction (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Esophageal disorders of gut-brain interaction (E-DGBIs; functional esophageal disorders) are characterized by esophageal symptoms that are not explained by structural, inflammatory, or major motor abnormalities. The recently published Rome V classification of E-DGBIs provides updated diagnostic criteria for five disorders, including functional chest pain, functional heartburn, functional dysphagia, reflux hypersensitivity, and globus [5]. Rome V incorporates other diagnostic frameworks to exclude esophageal motility disorders and gastroesophageal reflux disease. For functional chest pain, Rome V requires esophageal biopsies only for patients with meal-related symptoms. These revised criteria emphasize a standardized, positive diagnostic approach and facilitate the care of E-DGBIs. (See \"Approach to the adult with chest pain of esophageal origin\", section on 'Functional chest pain'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rome V criteria for gastroduodenal disorders of brain-gut interaction (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Rome criteria provide a classification system for disorders of gut-brain interaction (DGBIs). The newly published Rome V classification offers revised diagnostic criteria for gastroduodenal DBGIs [6]. The five categories of these disorders include functional dyspepsia, chronic nausea and vomiting disorders, excessive belching disorders, rumination syndrome, and a new category: inability to belch syndrome. The updated criteria for functional dyspepsia emphasize the importance of identifying the subtype of functional dyspepsia as either epigastric pain syndrome or postprandial distress syndrome and tailoring management according to the specific subtype. Gastroduodenal DBGIs affect up to 10 percent of adults, highlighting the importance of clear criteria to diagnose these conditions and target management. (See \"Approach to the adult with nausea and vomiting\", section on 'Functional nausea and vomiting disorders'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEPATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nonselective beta blockers for preventing liver decompensation (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Carvedilol lowers portal pressure more than other beta blockers in patients with cirrhosis; however, whether carvedilol is more effective for preventing liver decompensation is uncertain. In a database study including over 26,000 patients with cirrhosis, carvedilol therapy was associated with a lower risk of liver decompensation compared with nadolol or propranolol after six months (14.5 percent versus 18.2 and 17.4 percent, respectively) [7]. These data support our practice of using carvedilol as first-line therapy for patients with compensated cirrhosis and clinically significant portal hypertension, provided there are no contraindications or history of intolerance to carvedilol. (See \"Cirrhosis in adults: Overview of complications, general management, and prognosis\", section on 'Therapies for slowing disease progression'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bulevirtide for the treatment of hepatitis D virus infection (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [8]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bepirovirsen for treatment of chronic HBV infection (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oral nucleos(t)ide analogs (eg, entecavir and tenofovir) are mainstays of treatment for chronic hepatitis B virus (HBV) infection. Although they effectively suppress HBV replication, they rarely result in a functional cure (unquantifiable HBV DNA and undetectable hepatitis B surface antigen [HBsAg] levels for 24 weeks after stopping all treatment). In two randomized trials, bepirovirsen, an experimental injectable antisense oligonucleotide, increased the likelihood of functional cure (19 and 20 percent versus 0 with placebo) in patients without cirrhosis who were virologically suppressed while receiving nucleos(t)ide analog therapy; most cures occurred in those with baseline HBsAg level <1000 IU per milliliter [9]. Adverse events included injection site reactions, increased alanine aminotransferase (ALT) and creatinine levels, decreased platelets, and albuminuria. Longer-term follow-up is needed to further assess the durability of HBsAg loss with bepirovirsen. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Overview of antiviral agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PANCREATIC AND BILIARY DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Risk for pigment gallstones in acquired hemolytic anemias (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The risk for pigment gallstones is increased in hereditary hemolytic anemias but has not been well-documented in acquired hemolytic anemias. In a new database study from Denmark that evaluated >6000 individuals with acquired hemolytic anemias, the cumulative incidence of symptomatic gallstones over five years was increased nearly threefold compared with >140,000 controls (3.5 versus 1.5 percent) [10]. These data support having a low threshold for evaluating gallstone disease in individuals with chronic hemolysis. (See \"Gallstones: Epidemiology, risk factors and prevention\", section on 'Hyperbilirubinemia' and \"Warm autoimmune hemolytic anemia (AIHA) in adults\", section on 'Warm AIHA signs and symptoms'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Endoscopic minor papillotomy in pancreas divisum (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with pancreas divisum and recurrent acute pancreatitis are commonly treated with endoscopic minor papillotomy to prevent further episodes of pancreatitis. However, this practice is based on observational data, and its true effectiveness has been debated. In a randomized, double-blind trial including 148 patients with pancreas divisum and unexplained recurrent acute pancreatitis, ERCP with minor papillotomy did not reduce the risk of another episode of acute pancreatitis compared with sham ERCP [11]. It also did not reduce the risk of chronic pancreatitis, diabetes, or exocrine pancreatic insufficiency. Based on this new evidence, we no longer recommend endoscopic minor papillotomy for patients with pancreas divisum and no ductal pathology; it may still have a role in patients with abnormalities such as a dilated dorsal duct or santorinicele. (See \"Treatment of pancreas divisum\", section on 'Endoscopic therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Endoscopic ultrasound-guided technique for managing malignant biliary obstruction (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with malignant biliary obstruction, endoscopic ultrasound-guided choledochoduodenostomy (EUS-CDS) is a potentially safer alternative to endoscopic retrograde cholangiopancreatography (ERCP) for establishing biliary drainage. In a trial that randomly assigned 220 patients with malignant distal biliary obstruction and a dilated common bile duct to EUS-CDS with stenting or to ERCP-guided stenting, the rate of post-procedure pancreatitis was lower in the EUS-CDS group (1.8 versus 7.3 percent) while rates of other serious adverse events, stent dysfunction, and clinical success were similar in both groups [12]. Although these data are promising, more studies are needed to evaluate the benefits of EUS-CDS, which may be limited by availability of endoscopic expertise. (See \"Endoscopic stenting for malignant biliary obstruction\", section on 'Alternatives to ERCP-guided stent placement'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SMALL BOWEL AND COLONIC DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cyclosporiasis outbreak in the United States (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [13]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [14]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Stem cell therapy for perianal fistula related to Crohn disease (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perianal fistulas related to Crohn disease (CD) may persist despite medical therapy and surgery, and previous studies on stem cell therapy had been promising. However, in a recent trial including over 500 patients with refractory, complex perianal fistula related to CD, darvadstrocel, a dispersion of adipose-derived mesenchymal stem cells, resulted in no significant improvement in rates of combined remission (defined as fistula closure and no fluid collections on imaging) compared with placebo at 24 weeks (48.8 versus 46.3 percent) [15]. These data do not support the use of mesenchymal stem cell therapy for perianal fistula related to CD, and additional studies are needed to inform treatment options for refractory perianal fistula. (See \"Perianal Crohn disease\", section on 'Patients with nonhealing fistula'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Spondyloarthritis before and after onset of inflammatory bowel disease (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients with inflammatory bowel disease (IBD) have an increased risk of developing related spondyloarthritis (SpA); however, data are limited regarding the extent of risk and timing of symptoms. In a new Danish nationwide population-based study that compared over 17,000 patients with IBD to matched controls, patients with ulcerative colitis and Crohn disease had higher rates of developing SpA in the eight years prior to IBD diagnosis (adjusted odds ratio 1.61 and 2.84, respectively) [16]; similarly, there was an increased risk of developing SpA after diagnosis of ulcerative colitis or Crohn disease (adjusted hazard ratio 2.24 and 3.17, respectively). The prevalence of SpA was highest in the one year preceding and two years following IBD diagnosis. Providers treating patients for SpA should carefully monitor for signs and symptoms of IBD, especially within a few years of diagnosis. (See \"Arthritis related to inflammatory bowel disease: Clinical manifestations and diagnosis of arthritis\", section on 'Epidemiology'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Clinical practice update on refractory constipation (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Gastroenterological Association (AGA) has published a clinical practice update on the management of refractory constipation [17]. The AGA emphasizes excluding secondary causes of constipation, such as medications or defecatory disorders, and supports the sequential use of medical therapies for those with persistent symptoms. The AGA reserves surgical intervention for selected patients, such as those with refractory, severe, slow transit constipation in the absence of pelvic floor dysfunction. Our approach to managing refractory constipation is generally consistent with this practice guidance (algorithm 1). (See \"Management of persistent unresponsive constipation in adults\", section on 'Introduction'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER GASTROENTEROLOGY AND NUTRITION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Gastrointestinal complications in systemic sclerosis (scleroderma) (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Gastrointestinal involvement is common in systemic sclerosis (SSc), but whether early gastrointestinal symptoms predict disease progression is unclear. In this prospective cohort of 450 patients with early SSc, baseline gastroesophageal reflux disease and diarrhea were associated with progression to significant gastrointestinal involvement [18]. Peptic ulcer disease and diarrhea were associated with higher mortality. These findings suggest that screening patients with SSc for gastrointestinal symptoms may help identify which patients will have an increased risk of gastrointestinal complications and death. (See \"Gastrointestinal manifestations of systemic sclerosis (scleroderma)\", section on 'Prognosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Palliative care provided by hepatologists in end-stage liver disease (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Clinicians who are not palliative care specialists but who work with patients with serious illness may be trained to provide palliative care, to expand access. In a cluster-randomized trial among patients with end-stage liver disease, palliative care delivered by hepatologists provided with 12 weeks of palliative care training resulted in similar improvements in quality of life at three months when compared with care provided by palliative care specialists, and was associated with greater improvement in patient satisfaction [19]. Providing targeted training to non-palliative care providers can improve patient access to beneficial services. (See \"Palliative care for patients with end-stage liver disease\", section on 'What is the difference between primary and secondary (subspecialty) palliative care?'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nENDOSCOPY\n\nLow-dose nonsteroidal anti-inflammatory drugs for preventing post-ERCP pancreatitis (August 2026)\n\nWhether low-dose nonsteroidal anti-inflammatory drugs (NSAIDs) prevent post-endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis is unclear. In a trial including 2562 patients who underwent ERCP, rates of post-ERCP pancreatitis were not significantly different for patients given pre-procedure rectal indomethacin 50 mg versus 100 mg (8.1 versus 7.7 percent) [1]. The risk of other adverse events (eg, bleeding) was not significantly different between groups. Although these data demonstrate that higher-dose NSAIDs may not be more effective at preventing post-ERCP pancreatitis, further studies are needed before routinely using low-dose NSAID prophylaxis. (See \"Post-endoscopic retrograde cholangiopancreatography (ERCP) pancreatitis\", section on 'Rectal nonsteroidal anti-inflammatory drugs'.)\n\nPost-banding ulcer bleeding after endoscopic variceal ligation (April 2026)\n\nPost-banding ulcer bleeding can complicate endoscopic variceal ligation (EVL; or banding), a common intervention for esophageal varices. In a study including 206 patients with cirrhosis who underwent a total of 630 EVL sessions, post-banding ulcer bleeding was reported in 17 percent of patients after 7 percent of EVL sessions, with a median onset time of 12 days [2]. At one month, overall survival rates were lower in patients with post-banding ulcer bleeding compared with no bleeding (71 versus 95 percent). Risk factors for bleeding included urgent EVL and kidney impairment. Additional studies are needed to inform strategies to lower the risk of post-banding ulcer bleeding. (See \"Endoscopic variceal ligation\", section on 'Post-banding ulcer bleeding'.)\n\nESOPHAGEAL AND GASTRIC DISEASE\n\nFollow-up after nonendoscopic screening for Barrett's esophagus (July 2026)\n\nCapsule-sponge plus biomarker (trefoil factor 3 [TTF3]) testing is a non-endoscopic screening method for Barrett's esophagus, but long-term safety data are limited. In a study including 1370 patients who had a negative or equivocal capsule-sponge-TFF3 test at baseline, no new cases of esophageal cancer were identified through a linked, nationwide cancer registry after a median follow-up of nearly seven years [3]. One case of gastric cardia cancer was reported after five years, resulting in a missed cancer rate of 0.07 percent for a negative capsule-sponge-TFF3 test. These findings suggest that capsule-sponge-TFF3 testing is safe and associated with a very low risk of detecting a missed cancer during long-term follow-up. (See \"Barrett's esophagus: Epidemiology, clinical manifestations, and diagnosis\", section on 'Nonendoscopic methods'.)\n\nAchalasia and the risk of esophageal cancer (May 2026)\n\nThe risk of esophageal cancer among patients with achalasia is not clear. In a population-based case-control study that included over 390,000 individuals, the prevalence of achalasia was higher in those with esophageal cancer than in the general population (0.38 versus 0.06 percent) [4]. After adjusting for gastroesophageal reflux disease, achalasia was associated with a higher risk of esophageal squamous cell cancer but not adenocarcinoma. The low absolute risk of esophageal cancer in patients with achalasia supports our approach of performing endoscopic evaluation for recurrent or concerning symptoms (eg, weight loss) rather than for routine cancer screening. (See \"Overview of the management of achalasia\", section on 'Cancer surveillance'.)\n\nRome V criteria for esophageal disorders of gut-brain interaction (April 2026)\n\nEsophageal disorders of gut-brain interaction (E-DGBIs; functional esophageal disorders) are characterized by esophageal symptoms that are not explained by structural, inflammatory, or major motor abnormalities. The recently published Rome V classification of E-DGBIs provides updated diagnostic criteria for five disorders, including functional chest pain, functional heartburn, functional dysphagia, reflux hypersensitivity, and globus [5]. Rome V incorporates other diagnostic frameworks to exclude esophageal motility disorders and gastroesophageal reflux disease. For functional chest pain, Rome V requires esophageal biopsies only for patients with meal-related symptoms. These revised criteria emphasize a standardized, positive diagnostic approach and facilitate the care of E-DGBIs. (See \"Approach to the adult with chest pain of esophageal origin\", section on 'Functional chest pain'.)\n\nRome V criteria for gastroduodenal disorders of brain-gut interaction (April 2026)\n\nThe Rome criteria provide a classification system for disorders of gut-brain interaction (DGBIs). The newly published Rome V classification offers revised diagnostic criteria for gastroduodenal DBGIs [6]. The five categories of these disorders include functional dyspepsia, chronic nausea and vomiting disorders, excessive belching disorders, rumination syndrome, and a new category: inability to belch syndrome. The updated criteria for functional dyspepsia emphasize the importance of identifying the subtype of functional dyspepsia as either epigastric pain syndrome or postprandial distress syndrome and tailoring management according to the specific subtype. Gastroduodenal DBGIs affect up to 10 percent of adults, highlighting the importance of clear criteria to diagnose these conditions and target management. (See \"Approach to the adult with nausea and vomiting\", section on 'Functional nausea and vomiting disorders'.)\n\nHEPATOLOGY\n\nNonselective beta blockers for preventing liver decompensation (August 2026)\n\nCarvedilol lowers portal pressure more than other beta blockers in patients with cirrhosis; however, whether carvedilol is more effective for preventing liver decompensation is uncertain. In a database study including over 26,000 patients with cirrhosis, carvedilol therapy was associated with a lower risk of liver decompensation compared with nadolol or propranolol after six months (14.5 percent versus 18.2 and 17.4 percent, respectively) [7]. These data support our practice of using carvedilol as first-line therapy for patients with compensated cirrhosis and clinically significant portal hypertension, provided there are no contraindications or history of intolerance to carvedilol. (See \"Cirrhosis in adults: Overview of complications, general management, and prognosis\", section on 'Therapies for slowing disease progression'.)\n\nBulevirtide for the treatment of hepatitis D virus infection (July 2026)\n\nBulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [8]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)\n\nBepirovirsen for treatment of chronic HBV infection (June 2026)\n\nOral nucleos(t)ide analogs (eg, entecavir and tenofovir) are mainstays of treatment for chronic hepatitis B virus (HBV) infection. Although they effectively suppress HBV replication, they rarely result in a functional cure (unquantifiable HBV DNA and undetectable hepatitis B surface antigen [HBsAg] levels for 24 weeks after stopping all treatment). In two randomized trials, bepirovirsen, an experimental injectable antisense oligonucleotide, increased the likelihood of functional cure (19 and 20 percent versus 0 with placebo) in patients without cirrhosis who were virologically suppressed while receiving nucleos(t)ide analog therapy; most cures occurred in those with baseline HBsAg level <1000 IU per milliliter [9]. Adverse events included injection site reactions, increased alanine aminotransferase (ALT) and creatinine levels, decreased platelets, and albuminuria. Longer-term follow-up is needed to further assess the durability of HBsAg loss with bepirovirsen. (See \"Hepatitis B virus infection: Overview of management in adults\", section on 'Overview of antiviral agents'.)\n\nPANCREATIC AND BILIARY DISEASE\n\nRisk for pigment gallstones in acquired hemolytic anemias (April 2026)\n\nThe risk for pigment gallstones is increased in hereditary hemolytic anemias but has not been well-documented in acquired hemolytic anemias. In a new database study from Denmark that evaluated >6000 individuals with acquired hemolytic anemias, the cumulative incidence of symptomatic gallstones over five years was increased nearly threefold compared with >140,000 controls (3.5 versus 1.5 percent) [10]. These data support having a low threshold for evaluating gallstone disease in individuals with chronic hemolysis. (See \"Gallstones: Epidemiology, risk factors and prevention\", section on 'Hyperbilirubinemia' and \"Warm autoimmune hemolytic anemia (AIHA) in adults\", section on 'Warm AIHA signs and symptoms'.)\n\nEndoscopic minor papillotomy in pancreas divisum (April 2026)\n\nPatients with pancreas divisum and recurrent acute pancreatitis are commonly treated with endoscopic minor papillotomy to prevent further episodes of pancreatitis. However, this practice is based on observational data, and its true effectiveness has been debated. In a randomized, double-blind trial including 148 patients with pancreas divisum and unexplained recurrent acute pancreatitis, ERCP with minor papillotomy did not reduce the risk of another episode of acute pancreatitis compared with sham ERCP [11]. It also did not reduce the risk of chronic pancreatitis, diabetes, or exocrine pancreatic insufficiency. Based on this new evidence, we no longer recommend endoscopic minor papillotomy for patients with pancreas divisum and no ductal pathology; it may still have a role in patients with abnormalities such as a dilated dorsal duct or santorinicele. (See \"Treatment of pancreas divisum\", section on 'Endoscopic therapy'.)\n\nEndoscopic ultrasound-guided technique for managing malignant biliary obstruction (March 2026)\n\nFor patients with malignant biliary obstruction, endoscopic ultrasound-guided choledochoduodenostomy (EUS-CDS) is a potentially safer alternative to endoscopic retrograde cholangiopancreatography (ERCP) for establishing biliary drainage. In a trial that randomly assigned 220 patients with malignant distal biliary obstruction and a dilated common bile duct to EUS-CDS with stenting or to ERCP-guided stenting, the rate of post-procedure pancreatitis was lower in the EUS-CDS group (1.8 versus 7.3 percent) while rates of other serious adverse events, stent dysfunction, and clinical success were similar in both groups [12]. Although these data are promising, more studies are needed to evaluate the benefits of EUS-CDS, which may be limited by availability of endoscopic expertise. (See \"Endoscopic stenting for malignant biliary obstruction\", section on 'Alternatives to ERCP-guided stent placement'.)\n\nSMALL BOWEL AND COLONIC DISEASE\n\nCyclosporiasis outbreak in the United States (July 2026)\n\nCyclosporiasis is a parasitic infection characterized by watery diarrhea, usually caused by ingestion of contaminated food. In May 2026, a large outbreak of cyclosporiasis was recognized in the United States [13]. The source of the cases appears to be related to the ingestion of a widely distributed contaminated lettuce product [14]. The US Centers for Disease Control and Prevention advises clinicians to consider cyclosporiasis in the diagnosis of patients presenting with watery diarrhea, ask the laboratory to specifically test stool for Cyclospora spp. (with PCR, if available), and ask patients with suspected or confirmed cyclosporiasis about their recent food and travel history. Up-to-date information on the cyclosporiasis outbreak in the United States can be found on the CDC cyclosporiasis page. (See \"Cyclospora infection\", section on 'Epidemiology'.)\n\nStem cell therapy for perianal fistula related to Crohn disease (June 2026)\n\nPerianal fistulas related to Crohn disease (CD) may persist despite medical therapy and surgery, and previous studies on stem cell therapy had been promising. However, in a recent trial including over 500 patients with refractory, complex perianal fistula related to CD, darvadstrocel, a dispersion of adipose-derived mesenchymal stem cells, resulted in no significant improvement in rates of combined remission (defined as fistula closure and no fluid collections on imaging) compared with placebo at 24 weeks (48.8 versus 46.3 percent) [15]. These data do not support the use of mesenchymal stem cell therapy for perianal fistula related to CD, and additional studies are needed to inform treatment options for refractory perianal fistula. (See \"Perianal Crohn disease\", section on 'Patients with nonhealing fistula'.)\n\nSpondyloarthritis before and after onset of inflammatory bowel disease (March 2026)\n\nPatients with inflammatory bowel disease (IBD) have an increased risk of developing related spondyloarthritis (SpA); however, data are limited regarding the extent of risk and timing of symptoms. In a new Danish nationwide population-based study that compared over 17,000 patients with IBD to matched controls, patients with ulcerative colitis and Crohn disease had higher rates of developing SpA in the eight years prior to IBD diagnosis (adjusted odds ratio 1.61 and 2.84, respectively) [16]; similarly, there was an increased risk of developing SpA after diagnosis of ulcerative colitis or Crohn disease (adjusted hazard ratio 2.24 and 3.17, respectively). The prevalence of SpA was highest in the one year preceding and two years following IBD diagnosis. Providers treating patients for SpA should carefully monitor for signs and symptoms of IBD, especially within a few years of diagnosis. (See \"Arthritis related to inflammatory bowel disease: Clinical manifestations and diagnosis of arthritis\", section on 'Epidemiology'.)\n\nClinical practice update on refractory constipation (March 2026)\n\nThe American Gastroenterological Association (AGA) has published a clinical practice update on the management of refractory constipation [17]. The AGA emphasizes excluding secondary causes of constipation, such as medications or defecatory disorders, and supports the sequential use of medical therapies for those with persistent symptoms. The AGA reserves surgical intervention for selected patients, such as those with refractory, severe, slow transit constipation in the absence of pelvic floor dysfunction. Our approach to managing refractory constipation is generally consistent with this practice guidance (algorithm 1). (See \"Management of persistent unresponsive constipation in adults\", section on 'Introduction'.)\n\nOTHER GASTROENTEROLOGY AND NUTRITION\n\nGastrointestinal complications in systemic sclerosis (scleroderma) (July 2026)\n\nGastrointestinal involvement is common in systemic sclerosis (SSc), but whether early gastrointestinal symptoms predict disease progression is unclear. In this prospective cohort of 450 patients with early SSc, baseline gastroesophageal reflux disease and diarrhea were associated with progression to significant gastrointestinal involvement [18]. Peptic ulcer disease and diarrhea were associated with higher mortality. These findings suggest that screening patients with SSc for gastrointestinal symptoms may help identify which patients will have an increased risk of gastrointestinal complications and death. (See \"Gastrointestinal manifestations of systemic sclerosis (scleroderma)\", section on 'Prognosis'.)\n\nPalliative care provided by hepatologists in end-stage liver disease (May 2026)\n\nClinicians who are not palliative care specialists but who work with patients with serious illness may be trained to provide palliative care, to expand access. In a cluster-randomized trial among patients with end-stage liver disease, palliative care delivered by hepatologists provided with 12 weeks of palliative care training resulted in similar improvements in quality of life at three months when compared with care provided by palliative care specialists, and was associated with greater improvement in patient satisfaction [19]. Providing targeted training to non-palliative care providers can improve patient access to beneficial services. (See \"Palliative care for patients with end-stage liver disease\", section on 'What is the difference between primary and secondary (subspecialty) palliative care?'.)",
+    "word_count": 2379,
+    "character_count": 17224,
+    "references": [
+      "Qi ZP, Wan R, Wan XJ, et al. Low-dose rectal indomethacin to prevent post-ERCP pancreatitis: results of a large Chinese multicenter randomized noninferiority trial. Endoscopy 2026; 58:689.",
+      "de Brito Nunes M, Knecht M, Schropp J, et al. Post-Banding Ulcer Bleeding After Endoscopic Ligation: Incidence, Risk Factors and Outcomes in Patients With Cirrhosis. Aliment Pharmacol Ther 2026; 63:1099.",
+      "Ross-Innes CS, Somerset T, Hadjinicolaou AV, et al. Long-Term Follow-Up From the Barrett's Esophagus Screening Trial 3 Demonstrates High Negative Predictive Value of Capsule Sponge-Trefoil Factor 3 Test for Esophageal Adenocarcinoma. Gastroenterology 2026.",
+      "Leijonmarck W, Santoni G, Holmberg D, et al. Achalasia and Risk of Esophageal Squamous Cell Carcinoma and Adenocarcinoma in a Multinational Study. Gastroenterology 2026.",
+      "Gyawali CP, Roman S, Zerbib F, et al. Functional Esophageal Disorders. Gastroenterology 2026; 170:1224.",
+      "Törnblom H, Carbone F, Hasler WL, et al. Gastroduodenal Disorders. Gastroenterology 2026; 170:1240.",
+      "Simon TG, Zhang Y, Kehoe A, et al. The Comparative Effectiveness of Carvedilol Versus Other Nonselective β-Blockers in Cirrhosis. Ann Intern Med 2026.",
+      "Dailymed. Hepcludex- bulevirtide injection, powder, lyophilized, for solution https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12391cc2-38c2-4cf5-86d3-2be9370127fc (Accessed on June 03, 2026).",
+      "Hou J, Lim SG, Buti M, et al. Phase 3 Results of Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection. N Engl J Med 2026; 394:2395.",
+      "Naamansen AB, Tranekær S, Christensen F, et al. Acquired Hemolytic Anemia Is Associated With Higher Risk of Symptomatic Gallstone Disease. Am J Hematol 2026; 101:1134.",
+      "Coté GA, Durkalski-Mauldin V, Fogel EL, et al. Minor Papillotomy for Treatment of Idiopathic Acute Pancreatitis With Pancreas Divisum: A Randomized Clinical Trial. JAMA 2026; 335:682.",
+      "Anderloni A, Spadaccini M, Binda C, et al. Endoscopic Ultrasound-Guided Choledochoduodenostomy vs Endoscopic Retrograde Cholangiopancreatography in Malignant Distal Biliary Obstruction to Prevent Postprocedural Pancreatitis: A Randomized Trial. Gastroenterology 2026; 170:584.",
+      "United States Centers for Disease Control and Prevention. Health Alert Network: Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026. https://www.cdc.gov/han/php/notices/han00531.html (Accessed on July 16, 2026).",
+      "United States Centers for Disease Control and Prevention. Cyclosporiasis. Cyclospora Outbreak Linked to Shredded Iceberg Lettuce Served at Taco Bell in 5 States https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html (Accessed on July 17, 2026).",
+      "Colombel JF, Garcia Olmo D, Chen ST, et al. Darvadstrocel in Patients With Crohn's Disease With Complex Perianal Fistulas: The ADMIRE CD II Phase 3 Randomized Trial. Gastroenterology 2026; 170:1562.",
+      "Agrawal M, Sørensen CN, Poulsen GJ, et al. Spondyloarthritis Preceding and Following Inflammatory Bowel Disease Diagnosis and Risk Factors: A Temporal Trends Analysis in a Population-Based Cohort. Arthritis Rheumatol 2026; 78:1666.",
+      "Staller K, Neshatian L, Lembo A, Bharucha AE. AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review. Clin Gastroenterol Hepatol 2026; 24:296.",
+      "Ayla AY, Balar AP, Calderon Martinez E, et al. Early gastrointestinal manifestations predict disease progression and mortality in patients with systemic sclerosis. Rheumatology (Oxford) 2026; 65.",
+      "Verma M, Navarro V, Kosinski A, et al. Palliative Care Intervention for Patients With End-Stage Liver Disease: A Cluster Randomized Clinical Trial. JAMA Intern Med 2026; 186:677."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 8351,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%221%22"
+      },
+      {
+        "id": 8351,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%222%22"
+      },
+      {
+        "id": 8351,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%223%22"
+      },
+      {
+        "id": 8351,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%224%22"
+      },
+      {
+        "id": 8351,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%225%22"
+      },
+      {
+        "id": 8351,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%226%22"
+      },
+      {
+        "id": 8351,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%227%22"
+      },
+      {
+        "id": 8351,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%228%22"
+      },
+      {
+        "id": 8351,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%229%22"
+      },
+      {
+        "id": 8351,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2210%22"
+      },
+      {
+        "id": 8351,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2211%22"
+      },
+      {
+        "id": 8351,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2212%22"
+      },
+      {
+        "id": 8351,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2213%22"
+      },
+      {
+        "id": 8351,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2214%22"
+      },
+      {
+        "id": 8351,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2215%22"
+      },
+      {
+        "id": 8351,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2216%22"
+      },
+      {
+        "id": 8351,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2217%22"
+      },
+      {
+        "id": 8351,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2218%22"
+      },
+      {
+        "id": 8351,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8351#rid%2219%22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/15664"
+  },
+  "article": {
+    "id": 15664,
+    "expected_title": "What's new in hospital medicine",
+    "url": "https://medilib.ir/uptodate/show/15664",
+    "final_url": "https://medilib.ir/uptodate/show/15664",
+    "page_title": "What's new in hospital medicine",
+    "extracted_at": "2026-11-20T20:52:15.593Z",
+    "title_matches_expected": true,
+    "title": "What's new in hospital medicine",
+    "contributors": {
+      "authors": [
+        "Jane Givens, MD, MSCE",
+        "Zehra Hussain, MD, FACP",
+        "Han Li, MD",
+        "Sara Swenson, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Sep 24, 2026",
+    "version": "Topic 15664 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HOSPITAL CARDIOVASCULAR MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Oral anticoagulation for patients with atrial fibrillation and intermediate stroke risk (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While the benefits of oral anticoagulation (OAC) generally outweigh the risks of bleeding in patients with atrial fibrillation (AF) and high CHA2DS2-VASc scores, the benefit for patients with intermediate stroke risk (CHA2DS2-VASc score of 1 in males or 2 in females) is less studied. In a randomized trial including over 1800 such patients, anticoagulation with a direct oral anticoagulant (DOAC) reduced the composite of stroke, systemic embolism, major bleeding, and cardiovascular death at two years compared with no anticoagulation (0.5 versus 1.5 percent) [1]. While this trial supports relative clinical benefit of DOACs in patients with AF and intermediate stroke risk, the absolute risks appear to be low, and the magnitude of the benefit is uncertain. We continue to consider the heterogeneity of thromboembolic risk, bleeding risk, and AF burden for shared decision-making in anticoagulation for patients with AF and intermediate stroke risk. (See \"Atrial fibrillation in adults: Selection of candidates for long-term anticoagulation\", section on 'Recommendations based on score'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HOSPITAL HEMATOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Jehovah's witnesses may now accept blood components (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [2,3]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Direct oral anticoagulants for heparin-induced thrombocytopenia (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Heparin-induced thrombocytopenia (HIT) is a life-threatening complication of heparin exposure with a high risk of venous and arterial thrombosis, requiring therapeutic anticoagulation with a nonheparin anticoagulant. Over time, direct oral anticoagulants (DOACs) have been increasingly used, but data on their safety and efficacy relative to parenteral agents are limited. A new meta-analysis evaluating 44 publications described 352 individuals who received a DOAC for HIT, either as initial treatment (54 percent) or following parenteral anticoagulation (46 percent); among these individuals, 6 percent had thrombosis, and 3 percent had bleeding, with no clear pattern related to the specific DOAC or sequence of therapies [4]. This analysis supports DOAC use for HIT when appropriate, but more evidence is needed. Other considerations may impact anticoagulant selection (table 1). (See \"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [5]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HOSPITAL INFECTIOUS DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [6]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [7]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tebipenem pivoxil for complicated urinary tract infections (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "When complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [8]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Clinical prediction tool for long-term mortality in community-acquired pneumonia (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While clinical prediction scores for short-term mortality in community-acquired pneumonia (CAP) exist, similar tools for predicting long-term mortality are lacking. The Long-term Pneumonia Mortality Index (L-PMI) has been developed and validated to identify patient mortality risk after hospitalization with CAP [9]. In an analysis of four international, multicenter cohorts representing over 8300 hospitalized patients with CAP or COVID-19 pneumonia, the L-PMI demonstrated good discrimination for mortality (AUCs ranging from 0.78 to 0.88). Among others, components of the L-PMI include age, smoking history, Charlson comorbidity index, and CURB-65 score. Further studies in diverse patient populations will determine if the L-PMI can be utilized to identify high-risk patients for discharge interventions. (See \"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HOSPITAL PULMONOLOGY AND CRITICAL CARE MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Autonomous oxygen titration devices (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Autonomous titration devices automatically adjust oxygen delivery in response to a patient's oxygenation status, reducing the need for manual titration, but remain understudied. In a randomized trial of 300 hospitalized patients receiving low-flow oxygen up to 10 L, autonomous titration improved oxygenation parameters compared with usual care [10]; this strategy increased time spent in normoxemia (85 versus 63 percent) and reduced time spent in hypoxemia (2 versus 3.6 percent) and hyperoxemia (9 versus 29 percent).However, these devices are not widely available, and their impact on clinically meaningful outcomes remains uncertain. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Aspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [11]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "YEARS criteria for pulmonary embolism exclusion in patients with active cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The YEARS criteria adjusts D-dimer cutoffs for excluding pulmonary embolism (PE) based on pretest probability, but it is unknown whether it can be utilized in patients with active cancer. In a randomized trial including 698 patients with active cancer suspected of having a PE, the diagnostic failure rate at 90 days was similar in patients evaluated by the YEARS algorithm compared with a standard chest computed tomography pulmonary angiogram (1.8 versus 5 percent) [12]. Limitations of the study included an open-label design, exclusion of patients with a life expectancy <3 months, lack of subgroup analysis by cancer site and stage, and early cessation of the study. Nonetheless, these results suggest that YEARS may be used to exclude PE in patients with active cancer, although further study and validation is needed. (See \"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "American Thoracic Society guidelines on noninvasive respiratory support (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Thoracic Society (ATS) recently issued guidelines on the use of noninvasive respiratory support for patients with acute respiratory failure, in whom low-flow oxygen is insufficient [13]. The ATS recommends using high-flow nasal cannula (HFNC) oxygen for acute hypoxemic respiratory failure and suggests noninvasive ventilation (NIV) for acute hypercapnic respiratory failure. The ATS also suggests either modality for preoxygenation prior to endotracheal intubation; post-extubation, the ATS suggests HFNC for low-risk patients and NIV for high-risk patients. We agree with these recommendations. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support' and \"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\" and \"Extubation management in the adult intensive care unit\".)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nHOSPITAL CARDIOVASCULAR MEDICINE\n\nOral anticoagulation for patients with atrial fibrillation and intermediate stroke risk (September 2026)\n\nWhile the benefits of oral anticoagulation (OAC) generally outweigh the risks of bleeding in patients with atrial fibrillation (AF) and high CHA2DS2-VASc scores, the benefit for patients with intermediate stroke risk (CHA2DS2-VASc score of 1 in males or 2 in females) is less studied. In a randomized trial including over 1800 such patients, anticoagulation with a direct oral anticoagulant (DOAC) reduced the composite of stroke, systemic embolism, major bleeding, and cardiovascular death at two years compared with no anticoagulation (0.5 versus 1.5 percent) [1]. While this trial supports relative clinical benefit of DOACs in patients with AF and intermediate stroke risk, the absolute risks appear to be low, and the magnitude of the benefit is uncertain. We continue to consider the heterogeneity of thromboembolic risk, bleeding risk, and AF burden for shared decision-making in anticoagulation for patients with AF and intermediate stroke risk. (See \"Atrial fibrillation in adults: Selection of candidates for long-term anticoagulation\", section on 'Recommendations based on score'.)\n\nHOSPITAL HEMATOLOGY\n\nJehovah's witnesses may now accept blood components (September 2026)\n\nIn September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [2,3]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)\n\nDirect oral anticoagulants for heparin-induced thrombocytopenia (September 2026)\n\nHeparin-induced thrombocytopenia (HIT) is a life-threatening complication of heparin exposure with a high risk of venous and arterial thrombosis, requiring therapeutic anticoagulation with a nonheparin anticoagulant. Over time, direct oral anticoagulants (DOACs) have been increasingly used, but data on their safety and efficacy relative to parenteral agents are limited. A new meta-analysis evaluating 44 publications described 352 individuals who received a DOAC for HIT, either as initial treatment (54 percent) or following parenteral anticoagulation (46 percent); among these individuals, 6 percent had thrombosis, and 3 percent had bleeding, with no clear pattern related to the specific DOAC or sequence of therapies [4]. This analysis supports DOAC use for HIT when appropriate, but more evidence is needed. Other considerations may impact anticoagulant selection (table 1). (See \"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'.)\n\nNew American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [5]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)\n\nHOSPITAL INFECTIOUS DISEASES\n\nCefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)\n\nTwo recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [6]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [7]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)\n\nTebipenem pivoxil for complicated urinary tract infections (June 2026)\n\nWhen complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [8]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)\n\nClinical prediction tool for long-term mortality in community-acquired pneumonia (May 2026)\n\nWhile clinical prediction scores for short-term mortality in community-acquired pneumonia (CAP) exist, similar tools for predicting long-term mortality are lacking. The Long-term Pneumonia Mortality Index (L-PMI) has been developed and validated to identify patient mortality risk after hospitalization with CAP [9]. In an analysis of four international, multicenter cohorts representing over 8300 hospitalized patients with CAP or COVID-19 pneumonia, the L-PMI demonstrated good discrimination for mortality (AUCs ranging from 0.78 to 0.88). Among others, components of the L-PMI include age, smoking history, Charlson comorbidity index, and CURB-65 score. Further studies in diverse patient populations will determine if the L-PMI can be utilized to identify high-risk patients for discharge interventions. (See \"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'.)\n\nHOSPITAL PULMONOLOGY AND CRITICAL CARE MEDICINE\n\nAutonomous oxygen titration devices (August 2026)\n\nAutonomous titration devices automatically adjust oxygen delivery in response to a patient's oxygenation status, reducing the need for manual titration, but remain understudied. In a randomized trial of 300 hospitalized patients receiving low-flow oxygen up to 10 L, autonomous titration improved oxygenation parameters compared with usual care [10]; this strategy increased time spent in normoxemia (85 versus 63 percent) and reduced time spent in hypoxemia (2 versus 3.6 percent) and hyperoxemia (9 versus 29 percent).However, these devices are not widely available, and their impact on clinically meaningful outcomes remains uncertain. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'.)\n\nAspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)\n\nFor patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [11]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)\n\nYEARS criteria for pulmonary embolism exclusion in patients with active cancer (July 2026)\n\nThe YEARS criteria adjusts D-dimer cutoffs for excluding pulmonary embolism (PE) based on pretest probability, but it is unknown whether it can be utilized in patients with active cancer. In a randomized trial including 698 patients with active cancer suspected of having a PE, the diagnostic failure rate at 90 days was similar in patients evaluated by the YEARS algorithm compared with a standard chest computed tomography pulmonary angiogram (1.8 versus 5 percent) [12]. Limitations of the study included an open-label design, exclusion of patients with a life expectancy <3 months, lack of subgroup analysis by cancer site and stage, and early cessation of the study. Nonetheless, these results suggest that YEARS may be used to exclude PE in patients with active cancer, although further study and validation is needed. (See \"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'.)\n\nAmerican Thoracic Society guidelines on noninvasive respiratory support (July 2026)\n\nThe American Thoracic Society (ATS) recently issued guidelines on the use of noninvasive respiratory support for patients with acute respiratory failure, in whom low-flow oxygen is insufficient [13]. The ATS recommends using high-flow nasal cannula (HFNC) oxygen for acute hypoxemic respiratory failure and suggests noninvasive ventilation (NIV) for acute hypercapnic respiratory failure. The ATS also suggests either modality for preoxygenation prior to endotracheal intubation; post-extubation, the ATS suggests HFNC for low-risk patients and NIV for high-risk patients. We agree with these recommendations. (See \"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support' and \"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\" and \"Extubation management in the adult intensive care unit\".)",
+    "word_count": 1759,
+    "character_count": 12402,
+    "references": [
+      "Kim D, Lee YS, Shim J, et al. Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk. N Engl J Med 2026; 395:1155.",
+      "Products derived from whole blood. JW.org [includes links to Sept 18, 2026 Governing body update #6 and downloadable chart with \"What percentage of whole blood is it?\"]. https://www.jw.org/en/library/series/more-topics/products-derived-from-whole-blood/ (Accessed on September 22, 2026).",
+      "How do Jehovah’s Witnesses show respect for life? JW.org. https://www.jw.org/en/library/series/more-topics/jehovahs-witnesses-view-blood/ (Accessed on September 23, 2026).",
+      "Galyfos G, Athanasiou A, Emmanuel A, et al. Direct Oral Anticoagulants as Primary or Secondary Treatment for Heparin-Induced Thrombocytopenia (HIT) and Associated Thromboembolism (HITT)-A Meta-Analysis. Eur J Haematol 2026; 117:1035.",
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 guidelines for immune thrombocytopenia: initial and second-line therapy for adults with primary ITP. Blood Adv 2026; 10:7076.",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group, Lee TC, Barina LA, et al. Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia. N Engl J Med 2026; 394:2329.",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group. Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial. Lancet 2026; 408:141.",
+      "Tebipenem pivoxil. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed on June 18, 2026).",
+      "Méndez R, González-Jiménez P, Latorre A, et al. The Long-term Pneumonia Mortality Index: an international multicenter derivation and validation study for patients with community-acquired pneumonia. Am J Respir Crit Care Med 2026; 212:1305.",
+      "Weingart MF, Matthay MA. Potential Transformative Impact of Autonomous Oxygen Delivery in Hospitalized Patients. JAMA Intern Med 2026; 186:1234.",
+      "Shivakumar S, Matino D, Zukor D, et al. Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty. N Engl J Med 2026.",
+      "Akerboom B, Martens ESL, Stals MAM, et al. YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer: A Randomized Clinical Trial. JAMA 2026; 336:655.",
+      "Goel NN, Ferreyro BL, Pitre T, et al. Noninvasive respiratory support for adult patients with acute respiratory failure: an official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med 2026; 212:2135."
+    ],
+    "graphics": [
+      {
+        "id": 115506,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/115506"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 15664,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%221%22"
+      },
+      {
+        "id": 128998,
+        "title": "\"Atrial fibrillation in adults: Selection of candidates for long-term anticoagulation\", section on 'Recommendations based on score'",
+        "url": "https://medilib.ir/uptodate/show/128998"
+      },
+      {
+        "id": 15664,
+        "title": "2,3",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%222%22"
+      },
+      {
+        "id": 7927,
+        "title": "\"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'",
+        "url": "https://medilib.ir/uptodate/show/7927"
+      },
+      {
+        "id": 15664,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%224%22"
+      },
+      {
+        "id": 1369,
+        "title": "\"Management of heparin-induced thrombocytopenia\", section on 'Direct oral anticoagulants'",
+        "url": "https://medilib.ir/uptodate/show/1369"
+      },
+      {
+        "id": 15664,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%225%22"
+      },
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 16471,
+        "title": "immune globulin",
+        "url": "https://medilib.ir/uptodate/show/16471"
+      },
+      {
+        "id": 6677,
+        "title": "\"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'",
+        "url": "https://medilib.ir/uptodate/show/6677"
+      },
+      {
+        "id": 9214,
+        "title": "cefazolin",
+        "url": "https://medilib.ir/uptodate/show/9214"
+      },
+      {
+        "id": 15664,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%226%22"
+      },
+      {
+        "id": 15664,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%227%22"
+      },
+      {
+        "id": 2134,
+        "title": "\"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'",
+        "url": "https://medilib.ir/uptodate/show/2134"
+      },
+      {
+        "id": 151905,
+        "title": "tebipenem pivoxil",
+        "url": "https://medilib.ir/uptodate/show/151905"
+      },
+      {
+        "id": 15664,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%228%22"
+      },
+      {
+        "id": 8675,
+        "title": "ertapenem",
+        "url": "https://medilib.ir/uptodate/show/8675"
+      },
+      {
+        "id": 8553,
+        "title": "imipenem",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 16109,
+        "title": "\"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'",
+        "url": "https://medilib.ir/uptodate/show/16109"
+      },
+      {
+        "id": 15664,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%229%22"
+      },
+      {
+        "id": 7016,
+        "title": "\"Morbidity and mortality associated with community-acquired pneumonia in adults\", section on 'Morbidity and mortality'",
+        "url": "https://medilib.ir/uptodate/show/7016"
+      },
+      {
+        "id": 15664,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%2210%22"
+      },
+      {
+        "id": 134329,
+        "title": "\"Evaluation and management of the nonventilated, hospitalized adult patient with acute hypoxemia\", section on 'Oxygen and respiratory support'",
+        "url": "https://medilib.ir/uptodate/show/134329"
+      },
+      {
+        "id": 8907,
+        "title": "aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": 9498,
+        "title": "rivaroxaban",
+        "url": "https://medilib.ir/uptodate/show/9498"
+      },
+      {
+        "id": 15664,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%2211%22"
+      },
+      {
+        "id": 1335,
+        "title": "\"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\"",
+        "url": "https://medilib.ir/uptodate/show/1335"
+      },
+      {
+        "id": 15664,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%2212%22"
+      },
+      {
+        "id": 8261,
+        "title": "\"Clinical presentation and diagnostic evaluation of the nonpregnant adult with suspected acute pulmonary embolism\", section on 'Alternative (adjusted) D-dimer cutoffs with or without YEARS'",
+        "url": "https://medilib.ir/uptodate/show/8261"
+      },
+      {
+        "id": 15664,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/15664#rid%2213%22"
+      },
+      {
+        "id": 1636,
+        "title": "\"Noninvasive ventilation in adults with acute respiratory failure: Benefits and contraindications\"",
+        "url": "https://medilib.ir/uptodate/show/1636"
+      },
+      {
+        "id": 1634,
+        "title": "\"Extubation management in the adult intensive care unit\"",
+        "url": "https://medilib.ir/uptodate/show/1634"
+      }
+    ]
+  }
+}

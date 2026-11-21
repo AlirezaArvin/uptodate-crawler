@@ -1,0 +1,18 @@
+{
+  "name": "medilib-uptodate-crawler",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Resumable authenticated crawler for MediLib UpToDate article text",
+  "scripts": {
+    "crawl:articles": "node crawl_uptodate_articles.mjs",
+    "crawl:anaphylaxis": "node crawl_uptodate_articles.mjs --directory-id 683 --output-dir anaphylaxis_articles_standalone",
+    "list:anaphylaxis": "node crawl_uptodate_articles.mjs --directory-id 683 --list-targets"
+  },
+  "dependencies": {
+    "playwright": "latest"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8362"
+  },
+  "article": {
+    "id": 8362,
+    "expected_title": "What's new in neurology",
+    "url": "https://medilib.ir/uptodate/show/8362",
+    "final_url": "https://medilib.ir/uptodate/show/8362",
+    "page_title": "What's new in neurology",
+    "extracted_at": "2026-11-20T20:52:33.165Z",
+    "title_matches_expected": true,
+    "title": "What's new in neurology",
+    "contributors": {
+      "authors": [
+        "John F Dashe, MD, PhD",
+        "Richard P Goddeau, Jr, DO, FAHA",
+        "Janet L Wilterdink, MD"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Oct 29, 2026",
+    "version": "Topic 8362 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CEREBROVASCULAR DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Loberamisal for acute ischemic stroke (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Loberamisal is a putative neuroprotective agent. In a trial that randomly assigned 998 adults with acute ischemic stroke to intravenous loberamisal or placebo once daily for 10 days, the rate of no symptoms or no significant disability (ie, a modified Rankin Scale score of 0 to 1) at 90 days was higher in the loberamisal group (69.7 versus 56.3 percent); adverse events and mortality were similar between groups [1]. However, there was no benefit of loberamisal for several other neurologic outcomes, and the generalizability of the findings is limited because all patients were from China and few received reperfusion therapies. Moreover, the treatment effect was unusually large for a neuroprotective agent. Independent confirmation of these findings is needed. (See \"Initial assessment and management of acute stroke\", section on 'Neuroprotective treatment'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Craniotomy for evacuation of intracranial epidural hematoma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [2]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Meta-analysis of endovascular thrombectomy for large core acute ischemic stroke (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Six randomized trials have demonstrated that endovascular thrombectomy (EVT) improves outcomes for patients with acute ischemic stroke due to large vessel occlusion (LVO) and a large ischemic core. However, uncertainty remained about the benefit for certain subgroups, including older age, a very low (0 to 2) Alberta Stroke Program Early CT Score (ASPECTS), no perfusion mismatch, or a very extensive ischemic core. The recent ATLAS individual patient data meta-analysis of these trials found that EVT improved outcomes and lowered mortality without increasing symptomatic intracranial hemorrhage [3]. Benefit was seen regardless of age, stroke severity, ASPECTS, or perfusion mismatch, except for patients with very extensive ischemic core volume (≥150 mL). These findings confirm that EVT is safe and effective for nearly all patients with an LVO and large ischemic core, although efficacy is uncertain for those with a core volume ≥150 mL. (See \"Endovascular (mechanical) thrombectomy (EVT) for acute ischemic stroke\", section on 'Benefit for large ischemic core'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Combination therapy to treat hypertension in patients with intracerebral hemorrhage (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hypertension is a common risk factor for recurrent intracerebral hemorrhage (ICH), but optimal management is uncertain. In a randomized, controlled trial, 1670 patients with recent ICH and hypertension were assigned to a once daily pill containing either a combination of telmisartan, amlodipine, and indapamide or placebo [4]. The median time from ICH to randomization was 54 days, and the mean baseline systolic blood pressure (SBP) was 143 mmHg. At a median follow-up of 2.5 years, patients assigned to the three-drug pill had a lower mean SBP (127 versus 138 mm Hg) and recurrent stroke rate (4.6 versus 7.4 percent). Early discontinuation of therapy was higher in the treatment group (14 versus 6 percent), most commonly due to elevations in serum creatinine levels. These results support our practice of using combination therapy to reduce ICH recurrence in patients with hypertension. (See \"Spontaneous intracerebral hemorrhage: Secondary prevention and long-term prognosis\", section on 'Selection of antihypertensive agent'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DEMYELINATING DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rituximab versus ocrelizumab for relapsing multiple sclerosis (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rituximab is widely used off-label to treat relapsing forms of multiple sclerosis (MS) based on limited randomized controlled trial data, but head-to-head trials with other anti-CD20 monoclonal antibodies specifically approved for MS are lacking. A randomized trial of 218 adults with newly diagnosed relapsing MS compared rituximab with ocrelizumab, which binds to a different but overlapping CD20 epitope [5]. Between 6 and 24 months, the probability of having no new or enlarging lesions on T2-weighted MRI was similar for both drugs, as were relapse rates, disability outcomes, and rates of serious adverse events. These findings support the use of rituximab for relapsing MS. (See \"Clinical use of monoclonal antibody disease-modifying therapies for multiple sclerosis\", section on 'Efficacy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guillain-Barré syndrome after dengue virus infection (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dengue virus infection is associated with a wide spectrum of neurologic manifestations; Guillain-Barré syndrome (GBS) is increasingly recognized as one such complication. In a study in Brazil of over 5000 patients hospitalized with GBS, 89 patients had a documented dengue virus infection within 42 days prior to hospitalization for GBS [6]. The risk during the first 42 days after infection was 17 times higher than that during the control period (more than 42 days after infection). This incidence rate ratio was similar to those reported for other common infectious triggers. Clinicians should be aware of this potential complication. (See \"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEAD TRAUMA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Craniotomy for evacuation of intracranial epidural hematoma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [2]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HEADACHE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fosphenytoin for trigeminal neuralgia attacks (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Several pharmacologic options are available to treat acute trigeminal neuralgia (TN) pain, but available supporting evidence is limited. In a randomized trial that included 22 patients with acute TN symptoms, pain reduction on the numerical rating scale (0 for no pain up to 10 for worst pain) was greater at two hours among those assigned to fosphenytoin than placebo (-6.1 versus -2.4) [7]. Treatment consisted of a loading dose followed by once daily maintenance treatment for up to four days. Patients assigned to fosphenytoin also had a higher rate of >50 percent pain reduction and reduction in the frequency of attack recurrence, and treatment was generally well tolerated. These data provide clinical trial evidence to support the role of fosphenytoin for acute TN exacerbations. (See \"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEUROMUSCULAR DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Apitegromab for spinal muscular atrophy (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apitegromab is a monoclonal antibody that inhibits myostatin activation, thereby promoting muscle growth and function. It was recently approved by the US Food and Drug Administration for children (age ≥2 years) and adults with spinal muscular atrophy (SMA) who are currently receiving nusinersen or risdiplam [8], agents that increase the production of full-length survival motor neuron protein 2 (SMN2), which is deficient in SMA. The SAPPHIRE trial randomly assigned 188 patients receiving nusinersen or risdiplam for nonambulatory SMA to treatment with apitegromab or placebo [9]. At 12 months, compared with placebo, apitegromab led to a modest improvement in motor function and was generally well tolerated. For children (≥2 years) and adults receiving SMN2-targeted treatment with nusinersen or risdiplam who have persistent weakness or incomplete recovery, we now suggest adjunctive treatment with apitegromab. (See \"Spinal muscular atrophy\", section on 'Apitegromab'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Long-term safety of thymectomy for myasthenia gravis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thymectomy is commonly performed for many patients with myasthenia gravis (MG), but the long-term immune-mediated consequences of thymus removal are unclear. In a retrospective analysis of 460 patients with nonthymomatous MG, thymectomy was not associated with an increased risk of malignancy after a mean follow-up of nearly 13 years [10]. The risk of new autoimmune disease after thymectomy was uncertain as estimates varied by statistical model. These data provide some reassurance about the long-term safety of thymectomy for MG. (See \"Role of thymectomy in patients with myasthenia gravis\", section on 'Long-term risks related to altered immune function'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Efficacy of pyridostigmine in myasthenia gravis (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pyridostigmine is an acetylcholinesterase inhibitor commonly used for short-term symptomatic therapy in myasthenia gravis (MG), despite limited data to support its use. In a blinded, randomized trial, 19 patients with acetylcholine receptor-positive MG were assigned to either pyridostigmine or placebo for five days, followed by a two-day washout period, then the other treatment for five more days [11]. Treatment with pyridostigmine (mean daily dose of 240 mg) resulted in improvement in symptoms and quality of life measures at days 5 and 12. Included patients were taking concomitant immunotherapy at baseline. These results provide clinical trial evidence to support the use of pyridostigmine for symptomatic management of MG. (See \"Overview of the treatment of myasthenia gravis\", section on 'Mechanism and response'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEUROONCOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Autologous transplantation for primary central nervous system lymphoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The choice of autologous hematopoietic cell transplantation (HCT) versus non-myeloablative chemotherapy for preventing relapse of primary central nervous system lymphoma (PCNSL) has been controversial because their relative benefits and toxicities were unproven. A recent trial of 230 transplant-eligible patients with PCNSL reported that, compared with non-myeloablative chemotherapy, autologous HCT improved three-year survival (86 versus 71 percent) and reduced relapses (19 versus 45 percent) with a trend toward improved quality of life [12]. Toxicities were greater with autologous HCT, including more infections (53 versus 14 percent) and treatment-related deaths (five versus two). Outcomes of this trial support our suggestion for autologous HCT in transplant-eligible patients with PCNSL. (See \"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PEDIATRIC NEUROLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Zilganersen for Alexander disease (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alexander disease is a rare genetic disorder that predominantly affects infants and children and is associated with cerebral white matter disease. Zilganersen is a novel antisense oligonucleotide that reduces production of the abnormal GFAP protein implicated in the pathogenesis of Alexander disease. In a randomized trial of 49 adult and pediatric patients with Alexander disease, the mean gait speed at 61 weeks showed a smaller decline from baseline in the zilganersen group compared with the placebo group, and the difference was clinically meaningful [13]. Other endpoints also favored zilganersen, and most adverse effects were mild to moderate. For patients with Alexander disease, we now suggest treatment with zilganersen to slow or stabilize motor skill decline. (See \"Alexander disease\", section on 'Disease-modifying therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Temporal appearance of café-au-lait macules in neurofibromatosis type 1 (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Café-au-lait macules (CALM) are dermatologic findings present in the general population as well as in children with neurofibromatosis type 1 (NF1), in whom they can be present at birth or increase in number to fulfill the diagnostic criterion (ie, ≥6 CALMs) in early childhood (picture 1). In a cohort of 63 infants with NF1, the proportion of those with CALMs that fulfilled the diagnostic criterion increased from 38 percent at 6 months to 97 percent at 24 months old [14]. These results can help identify the expected pattern of appearance of CALM in children with NF1. (See \"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Levacetylleucine for ataxia-telangiectasia (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Levacetylleucine is an investigational treatment for ataxia-telangiectasia (AT). In a randomized crossover trial that included 73 adult and pediatric patients with AT, orally administered levacetylleucine for 12 weeks, compared with placebo, improved ataxia and other neurologic signs and symptoms as assessed by scores on the Scale for the Assessment and Rating of Ataxia (SARA) [15]. The improvement in SARA scores was considered clinically meaningful, and levacetylleucine was well-tolerated. Although these data are promising, larger and longer trials are needed to confirm the efficacy and safety of levacetylleucine for treating AT. (See \"Ataxia-telangiectasia\", section on 'Investigational approaches')"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER NEUROLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New European infectious encephalitis guidelines (October 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Infectious encephalitis can be fatal or cause long-term neurologic impairment. New guidelines from the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases provide updates on diagnosis and management; recommendations address optimal timing of diagnostics, limitations of multiplex polymerase chain reaction (PCR) panels, urgent initiation of empiric intravenous acyclovir, and the approach to antiviral discontinuation [16]. Our approach is generally consistent with these guidelines. (See \"Viral encephalitis in adults\", section on 'Our approach'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nCEREBROVASCULAR DISEASE\n\nLoberamisal for acute ischemic stroke (September 2026)\n\nLoberamisal is a putative neuroprotective agent. In a trial that randomly assigned 998 adults with acute ischemic stroke to intravenous loberamisal or placebo once daily for 10 days, the rate of no symptoms or no significant disability (ie, a modified Rankin Scale score of 0 to 1) at 90 days was higher in the loberamisal group (69.7 versus 56.3 percent); adverse events and mortality were similar between groups [1]. However, there was no benefit of loberamisal for several other neurologic outcomes, and the generalizability of the findings is limited because all patients were from China and few received reperfusion therapies. Moreover, the treatment effect was unusually large for a neuroprotective agent. Independent confirmation of these findings is needed. (See \"Initial assessment and management of acute stroke\", section on 'Neuroprotective treatment'.)\n\nCraniotomy for evacuation of intracranial epidural hematoma (July 2026)\n\nSurgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [2]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)\n\nMeta-analysis of endovascular thrombectomy for large core acute ischemic stroke (May 2026)\n\nSix randomized trials have demonstrated that endovascular thrombectomy (EVT) improves outcomes for patients with acute ischemic stroke due to large vessel occlusion (LVO) and a large ischemic core. However, uncertainty remained about the benefit for certain subgroups, including older age, a very low (0 to 2) Alberta Stroke Program Early CT Score (ASPECTS), no perfusion mismatch, or a very extensive ischemic core. The recent ATLAS individual patient data meta-analysis of these trials found that EVT improved outcomes and lowered mortality without increasing symptomatic intracranial hemorrhage [3]. Benefit was seen regardless of age, stroke severity, ASPECTS, or perfusion mismatch, except for patients with very extensive ischemic core volume (≥150 mL). These findings confirm that EVT is safe and effective for nearly all patients with an LVO and large ischemic core, although efficacy is uncertain for those with a core volume ≥150 mL. (See \"Endovascular (mechanical) thrombectomy (EVT) for acute ischemic stroke\", section on 'Benefit for large ischemic core'.)\n\nCombination therapy to treat hypertension in patients with intracerebral hemorrhage (April 2026)\n\nHypertension is a common risk factor for recurrent intracerebral hemorrhage (ICH), but optimal management is uncertain. In a randomized, controlled trial, 1670 patients with recent ICH and hypertension were assigned to a once daily pill containing either a combination of telmisartan, amlodipine, and indapamide or placebo [4]. The median time from ICH to randomization was 54 days, and the mean baseline systolic blood pressure (SBP) was 143 mmHg. At a median follow-up of 2.5 years, patients assigned to the three-drug pill had a lower mean SBP (127 versus 138 mm Hg) and recurrent stroke rate (4.6 versus 7.4 percent). Early discontinuation of therapy was higher in the treatment group (14 versus 6 percent), most commonly due to elevations in serum creatinine levels. These results support our practice of using combination therapy to reduce ICH recurrence in patients with hypertension. (See \"Spontaneous intracerebral hemorrhage: Secondary prevention and long-term prognosis\", section on 'Selection of antihypertensive agent'.)\n\nDEMYELINATING DISEASE\n\nRituximab versus ocrelizumab for relapsing multiple sclerosis (July 2026)\n\nRituximab is widely used off-label to treat relapsing forms of multiple sclerosis (MS) based on limited randomized controlled trial data, but head-to-head trials with other anti-CD20 monoclonal antibodies specifically approved for MS are lacking. A randomized trial of 218 adults with newly diagnosed relapsing MS compared rituximab with ocrelizumab, which binds to a different but overlapping CD20 epitope [5]. Between 6 and 24 months, the probability of having no new or enlarging lesions on T2-weighted MRI was similar for both drugs, as were relapse rates, disability outcomes, and rates of serious adverse events. These findings support the use of rituximab for relapsing MS. (See \"Clinical use of monoclonal antibody disease-modifying therapies for multiple sclerosis\", section on 'Efficacy'.)\n\nGuillain-Barré syndrome after dengue virus infection (May 2026)\n\nDengue virus infection is associated with a wide spectrum of neurologic manifestations; Guillain-Barré syndrome (GBS) is increasingly recognized as one such complication. In a study in Brazil of over 5000 patients hospitalized with GBS, 89 patients had a documented dengue virus infection within 42 days prior to hospitalization for GBS [6]. The risk during the first 42 days after infection was 17 times higher than that during the control period (more than 42 days after infection). This incidence rate ratio was similar to those reported for other common infectious triggers. Clinicians should be aware of this potential complication. (See \"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'.)\n\nHEAD TRAUMA\n\nCraniotomy for evacuation of intracranial epidural hematoma (July 2026)\n\nSurgical evacuation is often performed in patients with large or symptomatic acute epidural hematomas (EDH) but the optimal surgical approach is uncertain. In an open-label, randomized clinical trial comparing craniotomy and craniectomy in 120 patients with acute traumatic EDH who had transtentorial herniation and a median injury-to-surgery time of 4 hours, favorable functional outcomes at six months were similar between groups (79 and 84 percent, respectively) [2]. Postoperative cerebral infarction and 30-day mortality rates were also similar between groups, but postoperative intracranial hemorrhage was more common in those assigned to craniectomy (36 versus 13 percent). The applicability of these data to patients with more delayed presentations and to those with EDH plus significant cerebral edema or other intracranial pathology is uncertain. These results support the use of craniotomy for surgical evacuation of EDH, even in the setting of transtentorial herniation. (See \"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'.)\n\nHEADACHE\n\nFosphenytoin for trigeminal neuralgia attacks (May 2026)\n\nSeveral pharmacologic options are available to treat acute trigeminal neuralgia (TN) pain, but available supporting evidence is limited. In a randomized trial that included 22 patients with acute TN symptoms, pain reduction on the numerical rating scale (0 for no pain up to 10 for worst pain) was greater at two hours among those assigned to fosphenytoin than placebo (-6.1 versus -2.4) [7]. Treatment consisted of a loading dose followed by once daily maintenance treatment for up to four days. Patients assigned to fosphenytoin also had a higher rate of >50 percent pain reduction and reduction in the frequency of attack recurrence, and treatment was generally well tolerated. These data provide clinical trial evidence to support the role of fosphenytoin for acute TN exacerbations. (See \"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'.)\n\nNEUROMUSCULAR DISEASE\n\nApitegromab for spinal muscular atrophy (September 2026)\n\nApitegromab is a monoclonal antibody that inhibits myostatin activation, thereby promoting muscle growth and function. It was recently approved by the US Food and Drug Administration for children (age ≥2 years) and adults with spinal muscular atrophy (SMA) who are currently receiving nusinersen or risdiplam [8], agents that increase the production of full-length survival motor neuron protein 2 (SMN2), which is deficient in SMA. The SAPPHIRE trial randomly assigned 188 patients receiving nusinersen or risdiplam for nonambulatory SMA to treatment with apitegromab or placebo [9]. At 12 months, compared with placebo, apitegromab led to a modest improvement in motor function and was generally well tolerated. For children (≥2 years) and adults receiving SMN2-targeted treatment with nusinersen or risdiplam who have persistent weakness or incomplete recovery, we now suggest adjunctive treatment with apitegromab. (See \"Spinal muscular atrophy\", section on 'Apitegromab'.)\n\nLong-term safety of thymectomy for myasthenia gravis (May 2026)\n\nThymectomy is commonly performed for many patients with myasthenia gravis (MG), but the long-term immune-mediated consequences of thymus removal are unclear. In a retrospective analysis of 460 patients with nonthymomatous MG, thymectomy was not associated with an increased risk of malignancy after a mean follow-up of nearly 13 years [10]. The risk of new autoimmune disease after thymectomy was uncertain as estimates varied by statistical model. These data provide some reassurance about the long-term safety of thymectomy for MG. (See \"Role of thymectomy in patients with myasthenia gravis\", section on 'Long-term risks related to altered immune function'.)\n\nEfficacy of pyridostigmine in myasthenia gravis (April 2026)\n\nPyridostigmine is an acetylcholinesterase inhibitor commonly used for short-term symptomatic therapy in myasthenia gravis (MG), despite limited data to support its use. In a blinded, randomized trial, 19 patients with acetylcholine receptor-positive MG were assigned to either pyridostigmine or placebo for five days, followed by a two-day washout period, then the other treatment for five more days [11]. Treatment with pyridostigmine (mean daily dose of 240 mg) resulted in improvement in symptoms and quality of life measures at days 5 and 12. Included patients were taking concomitant immunotherapy at baseline. These results provide clinical trial evidence to support the use of pyridostigmine for symptomatic management of MG. (See \"Overview of the treatment of myasthenia gravis\", section on 'Mechanism and response'.)\n\nNEUROONCOLOGY\n\nAutologous transplantation for primary central nervous system lymphoma (September 2026)\n\nThe choice of autologous hematopoietic cell transplantation (HCT) versus non-myeloablative chemotherapy for preventing relapse of primary central nervous system lymphoma (PCNSL) has been controversial because their relative benefits and toxicities were unproven. A recent trial of 230 transplant-eligible patients with PCNSL reported that, compared with non-myeloablative chemotherapy, autologous HCT improved three-year survival (86 versus 71 percent) and reduced relapses (19 versus 45 percent) with a trend toward improved quality of life [12]. Toxicities were greater with autologous HCT, including more infections (53 versus 14 percent) and treatment-related deaths (five versus two). Outcomes of this trial support our suggestion for autologous HCT in transplant-eligible patients with PCNSL. (See \"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'.)\n\nPEDIATRIC NEUROLOGY\n\nZilganersen for Alexander disease (September 2026)\n\nAlexander disease is a rare genetic disorder that predominantly affects infants and children and is associated with cerebral white matter disease. Zilganersen is a novel antisense oligonucleotide that reduces production of the abnormal GFAP protein implicated in the pathogenesis of Alexander disease. In a randomized trial of 49 adult and pediatric patients with Alexander disease, the mean gait speed at 61 weeks showed a smaller decline from baseline in the zilganersen group compared with the placebo group, and the difference was clinically meaningful [13]. Other endpoints also favored zilganersen, and most adverse effects were mild to moderate. For patients with Alexander disease, we now suggest treatment with zilganersen to slow or stabilize motor skill decline. (See \"Alexander disease\", section on 'Disease-modifying therapy'.)\n\nTemporal appearance of café-au-lait macules in neurofibromatosis type 1 (July 2026)\n\nCafé-au-lait macules (CALM) are dermatologic findings present in the general population as well as in children with neurofibromatosis type 1 (NF1), in whom they can be present at birth or increase in number to fulfill the diagnostic criterion (ie, ≥6 CALMs) in early childhood (picture 1). In a cohort of 63 infants with NF1, the proportion of those with CALMs that fulfilled the diagnostic criterion increased from 38 percent at 6 months to 97 percent at 24 months old [14]. These results can help identify the expected pattern of appearance of CALM in children with NF1. (See \"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'.)\n\nLevacetylleucine for ataxia-telangiectasia (June 2026)\n\nLevacetylleucine is an investigational treatment for ataxia-telangiectasia (AT). In a randomized crossover trial that included 73 adult and pediatric patients with AT, orally administered levacetylleucine for 12 weeks, compared with placebo, improved ataxia and other neurologic signs and symptoms as assessed by scores on the Scale for the Assessment and Rating of Ataxia (SARA) [15]. The improvement in SARA scores was considered clinically meaningful, and levacetylleucine was well-tolerated. Although these data are promising, larger and longer trials are needed to confirm the efficacy and safety of levacetylleucine for treating AT. (See \"Ataxia-telangiectasia\", section on 'Investigational approaches')\n\nOTHER NEUROLOGY\n\nNew European infectious encephalitis guidelines (October 2026)\n\nInfectious encephalitis can be fatal or cause long-term neurologic impairment. New guidelines from the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases provide updates on diagnosis and management; recommendations address optimal timing of diagnostics, limitations of multiplex polymerase chain reaction (PCR) panels, urgent initiation of empiric intravenous acyclovir, and the approach to antiviral discontinuation [16]. Our approach is generally consistent with these guidelines. (See \"Viral encephalitis in adults\", section on 'Our approach'.)",
+    "word_count": 2175,
+    "character_count": 15287,
+    "references": [
+      "Li S, Feng B, He D, et al. Loberamisal for Acute Ischemic Stroke: The LAIS Randomized Clinical Trial. JAMA 2026.",
+      "Feng J, Yang C, Xie L, et al. Safety and efficacy of decompressive craniectomy versus standard craniotomy for large acute epidural haematoma with tentorial herniation in China (PREDICT-AEDH): a nationwide, multicentre, open-label, parallel-group, randomised controlled trial. Lancet Neurol 2026; 25:645.",
+      "Sarraj A, Thomalla G, Yoshimura S, et al. Endovascular thrombectomy for patients with large-core ischaemic stroke presenting up to 24 h after onset (ATLAS): a systematic review and individual patient data meta-analysis with central imaging adjudication. Lancet 2026; 407:2015.",
+      "Trident Research Group, Anderson CS, Chow CK, et al. Three Low-Dose Antihypertensive Agents in a Single Pill after Intracerebral Hemorrhage. N Engl J Med 2026; 394:1571.",
+      "Torkildsen O, Kjelgaard H, Høgestøl EA, et al. Rituximab versus ocrelizumab in newly diagnosed relapsing multiple sclerosis. N Engl J Med 2026; 135:44.",
+      "Cerqueira-Silva T, Paixão E, França GVA, et al. Risk of Guillain-Barré Syndrome after Laboratory-Confirmed Dengue Infection. N Engl J Med 2026; 394:1546.",
+      "Noro S, Hatayama T, Iwai Y, et al. IV Fosphenytoin for Acute Trigeminal Neuralgia: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial. Neurology 2026; 106:e218037.",
+      "FDA approves first therapy to target muscle loss in spinal muscular atrophy. Available at: https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy?utm_medium=email&utm_source=govdelivery (Accessed on September 29, 2026).",
+      "Crawford TO, Servais L, Mercuri E, et al. Safety and efficacy of apitegromab in nonambulatory type 2 or type 3 spinal muscular atrophy (SAPPHIRE): a phase 3, double-blind, randomised, placebo-controlled trial. Lancet Neurol 2025; 24:727.",
+      "Khateb M, Almasri A, Barnett-Tapia C, Bril V. The Effect of Thymectomy on the Incidence of Extrathymic Cancers and Autoimmune Diseases in Patients With Non-Thymomatous Myasthenia Gravis. Muscle Nerve 2026; 73:1065.",
+      "Remijn-Nelissen L, Bakker WR, van den Hout WB, et al. Efficacy of Pyridostigmine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial. Neurology 2026; 106:e214865.",
+      "Illerhaus G, Ferreri AJM, Wendler J, et al. High-dose chemotherapy followed by autologous stem-cell transplantation versus non-myeloablative consolidation in primary CNS lymphoma (MATRix/IELSG43): a randomised phase 3 trial. Lancet 2026; 408:532.",
+      "Waldman A, Lynch D, Tonduti D, et al. Efficacy and safety of zilganersen, an investigational RNA-targeted antisense therapy, in people living with Alexander disease: Results from a pivotal study (PL5.003). Neurology 2026; 106.",
+      "Alexopoulos A, Ntokos D, Kontara L, et al. Early quantitative progression of café-au-lait macules and diagnostic threshold fulfilment by 24 months in neurofibromatosis type 1. Eur J Pediatr 2026; 185.",
+      "Martakis K, Bremova-Ertl T, Bolton C, et al. Safety and efficacy of levacetylleucine in ataxia-telangiectasia: a phase 3, randomised, double-blind, placebo-controlled crossover trial. Lancet Neurol 2026; 25:633.",
+      "Granerod J, Sellner J, Stahl JP, et al. Diagnosis and Management of Infectious Encephalitis in Adults: Guidelines From the European Academy of Neurology and European Society of Clinical Microbiology and Infectious Diseases. Eur J Neurol 2026; 33:e70647."
+    ],
+    "graphics": [
+      {
+        "id": 96125,
+        "title": "picture 1",
+        "url": "https://medilib.ir/uptodate/show/96125"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 8362,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%221%22"
+      },
+      {
+        "id": 1126,
+        "title": "\"Initial assessment and management of acute stroke\", section on 'Neuroprotective treatment'",
+        "url": "https://medilib.ir/uptodate/show/1126"
+      },
+      {
+        "id": 8362,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%222%22"
+      },
+      {
+        "id": 1107,
+        "title": "\"Intracranial epidural hematoma in adults\", section on 'Surgical techniques'",
+        "url": "https://medilib.ir/uptodate/show/1107"
+      },
+      {
+        "id": 8362,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%223%22"
+      },
+      {
+        "id": 115663,
+        "title": "\"Endovascular (mechanical) thrombectomy (EVT) for acute ischemic stroke\", section on 'Benefit for large ischemic core'",
+        "url": "https://medilib.ir/uptodate/show/115663"
+      },
+      {
+        "id": 148843,
+        "title": "telmisartan, amlodipine, and indapamide",
+        "url": "https://medilib.ir/uptodate/show/148843"
+      },
+      {
+        "id": 8362,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%224%22"
+      },
+      {
+        "id": 129071,
+        "title": "\"Spontaneous intracerebral hemorrhage: Secondary prevention and long-term prognosis\", section on 'Selection of antihypertensive agent'",
+        "url": "https://medilib.ir/uptodate/show/129071"
+      },
+      {
+        "id": 9616,
+        "title": "Rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 112485,
+        "title": "ocrelizumab",
+        "url": "https://medilib.ir/uptodate/show/112485"
+      },
+      {
+        "id": 8362,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%225%22"
+      },
+      {
+        "id": 143122,
+        "title": "\"Clinical use of monoclonal antibody disease-modifying therapies for multiple sclerosis\", section on 'Efficacy'",
+        "url": "https://medilib.ir/uptodate/show/143122"
+      },
+      {
+        "id": 8362,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%226%22"
+      },
+      {
+        "id": 3025,
+        "title": "\"Dengue virus infection: Clinical manifestations and diagnosis\", section on 'Additional manifestations'",
+        "url": "https://medilib.ir/uptodate/show/3025"
+      },
+      {
+        "id": 8480,
+        "title": "fosphenytoin",
+        "url": "https://medilib.ir/uptodate/show/8480"
+      },
+      {
+        "id": 8362,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%227%22"
+      },
+      {
+        "id": 5283,
+        "title": "\"Trigeminal neuralgia\", section on 'Acute rescue therapy for patients with breakthrough pain'",
+        "url": "https://medilib.ir/uptodate/show/5283"
+      },
+      {
+        "id": 152503,
+        "title": "Apitegromab",
+        "url": "https://medilib.ir/uptodate/show/152503"
+      },
+      {
+        "id": 111433,
+        "title": "nusinersen",
+        "url": "https://medilib.ir/uptodate/show/111433"
+      },
+      {
+        "id": 129218,
+        "title": "risdiplam",
+        "url": "https://medilib.ir/uptodate/show/129218"
+      },
+      {
+        "id": 8362,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%228%22"
+      },
+      {
+        "id": 8362,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%229%22"
+      },
+      {
+        "id": 6146,
+        "title": "\"Spinal muscular atrophy\", section on 'Apitegromab'",
+        "url": "https://medilib.ir/uptodate/show/6146"
+      },
+      {
+        "id": 8362,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2210%22"
+      },
+      {
+        "id": 5127,
+        "title": "\"Role of thymectomy in patients with myasthenia gravis\", section on 'Long-term risks related to altered immune function'",
+        "url": "https://medilib.ir/uptodate/show/5127"
+      },
+      {
+        "id": 9838,
+        "title": "Pyridostigmine",
+        "url": "https://medilib.ir/uptodate/show/9838"
+      },
+      {
+        "id": 8362,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2211%22"
+      },
+      {
+        "id": 5157,
+        "title": "\"Overview of the treatment of myasthenia gravis\", section on 'Mechanism and response'",
+        "url": "https://medilib.ir/uptodate/show/5157"
+      },
+      {
+        "id": 8362,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2212%22"
+      },
+      {
+        "id": 4706,
+        "title": "\"Primary central nervous system lymphoma: Treatment and prognosis\", section on 'Autologous HCT for transplant-eligible patients'",
+        "url": "https://medilib.ir/uptodate/show/4706"
+      },
+      {
+        "id": 152433,
+        "title": "Zilganersen",
+        "url": "https://medilib.ir/uptodate/show/152433"
+      },
+      {
+        "id": 8362,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2213%22"
+      },
+      {
+        "id": 1695,
+        "title": "\"Alexander disease\", section on 'Disease-modifying therapy'",
+        "url": "https://medilib.ir/uptodate/show/1695"
+      },
+      {
+        "id": 8362,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2214%22"
+      },
+      {
+        "id": 2939,
+        "title": "\"Neurofibromatosis type 1 (NF1): Pathogenesis, clinical features, and diagnosis\", section on 'Café-au-lait macules'",
+        "url": "https://medilib.ir/uptodate/show/2939"
+      },
+      {
+        "id": 146199,
+        "title": "Levacetylleucine",
+        "url": "https://medilib.ir/uptodate/show/146199"
+      },
+      {
+        "id": 8362,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2215%22"
+      },
+      {
+        "id": 6233,
+        "title": "\"Ataxia-telangiectasia\", section on 'Investigational approaches'",
+        "url": "https://medilib.ir/uptodate/show/6233"
+      },
+      {
+        "id": 9335,
+        "title": "acyclovir",
+        "url": "https://medilib.ir/uptodate/show/9335"
+      },
+      {
+        "id": 8362,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8362#rid%2216%22"
+      },
+      {
+        "id": 1284,
+        "title": "\"Viral encephalitis in adults\", section on 'Our approach'",
+        "url": "https://medilib.ir/uptodate/show/1284"
+      }
+    ]
+  }
+}

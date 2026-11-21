@@ -1,0 +1,492 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8363"
+  },
+  "article": {
+    "id": 8363,
+    "expected_title": "What's new in allergy and immunology",
+    "url": "https://medilib.ir/uptodate/show/8363",
+    "final_url": "https://medilib.ir/uptodate/show/8363",
+    "page_title": "What's new in allergy and immunology",
+    "extracted_at": "2026-11-20T20:51:05.950Z",
+    "title_matches_expected": true,
+    "title": "What's new in allergy and immunology",
+    "contributors": {
+      "authors": [
+        "Anna M Feldweg, MD",
+        "Elizabeth TePas, MD, MS"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Sep 03, 2026",
+    "version": "Topic 8363 Version 14407.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ASTHMA AND COPD"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Macrolide therapy for severe asthma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Severe asthma is treated with glucocorticoids and inhalers, but some individuals also require biologic therapies. For those who cannot receive a biologic therapy, the utility of adding a macrolide antibiotic has been uncertain despite several clinical trials. In a new meta-analysis of randomized trials, treatment with macrolides in six lower risk-of-bias trials (879 participants) modestly reduced rates of severe exacerbations relative to placebo or no treatment (0.79 versus 1.05 exacerbations per patient-year; relative risk 0.75) [1]. Asthma symptom control was meaningfully improved in approximately 41 percent of macrolide-treated patients versus 22 percent of controls. There were no clinically important differences in asthma-related quality of life, adverse events, or mortality. These findings bolster support for macrolides as add-on treatment for individuals with severe asthma who are unable to receive biologic therapies. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Macrolide antibiotics'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tezepelumab for glucocorticoid-dependent asthma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Despite increasing clinical experience using tezepelumab for glucocorticoid-dependent asthma, its efficacy for these patients has not been established in clinical trials. In a new trial, 122 participants with glucocorticoid-dependent asthma and blood eosinophil count ≥150 cells/microL at screening or ≥300 cells/microL in the past 12 months were randomly assigned to tezepelumab or placebo and underwent protocolized glucocorticoid tapers [2]. At the last treatment visit, approximately 40 percent of patients receiving tezepelumab achieved a 90 to 100 percent reduction in glucocorticoids compared with approximately 20 percent who were unable to decrease their dose; these percentages were reversed in the placebo group. Those receiving tezepelumab had a reduced risk of asthma exacerbations, severe asthma exacerbations and asthma symptoms. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Anti-thymic stromal lymphopoietin (tezepelumab)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Switching to depemokimab from other IL-5/5R biologics (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Depemokimab, an anti-IL5 monoclonal antibody used to treat asthma, is dosed semiannually. While this is convenient, there have been limited data on patients who switch from other agents directed against this pathway. In a new randomized trial, patients previously receiving mepolizumab (n = 874) or benralizumab (n = 742) were randomized to depemokimab or to maintenance of their usual regimen and then followed for 52 weeks [3]. Annualized exacerbation rates were stable with mepolizumab (0.5 versus 0.5, rate ratio 1.0) but worse for those switched from benralizumab (0.7 versus 0.5, hazard ratio 1.4). There were no meaningful differences in asthma quality of life, asthma symptom scores, or lung function. The tradeoff between the added convenience of depemokimab administration and the modest increases in exacerbation frequency for those previously receiving benralizumab should be included in shared decision-making. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Anti-IL-5/5R antibodies (mepolizumab, reslizumab, benralizumab, depemokimab)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Macrolides ineffective for acute wheezing in young children (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The potential utility of macrolides in the treatment of recurrent wheezing has been widely debated, given their antiinflammatory properties and antimicrobial effects against common respiratory pathogens, weighed against the concerns about antimicrobial overuse and resistance. A recent trial that compared a five-day course of azithromycin with placebo in 840 children aged 18 to 59 months seen in the emergency department (ED) with acute, moderate-severe wheezing (two-thirds had recurrent wheezing) was stopped early for futility [4]. The daily caregiver-reported asthma symptom score collected during treatment did not differ between the two groups, regardless of pathogen status. This provides additional evidence against such an approach in young children with recurrent acute wheezing. (See \"Treatment of recurrent virus-induced wheezing in young children\", section on 'Antiinflammatory therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Improved outcomes for budesonide-glycopyrrolate-formoterol in asthma (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The addition of inhaled anti-muscarinic agents for patients with asthma that is poorly controlled on inhaled glucocorticoids and long-acting beta agonists (ICS-LABA) has been studied in a variety of inhaled formulations, but the effect on asthma exacerbations has not been consistently significant. In a recent pair of large trials, 8820 patients were randomly assigned to receive budesonide-formoterol with or without the addition of glycopyrrolate. The addition of glycopyrrolate led to a small improvement in lung function and a statistically significant decrease in exacerbation rates (relative risk 0.86, 95% CI 0.76-0.97) compared with budesonide-formoterol alone [5]. These effect sizes are similar to point estimates seen in other inhaled anti-muscarinic trials, supporting a class effect. These data also led to FDA regulatory approval of a new formulation of budesonide-glycopyrrolate-formoterol (budesonide 160 mcg-glycopyrrolate 18 mcg-formoterol fumarate 4.8 mcg) for use in patients with poorly controlled asthma despite moderate-high dose ICS-LABA therapy [6]. (See \"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Reactions to sildenafil in patients with aspirin-exacerbated respiratory disease (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aspirin-exacerbated respiratory disease (AERD) has some manifestations that are not widely recognized, including reactions to alcoholic beverages, otologic complications, and nonexertional chest pain. Another possible manifestation is respiratory symptoms in response to sildenafil, a vasodilatory phosphodiesterase-5 (PDE-5) inhibitor used to treat erectile dysfunction and pulmonary arterial hypertension. This was described in two male patients with AERD that was well controlled on dupilumab and inhaled or intranasal corticosteroids [7]. Reaction symptoms were similar to those with nonsteroidal antiinflammatory drugs. The prevalence of this sensitivity among patients with AERD has not yet been formally studied. (See \"Aspirin-exacerbated respiratory disease\", section on 'Reactions to sildenafil'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DRUG HYPERSENSITIVITY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New guidance on hypersensitivity to drug excipients (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hypersensitivity to excipients in drugs is rare and usually presents as reactions to several drugs with chemically unrelated active ingredients. The European Academy of Allergy and Clinical Immunology (EAACI) published the first extensive literature review and position paper on the scope and diagnosis of excipient hypersensitivity [8]. The most commonly reported culprit is polyethylene glycol (PEG), found in laxatives and parenteral steroid preparations. Other causative agents include methylcellulose compounds, gelatins, mannitol, and povidone. (See \"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "FOOD ALLERGY AND INTOLERANCE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Inhaled beta-agonist for abdominal pain triggered by food allergy (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abdominal pain triggered by IgE-mediated food allergy may be slow to improve after standard treatment. In a trial that randomly assigned 24 patients with moderate to severe abdominal pain during an oral food challenge or after an oral immunotherapy dose to inhaled salbutamol (also known as albuterol) 800 mcg or placebo, adequate analgesia and complete pain resolution were observed at a median time of 6 and 10 minutes, respectively, in the salbutamol group but were not obtained by 30 minutes in the placebo group [9]. While the findings from this small trial are consistent with limited observational data, further study is needed before including high-dose inhaled beta-agonists as a routine adjunct to standard care. (See \"Oral food challenges for diagnosis and management of food allergies\", section on 'Medical treatment for a reaction'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "IMMUNODEFICIENCY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Updated inborn errors of immunity practice parameter (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "An updated Joint Task Force on Practice Parameters for inborn errors of immunity (IEI) is available [10]. This updated practice parameter includes guidance on the diagnostic approach for patients with a positive newborn screen or clinical history suspicious for an IEI, general management, including monitoring and infection prevention, and definitive therapies. Our approach is consistent with these guidelines. (See \"Newborn screening for inborn errors of immunity\", section on 'Initial testing for abnormal SCID NBS'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Gene therapy for leukocyte adhesion deficiency type I (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leukocyte adhesion deficiency type I (LAD I) is a severe inborn error of immunity characterized by recurrent bacterial infections, a persistent neutrophilia that increases markedly during infection, absent pus formation (a hallmark finding), and impaired wound healing. Without intervention, infants with severe LAD I usually die in the first years of life. The primary treatment has been hematopoietic cell transplantation (HCT), but gene therapy (marnetegragene autotemcel) has now been approved by the US Food and Drug Administration, based on success in a phase I to II trial of nine children with severe LAD I [11,12]. Cost is a limiting factor, and allogeneic HCT remains the more available therapy for most affected children. (See \"Leukocyte-adhesion deficiency disorders\", section on 'Gene therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "URTICARIA AND ANGIOEDEMA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigational gene editing therapy for hereditary angioedema (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Multiple new prophylactic therapies for hereditary angioedema have become available in recent years. Lonvoguran ziclumeran is a novel, investigational gene editing therapy that uses CRISPR technology to knock down the normal gene encoding kallikrein B1, lowering plasma kallikrein levels and impairing production of bradykinin, the mediator that causes angioedema. In a trial that randomly assigned 80 patients ≥16 years of age to a single infusion of lonvoguran ziclumeran or placebo, the monthly attack rate was lower and the attack-free rate was higher in the lonvoguran ziclumeran group (0.26 versus 2.10 and 62 percent versus 11 percent, respectively) after a median follow-up of 7.5 months [13]. Treatment was well tolerated, although knocking down a normal gene raises the possibility of unanticipated long-term adverse effects, and longer term data are needed. (See \"Hereditary angioedema (due to C1 inhibitor deficiency): General care and long-term prophylaxis\", section on 'Therapies altering gene or protein expression'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Predicting evolution from acute to chronic urticaria (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Among patients who develop acute urticaria, symptoms will persist and become chronic in 20 to 30 percent. At present, there are no known biomarkers or other testing that can identify who will develop chronic urticaria, although this is an area of active investigation. In a prospective, cohort study of 129 patients with acute urticaria followed for two years, the presence of certain IgE autoantibodies (to thyroid peroxidase, eosinophil peroxidase, eosinophil cationic protein) was correlated with evolution to chronic urticaria [14]. Although preliminary, these findings are a step towards identifying useful biomarkers of persistence. (See \"New-onset urticaria (hives)\", section on 'Prognosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER GENERAL ALLERGY AND IMMUNOLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Stability of epinephrine in nasal spray device (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Self-administered epinephrine for anaphylaxis is available in autoinjector and nasal spray devices. Data suggest the nasal spray has greater stability at ambient and extreme temperatures compared with autoinjectors. In one study, the nasal spray device maintained adequate potency after three months at extreme heat (50°C, 122°F) and at room temperature for 24 months (1 mg dose) and 30 months (2 mg dose) [15]. By contrast, significant potency loss was seen with extreme heat exposure for autoinjectable forms of epinephrine, and the shelf life at room temperature is 12 to 15 months. Stability at temperature extremes and shelf life are among the factors patients may consider when selecting a device. (See \"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Serious allergic transfusion reactions in alpha-gal syndrome (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alpha-gal syndrome is a tick-borne disease in which exposure to a carbohydrate antigen from tick saliva causes cross-reacting allergy to meat proteins. The antigen is also nearly identical to the carbohydrate antigen of blood group B; group B individuals are protected from the syndrome, while group O individuals are susceptible. In a new study characterizing severe allergic/anaphylactic transfusion reactions in 59 recipients, the rate of severe IgE-mediated reactions to alpha-gal was 67 percent in group O individuals receiving plasma or platelet transfusions from group B or AB donors and 23 percent with transfusions from group O donors [16]. None of the recipients with severe allergic reactions were group A, B, or AB. Further study of this phenomenon is awaited. (See \"Allergic and anaphylactic transfusion reactions\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Investigative topical ivarmacitinib for mild to moderate atopic dermatitis (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ivarmacitinib is a highly selective oral Janus kinase 1 (JAK1) inhibitor approved in China, but not in other countries, for the treatment of moderate to severe atopic dermatitis (AD) in adolescents and adults. In a trial in which over 360 adults with mild to moderate AD were randomly assigned to topical ivarmacitinib (0.5% or 1%) or vehicle, more patients in the ivarmacitinib groups achieved an Investigative Global Assessment of clear/almost clear and a 75 percent improvement in the Eczema Area and Severity Index compared with vehicle at eight weeks (21 and 26 versus 11 percent and 43 and 45 versus 18 percent, respectively) [17]. Although preliminary, these findings suggest that topical ivarmacitinib is a promising agent to add to the currently available topical JAK inhibitors (eg, ruxolitinib, delgocitinib) for the management of mild to moderate AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dupilumab reduces the risk of infection in patients with atopic dermatitis (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Previous clinical trial data suggest that dupilumab reduces the risk of skin infections and Staphylococcus aureus colonization in patients with atopic dermatitis (AD). A large retrospective cohort study of nearly 30,000 patients from the TriNetX global database found that dupilumab was associated with a significantly reduced risk of a wide variety of cutaneous and systemic viral and bacterial infections, compared with cyclosporine and methotrexate, in the first three years after treatment initiation [18]. These findings confirm the good safety profile of dupilumab for the long-term treatment of moderate to severe AD in children and adults. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Dupilumab'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nASTHMA AND COPD\n\nMacrolide therapy for severe asthma (September 2026)\n\nSevere asthma is treated with glucocorticoids and inhalers, but some individuals also require biologic therapies. For those who cannot receive a biologic therapy, the utility of adding a macrolide antibiotic has been uncertain despite several clinical trials. In a new meta-analysis of randomized trials, treatment with macrolides in six lower risk-of-bias trials (879 participants) modestly reduced rates of severe exacerbations relative to placebo or no treatment (0.79 versus 1.05 exacerbations per patient-year; relative risk 0.75) [1]. Asthma symptom control was meaningfully improved in approximately 41 percent of macrolide-treated patients versus 22 percent of controls. There were no clinically important differences in asthma-related quality of life, adverse events, or mortality. These findings bolster support for macrolides as add-on treatment for individuals with severe asthma who are unable to receive biologic therapies. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Macrolide antibiotics'.)\n\nTezepelumab for glucocorticoid-dependent asthma (July 2026)\n\nDespite increasing clinical experience using tezepelumab for glucocorticoid-dependent asthma, its efficacy for these patients has not been established in clinical trials. In a new trial, 122 participants with glucocorticoid-dependent asthma and blood eosinophil count ≥150 cells/microL at screening or ≥300 cells/microL in the past 12 months were randomly assigned to tezepelumab or placebo and underwent protocolized glucocorticoid tapers [2]. At the last treatment visit, approximately 40 percent of patients receiving tezepelumab achieved a 90 to 100 percent reduction in glucocorticoids compared with approximately 20 percent who were unable to decrease their dose; these percentages were reversed in the placebo group. Those receiving tezepelumab had a reduced risk of asthma exacerbations, severe asthma exacerbations and asthma symptoms. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Anti-thymic stromal lymphopoietin (tezepelumab)'.)\n\nSwitching to depemokimab from other IL-5/5R biologics (July 2026)\n\nDepemokimab, an anti-IL5 monoclonal antibody used to treat asthma, is dosed semiannually. While this is convenient, there have been limited data on patients who switch from other agents directed against this pathway. In a new randomized trial, patients previously receiving mepolizumab (n = 874) or benralizumab (n = 742) were randomized to depemokimab or to maintenance of their usual regimen and then followed for 52 weeks [3]. Annualized exacerbation rates were stable with mepolizumab (0.5 versus 0.5, rate ratio 1.0) but worse for those switched from benralizumab (0.7 versus 0.5, hazard ratio 1.4). There were no meaningful differences in asthma quality of life, asthma symptom scores, or lung function. The tradeoff between the added convenience of depemokimab administration and the modest increases in exacerbation frequency for those previously receiving benralizumab should be included in shared decision-making. (See \"Treatment of severe asthma in adolescents and adults\", section on 'Anti-IL-5/5R antibodies (mepolizumab, reslizumab, benralizumab, depemokimab)'.)\n\nMacrolides ineffective for acute wheezing in young children (May 2026)\n\nThe potential utility of macrolides in the treatment of recurrent wheezing has been widely debated, given their antiinflammatory properties and antimicrobial effects against common respiratory pathogens, weighed against the concerns about antimicrobial overuse and resistance. A recent trial that compared a five-day course of azithromycin with placebo in 840 children aged 18 to 59 months seen in the emergency department (ED) with acute, moderate-severe wheezing (two-thirds had recurrent wheezing) was stopped early for futility [4]. The daily caregiver-reported asthma symptom score collected during treatment did not differ between the two groups, regardless of pathogen status. This provides additional evidence against such an approach in young children with recurrent acute wheezing. (See \"Treatment of recurrent virus-induced wheezing in young children\", section on 'Antiinflammatory therapy'.)\n\nImproved outcomes for budesonide-glycopyrrolate-formoterol in asthma (May 2026)\n\nThe addition of inhaled anti-muscarinic agents for patients with asthma that is poorly controlled on inhaled glucocorticoids and long-acting beta agonists (ICS-LABA) has been studied in a variety of inhaled formulations, but the effect on asthma exacerbations has not been consistently significant. In a recent pair of large trials, 8820 patients were randomly assigned to receive budesonide-formoterol with or without the addition of glycopyrrolate. The addition of glycopyrrolate led to a small improvement in lung function and a statistically significant decrease in exacerbation rates (relative risk 0.86, 95% CI 0.76-0.97) compared with budesonide-formoterol alone [5]. These effect sizes are similar to point estimates seen in other inhaled anti-muscarinic trials, supporting a class effect. These data also led to FDA regulatory approval of a new formulation of budesonide-glycopyrrolate-formoterol (budesonide 160 mcg-glycopyrrolate 18 mcg-formoterol fumarate 4.8 mcg) for use in patients with poorly controlled asthma despite moderate-high dose ICS-LABA therapy [6]. (See \"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'.)\n\nReactions to sildenafil in patients with aspirin-exacerbated respiratory disease (April 2026)\n\nAspirin-exacerbated respiratory disease (AERD) has some manifestations that are not widely recognized, including reactions to alcoholic beverages, otologic complications, and nonexertional chest pain. Another possible manifestation is respiratory symptoms in response to sildenafil, a vasodilatory phosphodiesterase-5 (PDE-5) inhibitor used to treat erectile dysfunction and pulmonary arterial hypertension. This was described in two male patients with AERD that was well controlled on dupilumab and inhaled or intranasal corticosteroids [7]. Reaction symptoms were similar to those with nonsteroidal antiinflammatory drugs. The prevalence of this sensitivity among patients with AERD has not yet been formally studied. (See \"Aspirin-exacerbated respiratory disease\", section on 'Reactions to sildenafil'.)\n\nDRUG HYPERSENSITIVITY\n\nNew guidance on hypersensitivity to drug excipients (April 2026)\n\nHypersensitivity to excipients in drugs is rare and usually presents as reactions to several drugs with chemically unrelated active ingredients. The European Academy of Allergy and Clinical Immunology (EAACI) published the first extensive literature review and position paper on the scope and diagnosis of excipient hypersensitivity [8]. The most commonly reported culprit is polyethylene glycol (PEG), found in laxatives and parenteral steroid preparations. Other causative agents include methylcellulose compounds, gelatins, mannitol, and povidone. (See \"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'.)\n\nFOOD ALLERGY AND INTOLERANCE\n\nInhaled beta-agonist for abdominal pain triggered by food allergy (July 2026)\n\nAbdominal pain triggered by IgE-mediated food allergy may be slow to improve after standard treatment. In a trial that randomly assigned 24 patients with moderate to severe abdominal pain during an oral food challenge or after an oral immunotherapy dose to inhaled salbutamol (also known as albuterol) 800 mcg or placebo, adequate analgesia and complete pain resolution were observed at a median time of 6 and 10 minutes, respectively, in the salbutamol group but were not obtained by 30 minutes in the placebo group [9]. While the findings from this small trial are consistent with limited observational data, further study is needed before including high-dose inhaled beta-agonists as a routine adjunct to standard care. (See \"Oral food challenges for diagnosis and management of food allergies\", section on 'Medical treatment for a reaction'.)\n\nIMMUNODEFICIENCY\n\nUpdated inborn errors of immunity practice parameter (July 2026)\n\nAn updated Joint Task Force on Practice Parameters for inborn errors of immunity (IEI) is available [10]. This updated practice parameter includes guidance on the diagnostic approach for patients with a positive newborn screen or clinical history suspicious for an IEI, general management, including monitoring and infection prevention, and definitive therapies. Our approach is consistent with these guidelines. (See \"Newborn screening for inborn errors of immunity\", section on 'Initial testing for abnormal SCID NBS'.)\n\nGene therapy for leukocyte adhesion deficiency type I (April 2026)\n\nLeukocyte adhesion deficiency type I (LAD I) is a severe inborn error of immunity characterized by recurrent bacterial infections, a persistent neutrophilia that increases markedly during infection, absent pus formation (a hallmark finding), and impaired wound healing. Without intervention, infants with severe LAD I usually die in the first years of life. The primary treatment has been hematopoietic cell transplantation (HCT), but gene therapy (marnetegragene autotemcel) has now been approved by the US Food and Drug Administration, based on success in a phase I to II trial of nine children with severe LAD I [11,12]. Cost is a limiting factor, and allogeneic HCT remains the more available therapy for most affected children. (See \"Leukocyte-adhesion deficiency disorders\", section on 'Gene therapy'.)\n\nURTICARIA AND ANGIOEDEMA\n\nInvestigational gene editing therapy for hereditary angioedema (July 2026)\n\nMultiple new prophylactic therapies for hereditary angioedema have become available in recent years. Lonvoguran ziclumeran is a novel, investigational gene editing therapy that uses CRISPR technology to knock down the normal gene encoding kallikrein B1, lowering plasma kallikrein levels and impairing production of bradykinin, the mediator that causes angioedema. In a trial that randomly assigned 80 patients ≥16 years of age to a single infusion of lonvoguran ziclumeran or placebo, the monthly attack rate was lower and the attack-free rate was higher in the lonvoguran ziclumeran group (0.26 versus 2.10 and 62 percent versus 11 percent, respectively) after a median follow-up of 7.5 months [13]. Treatment was well tolerated, although knocking down a normal gene raises the possibility of unanticipated long-term adverse effects, and longer term data are needed. (See \"Hereditary angioedema (due to C1 inhibitor deficiency): General care and long-term prophylaxis\", section on 'Therapies altering gene or protein expression'.)\n\nPredicting evolution from acute to chronic urticaria (April 2026)\n\nAmong patients who develop acute urticaria, symptoms will persist and become chronic in 20 to 30 percent. At present, there are no known biomarkers or other testing that can identify who will develop chronic urticaria, although this is an area of active investigation. In a prospective, cohort study of 129 patients with acute urticaria followed for two years, the presence of certain IgE autoantibodies (to thyroid peroxidase, eosinophil peroxidase, eosinophil cationic protein) was correlated with evolution to chronic urticaria [14]. Although preliminary, these findings are a step towards identifying useful biomarkers of persistence. (See \"New-onset urticaria (hives)\", section on 'Prognosis'.)\n\nOTHER GENERAL ALLERGY AND IMMUNOLOGY\n\nStability of epinephrine in nasal spray device (July 2026)\n\nSelf-administered epinephrine for anaphylaxis is available in autoinjector and nasal spray devices. Data suggest the nasal spray has greater stability at ambient and extreme temperatures compared with autoinjectors. In one study, the nasal spray device maintained adequate potency after three months at extreme heat (50°C, 122°F) and at room temperature for 24 months (1 mg dose) and 30 months (2 mg dose) [15]. By contrast, significant potency loss was seen with extreme heat exposure for autoinjectable forms of epinephrine, and the shelf life at room temperature is 12 to 15 months. Stability at temperature extremes and shelf life are among the factors patients may consider when selecting a device. (See \"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'.)\n\nSerious allergic transfusion reactions in alpha-gal syndrome (June 2026)\n\nAlpha-gal syndrome is a tick-borne disease in which exposure to a carbohydrate antigen from tick saliva causes cross-reacting allergy to meat proteins. The antigen is also nearly identical to the carbohydrate antigen of blood group B; group B individuals are protected from the syndrome, while group O individuals are susceptible. In a new study characterizing severe allergic/anaphylactic transfusion reactions in 59 recipients, the rate of severe IgE-mediated reactions to alpha-gal was 67 percent in group O individuals receiving plasma or platelet transfusions from group B or AB donors and 23 percent with transfusions from group O donors [16]. None of the recipients with severe allergic reactions were group A, B, or AB. Further study of this phenomenon is awaited. (See \"Allergic and anaphylactic transfusion reactions\".)\n\nInvestigative topical ivarmacitinib for mild to moderate atopic dermatitis (May 2026)\n\nIvarmacitinib is a highly selective oral Janus kinase 1 (JAK1) inhibitor approved in China, but not in other countries, for the treatment of moderate to severe atopic dermatitis (AD) in adolescents and adults. In a trial in which over 360 adults with mild to moderate AD were randomly assigned to topical ivarmacitinib (0.5% or 1%) or vehicle, more patients in the ivarmacitinib groups achieved an Investigative Global Assessment of clear/almost clear and a 75 percent improvement in the Eczema Area and Severity Index compared with vehicle at eight weeks (21 and 26 versus 11 percent and 43 and 45 versus 18 percent, respectively) [17]. Although preliminary, these findings suggest that topical ivarmacitinib is a promising agent to add to the currently available topical JAK inhibitors (eg, ruxolitinib, delgocitinib) for the management of mild to moderate AD. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'.)\n\nDupilumab reduces the risk of infection in patients with atopic dermatitis (March 2026)\n\nPrevious clinical trial data suggest that dupilumab reduces the risk of skin infections and Staphylococcus aureus colonization in patients with atopic dermatitis (AD). A large retrospective cohort study of nearly 30,000 patients from the TriNetX global database found that dupilumab was associated with a significantly reduced risk of a wide variety of cutaneous and systemic viral and bacterial infections, compared with cyclosporine and methotrexate, in the first three years after treatment initiation [18]. These findings confirm the good safety profile of dupilumab for the long-term treatment of moderate to severe AD in children and adults. (See \"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Dupilumab'.)",
+    "word_count": 2202,
+    "character_count": 15579,
+    "references": [
+      "Ologundudu LM, Wong MM, Islam N, et al. Macrolides for asthma: A systematic review and meta-analysis of randomized trials. J Allergy Clin Immunol 2026.",
+      "Wechsler ME, Brightling CE, Brusselle G, et al. Efficacy and safety of tezepelumab versus placebo in reducing oral corticosteroid use in adults with severe, oral corticosteroid-dependent asthma (SUNRISE): a multicentre, placebo-controlled, double-blind, phase 3 trial. Lancet Respir Med 2026; 14:481.",
+      "Chupp G, Nagase H, Skowasch D, et al. Switching to twice-yearly depemokimab from mepolizumab/benralizumab in severe asthma: a multicenter, randomized, double-blind, phase 3A clinical trial (NIMBLE). Am J Respir Crit Care Med 2026; 212:921.",
+      "Denninghoff KR, Casper TC, Zorc JJ, et al. Azithromycin for Preschoolers with Wheezing in the Emergency Department. N Engl J Med 2026.",
+      "Papi A, Wise RA, Jackson DJ, et al. Budesonide-glycopyrronium-formoterol fumarate dihydrate in uncontrolled asthma (KALOS and LOGOS): twin multicentre, double-blind, double-dummy, parallel-group, randomised, phase 3 trials. Lancet Respir Med 2026; 14:350.",
+      "FDA budesonide-glycopyrrolate-formoterol fumarate label: https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/212122s009lbl.pdf (Accessed on May 02, 2026).",
+      "Segal CJ, Buchheit KM, Bensko JC, et al. Expanding the spectrum of triggers in aspirin-exacerbated respiratory disease: sildenafil-associated respiratory symptoms. J Allergy Clin Immunol Pract 2026; 14:981.",
+      "Garvey LH, Brockow K, Barbaud A, et al. Hypersensitivity to Excipients in Drugs: An EAACI Position Paper. Allergy 2026; 81:2250.",
+      "Braun C, Antony E, Simard ML, et al. Inhaled Salbutamol Versus Placebo for the Treatment of Acute IgE-Mediated Abdominal Pain From Allergic Food Reactions (INSPIRE Trial): A Double-Blind Randomized Trial. J Allergy Clin Immunol Pract 2026.",
+      "Orange JS, Chinen J, Horner CC, et al. 2025 Inborn errors of immunity practice parameter: Guidance from the Joint Task Force on Practice Parameters, the American Academy of Allergy, Asthma & Immunology (AAAAI), the American College of Allergy, Asthma and Immunology (ACAAI) and the Clinical Immunology Society (CIS). Ann Allergy Asthma Immunol 2026; 136:426.",
+      "US Food and Drug Administration. FDA News Release: FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I. https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i (Accessed on March 28, 2026).",
+      "Booth C, Sevilla J, Almarza E, et al. Lentiviral Gene Therapy for Severe Leukocyte Adhesion Deficiency Type 1. N Engl J Med 2025; 392:1698.",
+      "Cohn DM, Gurugama P, Longhurst HJ, et al. Lonvoguran Ziclumeran - In Vivo CRISPR Gene Editing in Hereditary Angioedema. N Engl J Med 2026.",
+      "Sánchez J, Biol AS, Caraballo A, et al. Clinical Evolution of Acute Urticaria and Association With IgE Autoantibodies. J Allergy Clin Immunol Pract 2026; 14:1440.",
+      "Dorsey BT, Golden DBK, Silvers SK, et al. Stability of epinephrine nasal spray under room temperature, freeze-thaw, and extreme temperature conditions. J Allergy Clin Immunol Pract 2026.",
+      "de Chaisemartin L, de la Taille V, Nicaise-Roland P, et al. Severe allergic transfusion reactions to group B/AB plasma or platelets in group O recipients are linked to α-Gal sensitization. Blood 2026; 147:3113.",
+      "Wang D, Wu J, Guo Q, et al. Ivarmacitinib ointment in treatment of adults with mild-to-moderate atopic dermatitis: phase III of a randomized double-blind placebo-controlled phase II/III clinical trial. Br J Dermatol 2026; 194:629.",
+      "Kridin K, Abdelghaffar M, Bieber K, et al. The real-world, long-term risk of infections associated with dupilumab in atopic dermatitis: A global cohort study. J Eur Acad Dermatol Venereol 2025; 39:2069."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 8363,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%221%22"
+      },
+      {
+        "id": 551,
+        "title": "\"Treatment of severe asthma in adolescents and adults\", section on 'Macrolide antibiotics'",
+        "url": "https://medilib.ir/uptodate/show/551"
+      },
+      {
+        "id": 134676,
+        "title": "tezepelumab",
+        "url": "https://medilib.ir/uptodate/show/134676"
+      },
+      {
+        "id": 8363,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%222%22"
+      },
+      {
+        "id": 551,
+        "title": "\"Treatment of severe asthma in adolescents and adults\", section on 'Anti-thymic stromal lymphopoietin (tezepelumab)'",
+        "url": "https://medilib.ir/uptodate/show/551"
+      },
+      {
+        "id": 150457,
+        "title": "Depemokimab",
+        "url": "https://medilib.ir/uptodate/show/150457"
+      },
+      {
+        "id": 105352,
+        "title": "mepolizumab",
+        "url": "https://medilib.ir/uptodate/show/105352"
+      },
+      {
+        "id": 115768,
+        "title": "benralizumab",
+        "url": "https://medilib.ir/uptodate/show/115768"
+      },
+      {
+        "id": 8363,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%223%22"
+      },
+      {
+        "id": 551,
+        "title": "\"Treatment of severe asthma in adolescents and adults\", section on 'Anti-IL-5/5R antibodies (mepolizumab, reslizumab, benralizumab, depemokimab)'",
+        "url": "https://medilib.ir/uptodate/show/551"
+      },
+      {
+        "id": 9041,
+        "title": "azithromycin",
+        "url": "https://medilib.ir/uptodate/show/9041"
+      },
+      {
+        "id": 8363,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%224%22"
+      },
+      {
+        "id": 546,
+        "title": "\"Treatment of recurrent virus-induced wheezing in young children\", section on 'Antiinflammatory therapy'",
+        "url": "https://medilib.ir/uptodate/show/546"
+      },
+      {
+        "id": 8524,
+        "title": "budesonide-formoterol",
+        "url": "https://medilib.ir/uptodate/show/8524"
+      },
+      {
+        "id": 8496,
+        "title": "glycopyrrolate",
+        "url": "https://medilib.ir/uptodate/show/8496"
+      },
+      {
+        "id": 8363,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%225%22"
+      },
+      {
+        "id": 129094,
+        "title": "budesonide-glycopyrrolate-formoterol",
+        "url": "https://medilib.ir/uptodate/show/129094"
+      },
+      {
+        "id": 9167,
+        "title": "budesonide",
+        "url": "https://medilib.ir/uptodate/show/9167"
+      },
+      {
+        "id": 8363,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%226%22"
+      },
+      {
+        "id": 532,
+        "title": "\"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'",
+        "url": "https://medilib.ir/uptodate/show/532"
+      },
+      {
+        "id": 9643,
+        "title": "sildenafil",
+        "url": "https://medilib.ir/uptodate/show/9643"
+      },
+      {
+        "id": 112484,
+        "title": "dupilumab",
+        "url": "https://medilib.ir/uptodate/show/112484"
+      },
+      {
+        "id": 8363,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%227%22"
+      },
+      {
+        "id": 520,
+        "title": "\"Aspirin-exacerbated respiratory disease\", section on 'Reactions to sildenafil'",
+        "url": "https://medilib.ir/uptodate/show/520"
+      },
+      {
+        "id": 8363,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%228%22"
+      },
+      {
+        "id": 10153,
+        "title": "methylcellulose",
+        "url": "https://medilib.ir/uptodate/show/10153"
+      },
+      {
+        "id": 9587,
+        "title": "mannitol",
+        "url": "https://medilib.ir/uptodate/show/9587"
+      },
+      {
+        "id": 2079,
+        "title": "\"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'",
+        "url": "https://medilib.ir/uptodate/show/2079"
+      },
+      {
+        "id": 9396,
+        "title": "albuterol",
+        "url": "https://medilib.ir/uptodate/show/9396"
+      },
+      {
+        "id": 8363,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%229%22"
+      },
+      {
+        "id": 2399,
+        "title": "\"Oral food challenges for diagnosis and management of food allergies\", section on 'Medical treatment for a reaction'",
+        "url": "https://medilib.ir/uptodate/show/2399"
+      },
+      {
+        "id": 8363,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2210%22"
+      },
+      {
+        "id": 16363,
+        "title": "\"Newborn screening for inborn errors of immunity\", section on 'Initial testing for abnormal SCID NBS'",
+        "url": "https://medilib.ir/uptodate/show/16363"
+      },
+      {
+        "id": 151188,
+        "title": "marnetegragene autotemcel",
+        "url": "https://medilib.ir/uptodate/show/151188"
+      },
+      {
+        "id": 8363,
+        "title": "11,12",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2211%22"
+      },
+      {
+        "id": 3918,
+        "title": "\"Leukocyte-adhesion deficiency disorders\", section on 'Gene therapy'",
+        "url": "https://medilib.ir/uptodate/show/3918"
+      },
+      {
+        "id": 8363,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2213%22"
+      },
+      {
+        "id": 8100,
+        "title": "\"Hereditary angioedema (due to C1 inhibitor deficiency): General care and long-term prophylaxis\", section on 'Therapies altering gene or protein expression'",
+        "url": "https://medilib.ir/uptodate/show/8100"
+      },
+      {
+        "id": 8363,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2214%22"
+      },
+      {
+        "id": 8101,
+        "title": "\"New-onset urticaria (hives)\", section on 'Prognosis'",
+        "url": "https://medilib.ir/uptodate/show/8101"
+      },
+      {
+        "id": 8363,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2215%22"
+      },
+      {
+        "id": 388,
+        "title": "\"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'",
+        "url": "https://medilib.ir/uptodate/show/388"
+      },
+      {
+        "id": 8363,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2216%22"
+      },
+      {
+        "id": 7947,
+        "title": "\"Allergic and anaphylactic transfusion reactions\"",
+        "url": "https://medilib.ir/uptodate/show/7947"
+      },
+      {
+        "id": 8363,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2217%22"
+      },
+      {
+        "id": 17096,
+        "title": "ruxolitinib",
+        "url": "https://medilib.ir/uptodate/show/17096"
+      },
+      {
+        "id": 149254,
+        "title": "delgocitinib",
+        "url": "https://medilib.ir/uptodate/show/149254"
+      },
+      {
+        "id": 149274,
+        "title": "\"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Investigational JAK inhibitors'",
+        "url": "https://medilib.ir/uptodate/show/149274"
+      },
+      {
+        "id": 9217,
+        "title": "cyclosporine",
+        "url": "https://medilib.ir/uptodate/show/9217"
+      },
+      {
+        "id": 9630,
+        "title": "methotrexate",
+        "url": "https://medilib.ir/uptodate/show/9630"
+      },
+      {
+        "id": 8363,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8363#rid%2218%22"
+      },
+      {
+        "id": 149274,
+        "title": "\"Atopic dermatitis: Treatment of moderate to severe disease with systemic therapies and phototherapy\", section on 'Dupilumab'",
+        "url": "https://medilib.ir/uptodate/show/149274"
+      }
+    ]
+  }
+}

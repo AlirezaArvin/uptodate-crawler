@@ -1,0 +1,280 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/112615"
+  },
+  "article": {
+    "id": 112615,
+    "expected_title": "What's new in anesthesiology",
+    "url": "https://medilib.ir/uptodate/show/112615",
+    "final_url": "https://medilib.ir/uptodate/show/112615",
+    "page_title": "What's new in anesthesiology",
+    "extracted_at": "2026-11-20T20:51:11.953Z",
+    "title_matches_expected": true,
+    "title": "What's new in anesthesiology",
+    "contributors": {
+      "authors": [
+        "Nancy A Nussmeier, MD, FAHA"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Sep 24, 2026",
+    "version": "Topic 112615 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "AIRWAY MANAGEMENT"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Intubation success and outcomes with video-assisted laryngoscopy compared with direct laryngoscopy (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compared with direct laryngoscopy (DL), video-assisted laryngoscopy (VAL) may improve the laryngeal view with or without predictors of difficult laryngoscopy. In a randomized trial, nearly 2500 patients were assigned to DL, VAL with a Macintosh blade (VLM), or VAL with a hyperangulated blade (VLH) [1]. Both VAL modalities were superior to DL for achieving the primary outcome of achieving intubation on the first attempt (78, 83, and 88 percent, respectively). Also, both VAL modalities were associated with faster intubation success after a failed first attempt compared with DL. We suggest using VAL over DL for the first attempt at tracheal intubation when possible. (See \"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "CARDIOVASCULAR AND THORACIC ANESTHESIA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Preoperative IV iron to treat anemia before cardiac surgery (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Preoperative anemia due to iron deficiency is common in patients undergoing cardiac surgery. In a new randomized trial in over 900 patients undergoing elective cardiac surgery who had preoperative anemia, administration of intravenous (IV) iron as a total dose infusion before surgery reduced the likelihood red blood cell (RBC) transfusions (61 versus 68 percent) [2]. These findings support our practice of treating iron deficiency prior to elective major surgery; providing iron with sufficient time for an RBC response is critical. (See \"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "PREOPERATIVE AND POSTOPERATIVE MANAGEMENT"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Anticoagulation in extracorporeal membrane oxygenation (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data guiding anticoagulation during extracorporeal membrane oxygenation (ECMO) are limited. In a recent randomized trial of 330 patients (60 percent venoarterial ECMO, 40 percent venovenous ECMO), low-dose unfractionated heparin (UFH) resulted in a nonsignificant reduction in severe bleeding compared with standard-dose UFH (58 versus 65 percent), without increasing severe thromboembolic complications (11 versus 10 percent) [3]. Although promising, interpretation is limited because the standard-dose regimen may not reflect current practice, anti-factor Xa monitoring was inconsistent and the study was open label. More robust data are needed before we can routinely use low-dose UFH for anticoagulating ECMO patients. (See \"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perioperative management of immunosuppression in patients with inflammatory arthritis (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perioperative management of patients with inflammatory arthritis requires carefully weighing the risks and benefits of temporarily holding disease-modifying antirheumatic drugs (DMARDs). A new Cochrane review identified three randomized trials that compared holding versus continuing the conventional synthetic DMARDs (csDMARDs) methotrexate or sulfasalazine in over 300 patients [4]. Holding csDMARDs increased the flare rate at 8 months (36 versus 0 percent) without decreasing the postoperative infection rate at 12 months (3 percent in each group). We continue csDMARDs during the perioperative period in most patients with inflammatory arthritis. (See \"Preoperative evaluation and perioperative management of patients with rheumatic diseases\", section on 'Most csDMARDs and apremilast'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "SURGICAL CRITICAL CARE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Reduced thrombosis using tetrasodium EDTA as a locking solution for central venous catheters (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The best catheter-locking agent to use in patients at high risk for catheter-related complications remains unknown. In a trial that randomly assigned 1468 adult intensive care unit (ICU) patients to a control lock (ie, saline or 4% citrate for hemodialysis catheters) or to a tetrasodium ethylenediaminetetraacetic acid (Na4EDTA) lock, the Na4EDTA group had a lower composite incidence rate of catheter removal due to occlusion, thrombosis requiring alteplase infusion, or central line-associated bloodstream infection. However, this result was driven by the reduction in the rate of alteplase administration (11.67 versus 17.73 per 1000 catheter-days, respectively) [5]. The results of this trial support the use of this agent, although additional studies are needed to determine whether Na4EDTA should be used routinely or selectively in the ICU population. (See \"Routine care and maintenance of intravenous devices\", section on 'Locking'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER ANESTHESIA"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Jehovah's witnesses may now accept blood components (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [6,7]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rare neurologic complications with sevoflurane anesthesia in Venezuelan patients (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sevoflurane has been associated with a few reports of severe neurologic adverse outcomes and death following routine general anesthesia in patients of maternal Venezuelan ancestry due to a rare mitochondrial genetic variant (MT-ND4 m.11232T>C) [8]. Although reported cases have been linked to sevoflurane, this genetic variant raises concerns for use of any volatile inhalation anesthetic agent in patients with this genetic variant. Alternatives to inhalation anesthetics (eg, intravenous agents, regional anesthesia techniques) should be considered for patients of maternal Venezuelan descent. (See \"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Higher intraoperative blood pressure targets do not improve clinical outcomes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Optimal intraoperative blood pressure (BP) targets for individual patients are unclear. A 2026 meta-analysis of 15 trials in more than 15,000 noncardiac surgical patients evaluated whether maintaining intraoperative BP at or above patient-specific preoperative baseline values (eg, mean arterial pressure [MAP] ≥85 mmHg) improved postoperative outcomes compared with current standard practice (typically MAP ≥60 to 65 mmHg) [9]. Vasopressors and fluids were used to achieve the higher BP target values. Despite effectively reducing intraoperative hypotension, higher BP targets did not improve clinical outcomes (eg, mortality, acute kidney injury, acute myocardial injury, major adverse cardiovascular events (MACE), stroke, length of hospital stay). We aim to avoid prolonged or severe hypotension and maintain MAP >65 mmHg. (See \"Hemodynamic management during anesthetic care in adults\", section on 'Establishing blood pressure targets'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tranexamic acid for major noncardiac surgery (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tranexamic acid (TXA) is routinely used in cardiac and orthopedic surgery, but other surgical patients with a high risk of blood loss may also benefit. In a 2026 randomized trial in over 8000 noncardiac surgical patients (mostly oncologic surgery), intravenous TXA reduced risks of red blood cell transfusion (7.4 percent, versus 9.8 percent with placebo) without increasing risks of venous thromboembolism (2.1 percent in both arms) [10]. For most patients undergoing major noncardiac surgery with a high risk of blood loss, we now suggest prophylactic TXA rather than no antifibrinolytic therapy. Contraindications are limited and include disseminated intravascular coagulation and active thromboembolic disease. (See \"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nAIRWAY MANAGEMENT\n\nIntubation success and outcomes with video-assisted laryngoscopy compared with direct laryngoscopy (September 2026)\n\nCompared with direct laryngoscopy (DL), video-assisted laryngoscopy (VAL) may improve the laryngeal view with or without predictors of difficult laryngoscopy. In a randomized trial, nearly 2500 patients were assigned to DL, VAL with a Macintosh blade (VLM), or VAL with a hyperangulated blade (VLH) [1]. Both VAL modalities were superior to DL for achieving the primary outcome of achieving intubation on the first attempt (78, 83, and 88 percent, respectively). Also, both VAL modalities were associated with faster intubation success after a failed first attempt compared with DL. We suggest using VAL over DL for the first attempt at tracheal intubation when possible. (See \"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'.)\n\nCARDIOVASCULAR AND THORACIC ANESTHESIA\n\nPreoperative IV iron to treat anemia before cardiac surgery (August 2026)\n\nPreoperative anemia due to iron deficiency is common in patients undergoing cardiac surgery. In a new randomized trial in over 900 patients undergoing elective cardiac surgery who had preoperative anemia, administration of intravenous (IV) iron as a total dose infusion before surgery reduced the likelihood red blood cell (RBC) transfusions (61 versus 68 percent) [2]. These findings support our practice of treating iron deficiency prior to elective major surgery; providing iron with sufficient time for an RBC response is critical. (See \"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'.)\n\nPREOPERATIVE AND POSTOPERATIVE MANAGEMENT\n\nAnticoagulation in extracorporeal membrane oxygenation (July 2026)\n\nData guiding anticoagulation during extracorporeal membrane oxygenation (ECMO) are limited. In a recent randomized trial of 330 patients (60 percent venoarterial ECMO, 40 percent venovenous ECMO), low-dose unfractionated heparin (UFH) resulted in a nonsignificant reduction in severe bleeding compared with standard-dose UFH (58 versus 65 percent), without increasing severe thromboembolic complications (11 versus 10 percent) [3]. Although promising, interpretation is limited because the standard-dose regimen may not reflect current practice, anti-factor Xa monitoring was inconsistent and the study was open label. More robust data are needed before we can routinely use low-dose UFH for anticoagulating ECMO patients. (See \"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'.)\n\nPerioperative management of immunosuppression in patients with inflammatory arthritis (June 2026)\n\nPerioperative management of patients with inflammatory arthritis requires carefully weighing the risks and benefits of temporarily holding disease-modifying antirheumatic drugs (DMARDs). A new Cochrane review identified three randomized trials that compared holding versus continuing the conventional synthetic DMARDs (csDMARDs) methotrexate or sulfasalazine in over 300 patients [4]. Holding csDMARDs increased the flare rate at 8 months (36 versus 0 percent) without decreasing the postoperative infection rate at 12 months (3 percent in each group). We continue csDMARDs during the perioperative period in most patients with inflammatory arthritis. (See \"Preoperative evaluation and perioperative management of patients with rheumatic diseases\", section on 'Most csDMARDs and apremilast'.)\n\nSURGICAL CRITICAL CARE\n\nReduced thrombosis using tetrasodium EDTA as a locking solution for central venous catheters (May 2026)\n\nThe best catheter-locking agent to use in patients at high risk for catheter-related complications remains unknown. In a trial that randomly assigned 1468 adult intensive care unit (ICU) patients to a control lock (ie, saline or 4% citrate for hemodialysis catheters) or to a tetrasodium ethylenediaminetetraacetic acid (Na4EDTA) lock, the Na4EDTA group had a lower composite incidence rate of catheter removal due to occlusion, thrombosis requiring alteplase infusion, or central line-associated bloodstream infection. However, this result was driven by the reduction in the rate of alteplase administration (11.67 versus 17.73 per 1000 catheter-days, respectively) [5]. The results of this trial support the use of this agent, although additional studies are needed to determine whether Na4EDTA should be used routinely or selectively in the ICU population. (See \"Routine care and maintenance of intravenous devices\", section on 'Locking'.)\n\nOTHER ANESTHESIA\n\nJehovah's witnesses may now accept blood components (September 2026)\n\nIn September 2026, the Governing Body for Jehovah's Witnesses issued a new update with regard to the four blood components (packed red blood cells [RBCs], platelets, plasma, and white blood cells [WBCs]), stating that each Witness must make their own personal decision about the use of these components in their personal medical and surgical care [6,7]. This represents a major shift in policy. Prior to this, Witnesses generally declined any blood components, even if it meant they would die without transfusions. Beliefs about whole blood remain in place; a core teaching of the Governing Body includes avoiding whole blood. While this policy allows Witnesses to accept blood components, it does not mean that all Witnesses will do so, and it remains critical to gain a clear understanding of each individual's wishes. (See \"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'.)\n\nRare neurologic complications with sevoflurane anesthesia in Venezuelan patients (July 2026)\n\nSevoflurane has been associated with a few reports of severe neurologic adverse outcomes and death following routine general anesthesia in patients of maternal Venezuelan ancestry due to a rare mitochondrial genetic variant (MT-ND4 m.11232T>C) [8]. Although reported cases have been linked to sevoflurane, this genetic variant raises concerns for use of any volatile inhalation anesthetic agent in patients with this genetic variant. Alternatives to inhalation anesthetics (eg, intravenous agents, regional anesthesia techniques) should be considered for patients of maternal Venezuelan descent. (See \"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'.)\n\nHigher intraoperative blood pressure targets do not improve clinical outcomes (June 2026)\n\nOptimal intraoperative blood pressure (BP) targets for individual patients are unclear. A 2026 meta-analysis of 15 trials in more than 15,000 noncardiac surgical patients evaluated whether maintaining intraoperative BP at or above patient-specific preoperative baseline values (eg, mean arterial pressure [MAP] ≥85 mmHg) improved postoperative outcomes compared with current standard practice (typically MAP ≥60 to 65 mmHg) [9]. Vasopressors and fluids were used to achieve the higher BP target values. Despite effectively reducing intraoperative hypotension, higher BP targets did not improve clinical outcomes (eg, mortality, acute kidney injury, acute myocardial injury, major adverse cardiovascular events (MACE), stroke, length of hospital stay). We aim to avoid prolonged or severe hypotension and maintain MAP >65 mmHg. (See \"Hemodynamic management during anesthetic care in adults\", section on 'Establishing blood pressure targets'.)\n\nTranexamic acid for major noncardiac surgery (June 2026)\n\nTranexamic acid (TXA) is routinely used in cardiac and orthopedic surgery, but other surgical patients with a high risk of blood loss may also benefit. In a 2026 randomized trial in over 8000 noncardiac surgical patients (mostly oncologic surgery), intravenous TXA reduced risks of red blood cell transfusion (7.4 percent, versus 9.8 percent with placebo) without increasing risks of venous thromboembolism (2.1 percent in both arms) [10]. For most patients undergoing major noncardiac surgery with a high risk of blood loss, we now suggest prophylactic TXA rather than no antifibrinolytic therapy. Contraindications are limited and include disseminated intravascular coagulation and active thromboembolic disease. (See \"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'.)",
+    "word_count": 1201,
+    "character_count": 8603,
+    "references": [
+      "Schmid B, Grüßer L, Müller L, et al. Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial. JAMA Netw Open 2026; 9:e2625965.",
+      "Myles PS, Klein AA, Smith JA, et al. Intravenous iron to treat anaemia before cardiac surgery (ITACS): international, double blind, placebo controlled randomised trial. BMJ 2026; 394:e100407.",
+      "Minnen OV, Lansink-Hartgring AO, van Amstel RBE, et al. Standard-dose unfractionated heparin versus low-dose unfractionated heparin and low-molecular-weight heparin in extracorporeal life support (RATE): an open-label, randomised, non-inferiority trial. Lancet 2026; 408:357.",
+      "Ponkilainen V, Karjalainen TV, Kuitunen I, et al. Perioperative use of disease-modifying anti-rheumatic drugs (DMARDs) in people with inflammatory arthritis. Cochrane Database Syst Rev 2026; 5:CD015096.",
+      "Ornowska M, Wittmann J, Blitz S, et al. 4% Tetrasodium EDTA to Prevent Central Venous Access Device-Associated Complications: A Randomized Clinical Trial. JAMA 2026; 335:2126.",
+      "Products derived from whole blood. JW.org [includes links to Sept 18, 2026 Governing body update #6 and downloadable chart with \"What percentage of whole blood is it?\"]. https://www.jw.org/en/library/series/more-topics/products-derived-from-whole-blood/ (Accessed on September 22, 2026).",
+      "How do Jehovah’s Witnesses show respect for life? JW.org. https://www.jw.org/en/library/series/more-topics/jehovahs-witnesses-view-blood/ (Accessed on September 23, 2026).",
+      "FDA Alerts Health Care Providers to Cases of Neurologic Complications from General Anesthesia Linked to Genetic Variant in Patients of Maternal Venezuelan Ancestry. https://www.fda.gov/drugs/drug-alerts-and-statements/fda-alerts-health-care-providers-cases-neurologic-complications-general-anesthesia-linked-genetic (Accessed on July 06, 2026).",
+      "Chiou K, Vikram S, Rowshan K, et al. Higher versus Routine Intraoperative Blood Pressure Targets in Noncardiac Surgery: A Systematic Review and Meta-analysis with Trial Sequential Analysis of Randomized Trials. Anesthesiology 2026; 145:872.",
+      "Houston BL, McIsaac DI, Breau RH, et al. Hospital Policy of Tranexamic Acid to Reduce Transfusion in Major Noncardiac Surgery. N Engl J Med 2026; 394:2419."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 112615,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%221%22"
+      },
+      {
+        "id": 107795,
+        "title": "\"Videolaryngoscopes and optical stylets for airway management for anesthesia in adults\", section on 'VAL versus DL'",
+        "url": "https://medilib.ir/uptodate/show/107795"
+      },
+      {
+        "id": 112615,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%222%22"
+      },
+      {
+        "id": 94347,
+        "title": "\"Perioperative blood management in adults: Strategies to minimize transfusions\", section on 'Iron deficiency and iron deficiency anemia'",
+        "url": "https://medilib.ir/uptodate/show/94347"
+      },
+      {
+        "id": 8518,
+        "title": "unfractionated heparin",
+        "url": "https://medilib.ir/uptodate/show/8518"
+      },
+      {
+        "id": 112615,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%223%22"
+      },
+      {
+        "id": 134279,
+        "title": "\"Extracorporeal life support in adults: Management of venoarterial extracorporeal membrane oxygenation (VA ECMO)\", section on 'Anticoagulation'",
+        "url": "https://medilib.ir/uptodate/show/134279"
+      },
+      {
+        "id": 9630,
+        "title": "methotrexate",
+        "url": "https://medilib.ir/uptodate/show/9630"
+      },
+      {
+        "id": 9963,
+        "title": "sulfasalazine",
+        "url": "https://medilib.ir/uptodate/show/9963"
+      },
+      {
+        "id": 112615,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%224%22"
+      },
+      {
+        "id": 1826,
+        "title": "\"Preoperative evaluation and perioperative management of patients with rheumatic diseases\", section on 'Most csDMARDs and apremilast'",
+        "url": "https://medilib.ir/uptodate/show/1826"
+      },
+      {
+        "id": 9929,
+        "title": "saline",
+        "url": "https://medilib.ir/uptodate/show/9929"
+      },
+      {
+        "id": 8478,
+        "title": "alteplase",
+        "url": "https://medilib.ir/uptodate/show/8478"
+      },
+      {
+        "id": 112615,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%225%22"
+      },
+      {
+        "id": 15671,
+        "title": "\"Routine care and maintenance of intravenous devices\", section on 'Locking'",
+        "url": "https://medilib.ir/uptodate/show/15671"
+      },
+      {
+        "id": 112615,
+        "title": "6,7",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%226%22"
+      },
+      {
+        "id": 7927,
+        "title": "\"Approach to the patient who declines blood transfusion\", section on 'Jehovah's Witnesses'",
+        "url": "https://medilib.ir/uptodate/show/7927"
+      },
+      {
+        "id": 9887,
+        "title": "Sevoflurane",
+        "url": "https://medilib.ir/uptodate/show/9887"
+      },
+      {
+        "id": 112615,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%228%22"
+      },
+      {
+        "id": 114826,
+        "title": "\"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'",
+        "url": "https://medilib.ir/uptodate/show/114826"
+      },
+      {
+        "id": 112615,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%229%22"
+      },
+      {
+        "id": 94532,
+        "title": "\"Hemodynamic management during anesthetic care in adults\", section on 'Establishing blood pressure targets'",
+        "url": "https://medilib.ir/uptodate/show/94532"
+      },
+      {
+        "id": 10011,
+        "title": "Tranexamic acid",
+        "url": "https://medilib.ir/uptodate/show/10011"
+      },
+      {
+        "id": 112615,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/112615#rid%2210%22"
+      },
+      {
+        "id": 140949,
+        "title": "\"Perioperative uses of antifibrinolytic agents\", section on 'Other surgeries'",
+        "url": "https://medilib.ir/uptodate/show/140949"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1822 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8360"
+  },
+  "article": {
+    "id": 8360,
+    "expected_title": "What's new in drug therapy",
+    "url": "https://medilib.ir/uptodate/show/8360",
+    "final_url": "https://medilib.ir/uptodate/show/8360",
+    "page_title": "What's new in drug therapy",
+    "extracted_at": "2026-11-20T20:51:30.444Z",
+    "title_matches_expected": true,
+    "title": "What's new in drug therapy",
+    "contributors": {
+      "authors": [
+        "Alyssa Sterling, PharmD, BCPS",
+        "Jonathan M Zand, PharmD BCPS"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Sep 08, 2026",
+    "version": "Topic 8360 Version 14407.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following material represents a subset of new drugs, drug approvals, drug warnings, and drugs removed from the market from the past six months. This is not a complete list; it includes those topics considered by the authors and editors to be of particular interest or importance. For a complete list of new drug approvals, see /lco/action/index/newapprovals/patch_f (an additional subscription may be required)."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can check drug interactions by going to the drug interactions program included with UpToDate."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GENERAL DRUG THERAPY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [1]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guidelines on treatment of antimicrobial-resistant gram-negative infections (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Updated guidelines on treatment of antimicrobial-resistant gram-negative infections were published by the Infectious Disease Society of America in July 2026 [2]. These guidelines include revised antibiotic susceptibility breakpoint data and add information for newer agents approved by the US Food and Drug Administration. The guidelines continue to discourage use of ertapenem in the setting of critical illness or hypoalbuminemia, given its faster clearance in these settings. For treatment of Pseudomonas aeruginosa, the guidelines specify that ceftolozane-tazobactam (a preferred agent for most resistant P. aeruginosa isolates) is not active against Klebsiella pneumoniae carbapenemase (KPC)-producing isolates. In addition, the guidelines specify that for metallo-beta-lactamase (MBL)-producing P. aeruginosa isolates, cefiderocol is the preferred treatment agent. We are in agreement with this guidance. (See \"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Aspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [3]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Stability of epinephrine in nasal spray device (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Self-administered epinephrine for anaphylaxis is available in autoinjector and nasal spray devices. Data suggest the nasal spray has greater stability at ambient and extreme temperatures compared with autoinjectors. In one study, the nasal spray device maintained adequate potency after three months at extreme heat (50°C, 122°F) and at room temperature for 24 months (1 mg dose) and 30 months (2 mg dose) [4]. By contrast, significant potency loss was seen with extreme heat exposure for autoinjectable forms of epinephrine, and the shelf life at room temperature is 12 to 15 months. Stability at temperature extremes and shelf life are among the factors patients may consider when selecting a device. (See \"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [5]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [6]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Duration of beta blocker therapy after myocardial infarction (March 2026, Modified May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beta blockers are routinely prescribed after acute myocardial infarction (MI); however, a growing body of evidence suggests that patients with normal left ventricular ejection fraction (LVEF) derive less benefit than patients with reduced LVEF. In a trial in over 2500 patients who were taking beta blockers for at least one year after acute MI, participants who were randomly assigned to discontinue their beta blocker had similar cardiovascular outcomes compared with those who continued the beta blocker [7]. Most of the trial participants had an LVEF >50 percent. Based on these results, some of our experts believe it is reasonable to discontinue beta blocker therapy one year after MI for patients with normal LVEF; however, others continue to treat for at least three years in the absence of adverse effects.(See \"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Timing of levothyroxine administration in patients with hypothyroidism (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ingestion of food, tea, or coffee within one hour of levothyroxine tablets reduces absorption; patients are advised to take levothyroxine on an empty stomach 30 to 60 minutes before breakfast. In a randomized trial in 88 individuals with hypothyroidism comparing their standard levothyroxine dose taken fasting versus a 15 percent increase in dose taken with breakfast, the effect was similar (proportion of patients with two consecutive thyroid-stimulating hormone [TSH] values within the reference range with a maximum of 1 mU/L change from baseline, 74.4 versus 73.3 percent) [8]. This study did not define what constitutes breakfast, and it is likely that a larger breakfast would require a larger upward dose adjustment in levothyroxine, although this was not demonstrated. For patients who prefer to take levothyroxine with breakfast, we advise eating approximately the same amount each day, and we titrate the levothyroxine dose accordingly. (See \"Treatment of primary hypothyroidism in adults\", section on 'Timing of dose'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Guidelines for managing dyslipidemia (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In 2023, the American Heart Association released the Predicting Risk of cardiovascular disease EVENTs (PREVENT) calculator for estimating the risk of atherosclerotic cardiovascular disease (ASCVD). However, the optimal integration of PREVENT into the management of patients with dyslipidemia remained unclear. New guidelines from the American College of Cardiology and the American Heart Association joint committee provide this clarification [9]. The guidelines offer revised risk thresholds for initiating lipid-lowering therapy based on the PREVENT calculator and include updated recommendations for risk stratification and management of low-density lipoprotein cholesterol (LDL-C) for secondary and primary prevention, including patients with subclinical coronary atherosclerosis. These recommendations provide detailed guidance for managing dyslipidemia across a wide range of patient populations and clinical contexts. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DRUG OR INDICATION WITHDRAWALS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tazemetostat withdrawn from market (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "While previously approved by the US Food and Drug Administration for unresectable epithelioid sarcoma and for multiply relapsed enhancer of zeste homolog 2 (EZH2) mutation-positive follicular lymphoma, the EZH2 inhibitor tazemetostat has been voluntarily withdrawn from the market by its manufacturer [10]. While initial studies suggested efficacy, a randomized trial in patients with follicular lymphoma suggested increased toxicity, including secondary hematologic malignancies, with the addition of tazemetostat to lenalidomide plus rituximab. (See \"Treatment of relapsed or refractory follicular lymphoma\", section on 'Other agents' and \"Uncommon sarcoma subtypes\", section on 'Agents no longer available (tazemetostat)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ADVERSE REACTIONS AND WARNINGS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Rare neurologic complications with sevoflurane anesthesia in Venezuelan patients (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sevoflurane has been associated with a few reports of severe neurologic adverse outcomes and death following routine general anesthesia in patients of maternal Venezuelan ancestry due to a rare mitochondrial genetic variant (MT-ND4 m.11232T>C) [11]. Although reported cases have been linked to sevoflurane, this genetic variant raises concerns for use of any volatile inhalation anesthetic agent in patients with this genetic variant. Alternatives to inhalation anesthetics (eg, intravenous agents, regional anesthesia techniques) should be considered for patients of maternal Venezuelan descent. (See \"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hypoglycemia associated with JAK inhibitors in patients with diabetes (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration recently added a warning about hypoglycemia in patients with diabetes to the drug label for Janus kinase (JAK) inhibitors based on post-marketing reports [12]. As an example, in a study of the European Medicines Agency Pharmacovigilance database through 2021, there were 43 reports of decreased blood glucose or hypoglycemia in patients with type 1 or 2 diabetes who were taking tofacitinib, baricitinib, or upadacitinib [13]. When prescribing JAK inhibitors in patients with comorbid diabetes, providers should counsel patients about the risk of hypoglycemia, review related symptoms, and consider more intensive glucose monitoring while initiating therapy. (See \"Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders\", section on 'Hypoglycemia in patients with diabetes'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "New guidance on hypersensitivity to drug excipients (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hypersensitivity to excipients in drugs is rare and usually presents as reactions to several drugs with chemically unrelated active ingredients. The European Academy of Allergy and Clinical Immunology (EAACI) published the first extensive literature review and position paper on the scope and diagnosis of excipient hypersensitivity [14]. The most commonly reported culprit is polyethylene glycol (PEG), found in laxatives and parenteral steroid preparations. Other causative agents include methylcellulose compounds, gelatins, mannitol, and povidone. (See \"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Loss of muscle mass with glucagon-like peptide 1-based agents (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Glucagon-like peptide 1 (GLP-1)-based agents are efficacious for weight loss but may lead to disproportionate loss of muscle mass. In a systematic review of 35 studies evaluating the effect of GLP-1-based medications on body composition, almost 30 percent of weight loss from these agents was attributable to reductions in muscle-based indices [15]. In almost two-thirds of studies, muscle reduction exceeded the expected benchmark of 25 percent of total weight loss. Muscle reduction also exceeded this benchmark in 38 percent of the studies evaluating lifestyle-induced weight loss, although there were smaller absolute changes in weight and muscle loss. Despite several limitations, the review offers insight into the magnitude of muscle loss with GLP-1-based agents, helping inform patient counseling and emphasizing the need for strategies to mitigate these risks. (See \"Obesity in adults: Drug therapy\", section on 'Strategies to mitigate risks'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Increased fracture risk with ferric carboxymaltose (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ferric carboxymaltose (FCM) is an intravenous (IV) iron formulation associated with an increased risk of hypophosphatemia. A new study has reported that FCM was associated with an increased risk of osteomalacia and fractures [16]. In a review of >20,000 participants in the TriNetX database (>17,000 treated with FCM and >3000 treated with ferric derisomaltose), an increased risk of fractures with FCM remained statistically significant after multivariate adjustment and propensity matching. These results support caution with FCM and monitoring of phosphate levels, especially when more than one dose is used. For nonpregnant individuals treated with IV iron, we suggest using a formulation other than FCM. (See \"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hepatotoxicity with avacopan (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) released a safety alert regarding drug-induced liver injury (DILI) associated with the C5a receptor inhibitor avacopan [17]. The FDA identified 76 cases of DILI linked to avacopan, mainly among patients in Japan (87 percent); 54 patients required hospitalization, 7 developed vanishing bile duct syndrome, and 8 died. The median time to onset of DILI was 46 days, and most patients had a cholestatic or mixed pattern of liver injury, characterized by substantial elevations in total bilirubin and alkaline phosphatase. The FDA recommends liver tests every two weeks during the first month of treatment with avacopan followed by monthly tests for five months; avacopan should be stopped if the patient has an alanine aminotransferase or aspartate aminotransferase >3 times the upper limit of normal (ULN), an alkaline phosphatase >2 times the ULN, or symptoms of cholestasis. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Avacopan'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Safety warning on vitamin B6 deficiency and seizures due to carbidopa-levodopa (March 2026, Modified April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) has issued a new safety warning requiring that all carbidopa-levodopa product labels indicate that carbidopa-levodopa may cause vitamin B6 deficiency and secondary seizures [18]. The warning is based on FDA's review of 14 such cases occurring in patients treated with oral or infusional intestinal gel formulations of carbidopa-levodopa, all of which involved daily levodopa doses ≥1000 mg. Further studies are required to understand the prevalence and clinical relevance of vitamin B6 deficiency in patients treated with carbidopa-levodopa and risk factors aside from cumulative and total daily dose. The FDA recommends evaluating baseline vitamin B6 levels before starting carbidopa-levodopa in all patients, along with periodic level monitoring and vitamin B6 supplementation as needed. We also advise all patients on chronic levodopa to take a daily multivitamin. (See \"Initial pharmacologic treatment of Parkinson disease\", section on 'Adverse effects'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bleeding risks with apixaban versus rivaroxaban (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dosing differs for the direct oral anticoagulants (DOACs) apixaban and rivaroxaban; apixaban is dosed twice daily and rivaroxaban once daily following an initial period of twice daily dosing (table 1). In a trial that randomly assigned 2760 individuals with newly diagnosed venous thromboembolism (VTE) to three months of anticoagulation with apixaban 5 mg twice daily or rivaroxaban 20 mg once daily after an initial loading period, the risk of clinically relevant bleeding was lower with apixaban (3.3 versus 7.1 percent), while VTE recurrence was similar [19]. The difference was most obvious in the first 21 days of therapy, suggesting narrower peaks and troughs with apixaban. Whether this reduced risk applies to other indications, extended treatment, or reduced dosing regimens is unknown. While DOAC selection remains individualized, these data support use of apixaban during early treatment in individuals with especially high bleeding risk. (See \"Risks and prevention of bleeding with oral anticoagulants\", section on 'Risk factors related to the anticoagulant' and \"Venous thromboembolism: Anticoagulation after initial management\", section on 'Selection of agent'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Cardiotoxicity of supratherapeutic loperamide exposures (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The antidiarrheal agent loperamide has been reported to cause ventricular conduction disturbances, including QRS and QT interval prolongation, idioventricular rhythm, and ventricular tachycardia, following overdose. Loperamide is a synthetic opioid but does not typically cause classic signs of opioid toxicity. A systematic review of almost 130 cases of supratherapeutic loperamide exposure found that severe toxicity has been reported at daily doses as low as 20 to 40 mg [20]. Syncope was reported in almost half of cases, while severe cases mainly had polymorphic or sustained monomorphic ventricular tachycardia. These findings suggest that patients with supratherapeutic loperamide exposure may benefit from cardiac monitoring. (See \"Acute opioid intoxication in adults\", section on 'Loperamide'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - ANTIMICROBIALS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bictegravir-lenacapavir for HIV in virologically suppressed individuals (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the once-daily, single-dose combination pill bictegravir-lenacapavir was approved in the United States as an option for individuals with HIV who are already virologically suppressed on a different regimen [21]. The approval was based in part on a randomized trial that included individuals with extensive treatment experience and historical antiretroviral resistance, in which switching to bictegravir-lenacapavir had similar virologic efficacy as continuing the baseline suppressive regimen without detection of emergent resistance mutations [22]. This regimen may allow simplification of antiretroviral therapy regimens for patients on complicated regimens for drug-resistant HIV. (See \"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bulevirtide for the treatment of hepatitis D virus infection (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [23]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tebipenem pivoxil for complicated urinary tract infections (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "When complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [24]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [25]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - DERMATOLOGIC AND ALLERGY THERAPIES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Brepocitinib approved for dermatomyositis in adults (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration has approved of brepocitinb (an oral tyrosine kinase 2 [TYK2]/Janus kinase 1 [JAK1] inhibitor) for the treatment of adults with dermatomyositis (DM). Approval was supported by a 52-week phase 3 randomized trial of over 240 adults with DM, which demonstrated that brepocitonib (30 mg daily) was more effective than placebo for improving both skin and muscle disease [26]. Brepocitinib 30 mg daily also reduced glucocorticoid use and improved physical functioning. Although treatment was generally well tolerated, serious infections were more frequent with brepocitinib. How brepocintinib compares with other agents commonly used for DM warrants further study. (See \"Treatment of recurrent and resistant dermatomyositis and polymyositis in adults\", section on 'Other oral agents'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - ENDOCRINE AND KIDNEY DISEASE THERAPIES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Lower hormone dose contraceptive patch (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Commonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [27]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Veligrotug for thyroid eye disease (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Veligrotug is an insulin-like growth factor 1 (IGF-1) receptor antagonist developed for the treatment of thyroid eye disease. In a 15-week trial comparing veligrotug with placebo in 113 patients with active, moderate to severe thyroid eye disease diagnosed within 15 months of trial entry, a greater proportion of patients in the veligrotug group had a reduction in clinical activity score and degree of proptosis (65 versus 18 percent and 70 versus 5 percent, respectively) [28]. Based on these results, veligrotug received regulatory approval in the United States for the treatment of thyroid eye disease. In the presence of proptosis, soft tissue involvement, and/or diplopia, we prefer initial treatment with an IGF-1 receptor antagonist infusion. If such an agent is not available, treatment with glucocorticoids is reasonable. (See \"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Teplizumab to preserve insulin production in type 1 diabetes (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Teplizumab, an anti-CD3 monoclonal antibody, had previously been approved in the United States to delay the onset of clinical type 1 diabetes (T1D) in patients with preclinical (stage 2) disease. It recently received accelerated approval to delay the decline in endogenous insulin production in patients aged 8 to 17 years diagnosed with clinical (stage 3) T1D within the prior eight weeks [29]. For this indication, teplizumab is administered as two 12-day courses of daily intravenous infusions, six months apart. Candidates for treatment must have ≥1 positive islet autoantibody and a peak C-peptide level ≥0.2 pmol/mL. Teplizumab should not be administered to immunocompromised individuals or those with active Epstein-Barr virus or cytomegalovirus infection or reactivation. The choice to initiate treatment should be individualized, and the long-term clinical impact remains uncertain. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Expanded indication for teplizumab to delay the onset of clinical type 1 diabetes (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Teplizumab is an anti-CD3 monoclonal antibody that delays the onset of clinical type 1 diabetes. The US Food and Drug Administration has approved an expanded indication for teplizumab, allowing its use in children aged ≥1 year (previously ≥8 years) with stage 2 type 1 diabetes (≥2 islet autoantibodies and dysglycemia) [30,31]. In a single-arm, open-label study including 23 children with stage 2 diabetes (mean age 4.8 years), all participants received a single 14-day course of daily teplizumab infusions [32]. In an interim safety analysis conducted after 15 participants were followed for ≥1 year, two participants developed stage 3 diabetes. Treatment-emergent adverse events included rash, anemia, and liver transaminase elevation. For children who meet criteria for teplizumab therapy, the choice to initiate treatment should be individualized based on family preferences and the availability of infrastructure to support treatment. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Once-weekly basal insulin for adults with type 2 diabetes (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Type 2 diabetes is a progressive disease that often requires insulin therapy, and daily insulin injections can pose a substantial treatment burden. Insulin icodec is the first once-weekly basal insulin analog to receive regulatory approval in the United States for adults with type 2 diabetes [33,34]. Approval was granted based on four clinical trials, including a total of >2600 participants that compared once-weekly insulin icodec with once-daily basal insulin analogs. Participants were not meeting glycemic goals on variable glucose-lowering regimens, including basal insulin, basal-bolus insulin, or non-insulin therapies. Across trials, reductions in glycated hemoglobin were similar with insulin icodec and once-daily basal insulin analogs, and rates of adverse events, including hypoglycemia did not significantly differ between regimens. Additional clinical experience is needed to optimize patient selection for once-weekly basal insulin therapy. (See \"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Orforglipron for obesity (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Orforglipron is a daily oral nonpeptide, small-molecule glucagon-like peptide 1 (GLP-1) receptor agonist that has been US Food and Drug Administration (FDA) approved for the treatment of patients with obesity as well as those who are overweight with at least one weight-related condition [35]. The approval is supported by multiple randomized trials demonstrating weight loss efficacy in these populations [36,37]. It is the second FDA-approved oral GLP-1-based option for obesity and offers simpler administration requirements compared with oral semaglutide; however, drug-drug interactions differ, and orforglipron may require dose modifications for those on CYP3A4 inhibitors or inducers. Selection among GLP-1-based medications for the treatment of obesity is individualized based on factors such as patient comorbidities and preferences, as well as practical considerations such as cost and availability. (See \"Obesity in adults: Drug therapy\", section on 'GLP-1-based therapies preferred' and \"Obesity in adults: Drug therapy\", section on 'Orforglipron'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - HEMATOLOGIC AND ANTICOAGULANT"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Iberdomide in relapsed multiple myeloma (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For relapsed multiple myeloma, standard three-drug regimens such as daratumumab, bortezomib, and dexamethasone (DVd) are often used for patients who are not candidates for BCMA-directed approaches (algorithm 1). In a randomized trial, iberdomide, daratumumab-hyaluronidase, and dexamethasone (IberDd) led to deeper responses when compared with DVd, albeit with substantially increased neutropenia and infectious complications [38]. These results led to accelerated regulatory approval of IberDd in the United States for patients who have received at least one prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent. Further follow-up is needed to determine whether these deep responses translate into delayed progression and improved overall survival. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Subcutaneous isatuximab in multiple myeloma (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The anti-CD38 monoclonal antibody isatuximab is widely used for the treatment of multiple myeloma. While initial trials evaluating its efficacy used intravenous (IV) weight-based dosing, fixed-dose subcutaneous (SC) isatuximab has demonstrated similar efficacy and lower rates of infusion-related reactions when compared with IV administration in a randomized trial [39]. Based on this and other data, SC isatuximab received regulatory approval in the United States as part of several combination regimens. If available, we suggest use of a fixed-dose, SC anti-CD38 monoclonal antibody rather than IV administration. (See \"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sonrotoclax for relapsed/refractory mantle cell lymphoma (June 2026, Modified July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sonrotoclax, a second-generation BCL2 inhibitor, shows promising activity for relapsed/refractory mantle cell lymphoma (r/r MCL) after BTK inhibitor (BTKi) treatment. A study in 125 patients with r/r MCL reported a 52 percent response rate (including 15 percent complete response) with 16 months median duration of response and 7 months progression-free survival [40]. Adverse effects included cytopenias, pneumonia (10 percent), and tumor lysis syndrome (2 percent). The US Food and Drug Administration recently approved sonrotoclax for r/r MCL after ≥2 lines of systemic therapy that included a BTKi, and we consider sonrotoclax an acceptable option in this setting. (See \"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pivekimab sunirine approval for blastic plasmacytoid dendritic cell neoplasm (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pivekimab sunirine is a CD123-immunconjugate that has activity against blastic plasmacytoid dendritic cell neoplasm (BPDCN), a rare CD123-expressing acute leukemia that presents with cutaneous lesions, with or without blood/bone marrow involvement. In 33 treatment-naïve patients with BPDCN, pivekimab was associated with 70 percent response rate (with 10 months median response duration) and 17 months median overall survival[41]. Pivekimab can cause infusion reactions, edema, and hepatotoxicity, including hepatic sinusoidal obstruction syndrome/veno-occlusive disease. This study led to US Food and Drug Administration approval for BPDCN, and we consider it or tagraxofusp (another CD123-targeted agent) acceptable for treating BPDCN. (See \"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Teclistamab for relapsed multiple myeloma (December 2025, Modified June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bispecific antibodies have shown fast, deep responses in heavily pretreated multiple myeloma (MM) in single-arm trials. Now, in two large randomized trials, the bispecific antibody teclistamab (BCMAxCD3) improved progression-free and overall survival versus investigator's choice of triplet therapy in patients with relapsed or refractory MM when used as a single agent [42] or with daratumumab [43]. Teclistamab plus daratumumab now has regulatory approval in the United States for patients who have received ≥1 prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent [44]. Single-agent teclistamab is off-label in first relapse, but may be preferred in patients refractory to daratumumab. BCMA-directed therapies, including teclistamab, are now our preferred approach for most patients with first relapse (algorithm 1), with triplet regimens being an alternative for those at high risk of infectious complications or without access to BCMA-directed therapies. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Single-agent teclistamab, elranatamab, or linvoseltamab'.) (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Teclistamab plus daratumumab'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Decitabine-cedazuridine plus venetoclax for AML induction therapy (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Venetoclax plus a hypomethylating agent (HMA) is preferred for induction therapy of acute myeloid leukemia (AML) in patients not suitable for more intensive regimens, but the role of the oral HMA, decitabine-cedazuridine, in this combination has not been proven. A study in 101 patients reported a 63 percent response rate (including 47 percent complete responses) and 16 months median survival [45], with safety and outcomes comparable with venetoclax plus either azacitidine or decitabine. The US Food and Drug Administration approved decitabine-cedazuridine plus venetoclax for newly diagnosed AML in patients ≥75 years or unsuitable for intensive induction therapy, and we consider this all-oral regimen acceptable in this setting. (See \"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - ONCOLOGIC"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Zenocutuzumab for NRG1-fusion positive metastatic cholangiocarcinoma (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Zenocutuzumab, a bispecific antibody that targets HER2/HER3 dimerization and neuregulin 1 (NRG1) protein binding, is approved by the US Food and Drug Administration for the treatment of adult patients with advanced unresectable or metastatic cholangiocarcinoma harboring an NRG1 gene fusion with disease progression on or after prior systemic therapy [46]. This approval is based on a phase II trial that included 19 such patients, in which zenocutuzumab resulted in an objective response rate of 37 percent [46,47]. Based on these data, we offer zenocutuzumab to patients with treatment-refractory NRG1 gene-fusion positive cholangiocarcinoma. (See \"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Zenocutuzumab'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Nivolumab plus oderparepvec in patients with unresectable melanoma (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The combination of nivolumab plus vusolimogene oderparepvec, an oncolytic viral therapy, has been granted accelerated approval by the US Food and Drug Administration for patients with unresectable melanoma who have progressed on programmed death-1 (PD-1) inhibitors [48]. In the study supporting its approval, vusolimogene oderparepvec was administered intratumorally for up to eight doses in combination with nivolumab, which was given for up to two years [49]. The overall response rate was 33 percent with a median response duration of 34 months. For patients with unresectable melanoma who have progressed on a PD-1 inhibitor and have lesions that are accessible for intratumoral injection, the combination of nivolumab plus vusolimogene oderparepvec represents a new treatment option. Our incorporation of this strategy depends on BRAF mutation status and extent of disease. (See \"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\" and \"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adjuvant atezolizumab for high-risk, muscle-invasive bladder cancer (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) approved atezolizumab as adjuvant therapy for adults with muscle-invasive bladder cancer after cystectomy who have circulating tumor deoxyribonucleic acid (ctDNA) molecular residual disease, as determined by an FDA-authorized test [46]. This approval is based on a randomized trial of 250 patients with high-risk, muscle-invasive urothelial carcinoma of the bladder who underwent cystectomy and tested positive for ctDNA during postoperative surveillance, in whom one year of adjuvant atezolizumab improved disease-free survival (median 10 versus 5 months) and overall survival (median 33 versus 21 months) compared with placebo [50]. Based on these data, for patients with high-risk, muscle-invasive urothelial carcinoma of the bladder following cystectomy whose initial postoperative ctDNA test is positive, we now suggest one year of adjuvant atezolizumab. (See \"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Perioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [46]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [51]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Zidesamtinib in ROS1-positive non-small cell lung cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The tyrosine kinase inhibitor (TKI) zidesamtinib has received US Food and Drug Administration approval for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC) who have received a prior TKI [52]. In the study supporting its approval, among 117 patients with previously treated locally advanced or metastatic ROS1-positive NSCLC, the response rate was 44 percent; in the subset treated with at least two prior ROS1 TKIs, the response rate was 38 percent. For patients with prior treatment with a ROS1 TKI for ROS1-positive NSCLC, we now suggest zidesamtinib. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Gedatolisib in hormone receptor-positive, HER2-negative advanced breast cancer (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with advanced hormone receptor-positive, HER2-negative PIK3CA wildtype cancers that have progressed on prior endocrine therapy, the pan-PI3K inhibitor gedatolisib has been approved by the US Food and Drug Administration in combination with fulvestrant, with or without palbociclib [53]. Approval is based on a randomized trial demonstrating progression free survival benefits with gedatolisib and fulvestrant (with or without palbociclib) relative to fulvestrant alone [54]. All patients in the trial had disease progression on a CDK 4/6 inhibitor (CDK 4/6i) and aromatase inhibitor (AI). We offer fulvestrant and gedatolisib to patients with cancers lacking mutations in the PI3K pathway with progression on CDK 4/6i/AI therapy. We add palbociclib if the patient previously tolerated CDK 4/6i and has not received palbociclib. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Daraxonrasib for metastatic pancreatic adenocarcinoma (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For patients with metastatic pancreatic adenocarcinoma, studies are evaluating novel therapies such as daraxonrasib, a RAS(ON) multiselective inhibitor."
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a nonrandomized trial that included 26 such patients with RAS G12-mutated disease, second-line therapy with daraxonrasib resulted in an objective response rate of 35 percent and was well tolerated [55]."
+      },
+      {
+        "type": "paragraph",
+        "text": "● In a randomized trial of 500 patients with treatment-refractory metastatic pancreatic adenocarcinoma (most with RAS G12-mutated disease), daraxonrasib improved overall survival over physician's choice of chemotherapy (median 13 versus 7 months), reduced toxicity, and improved quality of life [56]."
+      },
+      {
+        "type": "paragraph",
+        "text": "Based on these results, the US Food and Drug Administration has made daraxonrasib available through an expanded access treatment protocol (EAP) for patients with previously treated metastatic pancreatic adenocarcinoma while the drug undergoes regulatory review. (See \"Second- and later-line systemic therapy for metastatic exocrine pancreatic cancer\", section on 'Daraxonrasib'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Datopotamab deruxtecan in advanced triple-negative breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration has granted regulatory approval for use of datopotamab deruxtecan in patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for programmed cell death protein-1 (PD-1)/programmed cell death ligand 1 (PD-L1) inhibitor therapy [57]. Approval is based on results of a randomized trial in which datopotamab deruxtecan improved both median progression-free survival (11 versus 5.6 months) and overall survival (24 versus 19 months) compared with investigator's choice of chemotherapy in such patients [58]. Treatment-related adverse events of grade ≥3 were reported in 33 versus 29 percent of patients. Based on these results, we now consider datopotamab deruxtecan to be an appropriate option for patients with TNBC whose tumors express low PD-L1 (combined positive score [CPS] <10) as well as those with contraindications to PD-1/PD-L1 inhibitors. (See \"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Trastuzumab deruxtecan as neoadjuvant therapy in HER2-positive breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration has granted approval for use of fam-trastuzumab deruxtecan (TDXd) followed by a taxane for the neoadjuvant treatment of adult patients with HER2-positive stage II or III breast cancer [59]. Approval is based on results from a randomized trial in such patients that demonstrated superior pathologic complete response rates among those assigned to the sequence of TDXd followed by paclitaxel, trastuzumab, and pertuzumab (THP) compared with those assigned to doxorubicin and cyclophosphamide followed by paclitaxel, trastuzumab, and pertuzumab (AC-THP; 67 versus 56 percent) [60]. The incidence of grade >3 toxicities was lower in the T-DXd-THP arm. Although we await longer-term outcomes with this strategy prior to routine use, we consider it to be an acceptable alternative to standard regimens in this setting. (See \"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Vepdegestrant in ESR1-mutated advanced breast cancer (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vepdegestrant is an oral proteolysis targeting chimera (PROTAC) estrogen receptor (ER) degrader that utilizes the ubiquitin-proteosome system and has gained regulatory approval in the United States for ER-positive, HER2-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer that has progressed following at least one line of endocrine therapy [61]. In a randomized trial, among 270 such patients who had received one to two prior lines of endocrine therapy and a prior cyclin-dependent kinase 4/6 inhibitor, median progression-free survival was 5 months with vepdegestrant and 2.1 months with fulvestrant. The most common adverse events (any grade) in the vepdegestrant group were fatigue (27 percent), increased liver function tests, and nausea. We consider vepdegestrant to be one of several appropriate options in this setting. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tumor treating fields plus gemcitabine and nabpaclitaxel in locally advanced pancreatic adenocarcinoma (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) approved tumor treating fields (TTFs), a non-invasive device worn on the skin that uses alternating electric fields to disrupt cancer cell proliferation, in combination with gemcitabine plus nabpaclitaxel for patients with locally advanced pancreatic cancer [62]. This approval is based on a randomized trial of over 570 such patients in which the addition of TTFs to initial therapy with gemcitabine plus nabpaclitaxel improved overall survival (median 16 versus 14 months), with a rate of any grade device-related skin irritation of 76 percent [63]. Although we consider TTFs to be an option in the treatment of locally advanced pancreatic cancer, clinical experience is limited, and the need to wear TTFs for most of the day may impact patient compliance. (See \"Treatment of locally advanced exocrine pancreatic cancer\", section on 'Gemcitabine plus nabpaclitaxel and tumor treating fields'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Relacorilant in platinum-resistant ovarian cancer (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Relacorilant, a glucocorticoid receptor antagonist that increases a tumor's sensitivity to chemotherapy by reducing cortisol signaling, has received regulatory approval in the United States in combination with nabpaclitaxel for the treatment of adults with platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer who have received one to three prior systemic treatment regiments, at least one of which included bevacizumab [64]. In a randomized trial including 381 such patients, relacorilant plus nabpaclitaxel versus nabpaclitaxel alone improved both progression-free survival (6.5 versus 5.5 months) and overall survival (16 versus 11.9 months) [65,66]. Given these results, we consider nabpaclitaxel and relacorilant to be an acceptable option for such patients. (See \"Medical treatment for relapsed epithelial ovarian, fallopian tube, or peritoneal cancer: Platinum-resistant disease\", section on 'Prior bevacizumab exposure: Nabpaclitaxel plus relacorilant'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fluorouracil-based chemotherapy plus encorafenib and cetuximab for BRAF-mutant metastatic colorectal cancer (February 2026, Modified March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "FOLFOX (fluorouracil, leucovorin, and oxaliplatin) plus encorafenib and cetuximab previously had accelerated approval from the US Food and Drug Administration (FDA) for the treatment of adult patients with metastatic colorectal cancer (mCRC) with a BRAF V600E mutation. There is also interest in evaluating other chemotherapy backbone regimens to combine with encorafenib plus cetuximab, such as FOLFIRI (fluorouracil, leucovorin, and irinotecan). In preliminary results of a randomized trial of approximately 150 patients with BRAF V600E-mutant mCRC, initial therapy with FOLFIRI plus encorafenib and cetuximab improved objective response rates (64 versus 40 percent) relative to FOLFIRI with or without bevacizumab [67].Based on these and prior results, the FDA granted full approval for encorafenib in combination with cetuximab and fluorouracil-based chemotherapy (either FOLFOX or FOLFIRI) for the treatment of adult patients with mCRC with a BRAF V600E mutation [46], and we also recommend this approach. (See \"Initial systemic therapy for metastatic colorectal cancer\", section on 'RAS wild-type, BRAF V600E-mutant tumors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS – PULMONARY AND CRITICAL CARE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Improved outcomes for budesonide-glycopyrrolate-formoterol in asthma (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The addition of inhaled anti-muscarinic agents for patients with asthma that is poorly controlled on inhaled glucocorticoids and long-acting beta agonists (ICS-LABA) has been studied in a variety of inhaled formulations, but the effect on asthma exacerbations has not been consistently significant. In a recent pair of large trials, 8820 patients were randomly assigned to receive budesonide-formoterol with or without the addition of glycopyrrolate. The addition of glycopyrrolate led to a small improvement in lung function and a statistically significant decrease in exacerbation rates (relative risk 0.86, 95% CI 0.76-0.97) compared with budesonide-formoterol alone [68]. These effect sizes are similar to point estimates seen in other inhaled anti-muscarinic trials, supporting a class effect. These data also led to FDA regulatory approval of a new formulation of budesonide-glycopyrrolate-formoterol (budesonide 160 mcg-glycopyrrolate 18 mcg-formoterol fumarate 4.8 mcg) for use in patients with poorly controlled asthma despite moderate-high dose ICS-LABA therapy [69]. (See \"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "RECENT APPROVALS - OTHER"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Topical acoltremon for dry eye disease (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Acoltremon is a US Food and Drug Administration (FDA) approved first-in-class transient receptor potential melastatin 8 (TRPM8) agonist that increases tear production in dry eye disease (DED). In two multicenter randomized, double-masked trials including over 900 patients with DED, acoltremon 0.003% instilled twice daily increased tear production when compared with vehicle (43 versus 8 percent of patients had a ≥10 mm increase from baseline Schirmer test score in one trial; 53 versus 14 percent in the other trial) [70]. Instillation-site discomfort was the most common adverse effect, with approximately 50 percent of patients experiencing discomfort, which was mild in almost all patients. We reserve acoltremon for patients with aqueous-deficient dry eye who have not had success with other dry eye treatments. (See \"Dry eye disease\", section on 'Topical acoltremon'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Approval of pegzilarginase for arginase 1 deficiency (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Elevated plasma arginine levels are associated with adverse neurodevelopmental outcomes in patients with arginase 1 deficiency (ARG1-D). In a 24-week, placebo-controlled trial of pegzilarginase (a recombinant form of the enzyme arginase 1) in 32 patients age ≥2 years with ARG1-D and hyperargininemia, normalization of arginine occurred in 90.5 percent of the treatment group and none of the placebo group [71]. A nonsignificant trend toward improved gross motor function was observed in the treatment group; adverse effects were mild or moderate. Similar results were seen in open-label extension studies [72]. Based on these data, pegzilarginase received accelerated regulatory approval in the United States for patients ≥2 years [73]. Access to pegzilarginase remains limited to clinical trials in the United States; additional data will determine optimal use. (See \"Urea cycle disorders: Management\", section on 'Maintenance pharmacologic therapy'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Deucravacitinib approved for psoriatic arthritis (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Deucravacitinib, an oral tyrosine kinase 2 (TYK2) inhibitor, has recently been approved by the US Food and Drug Administration for the treatment of psoriatic arthritis based on two trials of over 1000 patients with psoriatic arthritis [74]. At week 16, patients treated with deucravacitinib 6 mg daily had a statistically significant improvement in disease activity compared to placebo (54 versus 34 to 39 percent). Treatment with deucravacitinib also led to statistically significant improvements in patient-reported outcomes for physical function, pain, and general health. While deucravacitinib offers an important option for patients with peripheral psoriatic arthritis, its efficacy for axial psoriatic arthritis requires additional study. (See \"Treatment of peripheral psoriatic arthritis\", section on 'Deucravacitinib'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Pegvaliase for adolescents 12 to 18 years old with phenylketonuria (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pegylated phenylalanine ammonia lyase (pegvaliase, PEG-PAL) is an enzyme that degrades phenylalanine and is a widely approved therapy for older adolescents and adults with phenylketonuria (PKU). In a phase III clinical trial in 54 patients with PKU aged 12 to <18 years, mean blood phenylalanine was 409 micromol/L lower in patients randomized to receive PEG-PAL for 72 weeks compared with control patients treated with dietary measures alone [75,76]. Despite premedication, anaphylaxis occurred in four patients (11 percent of the treatment group). Based on this trial, PEG-PAL received regulatory approval in the United States for adolescents 12 years and older with phenylketonuria (PKU) as an adjunct to dietary restriction. This therapy is promising for adolescents with PKU, although appropriate monitoring and emergency treatment for anaphylaxis must be available for treated patients. (See \"Phenylketonuria: Overview\", section on 'Phenylalanine ammonia-lyase (pegvaliase)'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "VACCINES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recommendations on 2026-2027 COVID-19 vaccination (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [77-80]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [81], the American College of Obstetricians and Gynecologists [82], the American Academy of Pediatrics [83], and the Infectious Diseases Society of America [84]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 3). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Butantan-dengue vaccine suspended in Brazil for safety concerns (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Creating a safe and effective dengue vaccine is challenging in part because of the need to cover four serotypes and avoid generating an immune profile that increases risk for severe dengue. Butantan-dengue vaccine (Butantan-DV), a dengue vaccine uniquely administered as a single dose, was well tolerated and effective in clinical trials and subsequently implemented in Brazil. However, in June 2026, Butantan-DV deployment was suspended due to emerging safety concerns, including two deaths and 42 unexpected adverse events (eg, severe abdominal pain, persistent vomiting, and bleeding) [85]. This pause highlights ongoing limitations of vaccination as a preventive strategy for dengue. (See \"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'.)"
+      }
+    ],
+    "plain_text": "The following material represents a subset of new drugs, drug approvals, drug warnings, and drugs removed from the market from the past six months. This is not a complete list; it includes those topics considered by the authors and editors to be of particular interest or importance. For a complete list of new drug approvals, see /lco/action/index/newapprovals/patch_f (an additional subscription may be required).\n\nYou can check drug interactions by going to the drug interactions program included with UpToDate.\n\nGENERAL DRUG THERAPY\n\nNew American Society of Hematology (ASH) adult immune thrombocytopenia guidelines (August 2026)\n\nThe American Society of Hematology (ASH) has released new guidelines for treating immune thrombocytopenia (ITP) in adults [1]. A major change since the previous guidelines is using combination therapy with a glucocorticoid plus either rituximab or a thrombopoietin receptor agonist (TPO-RA) rather than a glucocorticoid alone for adults with newly diagnosed ITP and severe bleeding (hemoglobin decrease by 2 g/dL or more or requiring ≥2 units of transfusion but otherwise stable). This change is based on higher response rates and acceptable side effect profiles with combination therapy. Intravenous immune globulin (IVIG), platelet transfusions, and/or antifibrinolytic therapy may be appropriate in patients with more severe thrombocytopenia or an urgent need to increase the platelet count. Some experts may delay the addition of rituximab or TPO-RA for up to two weeks to assess response to glucocorticoids and/or IVIG, especially if there is diagnostic uncertainty. Based on these findings, for adults with newly diagnosed ITP and severe bleeding, we now suggest a glucocorticoid plus either rituximab or a TPO-RA rather than a glucocorticoid alone. (See \"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'.)\n\nGuidelines on treatment of antimicrobial-resistant gram-negative infections (August 2026)\n\nUpdated guidelines on treatment of antimicrobial-resistant gram-negative infections were published by the Infectious Disease Society of America in July 2026 [2]. These guidelines include revised antibiotic susceptibility breakpoint data and add information for newer agents approved by the US Food and Drug Administration. The guidelines continue to discourage use of ertapenem in the setting of critical illness or hypoalbuminemia, given its faster clearance in these settings. For treatment of Pseudomonas aeruginosa, the guidelines specify that ceftolozane-tazobactam (a preferred agent for most resistant P. aeruginosa isolates) is not active against Klebsiella pneumoniae carbapenemase (KPC)-producing isolates. In addition, the guidelines specify that for metallo-beta-lactamase (MBL)-producing P. aeruginosa isolates, cefiderocol is the preferred treatment agent. We are in agreement with this guidance. (See \"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'.)\n\nAspirin for thromboprophylaxis in major hip and knee surgery (July 2026, Modified August 2026)\n\nFor patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA), anticoagulants have been the standard agents for venous thromboembolism (VTE) prophylaxis, but growing evidence supports aspirin in selected low-risk patients. A recent trial of 5429 patients undergoing THA or TKA, with no additional risk factors for VTE, now reports that patients who received oral aspirin 81 mg daily throughout the thromboprophylaxis period had similarly low rates of VTE (<0.5 percent) and major bleeding (<2 percent) at 90 days compared with patients who received rivaroxaban 10 mg daily for the first five days followed by aspirin for the remainder of thromboprophylaxis [3]. Although few events occurred overall, these and prior data support aspirin-only prophylaxis after THA or TKA for patients with no additional VTE risk factors. Based on these findings, we now suggest aspirin alone rather than a direct oral anticoagulant or low molecular weight heparin for the first 5 days (followed by aspirin) for patients who are at lower risk of VTE. (See \"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\".)\n\nStability of epinephrine in nasal spray device (July 2026)\n\nSelf-administered epinephrine for anaphylaxis is available in autoinjector and nasal spray devices. Data suggest the nasal spray has greater stability at ambient and extreme temperatures compared with autoinjectors. In one study, the nasal spray device maintained adequate potency after three months at extreme heat (50°C, 122°F) and at room temperature for 24 months (1 mg dose) and 30 months (2 mg dose) [4]. By contrast, significant potency loss was seen with extreme heat exposure for autoinjectable forms of epinephrine, and the shelf life at room temperature is 12 to 15 months. Stability at temperature extremes and shelf life are among the factors patients may consider when selecting a device. (See \"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'.)\n\nCefazolin or benzylpenicillin for susceptible S. aureus bacteremia (July 2026)\n\nTwo recent randomized trials from the Staphylococcus aureus Network Adaptive Platform (SNAP) highlight the advantages of drugs other than antistaphylococcal penicillins (ASP) for susceptible S. aureus bacteremia. In one trial of 1341 adults with methicillin-susceptible S. aureus (MSSA) bacteremia, cefazolin resulted in a similar 90-day mortality rate as an ASP (15 versus 17 percent) and was associated with a lower incidence of acute kidney injury (AKI; 14 versus 20 percent) [5]. A second trial comparing benzylpenicillin with an ASP in 281 adults with penicillin-susceptible S. aureus (PSSA) bacteremia was discontinued early because of more frequent AKI in the ASP group (22 versus 11 percent); based on data collected before study discontinuation, 90-day mortality was lower with benzylpenicillin (14 versus 22 percent) [6]. These data support our preference for cefazolin over an ASP for MSSA bacteremia; for PSSA bacteremia, benzylpenicillin or cefazolin are acceptable options. (See \"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'.)\n\nDuration of beta blocker therapy after myocardial infarction (March 2026, Modified May 2026)\n\nBeta blockers are routinely prescribed after acute myocardial infarction (MI); however, a growing body of evidence suggests that patients with normal left ventricular ejection fraction (LVEF) derive less benefit than patients with reduced LVEF. In a trial in over 2500 patients who were taking beta blockers for at least one year after acute MI, participants who were randomly assigned to discontinue their beta blocker had similar cardiovascular outcomes compared with those who continued the beta blocker [7]. Most of the trial participants had an LVEF >50 percent. Based on these results, some of our experts believe it is reasonable to discontinue beta blocker therapy one year after MI for patients with normal LVEF; however, others continue to treat for at least three years in the absence of adverse effects.(See \"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'.)\n\nTiming of levothyroxine administration in patients with hypothyroidism (April 2026)\n\nIngestion of food, tea, or coffee within one hour of levothyroxine tablets reduces absorption; patients are advised to take levothyroxine on an empty stomach 30 to 60 minutes before breakfast. In a randomized trial in 88 individuals with hypothyroidism comparing their standard levothyroxine dose taken fasting versus a 15 percent increase in dose taken with breakfast, the effect was similar (proportion of patients with two consecutive thyroid-stimulating hormone [TSH] values within the reference range with a maximum of 1 mU/L change from baseline, 74.4 versus 73.3 percent) [8]. This study did not define what constitutes breakfast, and it is likely that a larger breakfast would require a larger upward dose adjustment in levothyroxine, although this was not demonstrated. For patients who prefer to take levothyroxine with breakfast, we advise eating approximately the same amount each day, and we titrate the levothyroxine dose accordingly. (See \"Treatment of primary hypothyroidism in adults\", section on 'Timing of dose'.)\n\nGuidelines for managing dyslipidemia (March 2026)\n\nIn 2023, the American Heart Association released the Predicting Risk of cardiovascular disease EVENTs (PREVENT) calculator for estimating the risk of atherosclerotic cardiovascular disease (ASCVD). However, the optimal integration of PREVENT into the management of patients with dyslipidemia remained unclear. New guidelines from the American College of Cardiology and the American Heart Association joint committee provide this clarification [9]. The guidelines offer revised risk thresholds for initiating lipid-lowering therapy based on the PREVENT calculator and include updated recommendations for risk stratification and management of low-density lipoprotein cholesterol (LDL-C) for secondary and primary prevention, including patients with subclinical coronary atherosclerosis. These recommendations provide detailed guidance for managing dyslipidemia across a wide range of patient populations and clinical contexts. (See \"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'.)\n\nDRUG OR INDICATION WITHDRAWALS\n\nTazemetostat withdrawn from market (March 2026)\n\nWhile previously approved by the US Food and Drug Administration for unresectable epithelioid sarcoma and for multiply relapsed enhancer of zeste homolog 2 (EZH2) mutation-positive follicular lymphoma, the EZH2 inhibitor tazemetostat has been voluntarily withdrawn from the market by its manufacturer [10]. While initial studies suggested efficacy, a randomized trial in patients with follicular lymphoma suggested increased toxicity, including secondary hematologic malignancies, with the addition of tazemetostat to lenalidomide plus rituximab. (See \"Treatment of relapsed or refractory follicular lymphoma\", section on 'Other agents' and \"Uncommon sarcoma subtypes\", section on 'Agents no longer available (tazemetostat)'.)\n\nADVERSE REACTIONS AND WARNINGS\n\nRare neurologic complications with sevoflurane anesthesia in Venezuelan patients (July 2026)\n\nSevoflurane has been associated with a few reports of severe neurologic adverse outcomes and death following routine general anesthesia in patients of maternal Venezuelan ancestry due to a rare mitochondrial genetic variant (MT-ND4 m.11232T>C) [11]. Although reported cases have been linked to sevoflurane, this genetic variant raises concerns for use of any volatile inhalation anesthetic agent in patients with this genetic variant. Alternatives to inhalation anesthetics (eg, intravenous agents, regional anesthesia techniques) should be considered for patients of maternal Venezuelan descent. (See \"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'.)\n\nHypoglycemia associated with JAK inhibitors in patients with diabetes (July 2026)\n\nThe US Food and Drug Administration recently added a warning about hypoglycemia in patients with diabetes to the drug label for Janus kinase (JAK) inhibitors based on post-marketing reports [12]. As an example, in a study of the European Medicines Agency Pharmacovigilance database through 2021, there were 43 reports of decreased blood glucose or hypoglycemia in patients with type 1 or 2 diabetes who were taking tofacitinib, baricitinib, or upadacitinib [13]. When prescribing JAK inhibitors in patients with comorbid diabetes, providers should counsel patients about the risk of hypoglycemia, review related symptoms, and consider more intensive glucose monitoring while initiating therapy. (See \"Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders\", section on 'Hypoglycemia in patients with diabetes'.)\n\nNew guidance on hypersensitivity to drug excipients (April 2026)\n\nHypersensitivity to excipients in drugs is rare and usually presents as reactions to several drugs with chemically unrelated active ingredients. The European Academy of Allergy and Clinical Immunology (EAACI) published the first extensive literature review and position paper on the scope and diagnosis of excipient hypersensitivity [14]. The most commonly reported culprit is polyethylene glycol (PEG), found in laxatives and parenteral steroid preparations. Other causative agents include methylcellulose compounds, gelatins, mannitol, and povidone. (See \"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'.)\n\nLoss of muscle mass with glucagon-like peptide 1-based agents (April 2026)\n\nGlucagon-like peptide 1 (GLP-1)-based agents are efficacious for weight loss but may lead to disproportionate loss of muscle mass. In a systematic review of 35 studies evaluating the effect of GLP-1-based medications on body composition, almost 30 percent of weight loss from these agents was attributable to reductions in muscle-based indices [15]. In almost two-thirds of studies, muscle reduction exceeded the expected benchmark of 25 percent of total weight loss. Muscle reduction also exceeded this benchmark in 38 percent of the studies evaluating lifestyle-induced weight loss, although there were smaller absolute changes in weight and muscle loss. Despite several limitations, the review offers insight into the magnitude of muscle loss with GLP-1-based agents, helping inform patient counseling and emphasizing the need for strategies to mitigate these risks. (See \"Obesity in adults: Drug therapy\", section on 'Strategies to mitigate risks'.)\n\nIncreased fracture risk with ferric carboxymaltose (April 2026)\n\nFerric carboxymaltose (FCM) is an intravenous (IV) iron formulation associated with an increased risk of hypophosphatemia. A new study has reported that FCM was associated with an increased risk of osteomalacia and fractures [16]. In a review of >20,000 participants in the TriNetX database (>17,000 treated with FCM and >3000 treated with ferric derisomaltose), an increased risk of fractures with FCM remained statistically significant after multivariate adjustment and propensity matching. These results support caution with FCM and monitoring of phosphate levels, especially when more than one dose is used. For nonpregnant individuals treated with IV iron, we suggest using a formulation other than FCM. (See \"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'.)\n\nHepatotoxicity with avacopan (April 2026)\n\nThe US Food and Drug Administration (FDA) released a safety alert regarding drug-induced liver injury (DILI) associated with the C5a receptor inhibitor avacopan [17]. The FDA identified 76 cases of DILI linked to avacopan, mainly among patients in Japan (87 percent); 54 patients required hospitalization, 7 developed vanishing bile duct syndrome, and 8 died. The median time to onset of DILI was 46 days, and most patients had a cholestatic or mixed pattern of liver injury, characterized by substantial elevations in total bilirubin and alkaline phosphatase. The FDA recommends liver tests every two weeks during the first month of treatment with avacopan followed by monthly tests for five months; avacopan should be stopped if the patient has an alanine aminotransferase or aspartate aminotransferase >3 times the upper limit of normal (ULN), an alkaline phosphatase >2 times the ULN, or symptoms of cholestasis. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Avacopan'.)\n\nSafety warning on vitamin B6 deficiency and seizures due to carbidopa-levodopa (March 2026, Modified April 2026)\n\nThe US Food and Drug Administration (FDA) has issued a new safety warning requiring that all carbidopa-levodopa product labels indicate that carbidopa-levodopa may cause vitamin B6 deficiency and secondary seizures [18]. The warning is based on FDA's review of 14 such cases occurring in patients treated with oral or infusional intestinal gel formulations of carbidopa-levodopa, all of which involved daily levodopa doses ≥1000 mg. Further studies are required to understand the prevalence and clinical relevance of vitamin B6 deficiency in patients treated with carbidopa-levodopa and risk factors aside from cumulative and total daily dose. The FDA recommends evaluating baseline vitamin B6 levels before starting carbidopa-levodopa in all patients, along with periodic level monitoring and vitamin B6 supplementation as needed. We also advise all patients on chronic levodopa to take a daily multivitamin. (See \"Initial pharmacologic treatment of Parkinson disease\", section on 'Adverse effects'.)\n\nBleeding risks with apixaban versus rivaroxaban (March 2026)\n\nDosing differs for the direct oral anticoagulants (DOACs) apixaban and rivaroxaban; apixaban is dosed twice daily and rivaroxaban once daily following an initial period of twice daily dosing (table 1). In a trial that randomly assigned 2760 individuals with newly diagnosed venous thromboembolism (VTE) to three months of anticoagulation with apixaban 5 mg twice daily or rivaroxaban 20 mg once daily after an initial loading period, the risk of clinically relevant bleeding was lower with apixaban (3.3 versus 7.1 percent), while VTE recurrence was similar [19]. The difference was most obvious in the first 21 days of therapy, suggesting narrower peaks and troughs with apixaban. Whether this reduced risk applies to other indications, extended treatment, or reduced dosing regimens is unknown. While DOAC selection remains individualized, these data support use of apixaban during early treatment in individuals with especially high bleeding risk. (See \"Risks and prevention of bleeding with oral anticoagulants\", section on 'Risk factors related to the anticoagulant' and \"Venous thromboembolism: Anticoagulation after initial management\", section on 'Selection of agent'.)\n\nCardiotoxicity of supratherapeutic loperamide exposures (March 2026)\n\nThe antidiarrheal agent loperamide has been reported to cause ventricular conduction disturbances, including QRS and QT interval prolongation, idioventricular rhythm, and ventricular tachycardia, following overdose. Loperamide is a synthetic opioid but does not typically cause classic signs of opioid toxicity. A systematic review of almost 130 cases of supratherapeutic loperamide exposure found that severe toxicity has been reported at daily doses as low as 20 to 40 mg [20]. Syncope was reported in almost half of cases, while severe cases mainly had polymorphic or sustained monomorphic ventricular tachycardia. These findings suggest that patients with supratherapeutic loperamide exposure may benefit from cardiac monitoring. (See \"Acute opioid intoxication in adults\", section on 'Loperamide'.)\n\nRECENT APPROVALS - ANTIMICROBIALS\n\nBictegravir-lenacapavir for HIV in virologically suppressed individuals (September 2026)\n\nIn August 2026, the once-daily, single-dose combination pill bictegravir-lenacapavir was approved in the United States as an option for individuals with HIV who are already virologically suppressed on a different regimen [21]. The approval was based in part on a randomized trial that included individuals with extensive treatment experience and historical antiretroviral resistance, in which switching to bictegravir-lenacapavir had similar virologic efficacy as continuing the baseline suppressive regimen without detection of emergent resistance mutations [22]. This regimen may allow simplification of antiretroviral therapy regimens for patients on complicated regimens for drug-resistant HIV. (See \"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'.)\n\nBulevirtide for the treatment of hepatitis D virus infection (July 2026)\n\nBulevirtide, an entry inhibitor with antiviral activity against hepatitis D virus (HDV), has become increasingly available in many countries. In May of 2026, it was approved in the United States for treatment of HDV infection in adults without decompensated liver disease at a dose of 8.5 mg subcutaneously once daily [23]. The dose is higher than the 2 mg dose approved in other countries because of trial results demonstrating higher rates of undetectable HDV RNA with the higher dose. When deciding between bulevirtide and pegylated interferon alfa-2a, the other option for HDV treatment, the following features of bulevirtide should be considered: it has fewer side effects but a more frequent dosing schedule, the optimal treatment duration is uncertain (and potentially indefinite as long as there is clinical improvement), and there is a risk of hepatitis flare when therapy is stopped after two to three years. (See \"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'.)\n\nTebipenem pivoxil for complicated urinary tract infections (June 2026)\n\nWhen complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [24]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)\n\nEnsitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)\n\nEnsitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [25]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)\n\nRECENT APPROVALS - DERMATOLOGIC AND ALLERGY THERAPIES\n\nBrepocitinib approved for dermatomyositis in adults (April 2026)\n\nThe US Food and Drug Administration has approved of brepocitinb (an oral tyrosine kinase 2 [TYK2]/Janus kinase 1 [JAK1] inhibitor) for the treatment of adults with dermatomyositis (DM). Approval was supported by a 52-week phase 3 randomized trial of over 240 adults with DM, which demonstrated that brepocitonib (30 mg daily) was more effective than placebo for improving both skin and muscle disease [26]. Brepocitinib 30 mg daily also reduced glucocorticoid use and improved physical functioning. Although treatment was generally well tolerated, serious infections were more frequent with brepocitinib. How brepocintinib compares with other agents commonly used for DM warrants further study. (See \"Treatment of recurrent and resistant dermatomyositis and polymyositis in adults\", section on 'Other oral agents'.)\n\nRECENT APPROVALS - ENDOCRINE AND KIDNEY DISEASE THERAPIES\n\nLower hormone dose contraceptive patch (August 2026)\n\nCommonly used transdermal contraceptive patches release approximately 35 mcg of ethinyl estradiol (EE) and 150 mg of norelgestromin per day. A new transdermal contraceptive patch delivers 20 mcg of EE and 220 mcg of norelgestromin per day and is anticipated to be available in the United States in late 2026 [27]. While these doses are similar to contraceptive pills containing 20 mcg of EE, the potential benefits and side effects of the lower dose contraceptive patch, such as lower risk of venous thromboembolism or higher likelihood of breakthrough bleeding, are not yet known. All transdermal contraceptive patches are restricted to patients with a body mass index <30 kg/m2. (See \"Contraception: Transdermal contraceptive patches\", section on 'Patch types'.)\n\nVeligrotug for thyroid eye disease (July 2026)\n\nVeligrotug is an insulin-like growth factor 1 (IGF-1) receptor antagonist developed for the treatment of thyroid eye disease. In a 15-week trial comparing veligrotug with placebo in 113 patients with active, moderate to severe thyroid eye disease diagnosed within 15 months of trial entry, a greater proportion of patients in the veligrotug group had a reduction in clinical activity score and degree of proptosis (65 versus 18 percent and 70 versus 5 percent, respectively) [28]. Based on these results, veligrotug received regulatory approval in the United States for the treatment of thyroid eye disease. In the presence of proptosis, soft tissue involvement, and/or diplopia, we prefer initial treatment with an IGF-1 receptor antagonist infusion. If such an agent is not available, treatment with glucocorticoids is reasonable. (See \"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'.)\n\nTeplizumab to preserve insulin production in type 1 diabetes (June 2026)\n\nTeplizumab, an anti-CD3 monoclonal antibody, had previously been approved in the United States to delay the onset of clinical type 1 diabetes (T1D) in patients with preclinical (stage 2) disease. It recently received accelerated approval to delay the decline in endogenous insulin production in patients aged 8 to 17 years diagnosed with clinical (stage 3) T1D within the prior eight weeks [29]. For this indication, teplizumab is administered as two 12-day courses of daily intravenous infusions, six months apart. Candidates for treatment must have ≥1 positive islet autoantibody and a peak C-peptide level ≥0.2 pmol/mL. Teplizumab should not be administered to immunocompromised individuals or those with active Epstein-Barr virus or cytomegalovirus infection or reactivation. The choice to initiate treatment should be individualized, and the long-term clinical impact remains uncertain. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)\n\nExpanded indication for teplizumab to delay the onset of clinical type 1 diabetes (May 2026)\n\nTeplizumab is an anti-CD3 monoclonal antibody that delays the onset of clinical type 1 diabetes. The US Food and Drug Administration has approved an expanded indication for teplizumab, allowing its use in children aged ≥1 year (previously ≥8 years) with stage 2 type 1 diabetes (≥2 islet autoantibodies and dysglycemia) [30,31]. In a single-arm, open-label study including 23 children with stage 2 diabetes (mean age 4.8 years), all participants received a single 14-day course of daily teplizumab infusions [32]. In an interim safety analysis conducted after 15 participants were followed for ≥1 year, two participants developed stage 3 diabetes. Treatment-emergent adverse events included rash, anemia, and liver transaminase elevation. For children who meet criteria for teplizumab therapy, the choice to initiate treatment should be individualized based on family preferences and the availability of infrastructure to support treatment. (See \"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'.)\n\nOnce-weekly basal insulin for adults with type 2 diabetes (April 2026)\n\nType 2 diabetes is a progressive disease that often requires insulin therapy, and daily insulin injections can pose a substantial treatment burden. Insulin icodec is the first once-weekly basal insulin analog to receive regulatory approval in the United States for adults with type 2 diabetes [33,34]. Approval was granted based on four clinical trials, including a total of >2600 participants that compared once-weekly insulin icodec with once-daily basal insulin analogs. Participants were not meeting glycemic goals on variable glucose-lowering regimens, including basal insulin, basal-bolus insulin, or non-insulin therapies. Across trials, reductions in glycated hemoglobin were similar with insulin icodec and once-daily basal insulin analogs, and rates of adverse events, including hypoglycemia did not significantly differ between regimens. Additional clinical experience is needed to optimize patient selection for once-weekly basal insulin therapy. (See \"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'.)\n\nOrforglipron for obesity (April 2026)\n\nOrforglipron is a daily oral nonpeptide, small-molecule glucagon-like peptide 1 (GLP-1) receptor agonist that has been US Food and Drug Administration (FDA) approved for the treatment of patients with obesity as well as those who are overweight with at least one weight-related condition [35]. The approval is supported by multiple randomized trials demonstrating weight loss efficacy in these populations [36,37]. It is the second FDA-approved oral GLP-1-based option for obesity and offers simpler administration requirements compared with oral semaglutide; however, drug-drug interactions differ, and orforglipron may require dose modifications for those on CYP3A4 inhibitors or inducers. Selection among GLP-1-based medications for the treatment of obesity is individualized based on factors such as patient comorbidities and preferences, as well as practical considerations such as cost and availability. (See \"Obesity in adults: Drug therapy\", section on 'GLP-1-based therapies preferred' and \"Obesity in adults: Drug therapy\", section on 'Orforglipron'.)\n\nRECENT APPROVALS - HEMATOLOGIC AND ANTICOAGULANT\n\nIberdomide in relapsed multiple myeloma (August 2026)\n\nFor relapsed multiple myeloma, standard three-drug regimens such as daratumumab, bortezomib, and dexamethasone (DVd) are often used for patients who are not candidates for BCMA-directed approaches (algorithm 1). In a randomized trial, iberdomide, daratumumab-hyaluronidase, and dexamethasone (IberDd) led to deeper responses when compared with DVd, albeit with substantially increased neutropenia and infectious complications [38]. These results led to accelerated regulatory approval of IberDd in the United States for patients who have received at least one prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent. Further follow-up is needed to determine whether these deep responses translate into delayed progression and improved overall survival. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'.)\n\nSubcutaneous isatuximab in multiple myeloma (July 2026)\n\nThe anti-CD38 monoclonal antibody isatuximab is widely used for the treatment of multiple myeloma. While initial trials evaluating its efficacy used intravenous (IV) weight-based dosing, fixed-dose subcutaneous (SC) isatuximab has demonstrated similar efficacy and lower rates of infusion-related reactions when compared with IV administration in a randomized trial [39]. Based on this and other data, SC isatuximab received regulatory approval in the United States as part of several combination regimens. If available, we suggest use of a fixed-dose, SC anti-CD38 monoclonal antibody rather than IV administration. (See \"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'.)\n\nSonrotoclax for relapsed/refractory mantle cell lymphoma (June 2026, Modified July 2026)\n\nSonrotoclax, a second-generation BCL2 inhibitor, shows promising activity for relapsed/refractory mantle cell lymphoma (r/r MCL) after BTK inhibitor (BTKi) treatment. A study in 125 patients with r/r MCL reported a 52 percent response rate (including 15 percent complete response) with 16 months median duration of response and 7 months progression-free survival [40]. Adverse effects included cytopenias, pneumonia (10 percent), and tumor lysis syndrome (2 percent). The US Food and Drug Administration recently approved sonrotoclax for r/r MCL after ≥2 lines of systemic therapy that included a BTKi, and we consider sonrotoclax an acceptable option in this setting. (See \"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'.)\n\nPivekimab sunirine approval for blastic plasmacytoid dendritic cell neoplasm (June 2026)\n\nPivekimab sunirine is a CD123-immunconjugate that has activity against blastic plasmacytoid dendritic cell neoplasm (BPDCN), a rare CD123-expressing acute leukemia that presents with cutaneous lesions, with or without blood/bone marrow involvement. In 33 treatment-naïve patients with BPDCN, pivekimab was associated with 70 percent response rate (with 10 months median response duration) and 17 months median overall survival[41]. Pivekimab can cause infusion reactions, edema, and hepatotoxicity, including hepatic sinusoidal obstruction syndrome/veno-occlusive disease. This study led to US Food and Drug Administration approval for BPDCN, and we consider it or tagraxofusp (another CD123-targeted agent) acceptable for treating BPDCN. (See \"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'.)\n\nTeclistamab for relapsed multiple myeloma (December 2025, Modified June 2026)\n\nBispecific antibodies have shown fast, deep responses in heavily pretreated multiple myeloma (MM) in single-arm trials. Now, in two large randomized trials, the bispecific antibody teclistamab (BCMAxCD3) improved progression-free and overall survival versus investigator's choice of triplet therapy in patients with relapsed or refractory MM when used as a single agent [42] or with daratumumab [43]. Teclistamab plus daratumumab now has regulatory approval in the United States for patients who have received ≥1 prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent [44]. Single-agent teclistamab is off-label in first relapse, but may be preferred in patients refractory to daratumumab. BCMA-directed therapies, including teclistamab, are now our preferred approach for most patients with first relapse (algorithm 1), with triplet regimens being an alternative for those at high risk of infectious complications or without access to BCMA-directed therapies. (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Single-agent teclistamab, elranatamab, or linvoseltamab'.) (See \"Multiple myeloma: Treatment of relapsed disease\", section on 'Teclistamab plus daratumumab'.)\n\nDecitabine-cedazuridine plus venetoclax for AML induction therapy (May 2026)\n\nVenetoclax plus a hypomethylating agent (HMA) is preferred for induction therapy of acute myeloid leukemia (AML) in patients not suitable for more intensive regimens, but the role of the oral HMA, decitabine-cedazuridine, in this combination has not been proven. A study in 101 patients reported a 63 percent response rate (including 47 percent complete responses) and 16 months median survival [45], with safety and outcomes comparable with venetoclax plus either azacitidine or decitabine. The US Food and Drug Administration approved decitabine-cedazuridine plus venetoclax for newly diagnosed AML in patients ≥75 years or unsuitable for intensive induction therapy, and we consider this all-oral regimen acceptable in this setting. (See \"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'.)\n\nRECENT APPROVALS - ONCOLOGIC\n\nZenocutuzumab for NRG1-fusion positive metastatic cholangiocarcinoma (September 2026)\n\nZenocutuzumab, a bispecific antibody that targets HER2/HER3 dimerization and neuregulin 1 (NRG1) protein binding, is approved by the US Food and Drug Administration for the treatment of adult patients with advanced unresectable or metastatic cholangiocarcinoma harboring an NRG1 gene fusion with disease progression on or after prior systemic therapy [46]. This approval is based on a phase II trial that included 19 such patients, in which zenocutuzumab resulted in an objective response rate of 37 percent [46,47]. Based on these data, we offer zenocutuzumab to patients with treatment-refractory NRG1 gene-fusion positive cholangiocarcinoma. (See \"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Zenocutuzumab'.)\n\nNivolumab plus oderparepvec in patients with unresectable melanoma (August 2026)\n\nThe combination of nivolumab plus vusolimogene oderparepvec, an oncolytic viral therapy, has been granted accelerated approval by the US Food and Drug Administration for patients with unresectable melanoma who have progressed on programmed death-1 (PD-1) inhibitors [48]. In the study supporting its approval, vusolimogene oderparepvec was administered intratumorally for up to eight doses in combination with nivolumab, which was given for up to two years [49]. The overall response rate was 33 percent with a median response duration of 34 months. For patients with unresectable melanoma who have progressed on a PD-1 inhibitor and have lesions that are accessible for intratumoral injection, the combination of nivolumab plus vusolimogene oderparepvec represents a new treatment option. Our incorporation of this strategy depends on BRAF mutation status and extent of disease. (See \"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\" and \"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'.)\n\nAdjuvant atezolizumab for high-risk, muscle-invasive bladder cancer (August 2026)\n\nThe US Food and Drug Administration (FDA) approved atezolizumab as adjuvant therapy for adults with muscle-invasive bladder cancer after cystectomy who have circulating tumor deoxyribonucleic acid (ctDNA) molecular residual disease, as determined by an FDA-authorized test [46]. This approval is based on a randomized trial of 250 patients with high-risk, muscle-invasive urothelial carcinoma of the bladder who underwent cystectomy and tested positive for ctDNA during postoperative surveillance, in whom one year of adjuvant atezolizumab improved disease-free survival (median 10 versus 5 months) and overall survival (median 33 versus 21 months) compared with placebo [50]. Based on these data, for patients with high-risk, muscle-invasive urothelial carcinoma of the bladder following cystectomy whose initial postoperative ctDNA test is positive, we now suggest one year of adjuvant atezolizumab. (See \"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'.)\n\nPerioperative enfortumab vedotin plus pembrolizumab for localized muscle-invasive bladder cancer in cisplatin-eligible patients (July 2026)\n\nThe United States Food and Drug Administration (FDA) approved enfortumab vedotin plus pembrolizumab as perioperative therapy for adult patients with muscle-invasive bladder cancer (MIBC) undergoing radical cystectomy [46]. This approval was based on a randomized trial of over 800 such patients who are eligible for cisplatin-based chemotherapy, in which perioperative enfortumab vedotin plus pembrolizumab improved two-year event-free survival (79 versus 66 percent) and overall survival (87 versus 81 percent) compared with neoadjuvant gemcitabine plus cisplatin followed by cystectomy [51]. Based on these and prior results, for patients with localized MIBC who are eligible for cisplatin-based chemotherapy and fit for radical cystectomy, we now suggest either perioperative enfortumab vedotin plus pembrolizumab or durvalumab plus gemcitabine and cisplatin rather than other systemic regimens. (See \"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'.)\n\nZidesamtinib in ROS1-positive non-small cell lung cancer (July 2026)\n\nThe tyrosine kinase inhibitor (TKI) zidesamtinib has received US Food and Drug Administration approval for the treatment of adult patients with locally advanced or metastatic ROS1-positive non-small cell lung cancer (NSCLC) who have received a prior TKI [52]. In the study supporting its approval, among 117 patients with previously treated locally advanced or metastatic ROS1-positive NSCLC, the response rate was 44 percent; in the subset treated with at least two prior ROS1 TKIs, the response rate was 38 percent. For patients with prior treatment with a ROS1 TKI for ROS1-positive NSCLC, we now suggest zidesamtinib. (See \"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'.)\n\nGedatolisib in hormone receptor-positive, HER2-negative advanced breast cancer (July 2026)\n\nFor patients with advanced hormone receptor-positive, HER2-negative PIK3CA wildtype cancers that have progressed on prior endocrine therapy, the pan-PI3K inhibitor gedatolisib has been approved by the US Food and Drug Administration in combination with fulvestrant, with or without palbociclib [53]. Approval is based on a randomized trial demonstrating progression free survival benefits with gedatolisib and fulvestrant (with or without palbociclib) relative to fulvestrant alone [54]. All patients in the trial had disease progression on a CDK 4/6 inhibitor (CDK 4/6i) and aromatase inhibitor (AI). We offer fulvestrant and gedatolisib to patients with cancers lacking mutations in the PI3K pathway with progression on CDK 4/6i/AI therapy. We add palbociclib if the patient previously tolerated CDK 4/6i and has not received palbociclib. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type'.)\n\nDaraxonrasib for metastatic pancreatic adenocarcinoma (May 2026)\n\nFor patients with metastatic pancreatic adenocarcinoma, studies are evaluating novel therapies such as daraxonrasib, a RAS(ON) multiselective inhibitor.\n\n● In a nonrandomized trial that included 26 such patients with RAS G12-mutated disease, second-line therapy with daraxonrasib resulted in an objective response rate of 35 percent and was well tolerated [55].\n\n● In a randomized trial of 500 patients with treatment-refractory metastatic pancreatic adenocarcinoma (most with RAS G12-mutated disease), daraxonrasib improved overall survival over physician's choice of chemotherapy (median 13 versus 7 months), reduced toxicity, and improved quality of life [56].\n\nBased on these results, the US Food and Drug Administration has made daraxonrasib available through an expanded access treatment protocol (EAP) for patients with previously treated metastatic pancreatic adenocarcinoma while the drug undergoes regulatory review. (See \"Second- and later-line systemic therapy for metastatic exocrine pancreatic cancer\", section on 'Daraxonrasib'.)\n\nDatopotamab deruxtecan in advanced triple-negative breast cancer (May 2026)\n\nThe US Food and Drug Administration has granted regulatory approval for use of datopotamab deruxtecan in patients with unresectable or metastatic triple-negative breast cancer (TNBC) who are not candidates for programmed cell death protein-1 (PD-1)/programmed cell death ligand 1 (PD-L1) inhibitor therapy [57]. Approval is based on results of a randomized trial in which datopotamab deruxtecan improved both median progression-free survival (11 versus 5.6 months) and overall survival (24 versus 19 months) compared with investigator's choice of chemotherapy in such patients [58]. Treatment-related adverse events of grade ≥3 were reported in 33 versus 29 percent of patients. Based on these results, we now consider datopotamab deruxtecan to be an appropriate option for patients with TNBC whose tumors express low PD-L1 (combined positive score [CPS] <10) as well as those with contraindications to PD-1/PD-L1 inhibitors. (See \"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'.)\n\nTrastuzumab deruxtecan as neoadjuvant therapy in HER2-positive breast cancer (May 2026)\n\nThe US Food and Drug Administration has granted approval for use of fam-trastuzumab deruxtecan (TDXd) followed by a taxane for the neoadjuvant treatment of adult patients with HER2-positive stage II or III breast cancer [59]. Approval is based on results from a randomized trial in such patients that demonstrated superior pathologic complete response rates among those assigned to the sequence of TDXd followed by paclitaxel, trastuzumab, and pertuzumab (THP) compared with those assigned to doxorubicin and cyclophosphamide followed by paclitaxel, trastuzumab, and pertuzumab (AC-THP; 67 versus 56 percent) [60]. The incidence of grade >3 toxicities was lower in the T-DXd-THP arm. Although we await longer-term outcomes with this strategy prior to routine use, we consider it to be an acceptable alternative to standard regimens in this setting. (See \"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'.)\n\nVepdegestrant in ESR1-mutated advanced breast cancer (May 2026)\n\nVepdegestrant is an oral proteolysis targeting chimera (PROTAC) estrogen receptor (ER) degrader that utilizes the ubiquitin-proteosome system and has gained regulatory approval in the United States for ER-positive, HER2-negative, estrogen receptor-1 (ESR1)-mutated advanced or metastatic breast cancer that has progressed following at least one line of endocrine therapy [61]. In a randomized trial, among 270 such patients who had received one to two prior lines of endocrine therapy and a prior cyclin-dependent kinase 4/6 inhibitor, median progression-free survival was 5 months with vepdegestrant and 2.1 months with fulvestrant. The most common adverse events (any grade) in the vepdegestrant group were fatigue (27 percent), increased liver function tests, and nausea. We consider vepdegestrant to be one of several appropriate options in this setting. (See \"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'.)\n\nTumor treating fields plus gemcitabine and nabpaclitaxel in locally advanced pancreatic adenocarcinoma (April 2026)\n\nThe US Food and Drug Administration (FDA) approved tumor treating fields (TTFs), a non-invasive device worn on the skin that uses alternating electric fields to disrupt cancer cell proliferation, in combination with gemcitabine plus nabpaclitaxel for patients with locally advanced pancreatic cancer [62]. This approval is based on a randomized trial of over 570 such patients in which the addition of TTFs to initial therapy with gemcitabine plus nabpaclitaxel improved overall survival (median 16 versus 14 months), with a rate of any grade device-related skin irritation of 76 percent [63]. Although we consider TTFs to be an option in the treatment of locally advanced pancreatic cancer, clinical experience is limited, and the need to wear TTFs for most of the day may impact patient compliance. (See \"Treatment of locally advanced exocrine pancreatic cancer\", section on 'Gemcitabine plus nabpaclitaxel and tumor treating fields'.)\n\nRelacorilant in platinum-resistant ovarian cancer (March 2026)\n\nRelacorilant, a glucocorticoid receptor antagonist that increases a tumor's sensitivity to chemotherapy by reducing cortisol signaling, has received regulatory approval in the United States in combination with nabpaclitaxel for the treatment of adults with platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer who have received one to three prior systemic treatment regiments, at least one of which included bevacizumab [64]. In a randomized trial including 381 such patients, relacorilant plus nabpaclitaxel versus nabpaclitaxel alone improved both progression-free survival (6.5 versus 5.5 months) and overall survival (16 versus 11.9 months) [65,66]. Given these results, we consider nabpaclitaxel and relacorilant to be an acceptable option for such patients. (See \"Medical treatment for relapsed epithelial ovarian, fallopian tube, or peritoneal cancer: Platinum-resistant disease\", section on 'Prior bevacizumab exposure: Nabpaclitaxel plus relacorilant'.)\n\nFluorouracil-based chemotherapy plus encorafenib and cetuximab for BRAF-mutant metastatic colorectal cancer (February 2026, Modified March 2026)\n\nFOLFOX (fluorouracil, leucovorin, and oxaliplatin) plus encorafenib and cetuximab previously had accelerated approval from the US Food and Drug Administration (FDA) for the treatment of adult patients with metastatic colorectal cancer (mCRC) with a BRAF V600E mutation. There is also interest in evaluating other chemotherapy backbone regimens to combine with encorafenib plus cetuximab, such as FOLFIRI (fluorouracil, leucovorin, and irinotecan). In preliminary results of a randomized trial of approximately 150 patients with BRAF V600E-mutant mCRC, initial therapy with FOLFIRI plus encorafenib and cetuximab improved objective response rates (64 versus 40 percent) relative to FOLFIRI with or without bevacizumab [67].Based on these and prior results, the FDA granted full approval for encorafenib in combination with cetuximab and fluorouracil-based chemotherapy (either FOLFOX or FOLFIRI) for the treatment of adult patients with mCRC with a BRAF V600E mutation [46], and we also recommend this approach. (See \"Initial systemic therapy for metastatic colorectal cancer\", section on 'RAS wild-type, BRAF V600E-mutant tumors'.)\n\nRECENT APPROVALS – PULMONARY AND CRITICAL CARE\n\nImproved outcomes for budesonide-glycopyrrolate-formoterol in asthma (May 2026)\n\nThe addition of inhaled anti-muscarinic agents for patients with asthma that is poorly controlled on inhaled glucocorticoids and long-acting beta agonists (ICS-LABA) has been studied in a variety of inhaled formulations, but the effect on asthma exacerbations has not been consistently significant. In a recent pair of large trials, 8820 patients were randomly assigned to receive budesonide-formoterol with or without the addition of glycopyrrolate. The addition of glycopyrrolate led to a small improvement in lung function and a statistically significant decrease in exacerbation rates (relative risk 0.86, 95% CI 0.76-0.97) compared with budesonide-formoterol alone [68]. These effect sizes are similar to point estimates seen in other inhaled anti-muscarinic trials, supporting a class effect. These data also led to FDA regulatory approval of a new formulation of budesonide-glycopyrrolate-formoterol (budesonide 160 mcg-glycopyrrolate 18 mcg-formoterol fumarate 4.8 mcg) for use in patients with poorly controlled asthma despite moderate-high dose ICS-LABA therapy [69]. (See \"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'.)\n\nRECENT APPROVALS - OTHER\n\nTopical acoltremon for dry eye disease (April 2026)\n\nAcoltremon is a US Food and Drug Administration (FDA) approved first-in-class transient receptor potential melastatin 8 (TRPM8) agonist that increases tear production in dry eye disease (DED). In two multicenter randomized, double-masked trials including over 900 patients with DED, acoltremon 0.003% instilled twice daily increased tear production when compared with vehicle (43 versus 8 percent of patients had a ≥10 mm increase from baseline Schirmer test score in one trial; 53 versus 14 percent in the other trial) [70]. Instillation-site discomfort was the most common adverse effect, with approximately 50 percent of patients experiencing discomfort, which was mild in almost all patients. We reserve acoltremon for patients with aqueous-deficient dry eye who have not had success with other dry eye treatments. (See \"Dry eye disease\", section on 'Topical acoltremon'.)\n\nApproval of pegzilarginase for arginase 1 deficiency (April 2026)\n\nElevated plasma arginine levels are associated with adverse neurodevelopmental outcomes in patients with arginase 1 deficiency (ARG1-D). In a 24-week, placebo-controlled trial of pegzilarginase (a recombinant form of the enzyme arginase 1) in 32 patients age ≥2 years with ARG1-D and hyperargininemia, normalization of arginine occurred in 90.5 percent of the treatment group and none of the placebo group [71]. A nonsignificant trend toward improved gross motor function was observed in the treatment group; adverse effects were mild or moderate. Similar results were seen in open-label extension studies [72]. Based on these data, pegzilarginase received accelerated regulatory approval in the United States for patients ≥2 years [73]. Access to pegzilarginase remains limited to clinical trials in the United States; additional data will determine optimal use. (See \"Urea cycle disorders: Management\", section on 'Maintenance pharmacologic therapy'.)\n\nDeucravacitinib approved for psoriatic arthritis (April 2026)\n\nDeucravacitinib, an oral tyrosine kinase 2 (TYK2) inhibitor, has recently been approved by the US Food and Drug Administration for the treatment of psoriatic arthritis based on two trials of over 1000 patients with psoriatic arthritis [74]. At week 16, patients treated with deucravacitinib 6 mg daily had a statistically significant improvement in disease activity compared to placebo (54 versus 34 to 39 percent). Treatment with deucravacitinib also led to statistically significant improvements in patient-reported outcomes for physical function, pain, and general health. While deucravacitinib offers an important option for patients with peripheral psoriatic arthritis, its efficacy for axial psoriatic arthritis requires additional study. (See \"Treatment of peripheral psoriatic arthritis\", section on 'Deucravacitinib'.)\n\nPegvaliase for adolescents 12 to 18 years old with phenylketonuria (March 2026)\n\nPegylated phenylalanine ammonia lyase (pegvaliase, PEG-PAL) is an enzyme that degrades phenylalanine and is a widely approved therapy for older adolescents and adults with phenylketonuria (PKU). In a phase III clinical trial in 54 patients with PKU aged 12 to <18 years, mean blood phenylalanine was 409 micromol/L lower in patients randomized to receive PEG-PAL for 72 weeks compared with control patients treated with dietary measures alone [75,76]. Despite premedication, anaphylaxis occurred in four patients (11 percent of the treatment group). Based on this trial, PEG-PAL received regulatory approval in the United States for adolescents 12 years and older with phenylketonuria (PKU) as an adjunct to dietary restriction. This therapy is promising for adolescents with PKU, although appropriate monitoring and emergency treatment for anaphylaxis must be available for treated patients. (See \"Phenylketonuria: Overview\", section on 'Phenylalanine ammonia-lyase (pegvaliase)'.)\n\nVACCINES\n\nRecommendations on 2026-2027 COVID-19 vaccination (September 2026)\n\nIn August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [77-80]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [81], the American College of Obstetricians and Gynecologists [82], the American Academy of Pediatrics [83], and the Infectious Diseases Society of America [84]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 3). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)\n\nButantan-dengue vaccine suspended in Brazil for safety concerns (June 2026)\n\nCreating a safe and effective dengue vaccine is challenging in part because of the need to cover four serotypes and avoid generating an immune profile that increases risk for severe dengue. Butantan-dengue vaccine (Butantan-DV), a dengue vaccine uniquely administered as a single dose, was well tolerated and effective in clinical trials and subsequently implemented in Brazil. However, in June 2026, Butantan-DV deployment was suspended due to emerging safety concerns, including two deaths and 42 unexpected adverse events (eg, severe abdominal pain, persistent vomiting, and bleeding) [85]. This pause highlights ongoing limitations of vaccination as a preventive strategy for dengue. (See \"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'.)",
+    "word_count": 8039,
+    "character_count": 57698,
+    "references": [
+      "Cuker A, Terrell DR, Sowdagar H, et al. American Society of Hematology 2026 Guidelines for Immune Thrombocytopenia (ITP): Initial and Second-Line Therapy in Adults with Primary ITP. Blood Adv 2026.",
+      "Tamma PD, Bonomo RA, Heil EL, et al. Infectious Diseases Society of America 2026 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. Clin Infect Dis 2026.",
+      "Shivakumar S, Matino D, Zukor D, et al. Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty. N Engl J Med 2026.",
+      "Dorsey BT, Golden DBK, Silvers SK, et al. Stability of epinephrine nasal spray under room temperature, freeze-thaw, and extreme temperature conditions. J Allergy Clin Immunol Pract 2026.",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group, Lee TC, Barina LA, et al. Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia. N Engl J Med 2026; 394:2329.",
+      "Staphylococcus aureus Network Adaptive Platform (SNAP) Trial Group. Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial. Lancet 2026; 408:141.",
+      "Choi KH, Kang D, Kim W, et al. Discontinuation of Beta-Blocker Therapy after Myocardial Infarction. N Engl J Med 2026; 394:1302.",
+      "Willems JIA, van Twist DJL, Helmich F, et al. Fasting vs Nonfasting, Dose-adjusted Levothyroxine Ingestion in Hypothyroidism: A Randomized Clinical Trial. J Clin Endocrinol Metab 2026; 111:938.",
+      "Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol 2026; 87:2624.",
+      "Ipsen voluntarily withdraws Tazverik® (tazemetostat) in follicular lymphoma and epithelioid sarcoma. https://www.ipsen.com/press-release/ipsen-voluntarily-withdraws-tazverik-tazemetostat-in-follicular-lymphoma-and-epithelioid-sarcoma-3251503/ (Accessed on March 11, 2026).",
+      "FDA Alerts Health Care Providers to Cases of Neurologic Complications from General Anesthesia Linked to Genetic Variant in Patients of Maternal Venezuelan Ancestry. https://www.fda.gov/drugs/drug-alerts-and-statements/fda-alerts-health-care-providers-cases-neurologic-complications-general-anesthesia-linked-genetic (Accessed on July 06, 2026).",
+      "Tofacitinib. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/203214s043,213082s016,208246s029lbl.pdf (Accessed on July 07, 2026).",
+      "van Lint JA, van Hunsel FPAM, Tas SW, et al. Hypoglycaemia following JAK inhibitor treatment in patients with diabetes. Ann Rheum Dis 2022; 81:597.",
+      "Garvey LH, Brockow K, Barbaud A, et al. Hypersensitivity to Excipients in Drugs: An EAACI Position Paper. Allergy 2026; 81:2250.",
+      "Batsis JA, Gavras A, Gross DC, et al. Effect of Incretin-Based and Nonpharmacologic Weight Loss on Body Composition : A Systematic Review. Ann Intern Med 2026; 179:996.",
+      "Wagner SA, Panzer M, Pertler E, et al. Ferric carboxymaltose increases fracture risk in patients and reduces bone formation in mice with iron deficiency anemia. Blood 2026; 148:15.",
+      "FDA Identifies Cases of Serious Liver Injury in Patients Taking Tavneos (avacopan) for Severe Active Anti-neutrophil Cytoplasmic Autoantibody (ANCA)-associated Vasculitis. US Food and Drug Administration. https://www.fda.gov/drugs/drug-safety-and-availability/fda-identifies-cases-serious-liver-injury-patients-taking-tavneos-avacopan-severe-active-anti (Accessed on May 04, 2026).",
+      "FDA Drug Safety Communication available at https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-warning-about-vitamin-b6-deficiency-and-associated-seizures-drug-products-containing.",
+      "Castellucci LA, Chen VM, Kovacs MJ, et al. Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism. N Engl J Med 2026; 394:1051.",
+      "Bekka E, Martinez-De la Torre A, Haschke M, et al. Toxicity profile of supratherapeutic loperamide: a systematic review and dose-response analysis. Clin Toxicol (Phila) 2026; 64:250.",
+      "Bixlenvo package insert. Available at: https://www.gilead.com/-/media/files/pdfs/medicines/hiv/BIXLENVO/BIXLENVO_pi.pdf (Accessed on August 31, 2026).",
+      "Orkin C, Ruane PJ, Hedgcock M, et al. Switch to single-tablet bictegravir-lenacapavir from a complex HIV regimen (ARTISTRY-1): a randomised, open-label, phase 3 clinical trial. Lancet 2026; 407:1249.",
+      "Dailymed. Hepcludex- bulevirtide injection, powder, lyophilized, for solution https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12391cc2-38c2-4cf5-86d3-2be9370127fc (Accessed on June 03, 2026).",
+      "Tebipenem pivoxil. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed on June 18, 2026).",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "Vleugels RA, Paik JJ, Bauer Ventura I, et al. A Phase 3 Trial of Brepocitinib in Dermatomyositis. N Engl J Med 2026; 394:1883.",
+      "Prescribing information Gwyn Lo. Mylan Pharmaceutical Inc, a Viatris Company. Morgantown, WV. Revised July 2026. www.gwynlopi.com/-/media/project/common/gwynlopicom/pi.pdf (Accessed on July 30, 2026).",
+      "Yen MT, Cockerham K, Saeed P, et al. THRIVE: A Phase 3, Randomized, Double-Masked, Placebo-Controlled Study of Veligrotug for Active Thyroid Eye Disease. Ophthalmology 2026.",
+      "Teplizumab (TZIELD). US Food and Drug Administration (FDA) approved product information. Revised June 2026. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761183s010lbls014lbl.pdf (Accessed on June 15, 2026).",
+      "Bowie K. Type 1 diabetes: UK approves first drug for delaying onset. BMJ 2025; 390:r1762.",
+      "Teplizumab prescribing information. Available at: https://products.sanofi.us/tzield/tzield.pdf (Accessed on April 22, 2026).",
+      "Gitelman SE, Simmons K, Sherr JL, et al. Safety and pharmacokinetics of teplizumab in children less than 8 years of age with stage 2 type 1 diabetes. Diabetologia 2026; 69:330.",
+      "Anderer S. FDA Approves Weekly Basal Insulin for Adults With Type 2 Diabetes. JAMA 2026; 335:1564.",
+      "Insulin icodec prescribing information. Available at: https://www.novo-pi.com/awiqli.pdf#xd_co_f=NmMxNjE0Y2UtZTNmNC00YzAwLTljNTMtZjAwYzM2NjExYTdj~ (Accessed on April 23, 2026).",
+      "Label: Foundayo - orforglipron tablet, film-coated. DailyMed. National Library of Medicine. National Institutes of Health. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ac446c5-feba-474f-a103-23facb9b5c62 (Accessed on April 06, 2026).",
+      "Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity Treatment. N Engl J Med 2025; 393:1796.",
+      "Horn DB, Ryan DH, Kis SG, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist, for the treatment of obesity in people with type 2 diabetes (ATTAIN-2): a phase 3, double-blind, randomised, multicentre, placebo-controlled trial. Lancet 2026; 406:2927.",
+      "Iberdomide capsules. US Food and Drug Administration (FDA) approved product information. Revised August 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed August 19, 2026).",
+      "Ailawadhi S, Špička I, Spencer A, et al. Isatuximab Subcutaneous by On-Body Injector Versus Isatuximab Intravenous Plus Pomalidomide and Dexamethasone in Relapsed/Refractory Multiple Myeloma: Phase III IRAKLIA Study. J Clin Oncol 2025; 43:2527.",
+      "Eyre TA, Song Y, Hermine O, et al. Phase I/II Study of Sonrotoclax (BGB-11417) Monotherapy in Patients With Mantle Cell Lymphoma Previously Treated With Anti-CD20 Therapy and a Bruton Tyrosine Kinase Inhibitor. J Clin Oncol 2026; 44:2233.",
+      "Pemmaraju N, Marconi G, Montesinos P, et al. Pivekimab Sunirine in Blastic Plasmacytoid Dendritic Cell Neoplasm. J Clin Oncol 2026; 44:861.",
+      "Touzeau C, Mina R, Quach H, et al. Teclistamab in Multiple Myeloma with One to Three Previous Lines of Therapy. N Engl J Med 2026; 395:440.",
+      "Costa LJ, Bahlis NJ, Perrot A, et al. Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma. N Engl J Med 2026; 394:739.",
+      "TECVAYLI-teclistamab injection. United States prescribing information. Revised March 6, 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=54e0f974-ccee-44ea-9254-40e9883cee1e (Accessed on March 11, 2026).",
+      "Zeidan AM, Griffiths EA, Denton Dinardo C, et al. An all-oral regimen of decitabine-cedazuridine (DEC-C) plus venetoclax (VEN) in patients (pts) with newly diagnosed acute myeloid leukemia (AML) ineligible for intensive induction chemotherapy: Results from a phase 2 cohort of 101 pts. J Clin Oncol 2025; 43:6504.",
+      "DailyMed Drug Information: https://dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on August 28, 2026).",
+      "Alison M. Schram, Olumide B. Gbolahan, Cindy Neuzillet, et al. Continued zenocutuzumab treatment beyond progression in patients with NRG1+ pancreatic cancer and cholangiocarcinoma: Analysis from the phase 2 eNRGy trial. J Clin Oncol 2026; 44;2S.",
+      "https://www.fda.gov/media/194127/download?attachment (Accessed on August 17, 2026).",
+      "Wong MK, Milhem MM, Sacco JJ, et al. RP1 Combined With Nivolumab in Advanced Anti-PD-1-Failed Melanoma (IGNYTE). J Clin Oncol 2025; 43:3589.",
+      "Powles T, Kann AG, Castellano D, et al. ctDNA-Guided Adjuvant Atezolizumab in Muscle-Invasive Bladder Cancer. N Engl J Med 2025; 393:2395.",
+      "Galsky MD, Valderrama BP, Maruzzo M, et al. Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer. N Engl J Med 2026; 395:338.",
+      "Jideytro prescribing information. Nuvalent. Available at: https://www.jideytrohcp.com/prescribing-information.pdf (Accessed on July 23, 2026).",
+      "REVTORPYK - gedatolisib. DailyMed. Available at: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=959d73ef-831f-4005-956c-210702270bda (Accessed on July 17, 2026).",
+      "Hurvitz SA, Layman RM, Curigliano G, et al. VIKTORIA-1 Trial of Gedatolisib Plus Fulvestrant With or Without Palbociclib in Hormone Receptor-Positive/HER2-/PIK3CA Wild-Type Advanced Breast Cancer. J Clin Oncol 2026; 44:1108.",
+      "Wolpin BM, Park W, Garrido-Laguna I, et al. Daraxonrasib in Previously Treated Advanced RAS-Mutated Pancreatic Cancer. N Engl J Med 2026; 394:1790.",
+      "O'Reilly EM, Wainberg ZA, Hendifar AE, et al. Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer. N Engl J Med 2026; 395:325.",
+      "DATROWAY® (datopotamab deruxtecan-dlnk) for injection, for intravenous use. United States prescribing information. Revised May 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2950227c-6230-4ca4-a135-46e44d9424a0&type=display (Accessed on June 04, 2026).",
+      "Dent R, Shao Z, Schmid P, et al. Datopotamab deruxtecan in patients with untreated, advanced triple-negative breast cancer (TROPION-Breast02): a randomised, open-label, international, phase III trial. Ann Oncol 2026; 37:1066.",
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761139s041s043lbl.pdf (Accessed on May 20, 2026).",
+      "Harbeck N, Modi S, Pusztai L, et al. Neoadjuvant trastuzumab deruxtecan alone or followed by paclitaxel, trastuzumab, and pertuzumab for high-risk HER2-positive early breast cancer (DESTINY-Breast11): a randomised, open-label, multicentre, phase III trial. Ann Oncol 2026; 37:166.",
+      "VEPPANU- vepdegestrant tablet. US Food and Drug Administration (FDA) approved product information. Revised May 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=751e18d5-1d41-4b67-b1f3-10272ca5312d (Accessed on May 21, 2026).",
+      "FDA Approves First-of-Its-Kind Device to Treat Pancreatic Cancer. Device Delivers Non-invasive Therapy and Supports Care at Home https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-device-treat-pancreatic-cancer (Accessed on April 09, 2026).",
+      "Babiker HM, Picozzi V, Chandana SR, et al. Tumor Treating Fields With Gemcitabine and Nab-Paclitaxel for Locally Advanced Pancreatic Adenocarcinoma: Randomized, Open-Label, Pivotal Phase III PANOVA-3 Study. J Clin Oncol 2025; 43:2350.",
+      "LIFYORLI- relacorilant kit. United States prescribing information. Revised March 26, 2026. US National Library of Medicine. https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fcebfb5-19d6-4f63-b852-999d68a13729&version=1 (Accessed on March 31, 2026).",
+      "Olawaiye AB, Gladieff L, O'Malley DM, et al. Relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): an open-label, randomised, controlled, phase 3 trial. Lancet 2025; 405:2205.",
+      "Lorusso D, Gladieff L, O'Malley DM, et al. Overall survival with relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian cancer (ROSELLA): a phase 3 randomised controlled trial. Lancet 2026; 407:1513.",
+      "Kopetz S et. BREAKWATER: Primary analysis of first-line (1L) encorafenib + cetuximab (EC) + FOLFIRI in BRAF V600E-mutant metastatic colorectal cancer (mCRC). J Clin Oncol 2026; 44; 2S.",
+      "Papi A, Wise RA, Jackson DJ, et al. Budesonide-glycopyrronium-formoterol fumarate dihydrate in uncontrolled asthma (KALOS and LOGOS): twin multicentre, double-blind, double-dummy, parallel-group, randomised, phase 3 trials. Lancet Respir Med 2026; 14:350.",
+      "FDA budesonide-glycopyrrolate-formoterol fumarate label: https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/212122s009lbl.pdf (Accessed on May 02, 2026).",
+      "Pattar GR, Wirta D, Jerkins G, et al. Acoltremon Ophthalmic Solution 0.003% for Signs and Symptoms of Dry Eye Disease: Results of Phase 3 Pivotal COMET-2 and COMET-3 Studies. Ophthalmology 2026; 133:563.",
+      "Russo RS, Gasperini S, Bubb G, et al. Efficacy and safety of pegzilarginase in arginase 1 deficiency (PEACE): a phase 3, randomized, double-blind, placebo-controlled, multi-centre trial. EClinicalMedicine 2024; 68:102405.",
+      "McNutt M, Rutsch F, Russo RS, et al. Long-Term Efficacy and Tolerability of Pegzilarginase in Arginase 1 Deficiency: Results of Two International Multicentre Open-Label Extension Studies. J Inherit Metab Dis 2025; 48:e70066.",
+      "Pegzilarginase-nbln injection. United States prescribing information. Revised February 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761211Orig1s000lbl.pdf (Accessed on March 19, 2026).",
+      "Deucravacitinib tablet, film coated. United States prescribing information. Revised March 6, 2026. US National Library of Medicine. www.dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on April 02, 2026).",
+      "Pegvaliase-pqpz injection, solution. US Food and Drug Administration (FDA) approved product information. Revised March 2, 2026. US National Library of Medicine. www.dailymed.nlm.nih.gov/dailymed/index.cfm (Accessed on April 02, 2026).",
+      "Sepiapterin oral powder. United States prescribing information. Revised July 2025. US Food and Drug Administration. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219666s000lbl.pdf (Accessed on August 06, 2025).",
+      "SPIKEVAX (COVID-19 Vaccine, mRNA) Suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/155675/download?attachment (Accessed on August 28, 2026).",
+      "MNEXSPIKE (COVID-19 Vaccine, mRNA) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/186738/download (Accessed on August 28, 2026).",
+      "COMIRNATY (COVID-19 Vaccine, mRNA) suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/151707/download?attachment (Accessed on August 28, 2026).",
+      "NUVAXOVID (COVID-19 Vaccine, Adjuvanted) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Updated August 2026. https://www.fda.gov/media/186544/download?attachment (Accessed on August 28, 2026).",
+      "AAFP Announces Fall Immunization Recommendations to Protect Patients and Communities https://www.aafp.org/media-center/press-releases/aafp-announces-fall-immunization-recommendations-to-protect-patients-and-communities (Accessed on September 02, 2026).",
+      "Maternal Immunizations. Obstet Gynecol 2026; 147:e123.",
+      "Committee on Infectious Diseases. Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "IDSA 2026 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19, Influenza, and RSV Infections in Immunocompromised Patients. https://www.idsociety.org/practice-guideline/Seasonal-RTI-Vaccinations-in-Immunocompromised-Patients/s-on-the-use-of-vaccines-for-the-prevention-of-seasonal-covid-19-influenza-and-rsv-infections-in-immunocompromised-patients/ (Accessed on September 02, 2026).",
+      "Taylor L. Dengue: Brazil suspends rollout of new vaccine after two deaths. BMJ 2026; 393:e205610."
+    ],
+    "graphics": [
+      {
+        "id": 112514,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/112514"
+      },
+      {
+        "id": 134483,
+        "title": "algorithm 1",
+        "url": "https://medilib.ir/uptodate/show/134483"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 8360,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%221%22"
+      },
+      {
+        "id": 9616,
+        "title": "rituximab",
+        "url": "https://medilib.ir/uptodate/show/9616"
+      },
+      {
+        "id": 16471,
+        "title": "immune globulin",
+        "url": "https://medilib.ir/uptodate/show/16471"
+      },
+      {
+        "id": 6677,
+        "title": "\"Initial treatment and treatment of bleeding in adults with immune thrombocytopenia (ITP)\", section on 'Initial combination therapy for severe bleeding'",
+        "url": "https://medilib.ir/uptodate/show/6677"
+      },
+      {
+        "id": 8360,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%222%22"
+      },
+      {
+        "id": 8675,
+        "title": "ertapenem",
+        "url": "https://medilib.ir/uptodate/show/8675"
+      },
+      {
+        "id": 98763,
+        "title": "ceftolozane-tazobactam",
+        "url": "https://medilib.ir/uptodate/show/98763"
+      },
+      {
+        "id": 126182,
+        "title": "cefiderocol",
+        "url": "https://medilib.ir/uptodate/show/126182"
+      },
+      {
+        "id": 3135,
+        "title": "\"Principles of antimicrobial therapy of Pseudomonas aeruginosa infections\", section on 'Preferred agents'",
+        "url": "https://medilib.ir/uptodate/show/3135"
+      },
+      {
+        "id": 8907,
+        "title": "aspirin",
+        "url": "https://medilib.ir/uptodate/show/8907"
+      },
+      {
+        "id": 9498,
+        "title": "rivaroxaban",
+        "url": "https://medilib.ir/uptodate/show/9498"
+      },
+      {
+        "id": 8360,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%223%22"
+      },
+      {
+        "id": 1335,
+        "title": "\"Prevention of venous thromboembolism in adults undergoing hip fracture repair or hip or knee replacement\"",
+        "url": "https://medilib.ir/uptodate/show/1335"
+      },
+      {
+        "id": 8360,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%224%22"
+      },
+      {
+        "id": 388,
+        "title": "\"Prescribing epinephrine for anaphylaxis self-treatment\", section on 'Storage'",
+        "url": "https://medilib.ir/uptodate/show/388"
+      },
+      {
+        "id": 9214,
+        "title": "cefazolin",
+        "url": "https://medilib.ir/uptodate/show/9214"
+      },
+      {
+        "id": 8360,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%225%22"
+      },
+      {
+        "id": 8360,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%226%22"
+      },
+      {
+        "id": 2134,
+        "title": "\"Clinical approach to Staphylococcus aureus bacteremia in adults\", section on 'Clinical approach'",
+        "url": "https://medilib.ir/uptodate/show/2134"
+      },
+      {
+        "id": 8360,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%227%22"
+      },
+      {
+        "id": 96,
+        "title": "\"Acute myocardial infarction: Role of beta blocker therapy\", section on 'Contemporary era (primary percutaneous coronary intervention)'",
+        "url": "https://medilib.ir/uptodate/show/96"
+      },
+      {
+        "id": 9557,
+        "title": "levothyroxine",
+        "url": "https://medilib.ir/uptodate/show/9557"
+      },
+      {
+        "id": 8360,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%228%22"
+      },
+      {
+        "id": 7855,
+        "title": "\"Treatment of primary hypothyroidism in adults\", section on 'Timing of dose'",
+        "url": "https://medilib.ir/uptodate/show/7855"
+      },
+      {
+        "id": 8360,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%229%22"
+      },
+      {
+        "id": 4549,
+        "title": "\"Low-density lipoprotein cholesterol-lowering therapy in the primary prevention of atherosclerotic cardiovascular disease\", section on 'Rationale for our approach and treatment goals'",
+        "url": "https://medilib.ir/uptodate/show/4549"
+      },
+      {
+        "id": 126937,
+        "title": "tazemetostat",
+        "url": "https://medilib.ir/uptodate/show/126937"
+      },
+      {
+        "id": 8360,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2210%22"
+      },
+      {
+        "id": 9822,
+        "title": "lenalidomide",
+        "url": "https://medilib.ir/uptodate/show/9822"
+      },
+      {
+        "id": 4755,
+        "title": "\"Treatment of relapsed or refractory follicular lymphoma\", section on 'Other agents'",
+        "url": "https://medilib.ir/uptodate/show/4755"
+      },
+      {
+        "id": 114329,
+        "title": "\"Uncommon sarcoma subtypes\", section on 'Agents no longer available (tazemetostat)'",
+        "url": "https://medilib.ir/uptodate/show/114329"
+      },
+      {
+        "id": 9887,
+        "title": "Sevoflurane",
+        "url": "https://medilib.ir/uptodate/show/9887"
+      },
+      {
+        "id": 8360,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2211%22"
+      },
+      {
+        "id": 114826,
+        "title": "\"Inhalation anesthetic agents: Clinical effects and uses\", section on 'Disadvantages and adverse effects'",
+        "url": "https://medilib.ir/uptodate/show/114826"
+      },
+      {
+        "id": 8360,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2212%22"
+      },
+      {
+        "id": 87040,
+        "title": "tofacitinib",
+        "url": "https://medilib.ir/uptodate/show/87040"
+      },
+      {
+        "id": 118052,
+        "title": "baricitinib",
+        "url": "https://medilib.ir/uptodate/show/118052"
+      },
+      {
+        "id": 122341,
+        "title": "upadacitinib",
+        "url": "https://medilib.ir/uptodate/show/122341"
+      },
+      {
+        "id": 8360,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2213%22"
+      },
+      {
+        "id": 130611,
+        "title": "\"Overview of the Janus kinase inhibitors for rheumatologic and other inflammatory disorders\", section on 'Hypoglycemia in patients with diabetes'",
+        "url": "https://medilib.ir/uptodate/show/130611"
+      },
+      {
+        "id": 8360,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2214%22"
+      },
+      {
+        "id": 10153,
+        "title": "methylcellulose",
+        "url": "https://medilib.ir/uptodate/show/10153"
+      },
+      {
+        "id": 9587,
+        "title": "mannitol",
+        "url": "https://medilib.ir/uptodate/show/9587"
+      },
+      {
+        "id": 2079,
+        "title": "\"An approach to the patient with drug allergy/hypersensitivity\", section on 'Differential diagnosis of repeated drug reactions'",
+        "url": "https://medilib.ir/uptodate/show/2079"
+      },
+      {
+        "id": 8360,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2215%22"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Drug therapy\", section on 'Strategies to mitigate risks'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 90237,
+        "title": "Ferric carboxymaltose",
+        "url": "https://medilib.ir/uptodate/show/90237"
+      },
+      {
+        "id": 8360,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2216%22"
+      },
+      {
+        "id": 120585,
+        "title": "ferric derisomaltose",
+        "url": "https://medilib.ir/uptodate/show/120585"
+      },
+      {
+        "id": 7148,
+        "title": "\"Treatment of iron deficiency and iron deficiency anemia in adults\", section on 'Hypophosphatemia, fracture risk, and cardiac iron uptake with FCM'",
+        "url": "https://medilib.ir/uptodate/show/7148"
+      },
+      {
+        "id": 133260,
+        "title": "avacopan",
+        "url": "https://medilib.ir/uptodate/show/133260"
+      },
+      {
+        "id": 8360,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2217%22"
+      },
+      {
+        "id": 3105,
+        "title": "\"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Avacopan'",
+        "url": "https://medilib.ir/uptodate/show/3105"
+      },
+      {
+        "id": 8994,
+        "title": "carbidopa-levodopa",
+        "url": "https://medilib.ir/uptodate/show/8994"
+      },
+      {
+        "id": 8360,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2218%22"
+      },
+      {
+        "id": 4896,
+        "title": "\"Initial pharmacologic treatment of Parkinson disease\", section on 'Adverse effects'",
+        "url": "https://medilib.ir/uptodate/show/4896"
+      },
+      {
+        "id": 85642,
+        "title": "apixaban",
+        "url": "https://medilib.ir/uptodate/show/85642"
+      },
+      {
+        "id": 8360,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2219%22"
+      },
+      {
+        "id": 119889,
+        "title": "\"Risks and prevention of bleeding with oral anticoagulants\", section on 'Risk factors related to the anticoagulant'",
+        "url": "https://medilib.ir/uptodate/show/119889"
+      },
+      {
+        "id": 95395,
+        "title": "\"Venous thromboembolism: Anticoagulation after initial management\", section on 'Selection of agent'",
+        "url": "https://medilib.ir/uptodate/show/95395"
+      },
+      {
+        "id": 9571,
+        "title": "loperamide",
+        "url": "https://medilib.ir/uptodate/show/9571"
+      },
+      {
+        "id": 8360,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2220%22"
+      },
+      {
+        "id": 300,
+        "title": "\"Acute opioid intoxication in adults\", section on 'Loperamide'",
+        "url": "https://medilib.ir/uptodate/show/300"
+      },
+      {
+        "id": 152391,
+        "title": "bictegravir-lenacapavir",
+        "url": "https://medilib.ir/uptodate/show/152391"
+      },
+      {
+        "id": 8360,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2221%22"
+      },
+      {
+        "id": 8360,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2222%22"
+      },
+      {
+        "id": 3766,
+        "title": "\"Switching antiretroviral therapy for adults with HIV-1 and a suppressed viral load\", section on 'Two-drug regimens'",
+        "url": "https://medilib.ir/uptodate/show/3766"
+      },
+      {
+        "id": 150514,
+        "title": "Bulevirtide",
+        "url": "https://medilib.ir/uptodate/show/150514"
+      },
+      {
+        "id": 8360,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2223%22"
+      },
+      {
+        "id": 10136,
+        "title": "pegylated interferon alfa-2a",
+        "url": "https://medilib.ir/uptodate/show/10136"
+      },
+      {
+        "id": 3664,
+        "title": "\"Treatment and prevention of hepatitis D virus infection\", section on 'Bulevirtide'",
+        "url": "https://medilib.ir/uptodate/show/3664"
+      },
+      {
+        "id": 151905,
+        "title": "tebipenem pivoxil",
+        "url": "https://medilib.ir/uptodate/show/151905"
+      },
+      {
+        "id": 8360,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2224%22"
+      },
+      {
+        "id": 8553,
+        "title": "imipenem",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 16109,
+        "title": "\"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'",
+        "url": "https://medilib.ir/uptodate/show/16109"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 8360,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2225%22"
+      },
+      {
+        "id": 126981,
+        "title": "\"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/126981"
+      },
+      {
+        "id": 8360,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2226%22"
+      },
+      {
+        "id": 152390,
+        "title": "Brepocitinib",
+        "url": "https://medilib.ir/uptodate/show/152390"
+      },
+      {
+        "id": 5133,
+        "title": "\"Treatment of recurrent and resistant dermatomyositis and polymyositis in adults\", section on 'Other oral agents'",
+        "url": "https://medilib.ir/uptodate/show/5133"
+      },
+      {
+        "id": 8360,
+        "title": "27",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2227%22"
+      },
+      {
+        "id": 5425,
+        "title": "\"Contraception: Transdermal contraceptive patches\", section on 'Patch types'",
+        "url": "https://medilib.ir/uptodate/show/5425"
+      },
+      {
+        "id": 151976,
+        "title": "Veligrotug",
+        "url": "https://medilib.ir/uptodate/show/151976"
+      },
+      {
+        "id": 8360,
+        "title": "28",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2228%22"
+      },
+      {
+        "id": 7827,
+        "title": "\"Treatment of thyroid eye disease\", section on 'Choice of initial medical therapy'",
+        "url": "https://medilib.ir/uptodate/show/7827"
+      },
+      {
+        "id": 140208,
+        "title": "Teplizumab",
+        "url": "https://medilib.ir/uptodate/show/140208"
+      },
+      {
+        "id": 8360,
+        "title": "29",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2229%22"
+      },
+      {
+        "id": 1811,
+        "title": "\"Type 1 diabetes mellitus: Prevention and disease-modifying therapy\", section on 'Clinical use'",
+        "url": "https://medilib.ir/uptodate/show/1811"
+      },
+      {
+        "id": 8360,
+        "title": "30,31",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2230%22"
+      },
+      {
+        "id": 8360,
+        "title": "32",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2232%22"
+      },
+      {
+        "id": 8360,
+        "title": "33,34",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2233%22"
+      },
+      {
+        "id": 145413,
+        "title": "insulin icodec",
+        "url": "https://medilib.ir/uptodate/show/145413"
+      },
+      {
+        "id": 1801,
+        "title": "\"Insulin therapy in type 2 diabetes mellitus\", section on 'Choice of basal insulin'",
+        "url": "https://medilib.ir/uptodate/show/1801"
+      },
+      {
+        "id": 151250,
+        "title": "Orforglipron",
+        "url": "https://medilib.ir/uptodate/show/151250"
+      },
+      {
+        "id": 8360,
+        "title": "35",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2235%22"
+      },
+      {
+        "id": 8360,
+        "title": "36,37",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2236%22"
+      },
+      {
+        "id": 115980,
+        "title": "semaglutide",
+        "url": "https://medilib.ir/uptodate/show/115980"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Drug therapy\", section on 'GLP-1-based therapies preferred'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 5376,
+        "title": "\"Obesity in adults: Drug therapy\", section on 'Orforglipron'",
+        "url": "https://medilib.ir/uptodate/show/5376"
+      },
+      {
+        "id": 105443,
+        "title": "daratumumab",
+        "url": "https://medilib.ir/uptodate/show/105443"
+      },
+      {
+        "id": 8509,
+        "title": "bortezomib",
+        "url": "https://medilib.ir/uptodate/show/8509"
+      },
+      {
+        "id": 9334,
+        "title": "dexamethasone",
+        "url": "https://medilib.ir/uptodate/show/9334"
+      },
+      {
+        "id": 152278,
+        "title": "iberdomide",
+        "url": "https://medilib.ir/uptodate/show/152278"
+      },
+      {
+        "id": 128088,
+        "title": "daratumumab-hyaluronidase",
+        "url": "https://medilib.ir/uptodate/show/128088"
+      },
+      {
+        "id": 8360,
+        "title": "38",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2238%22"
+      },
+      {
+        "id": 121127,
+        "title": "\"Multiple myeloma: Treatment of relapsed disease\", section on 'Anti-CD38 antibody, IMiD, and dexamethasone'",
+        "url": "https://medilib.ir/uptodate/show/121127"
+      },
+      {
+        "id": 127258,
+        "title": "isatuximab",
+        "url": "https://medilib.ir/uptodate/show/127258"
+      },
+      {
+        "id": 8360,
+        "title": "39",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2239%22"
+      },
+      {
+        "id": 131450,
+        "title": "\"Multiple myeloma: Administration considerations for common therapies\", section on 'Anti-CD38 monoclonal antibodies'",
+        "url": "https://medilib.ir/uptodate/show/131450"
+      },
+      {
+        "id": 8360,
+        "title": "40",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2240%22"
+      },
+      {
+        "id": 151640,
+        "title": "sonrotoclax",
+        "url": "https://medilib.ir/uptodate/show/151640"
+      },
+      {
+        "id": 4735,
+        "title": "\"Treatment of relapsed or refractory mantle cell lymphoma\", section on 'Sonrotoclax'",
+        "url": "https://medilib.ir/uptodate/show/4735"
+      },
+      {
+        "id": 151754,
+        "title": "Pivekimab sunirine",
+        "url": "https://medilib.ir/uptodate/show/151754"
+      },
+      {
+        "id": 8360,
+        "title": "41",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2241%22"
+      },
+      {
+        "id": 120009,
+        "title": "tagraxofusp",
+        "url": "https://medilib.ir/uptodate/show/120009"
+      },
+      {
+        "id": 16911,
+        "title": "\"Blastic plasmacytoid dendritic cell neoplasm\", section on 'Pivekimab sunirine'",
+        "url": "https://medilib.ir/uptodate/show/16911"
+      },
+      {
+        "id": 139997,
+        "title": "teclistamab",
+        "url": "https://medilib.ir/uptodate/show/139997"
+      },
+      {
+        "id": 8360,
+        "title": "42",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2242%22"
+      },
+      {
+        "id": 8360,
+        "title": "43",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2243%22"
+      },
+      {
+        "id": 8360,
+        "title": "44",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2244%22"
+      },
+      {
+        "id": 121127,
+        "title": "\"Multiple myeloma: Treatment of relapsed disease\", section on 'Single-agent teclistamab, elranatamab, or linvoseltamab'",
+        "url": "https://medilib.ir/uptodate/show/121127"
+      },
+      {
+        "id": 121127,
+        "title": "\"Multiple myeloma: Treatment of relapsed disease\", section on 'Teclistamab plus daratumumab'",
+        "url": "https://medilib.ir/uptodate/show/121127"
+      },
+      {
+        "id": 107696,
+        "title": "Venetoclax",
+        "url": "https://medilib.ir/uptodate/show/107696"
+      },
+      {
+        "id": 128935,
+        "title": "decitabine-cedazuridine",
+        "url": "https://medilib.ir/uptodate/show/128935"
+      },
+      {
+        "id": 8360,
+        "title": "45",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2245%22"
+      },
+      {
+        "id": 8797,
+        "title": "azacitidine",
+        "url": "https://medilib.ir/uptodate/show/8797"
+      },
+      {
+        "id": 8855,
+        "title": "decitabine",
+        "url": "https://medilib.ir/uptodate/show/8855"
+      },
+      {
+        "id": 4530,
+        "title": "\"Acute myeloid leukemia: Management of medically unfit adults\", section on 'HMA plus venetoclax'",
+        "url": "https://medilib.ir/uptodate/show/4530"
+      },
+      {
+        "id": 147209,
+        "title": "Zenocutuzumab",
+        "url": "https://medilib.ir/uptodate/show/147209"
+      },
+      {
+        "id": 8360,
+        "title": "46",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2246%22"
+      },
+      {
+        "id": 8360,
+        "title": "46,47",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2246%22"
+      },
+      {
+        "id": 2524,
+        "title": "\"Systemic therapy for advanced unresectable and metastatic cholangiocarcinoma\", section on 'Zenocutuzumab'",
+        "url": "https://medilib.ir/uptodate/show/2524"
+      },
+      {
+        "id": 98764,
+        "title": "nivolumab",
+        "url": "https://medilib.ir/uptodate/show/98764"
+      },
+      {
+        "id": 152246,
+        "title": "vusolimogene oderparepvec",
+        "url": "https://medilib.ir/uptodate/show/152246"
+      },
+      {
+        "id": 8360,
+        "title": "48",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2248%22"
+      },
+      {
+        "id": 8360,
+        "title": "49",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2249%22"
+      },
+      {
+        "id": 15408,
+        "title": "\"Systemic treatment of metastatic melanoma with BRAF and other molecular alterations\"",
+        "url": "https://medilib.ir/uptodate/show/15408"
+      },
+      {
+        "id": 15863,
+        "title": "\"Systemic treatment of metastatic melanoma lacking a BRAF mutation\", section on 'Vusolimogene oderparepvec'",
+        "url": "https://medilib.ir/uptodate/show/15863"
+      },
+      {
+        "id": 108314,
+        "title": "atezolizumab",
+        "url": "https://medilib.ir/uptodate/show/108314"
+      },
+      {
+        "id": 8360,
+        "title": "50",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2250%22"
+      },
+      {
+        "id": 2966,
+        "title": "\"Adjuvant therapy for muscle-invasive urothelial carcinoma of the bladder\", section on 'Adjuvant atezolizumab (postoperative ctDNA guided selection of adjuvant therapy)'",
+        "url": "https://medilib.ir/uptodate/show/2966"
+      },
+      {
+        "id": 126407,
+        "title": "enfortumab vedotin",
+        "url": "https://medilib.ir/uptodate/show/126407"
+      },
+      {
+        "id": 96957,
+        "title": "pembrolizumab",
+        "url": "https://medilib.ir/uptodate/show/96957"
+      },
+      {
+        "id": 8487,
+        "title": "gemcitabine",
+        "url": "https://medilib.ir/uptodate/show/8487"
+      },
+      {
+        "id": 9271,
+        "title": "cisplatin",
+        "url": "https://medilib.ir/uptodate/show/9271"
+      },
+      {
+        "id": 8360,
+        "title": "51",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2251%22"
+      },
+      {
+        "id": 112994,
+        "title": "durvalumab",
+        "url": "https://medilib.ir/uptodate/show/112994"
+      },
+      {
+        "id": 2991,
+        "title": "\"Neoadjuvant therapy for localized muscle-invasive urothelial carcinoma of the bladder\", section on 'Enfortumab vedotin plus pembrolizumab (cisplatin-eligible)'",
+        "url": "https://medilib.ir/uptodate/show/2991"
+      },
+      {
+        "id": 152125,
+        "title": "zidesamtinib",
+        "url": "https://medilib.ir/uptodate/show/152125"
+      },
+      {
+        "id": 8360,
+        "title": "52",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2252%22"
+      },
+      {
+        "id": 16538,
+        "title": "\"Personalized, genotype-directed therapy for advanced non-small cell lung cancer\", section on 'ROS1 rearrangements'",
+        "url": "https://medilib.ir/uptodate/show/16538"
+      },
+      {
+        "id": 152084,
+        "title": "gedatolisib",
+        "url": "https://medilib.ir/uptodate/show/152084"
+      },
+      {
+        "id": 8784,
+        "title": "fulvestrant",
+        "url": "https://medilib.ir/uptodate/show/8784"
+      },
+      {
+        "id": 99759,
+        "title": "palbociclib",
+        "url": "https://medilib.ir/uptodate/show/99759"
+      },
+      {
+        "id": 8360,
+        "title": "53",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2253%22"
+      },
+      {
+        "id": 8360,
+        "title": "54",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2254%22"
+      },
+      {
+        "id": 778,
+        "title": "\"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 wild-type'",
+        "url": "https://medilib.ir/uptodate/show/778"
+      },
+      {
+        "id": 152365,
+        "title": "daraxonrasib",
+        "url": "https://medilib.ir/uptodate/show/152365"
+      },
+      {
+        "id": 8360,
+        "title": "55",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2255%22"
+      },
+      {
+        "id": 8360,
+        "title": "56",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2256%22"
+      },
+      {
+        "id": 127094,
+        "title": "\"Second- and later-line systemic therapy for metastatic exocrine pancreatic cancer\", section on 'Daraxonrasib'",
+        "url": "https://medilib.ir/uptodate/show/127094"
+      },
+      {
+        "id": 147508,
+        "title": "datopotamab deruxtecan",
+        "url": "https://medilib.ir/uptodate/show/147508"
+      },
+      {
+        "id": 8360,
+        "title": "57",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2257%22"
+      },
+      {
+        "id": 8360,
+        "title": "58",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2258%22"
+      },
+      {
+        "id": 14227,
+        "title": "\"ER/PR-negative, HER2-negative (triple-negative) breast cancer\", section on 'PD-L1 negative cancers (CPS less than 10)'",
+        "url": "https://medilib.ir/uptodate/show/14227"
+      },
+      {
+        "id": 126410,
+        "title": "fam-trastuzumab deruxtecan",
+        "url": "https://medilib.ir/uptodate/show/126410"
+      },
+      {
+        "id": 8360,
+        "title": "59",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2259%22"
+      },
+      {
+        "id": 9735,
+        "title": "paclitaxel",
+        "url": "https://medilib.ir/uptodate/show/9735"
+      },
+      {
+        "id": 10101,
+        "title": "trastuzumab",
+        "url": "https://medilib.ir/uptodate/show/10101"
+      },
+      {
+        "id": 85639,
+        "title": "pertuzumab",
+        "url": "https://medilib.ir/uptodate/show/85639"
+      },
+      {
+        "id": 9391,
+        "title": "doxorubicin",
+        "url": "https://medilib.ir/uptodate/show/9391"
+      },
+      {
+        "id": 9308,
+        "title": "cyclophosphamide",
+        "url": "https://medilib.ir/uptodate/show/9308"
+      },
+      {
+        "id": 8360,
+        "title": "60",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2260%22"
+      },
+      {
+        "id": 106774,
+        "title": "\"Neoadjuvant therapy for patients with HER2-positive breast cancer\", section on 'Stage IIB and III HER2-positive breast cancer'",
+        "url": "https://medilib.ir/uptodate/show/106774"
+      },
+      {
+        "id": 151542,
+        "title": "Vepdegestrant",
+        "url": "https://medilib.ir/uptodate/show/151542"
+      },
+      {
+        "id": 8360,
+        "title": "61",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2261%22"
+      },
+      {
+        "id": 778,
+        "title": "\"Treatment for hormone receptor-positive, HER2-negative advanced breast cancer\", section on 'ESR1 mutation-positive'",
+        "url": "https://medilib.ir/uptodate/show/778"
+      },
+      {
+        "id": 10159,
+        "title": "nabpaclitaxel",
+        "url": "https://medilib.ir/uptodate/show/10159"
+      },
+      {
+        "id": 8360,
+        "title": "62",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2262%22"
+      },
+      {
+        "id": 8360,
+        "title": "63",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2263%22"
+      },
+      {
+        "id": 2479,
+        "title": "\"Treatment of locally advanced exocrine pancreatic cancer\", section on 'Gemcitabine plus nabpaclitaxel and tumor treating fields'",
+        "url": "https://medilib.ir/uptodate/show/2479"
+      },
+      {
+        "id": 151170,
+        "title": "Relacorilant",
+        "url": "https://medilib.ir/uptodate/show/151170"
+      },
+      {
+        "id": 8683,
+        "title": "bevacizumab",
+        "url": "https://medilib.ir/uptodate/show/8683"
+      },
+      {
+        "id": 8360,
+        "title": "64",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2264%22"
+      },
+      {
+        "id": 8360,
+        "title": "65,66",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2265%22"
+      },
+      {
+        "id": 3240,
+        "title": "\"Medical treatment for relapsed epithelial ovarian, fallopian tube, or peritoneal cancer: Platinum-resistant disease\", section on 'Prior bevacizumab exposure: Nabpaclitaxel plus relacorilant'",
+        "url": "https://medilib.ir/uptodate/show/3240"
+      },
+      {
+        "id": 8464,
+        "title": "fluorouracil",
+        "url": "https://medilib.ir/uptodate/show/8464"
+      },
+      {
+        "id": 9548,
+        "title": "leucovorin",
+        "url": "https://medilib.ir/uptodate/show/9548"
+      },
+      {
+        "id": 10180,
+        "title": "oxaliplatin",
+        "url": "https://medilib.ir/uptodate/show/10180"
+      },
+      {
+        "id": 118325,
+        "title": "encorafenib",
+        "url": "https://medilib.ir/uptodate/show/118325"
+      },
+      {
+        "id": 9209,
+        "title": "cetuximab",
+        "url": "https://medilib.ir/uptodate/show/9209"
+      },
+      {
+        "id": 8573,
+        "title": "irinotecan",
+        "url": "https://medilib.ir/uptodate/show/8573"
+      },
+      {
+        "id": 8360,
+        "title": "67",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2267%22"
+      },
+      {
+        "id": 2503,
+        "title": "\"Initial systemic therapy for metastatic colorectal cancer\", section on 'RAS wild-type, BRAF V600E-mutant tumors'",
+        "url": "https://medilib.ir/uptodate/show/2503"
+      },
+      {
+        "id": 8524,
+        "title": "budesonide-formoterol",
+        "url": "https://medilib.ir/uptodate/show/8524"
+      },
+      {
+        "id": 8496,
+        "title": "glycopyrrolate",
+        "url": "https://medilib.ir/uptodate/show/8496"
+      },
+      {
+        "id": 8360,
+        "title": "68",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2268%22"
+      },
+      {
+        "id": 129094,
+        "title": "budesonide-glycopyrrolate-formoterol",
+        "url": "https://medilib.ir/uptodate/show/129094"
+      },
+      {
+        "id": 9167,
+        "title": "budesonide",
+        "url": "https://medilib.ir/uptodate/show/9167"
+      },
+      {
+        "id": 8360,
+        "title": "69",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2269%22"
+      },
+      {
+        "id": 532,
+        "title": "\"Ongoing monitoring and titration of asthma therapies in adolescents and adults\", section on 'Patients using medium-dose ICS-LABA (Step 4)'",
+        "url": "https://medilib.ir/uptodate/show/532"
+      },
+      {
+        "id": 148762,
+        "title": "Acoltremon",
+        "url": "https://medilib.ir/uptodate/show/148762"
+      },
+      {
+        "id": 8360,
+        "title": "70",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2270%22"
+      },
+      {
+        "id": 6894,
+        "title": "\"Dry eye disease\", section on 'Topical acoltremon'",
+        "url": "https://medilib.ir/uptodate/show/6894"
+      },
+      {
+        "id": 151086,
+        "title": "pegzilarginase",
+        "url": "https://medilib.ir/uptodate/show/151086"
+      },
+      {
+        "id": 8360,
+        "title": "71",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2271%22"
+      },
+      {
+        "id": 8360,
+        "title": "72",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2272%22"
+      },
+      {
+        "id": 8360,
+        "title": "73",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2273%22"
+      },
+      {
+        "id": 2923,
+        "title": "\"Urea cycle disorders: Management\", section on 'Maintenance pharmacologic therapy'",
+        "url": "https://medilib.ir/uptodate/show/2923"
+      },
+      {
+        "id": 139596,
+        "title": "Deucravacitinib",
+        "url": "https://medilib.ir/uptodate/show/139596"
+      },
+      {
+        "id": 8360,
+        "title": "74",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2274%22"
+      },
+      {
+        "id": 141133,
+        "title": "\"Treatment of peripheral psoriatic arthritis\", section on 'Deucravacitinib'",
+        "url": "https://medilib.ir/uptodate/show/141133"
+      },
+      {
+        "id": 117992,
+        "title": "pegvaliase",
+        "url": "https://medilib.ir/uptodate/show/117992"
+      },
+      {
+        "id": 8360,
+        "title": "75,76",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2275%22"
+      },
+      {
+        "id": 2919,
+        "title": "\"Phenylketonuria: Overview\", section on 'Phenylalanine ammonia-lyase (pegvaliase)'",
+        "url": "https://medilib.ir/uptodate/show/2919"
+      },
+      {
+        "id": 8360,
+        "title": "77-80",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2277%22"
+      },
+      {
+        "id": 8360,
+        "title": "81",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2281%22"
+      },
+      {
+        "id": 8360,
+        "title": "82",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2282%22"
+      },
+      {
+        "id": 8360,
+        "title": "83",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2283%22"
+      },
+      {
+        "id": 8360,
+        "title": "84",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2284%22"
+      },
+      {
+        "id": 129849,
+        "title": "\"COVID-19: Vaccines\", section on 'Indications for vaccination'",
+        "url": "https://medilib.ir/uptodate/show/129849"
+      },
+      {
+        "id": 8360,
+        "title": "85",
+        "url": "https://medilib.ir/uptodate/show/8360#rid%2285%22"
+      },
+      {
+        "id": 3030,
+        "title": "\"Dengue virus infection: Prevention\", section on 'TV003 (Butantan-DV)'",
+        "url": "https://medilib.ir/uptodate/show/3030"
+      }
+    ]
+  }
+}

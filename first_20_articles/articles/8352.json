@@ -1,0 +1,472 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/8352"
+  },
+  "article": {
+    "id": 8352,
+    "expected_title": "What's new in nephrology and hypertension",
+    "url": "https://medilib.ir/uptodate/show/8352",
+    "final_url": "https://medilib.ir/uptodate/show/8352",
+    "page_title": "What's new in nephrology and hypertension",
+    "extracted_at": "2026-11-20T20:52:27.534Z",
+    "title_matches_expected": true,
+    "title": "What's new in nephrology and hypertension",
+    "contributors": {
+      "authors": [
+        "John P Forman, MD, MSc",
+        "Albert Q Lam, MD",
+        "Eric N Taylor, MD, MSc, FASN",
+        "Sara Jdiaa, MD"
+      ]
+    },
+    "literature_review_current_through": "May 2026. |",
+    "topic_last_updated": "Aug 07, 2026",
+    "version": "Topic 8352 Version 14407.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "ACUTE AND CHRONIC KIDNEY DISEASE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Sodium-glucose cotransporter 2 inhibitor therapy and postoperative acute kidney injury (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sodium-glucose cotransporter 2 inhibitors (SGLT2i) have been proposed to reduce the risk of postoperative acute tubular necrosis. In a trial that randomly assigned 784 patients undergoing elective cardiac surgery to a four-day course of an SGLT2i (dapagliflozin) or placebo starting the day before surgery, the rate of acute kidney injury (AKI) was lower in the SGLT2i group (28 versus 52 percent) [1]. However, there were no differences in major adverse kidney events, such as the need for kidney replacement therapy. In addition, these findings were driven by AKI defined by low urine volume criteria, and SGLT2i therapy can increase urine output. Although provocative, these data are not sufficient to support the routine use of an SGLT2i to prevent AKI in individuals undergoing cardiac surgery. (See \"Possible prevention and therapy of ischemic acute tubular necrosis\", section on 'Experimental and unproven measures for the prevention of ischemic acute tubular necrosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "A trial of finerenone in nondiabetic chronic kidney disease (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finerenone has been shown to improve kidney and cardiovascular outcomes in patients with diabetic kidney disease and albuminuria. The effect of this agent in nondiabetic chronic kidney disease (CKD) was examined in a trial in which nearly 1600 patients who had estimated glomerular filtration rate (eGFR) 25 to <90 mL/min/1.73m2 and urine albumin-to-creatinine ratio 200 to 3500 mg/g were randomly assigned to finerenone or placebo [2]. At three years, the rates of a composite kidney outcome (ie, a 57 percent reduction in eGFR or kidney failure) and of a composite cardiovascular outcome (ie, hospitalization for heart failure or cardiovascular death) were lower with finerenone, although these findings were not statistically significant. Given these findings and extrapolating from those in patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic CKD who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Meta-analysis of finerenone in patients with diabetic and nondiabetic chronic kidney disease (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "We currently suggest finerenone as kidney-protective therapy in patients with diabetic kidney disease and albuminuria. An individual participant-level meta-analysis combined two trials of finerenone in diabetic kidney disease with one trial in nondiabetic kidney disease (totaling 14,574 patients) [3]. Compared with placebo, finerenone reduced the rate of kidney failure (4.7 versus 5.5 percent; hazard ratio [HR] 0.85, 95% CI 0.74-0.99), hospitalization for heart failure (3.6 versus 4.6 percent; HR 0.78, 95% CI 0.66-0.92), and all-cause mortality (7.8 versus 8.8 percent; HR 0.88, 95% CI 0.79-0.99); the effects of finerenone were similar in those with and without diabetes. In addition to patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic chronic kidney disease (CKD) who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "In-hospital acute kidney injury and subsequent risk of chronic kidney disease (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Patients who recover from dialysis-requiring acute kidney injury (AKI) often are burdened with advanced chronic kidney disease (CKD); however, the magnitude of CKD risk conferred by less severe episodes of AKI is unclear. In an observational study that followed over 1600 hospitalization survivors for a median of 4.6 years, mild to moderate in-hospital AKI was associated with only a small permanent reduction in kidney function (ie, decrease in estimated glomerular filtration rate [eGFR] <2 mL/min/1.73 m2), without a subsequent acceleration of age-associated decline in eGFR [4]. Although all patients who recover from AKI should be evaluated after hospital discharge to monitor kidney function, these data suggest that many patients with in-hospital AKI may reasonably hope for a favorable long-term kidney prognosis. (See \"Kidney and patient outcomes after acute kidney injury in adults\", section on 'Degree of recovery'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Kidney recovery and survival in patients with multiple myeloma and light chain cast nephropathy (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Acute kidney injury (AKI) due to light chain cast nephropathy (LCCN) is a major complication in patients with multiple myeloma (MM); prompt diagnosis and intervention are important to prevent irreversible kidney damage. In a recent multicenter cohort study of over 350 patients with LCCN, of whom nearly 80 percent received bortezomib-based chemotherapy as first-line therapy, a myeloma response was achieved in 93 percent, and a complete or partial renal response (as defined by International Myeloma Working Group criteria) was achieved in 53 percent [5]. Factors associated with renal response included >50 percent serum free light chain reduction, IgG kappa isotype, dialysis, and performance status; achieving a renal response was associated with improved overall survival. These findings highlight the importance of effective anti-myeloma therapy in kidney recovery and survival among patients with LCCN. (See \"Kidney disease in multiple myeloma and other monoclonal gammopathies: Treatment and prognosis\", section on 'Prognosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "mTOR inhibitors for high-risk renal angiomyolipomas in patients with tuberous sclerosis complex (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Among patients with tuberous sclerosis complex (TSC) and high-risk renal angiomyolipomas (AMLs), mammalian target of rapamycin (mTOR) inhibitors can reduce the size and growth of AMLs; however, data demonstrating improvement in clinically important outcomes are limited. In an observational study that included 39 patients with TSC and renal AMLs, initiation of mTOR inhibitor therapy (predominantly everolimus) was associated with decreases in the rates of AML-related hemorrhage (0.061 to 0.007 per patient-year) and selective arterial embolization (0.197 to 0.020 per patient-year) when comparing pretreatment with posttreatment periods [6]. These and other data support the use of mTOR inhibitors to prevent complications of renal AMLs in selected patients with TSC. (See \"Renal angiomyolipomas (AMLs): Management\", section on 'Patients with known tuberous sclerosis complex or lymphangioleiomyomatosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Finerenone in type 1 diabetes and diabetic kidney disease (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In addition to angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs), multiple other agents have been shown to slow kidney disease progression in patients with type 2 diabetes, including sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and finerenone; however, these medications are either contraindicated in patients with type 1 diabetes or have not been studied in this population. In one trial that included nearly 250 patients with type 1 diabetes and kidney disease already taking an ACE inhibitor or ARB, the addition of finerenone reduced albuminuria at six months by 25 percent relative to placebo; finerenone also increased the incidence of hyperkalemia fourfold [7]. Trials examining cardiovascular outcomes and kidney failure with finerenone in patients with type 1 diabetes and kidney disease are needed. (See \"Treatment of diabetic kidney disease\", section on 'Evidence for finerenone'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "DIALYSIS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Kidney replacement therapy and cardiac troponin levels (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Limited data exist on the effects of kidney replacement therapy (KRT) on serum levels of high-sensitivity cardiac troponin I and T (hs-cTnI and hs-cTnT). In a crossover trial in which 23 asymptomatic patients with end-stage kidney disease were randomly assigned to post-dilution hemodiafiltration (HDF) or high-flux hemodialysis (HD), HDF reduced pre-session levels of hs-cTnI and hs-cTnT by 24.5 and 34 percent; HD did not change hs-cTnI or hs-cTnT [8]. At baseline, 9 of 23 patients had elevated hs-cTnI and all had elevated hs-cTnT. Although these and other findings demonstrate the difficulty of interpreting cardiac troponin levels in patients on KRT, our initial approach to evaluating suspected acute myocardial infarction in such patients remains the same as that in individuals with preserved kidney function. (See \"Cardiac troponins in patients with kidney disease\", section on 'Effect of kidney replacement therapy on troponin levels'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ultrafiltration in steady concentration peritoneal dialysis (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Steady concentration peritoneal dialysis (PD) is a novel method of increasing ultrafiltration (UF) that uses a device connected to a standard PD catheter to administer a continuous supply of intraperitoneal glucose at a fixed rate. In a crossover trial, 19 patients on continuous ambulatory PD were assigned in random order to a control PD regimen or to a regimen that replaced one daily 2.5% dextrose exchange with a steady concentration PD exchange for three days per week and a 1.5% dextrose exchange for four days per week [9]. Compared with a control five-hour 2.5% dextrose exchange, a five-hour exchange using steady concentration PD increased UF by 381 mL and improved glucose efficiency (ie, UF volume in relation to glucose absorption). Although more data are needed, steady concentration PD holds promise as a way of facilitating volume control while reducing glucose load. (See \"Evaluation and management of hypervolemia in patients on peritoneal dialysis\", section on 'Investigational therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Web-based application for prescribing incremental hemodialysis (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Incremental hemodialysis (HD) permits a reduced time per HD session or a reduced number of sessions per week and is increasingly being considered as an option for patients starting maintenance HD who have significant residual kidney function. A new web-based application estimates the amount of HD that needs to be prescribed based on residual kidney urea clearance; it is easy to use and provides twice weekly and thrice weekly incremental HD regimens that deliver a default, though adjustable, weekly standard Kt/V value of 2.3 [10]. This and other calculators can facilitate the prescription of incremental HD. (See \"Incremental hemodialysis\", section on 'How to prescribe incremental hemodialysis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Outcomes associated with incremental peritoneal dialysis (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In contrast to conventional peritoneal dialysis (PD), which targets minimum values of small-solute removal as assessed by Kt/V urea, incremental PD generally starts with a relatively small number of low-volume, low-dextrose exchanges that are adjusted over time to optimize symptoms, electrolytes, and fluid balance. It has been used for patients with significant residual kidney function to improve quality of life since the intensity of dialysis is lower. In an observational study that included over 1300 patients initiating maintenance PD, incremental compared with conventional PD was not associated with higher rates of mortality, peritonitis, or transfer to hemodialysis [11]. Although more outcome studies are needed, these data suggest that incremental PD is a safe option for selected patients starting PD. (See \"Prescribing peritoneal dialysis\", section on 'Targeted versus untargeted dialysis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "FLUID, ELECTROLYTES, AND ACID-BASE BALANCE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Bicarbonate therapy for critically ill patients with acute metabolic acidosis (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Indications for bicarbonate therapy in critically ill patients with metabolic acidosis remain controversial. In a multicenter trial in which 500 critically ill patients requiring vasopressors and with a serum pH <7.3 were randomly assigned to receive intravenous sodium bicarbonate or placebo (5% dextrose) for up to five hours to target a pH of 7.3, rates of major adverse kidney events (death, need for kidney replacement therapy, or persistent kidney dysfunction) at 30 days were similar between the bicarbonate therapy and placebo groups (40.2 percent versus 39.4 percent, respectively) [12]. We suggest sodium bicarbonate therapy for patients with acute metabolic acidosis and severe acidemia (ie, arterial pH <7.1 and serum HCO3 ≤6 mEq/L); for those with less severe acidemia (eg, arterial pH 7.1 to 7.2 and serum HCO3 between 6 and 13 mEq/L), some authors would treat with sodium bicarbonate therapy. (See \"Approach to the adult with metabolic acidosis\", section on 'Acute metabolic acidosis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GLOMERULAR DISEASE AND VASCULITIS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Final 2.5-year data for atrasentan in IgA nephropathy (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Atrasentan, an endothelin receptor antagonist, was shown in an interim analysis of the ALIGN trial to reduce proteinuria in adults with IgA nephropathy (IgAN), leading to its accelerated approval by the US Food and Drug Administration; however, its effects on kidney function are unclear. In the final analysis of the ALIGN trial, which included 404 adults with IgAN, patients randomly assigned to atrasentan had a smaller decline in estimated glomerular filtration rate at 136 weeks compared with those receiving placebo (-7.5 versus -9.9 mL/min/1.73 m2), but this difference was not statistically significant [13]. Rates of adverse events were similar between the groups, although fluid retention, anemia, and vasodilation or hypotension were more frequent with atrasentan. While atrasentan effectively reduces proteinuria, its effects on attenuating kidney function decline in patients with IgAN appear to be modest. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Endothelin receptor antagonists and dual endothelin angiotensin receptor antagonists'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Plasma exchange in ANCA-associated vasculitis with diffuse alveolar hemorrhage (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether plasma exchange improves survival in severe antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) with diffuse alveolar hemorrhage is unclear. In a multicenter cohort of over 180 patients with severe AAV-related diffuse alveolar hemorrhage admitted to an intensive care unit (ICU), plasma exchange did not impact survival at 30, 90, or 180 days [14]. Plasma exchange also did not impact the median duration of invasive mechanical ventilation, ICU length of stay, or overall length of hospitalization. These findings suggest that plasma exchange may not meaningfully improve outcomes in severe AAV-related diffuse alveolar hemorrhage, even among critically ill patients. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Role of plasma exchange'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Telitacicept in patients with IgA nephropathy (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A Proliferation-Inducing Ligand (APRIL) and B cell activating factor (BAFF) are signaling proteins implicated in the pathogenesis of IgA nephropathy (IgAN) and targets for therapeutics. In an interim analysis of an ongoing phase 3 trial in which 318 Chinese patients with IgAN were randomly assigned to the investigational APRIL/BAFF inhibitor telitacicept or placebo, patients receiving telitacicept had a greater reduction in proteinuria from baseline at 39 weeks (59 versus 9 percent) [15]. Treatment-related adverse events were more frequent with telitacicept and were largely due to more injection site reactions and reductions in immunoglobulin levels; rates of infection were similar between the groups. These findings are similar to those reported in trials of other APRIL and APRIL/BAFF inhibitors; the long-term effects of telitacicept on kidney function decline will be reported pending completion of the two-year trial. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Investigational therapies'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Predicting response to glucocorticoid therapy in IgA nephropathy (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Immunosuppressive therapy (eg, glucocorticoids) is warranted for certain patients with IgA nephropathy (IgAN) who are at high risk for or already have progressive disease; however, data are limited on factors that predict treatment response. Based on a secondary analysis of the TESTING trial (which compared oral glucocorticoids with placebo), a model incorporating selected patient characteristics was developed to predict individual patient response to glucocorticoids [16]. This tool calculates an individual patient's absolute risk reduction (ARR) of the primary outcome (sustained decrease in estimated glomerular filtration rate ≥40 percent from baseline, kidney failure requiring dialysis or transplantation, or death due to kidney disease) at four years in response to glucocorticoids; when applied to the trial cohort, patients with a predicted ARR >10 percent had a greater benefit with methylprednisolone than those with a predicted ARR ≤10 percent. This tool can be helpful for making treatment decisions for patients with IgAN. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Systemic glucocorticoids'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hepatotoxicity with avacopan (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The US Food and Drug Administration (FDA) released a safety alert regarding drug-induced liver injury (DILI) associated with the C5a receptor inhibitor avacopan [17]. The FDA identified 76 cases of DILI linked to avacopan, mainly among patients in Japan (87 percent); 54 patients required hospitalization, 7 developed vanishing bile duct syndrome, and 8 died. The median time to onset of DILI was 46 days, and most patients had a cholestatic or mixed pattern of liver injury, characterized by substantial elevations in total bilirubin and alkaline phosphatase. The FDA recommends liver tests every two weeks during the first month of treatment with avacopan followed by monthly tests for five months; avacopan should be stopped if the patient has an alanine aminotransferase or aspartate aminotransferase >3 times the upper limit of normal (ULN), an alkaline phosphatase >2 times the ULN, or symptoms of cholestasis. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Avacopan'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Two-year data for iptacopan in IgA nephropathy (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Iptacopan, an oral complement factor B inhibitor, was shown in an interim analysis of the APPLAUSE phase 3 trial to reduce proteinuria at nine months in adults with IgA nephropathy (IgAN), leading to its accelerated approval by the US Food and Drug Administration; its effects on kidney function have been unclear. In the final analysis of the APPLAUSE trial, in which 477 adults with IgAN were randomly assigned to iptacopan or placebo for 24 months, the rate of estimated glomerular filtration rate (eGFR) decline over two years was slower with iptacopan (-3.1 versus -6.1 mL/min/1.73 m2) [18]. Overall adverse events (mostly mild to moderate) were similar between the groups, although infections, including those potentially caused by encapsulated bacteria, were more frequent with iptacopan. These data further support use of iptacopan as an alternative to systemic glucocorticoids in adults with IgAN who are at high to very high risk of disease progression. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Complement inhibitors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Hydralazine-associated vasculitis (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hydralazine has been linked to vasculitis in case reports, but its real-world risk relative to other antihypertensive agents is unclear. In a population-based cohort of adults aged ≥66 years, vasculitis occurred in 328 of 40,748 patients (0.8 percent) who were newly prescribed hydralazine compared with 2712 of 542,388 patients (0.5 percent) who were newly prescribed an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB; hazard ratio 1.19, 95% CI 1.04-1.37) [19]. However, the increased risk with hydralazine was no longer significant after accounting for the competing risk of death, and overall event rates were low in both groups. These findings suggest that although hydralazine may modestly increase the relative risk of vasculitis, the absolute risk is small and unlikely to meaningfully affect most prescribing decisions. (See \"Clinical spectrum of antineutrophil cytoplasmic autoantibodies\", section on 'Hydralazine'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Diagnostic performance and predictive value of ANCA testing (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The diagnostic value of antineutrophil cytoplasmic autoantibody (ANCA) testing varies according to the clinical scenario. In a retrospective study of over 5000 patients who underwent ANCA testing using indirect immunofluorescence (IIF), 12 percent had a positive ANCA test, but less than 1 percent were ultimately diagnosed with ANCA-associated vasculitis [20]. ANCA testing with IIF had a negative predictive value of 100 percent for granulomatosis with polyangiitis and microscopic polyangiitis but a positive predictive value of only 6 percent. These findings suggest that while a negative ANCA test may be useful for ruling out ANCA-associated vasculitis, a positive test must be interpreted cautiously. (See \"Clinical spectrum of antineutrophil cytoplasmic autoantibodies\", section on 'ANCA-associated vasculitis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "HYPERTENSION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Financial incentives and hypertension control in a large health system (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Financial incentives, such as pay-for-performance (P4P) programs in the United States, may improve processes of care for hypertension control, but their impact on clinical outcomes is uncertain. In an observational study of over 330,000 patients with hypertension within a large United States health care system, 63 of 103 primary care practices adopted financial incentives to physicians for blood pressure (BP) control (defined as <140/90 mmHg) [21]. Incentives were associated with a 4.1 percent increase in BP control among patients whose systolic BP was 140 to 145 mmHg and a 2.2 percent increase among those whose systolic BP was >145 mmHg. However, these increases appeared largely due to more frequent BP remeasurement at incentivized versus non-incentivized clinics; intensification of antihypertensive medications did not differ significantly between these groups. This study highlights the complexity and potential downstream effects of financial incentives as a means of improving hypertension quality metrics. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Effect of a multicomponent hypertension intervention on blood pressure reduction and control rates (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Systems-level interventions that enhance usual care can improve blood pressure control. However, successful implementation strategies in low-income, underserved populations are needed. In a cluster randomized trial from the United States that included 36 primary care clinics and nearly 1300 low-income adults with hypertension, a multicomponent intervention that implemented team-based care, algorithm-based antihypertensive titration protocols, clinician feedback, and home monitoring reduced blood pressure compared with usual care at 18 months (mean systolic/diastolic 16/9 versus 9/5 mmHg); control of systolic pressure to <130 mmHg at 18 months was also superior (48 versus 36 percent) [22]. These data illustrate the importance of systems-level interventions to increase the attainment of blood pressure control in a real-world setting and demonstrate successful implementation of known team-based strategies in low-income populations. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "NEPHROLITHIASIS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Adherence intervention to improve fluid intake in patients with kidney stones (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "For all patients with kidney stones, we suggest sufficient fluid intake to consistently produce at least 2 and preferably 2.5 liters of urine per day; however, adherence to increased fluid intake is challenging. In a recent trial in which over 1650 patients with a history of stone disease and low 24-hour urine volumes were randomly assigned to a multicomponent behavioral intervention to promote increased fluid intake or to guideline-concordant care (control), 24-hour urine volume increased from baseline in both groups and was higher in the intervention group but remained below 2 liters [23]. At a median of 738 days, there was no significant difference between the groups in radiographic stone growth ≥2 mm or new stone formation or in symptomatic stone events. These findings suggest that alternative adherence strategies and other prevention strategies that go beyond increasing fluid intake should be considered. (See \"Kidney stones in adults: Prevention of recurrent kidney stones\", section on 'Fluid intake'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "TRANSPLANTATION"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Fracture risk in kidney transplant recipients (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kidney transplant recipients are at risk for bone loss and fracture, with reported fracture rates varying widely and evolving over time. A recent large cohort study of nearly 4000 first-time kidney transplant recipients in Denmark reported a 10-year fracture risk of 21 percent, with most fractures located at the peripheral skeleton [24]. The median time from transplant to fracture was 4.2 years, with highest fracture risk between 1 and 2.5 years posttransplant, and 28 percent of patients with a first fracture had a subsequent fracture. These findings further confirm that kidney transplant recipients are at high risk for fracture and emphasize the importance of measures to prevent posttransplant bone loss and fracture in this population. (See \"Prevention and treatment of bone disease after kidney transplantation\", section on 'Fracture incidence'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Increasing use of organs from donation after circulatory death donors (March 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Given the severe shortage of donated organs and the limited number of brain-dead donors, another option for organ donation is donation after circulatory death (DCD), in which organs are retrieved from donors with loss of circulatory function. An analysis of Organ Procurement and Transplantation Network (OPTN) data between 2000 and 2025 found that the number of DCD donors increased from 118 in 2000 (2 percent of all donors) to 8129 in 2025 (49 percent) [25]. This rise was seen across all organ types, with 49, 43, 24, 24, and 12 percent of recovered kidneys, livers, lungs, hearts, and pancreases coming from DCD donors by 2025. The use of normothermic regional perfusion in the recovery of DCD organs, which enhances DCD organ function, has contributed to this growing trend in DCD donation. (See \"Evaluation of the potential deceased organ donor (adult)\", section on 'Donation after circulatory death'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "OTHER NEPHROLOGY"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Preprocedural desmopressin for percutaneous kidney biopsy (April 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use of desmopressin prior to a kidney biopsy to prevent bleeding is controversial. In a recent meta-analysis of 17 studies (over 5300 patients) comparing desmopressin with placebo or no intervention, use of desmopressin was not associated with a statistically significant reduction in total bleeding risk, although there was substantial heterogeneity among studies [26]. A subgroup analysis found differences in benefit depending on route of administration, with a decreased risk of bleeding seen with subcutaneous and intranasal administration and increased risk with intravenous administration. We reserve desmopressin for patients with an elevated bleeding time; in the absence of a bleeding time, administration can be considered on a case-by-case basis, weighing the risk of bleeding against the risks of desmopressin administration (eg, thrombosis, hyponatremia). (See \"The kidney biopsy\", section on 'Use of desmopressin'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nACUTE AND CHRONIC KIDNEY DISEASE\n\nSodium-glucose cotransporter 2 inhibitor therapy and postoperative acute kidney injury (August 2026)\n\nSodium-glucose cotransporter 2 inhibitors (SGLT2i) have been proposed to reduce the risk of postoperative acute tubular necrosis. In a trial that randomly assigned 784 patients undergoing elective cardiac surgery to a four-day course of an SGLT2i (dapagliflozin) or placebo starting the day before surgery, the rate of acute kidney injury (AKI) was lower in the SGLT2i group (28 versus 52 percent) [1]. However, there were no differences in major adverse kidney events, such as the need for kidney replacement therapy. In addition, these findings were driven by AKI defined by low urine volume criteria, and SGLT2i therapy can increase urine output. Although provocative, these data are not sufficient to support the routine use of an SGLT2i to prevent AKI in individuals undergoing cardiac surgery. (See \"Possible prevention and therapy of ischemic acute tubular necrosis\", section on 'Experimental and unproven measures for the prevention of ischemic acute tubular necrosis'.)\n\nA trial of finerenone in nondiabetic chronic kidney disease (June 2026)\n\nFinerenone has been shown to improve kidney and cardiovascular outcomes in patients with diabetic kidney disease and albuminuria. The effect of this agent in nondiabetic chronic kidney disease (CKD) was examined in a trial in which nearly 1600 patients who had estimated glomerular filtration rate (eGFR) 25 to <90 mL/min/1.73m2 and urine albumin-to-creatinine ratio 200 to 3500 mg/g were randomly assigned to finerenone or placebo [2]. At three years, the rates of a composite kidney outcome (ie, a 57 percent reduction in eGFR or kidney failure) and of a composite cardiovascular outcome (ie, hospitalization for heart failure or cardiovascular death) were lower with finerenone, although these findings were not statistically significant. Given these findings and extrapolating from those in patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic CKD who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)\n\nMeta-analysis of finerenone in patients with diabetic and nondiabetic chronic kidney disease (June 2026)\n\nWe currently suggest finerenone as kidney-protective therapy in patients with diabetic kidney disease and albuminuria. An individual participant-level meta-analysis combined two trials of finerenone in diabetic kidney disease with one trial in nondiabetic kidney disease (totaling 14,574 patients) [3]. Compared with placebo, finerenone reduced the rate of kidney failure (4.7 versus 5.5 percent; hazard ratio [HR] 0.85, 95% CI 0.74-0.99), hospitalization for heart failure (3.6 versus 4.6 percent; HR 0.78, 95% CI 0.66-0.92), and all-cause mortality (7.8 versus 8.8 percent; HR 0.88, 95% CI 0.79-0.99); the effects of finerenone were similar in those with and without diabetes. In addition to patients with diabetic kidney disease, we now suggest finerenone in patients with nondiabetic chronic kidney disease (CKD) who continue to have albuminuria despite standard treatments. (See \"Overview of the management of chronic kidney disease in adults\", section on 'Patients with albuminuria'.)\n\nIn-hospital acute kidney injury and subsequent risk of chronic kidney disease (May 2026)\n\nPatients who recover from dialysis-requiring acute kidney injury (AKI) often are burdened with advanced chronic kidney disease (CKD); however, the magnitude of CKD risk conferred by less severe episodes of AKI is unclear. In an observational study that followed over 1600 hospitalization survivors for a median of 4.6 years, mild to moderate in-hospital AKI was associated with only a small permanent reduction in kidney function (ie, decrease in estimated glomerular filtration rate [eGFR] <2 mL/min/1.73 m2), without a subsequent acceleration of age-associated decline in eGFR [4]. Although all patients who recover from AKI should be evaluated after hospital discharge to monitor kidney function, these data suggest that many patients with in-hospital AKI may reasonably hope for a favorable long-term kidney prognosis. (See \"Kidney and patient outcomes after acute kidney injury in adults\", section on 'Degree of recovery'.)\n\nKidney recovery and survival in patients with multiple myeloma and light chain cast nephropathy (March 2026)\n\nAcute kidney injury (AKI) due to light chain cast nephropathy (LCCN) is a major complication in patients with multiple myeloma (MM); prompt diagnosis and intervention are important to prevent irreversible kidney damage. In a recent multicenter cohort study of over 350 patients with LCCN, of whom nearly 80 percent received bortezomib-based chemotherapy as first-line therapy, a myeloma response was achieved in 93 percent, and a complete or partial renal response (as defined by International Myeloma Working Group criteria) was achieved in 53 percent [5]. Factors associated with renal response included >50 percent serum free light chain reduction, IgG kappa isotype, dialysis, and performance status; achieving a renal response was associated with improved overall survival. These findings highlight the importance of effective anti-myeloma therapy in kidney recovery and survival among patients with LCCN. (See \"Kidney disease in multiple myeloma and other monoclonal gammopathies: Treatment and prognosis\", section on 'Prognosis'.)\n\nmTOR inhibitors for high-risk renal angiomyolipomas in patients with tuberous sclerosis complex (March 2026)\n\nAmong patients with tuberous sclerosis complex (TSC) and high-risk renal angiomyolipomas (AMLs), mammalian target of rapamycin (mTOR) inhibitors can reduce the size and growth of AMLs; however, data demonstrating improvement in clinically important outcomes are limited. In an observational study that included 39 patients with TSC and renal AMLs, initiation of mTOR inhibitor therapy (predominantly everolimus) was associated with decreases in the rates of AML-related hemorrhage (0.061 to 0.007 per patient-year) and selective arterial embolization (0.197 to 0.020 per patient-year) when comparing pretreatment with posttreatment periods [6]. These and other data support the use of mTOR inhibitors to prevent complications of renal AMLs in selected patients with TSC. (See \"Renal angiomyolipomas (AMLs): Management\", section on 'Patients with known tuberous sclerosis complex or lymphangioleiomyomatosis'.)\n\nFinerenone in type 1 diabetes and diabetic kidney disease (March 2026)\n\nIn addition to angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs), multiple other agents have been shown to slow kidney disease progression in patients with type 2 diabetes, including sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and finerenone; however, these medications are either contraindicated in patients with type 1 diabetes or have not been studied in this population. In one trial that included nearly 250 patients with type 1 diabetes and kidney disease already taking an ACE inhibitor or ARB, the addition of finerenone reduced albuminuria at six months by 25 percent relative to placebo; finerenone also increased the incidence of hyperkalemia fourfold [7]. Trials examining cardiovascular outcomes and kidney failure with finerenone in patients with type 1 diabetes and kidney disease are needed. (See \"Treatment of diabetic kidney disease\", section on 'Evidence for finerenone'.)\n\nDIALYSIS\n\nKidney replacement therapy and cardiac troponin levels (July 2026)\n\nLimited data exist on the effects of kidney replacement therapy (KRT) on serum levels of high-sensitivity cardiac troponin I and T (hs-cTnI and hs-cTnT). In a crossover trial in which 23 asymptomatic patients with end-stage kidney disease were randomly assigned to post-dilution hemodiafiltration (HDF) or high-flux hemodialysis (HD), HDF reduced pre-session levels of hs-cTnI and hs-cTnT by 24.5 and 34 percent; HD did not change hs-cTnI or hs-cTnT [8]. At baseline, 9 of 23 patients had elevated hs-cTnI and all had elevated hs-cTnT. Although these and other findings demonstrate the difficulty of interpreting cardiac troponin levels in patients on KRT, our initial approach to evaluating suspected acute myocardial infarction in such patients remains the same as that in individuals with preserved kidney function. (See \"Cardiac troponins in patients with kidney disease\", section on 'Effect of kidney replacement therapy on troponin levels'.)\n\nUltrafiltration in steady concentration peritoneal dialysis (June 2026)\n\nSteady concentration peritoneal dialysis (PD) is a novel method of increasing ultrafiltration (UF) that uses a device connected to a standard PD catheter to administer a continuous supply of intraperitoneal glucose at a fixed rate. In a crossover trial, 19 patients on continuous ambulatory PD were assigned in random order to a control PD regimen or to a regimen that replaced one daily 2.5% dextrose exchange with a steady concentration PD exchange for three days per week and a 1.5% dextrose exchange for four days per week [9]. Compared with a control five-hour 2.5% dextrose exchange, a five-hour exchange using steady concentration PD increased UF by 381 mL and improved glucose efficiency (ie, UF volume in relation to glucose absorption). Although more data are needed, steady concentration PD holds promise as a way of facilitating volume control while reducing glucose load. (See \"Evaluation and management of hypervolemia in patients on peritoneal dialysis\", section on 'Investigational therapies'.)\n\nWeb-based application for prescribing incremental hemodialysis (June 2026)\n\nIncremental hemodialysis (HD) permits a reduced time per HD session or a reduced number of sessions per week and is increasingly being considered as an option for patients starting maintenance HD who have significant residual kidney function. A new web-based application estimates the amount of HD that needs to be prescribed based on residual kidney urea clearance; it is easy to use and provides twice weekly and thrice weekly incremental HD regimens that deliver a default, though adjustable, weekly standard Kt/V value of 2.3 [10]. This and other calculators can facilitate the prescription of incremental HD. (See \"Incremental hemodialysis\", section on 'How to prescribe incremental hemodialysis'.)\n\nOutcomes associated with incremental peritoneal dialysis (March 2026)\n\nIn contrast to conventional peritoneal dialysis (PD), which targets minimum values of small-solute removal as assessed by Kt/V urea, incremental PD generally starts with a relatively small number of low-volume, low-dextrose exchanges that are adjusted over time to optimize symptoms, electrolytes, and fluid balance. It has been used for patients with significant residual kidney function to improve quality of life since the intensity of dialysis is lower. In an observational study that included over 1300 patients initiating maintenance PD, incremental compared with conventional PD was not associated with higher rates of mortality, peritonitis, or transfer to hemodialysis [11]. Although more outcome studies are needed, these data suggest that incremental PD is a safe option for selected patients starting PD. (See \"Prescribing peritoneal dialysis\", section on 'Targeted versus untargeted dialysis'.)\n\nFLUID, ELECTROLYTES, AND ACID-BASE BALANCE\n\nBicarbonate therapy for critically ill patients with acute metabolic acidosis (July 2026)\n\nIndications for bicarbonate therapy in critically ill patients with metabolic acidosis remain controversial. In a multicenter trial in which 500 critically ill patients requiring vasopressors and with a serum pH <7.3 were randomly assigned to receive intravenous sodium bicarbonate or placebo (5% dextrose) for up to five hours to target a pH of 7.3, rates of major adverse kidney events (death, need for kidney replacement therapy, or persistent kidney dysfunction) at 30 days were similar between the bicarbonate therapy and placebo groups (40.2 percent versus 39.4 percent, respectively) [12]. We suggest sodium bicarbonate therapy for patients with acute metabolic acidosis and severe acidemia (ie, arterial pH <7.1 and serum HCO3 ≤6 mEq/L); for those with less severe acidemia (eg, arterial pH 7.1 to 7.2 and serum HCO3 between 6 and 13 mEq/L), some authors would treat with sodium bicarbonate therapy. (See \"Approach to the adult with metabolic acidosis\", section on 'Acute metabolic acidosis'.)\n\nGLOMERULAR DISEASE AND VASCULITIS\n\nFinal 2.5-year data for atrasentan in IgA nephropathy (June 2026)\n\nAtrasentan, an endothelin receptor antagonist, was shown in an interim analysis of the ALIGN trial to reduce proteinuria in adults with IgA nephropathy (IgAN), leading to its accelerated approval by the US Food and Drug Administration; however, its effects on kidney function are unclear. In the final analysis of the ALIGN trial, which included 404 adults with IgAN, patients randomly assigned to atrasentan had a smaller decline in estimated glomerular filtration rate at 136 weeks compared with those receiving placebo (-7.5 versus -9.9 mL/min/1.73 m2), but this difference was not statistically significant [13]. Rates of adverse events were similar between the groups, although fluid retention, anemia, and vasodilation or hypotension were more frequent with atrasentan. While atrasentan effectively reduces proteinuria, its effects on attenuating kidney function decline in patients with IgAN appear to be modest. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Endothelin receptor antagonists and dual endothelin angiotensin receptor antagonists'.)\n\nPlasma exchange in ANCA-associated vasculitis with diffuse alveolar hemorrhage (May 2026)\n\nWhether plasma exchange improves survival in severe antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) with diffuse alveolar hemorrhage is unclear. In a multicenter cohort of over 180 patients with severe AAV-related diffuse alveolar hemorrhage admitted to an intensive care unit (ICU), plasma exchange did not impact survival at 30, 90, or 180 days [14]. Plasma exchange also did not impact the median duration of invasive mechanical ventilation, ICU length of stay, or overall length of hospitalization. These findings suggest that plasma exchange may not meaningfully improve outcomes in severe AAV-related diffuse alveolar hemorrhage, even among critically ill patients. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Role of plasma exchange'.)\n\nTelitacicept in patients with IgA nephropathy (May 2026)\n\nA Proliferation-Inducing Ligand (APRIL) and B cell activating factor (BAFF) are signaling proteins implicated in the pathogenesis of IgA nephropathy (IgAN) and targets for therapeutics. In an interim analysis of an ongoing phase 3 trial in which 318 Chinese patients with IgAN were randomly assigned to the investigational APRIL/BAFF inhibitor telitacicept or placebo, patients receiving telitacicept had a greater reduction in proteinuria from baseline at 39 weeks (59 versus 9 percent) [15]. Treatment-related adverse events were more frequent with telitacicept and were largely due to more injection site reactions and reductions in immunoglobulin levels; rates of infection were similar between the groups. These findings are similar to those reported in trials of other APRIL and APRIL/BAFF inhibitors; the long-term effects of telitacicept on kidney function decline will be reported pending completion of the two-year trial. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Investigational therapies'.)\n\nPredicting response to glucocorticoid therapy in IgA nephropathy (April 2026)\n\nImmunosuppressive therapy (eg, glucocorticoids) is warranted for certain patients with IgA nephropathy (IgAN) who are at high risk for or already have progressive disease; however, data are limited on factors that predict treatment response. Based on a secondary analysis of the TESTING trial (which compared oral glucocorticoids with placebo), a model incorporating selected patient characteristics was developed to predict individual patient response to glucocorticoids [16]. This tool calculates an individual patient's absolute risk reduction (ARR) of the primary outcome (sustained decrease in estimated glomerular filtration rate ≥40 percent from baseline, kidney failure requiring dialysis or transplantation, or death due to kidney disease) at four years in response to glucocorticoids; when applied to the trial cohort, patients with a predicted ARR >10 percent had a greater benefit with methylprednisolone than those with a predicted ARR ≤10 percent. This tool can be helpful for making treatment decisions for patients with IgAN. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Systemic glucocorticoids'.)\n\nHepatotoxicity with avacopan (April 2026)\n\nThe US Food and Drug Administration (FDA) released a safety alert regarding drug-induced liver injury (DILI) associated with the C5a receptor inhibitor avacopan [17]. The FDA identified 76 cases of DILI linked to avacopan, mainly among patients in Japan (87 percent); 54 patients required hospitalization, 7 developed vanishing bile duct syndrome, and 8 died. The median time to onset of DILI was 46 days, and most patients had a cholestatic or mixed pattern of liver injury, characterized by substantial elevations in total bilirubin and alkaline phosphatase. The FDA recommends liver tests every two weeks during the first month of treatment with avacopan followed by monthly tests for five months; avacopan should be stopped if the patient has an alanine aminotransferase or aspartate aminotransferase >3 times the upper limit of normal (ULN), an alkaline phosphatase >2 times the ULN, or symptoms of cholestasis. (See \"Granulomatosis with polyangiitis and microscopic polyangiitis: Induction and maintenance therapy\", section on 'Avacopan'.)\n\nTwo-year data for iptacopan in IgA nephropathy (April 2026)\n\nIptacopan, an oral complement factor B inhibitor, was shown in an interim analysis of the APPLAUSE phase 3 trial to reduce proteinuria at nine months in adults with IgA nephropathy (IgAN), leading to its accelerated approval by the US Food and Drug Administration; its effects on kidney function have been unclear. In the final analysis of the APPLAUSE trial, in which 477 adults with IgAN were randomly assigned to iptacopan or placebo for 24 months, the rate of estimated glomerular filtration rate (eGFR) decline over two years was slower with iptacopan (-3.1 versus -6.1 mL/min/1.73 m2) [18]. Overall adverse events (mostly mild to moderate) were similar between the groups, although infections, including those potentially caused by encapsulated bacteria, were more frequent with iptacopan. These data further support use of iptacopan as an alternative to systemic glucocorticoids in adults with IgAN who are at high to very high risk of disease progression. (See \"IgA nephropathy: Treatment and prognosis\", section on 'Complement inhibitors'.)\n\nHydralazine-associated vasculitis (March 2026)\n\nHydralazine has been linked to vasculitis in case reports, but its real-world risk relative to other antihypertensive agents is unclear. In a population-based cohort of adults aged ≥66 years, vasculitis occurred in 328 of 40,748 patients (0.8 percent) who were newly prescribed hydralazine compared with 2712 of 542,388 patients (0.5 percent) who were newly prescribed an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB; hazard ratio 1.19, 95% CI 1.04-1.37) [19]. However, the increased risk with hydralazine was no longer significant after accounting for the competing risk of death, and overall event rates were low in both groups. These findings suggest that although hydralazine may modestly increase the relative risk of vasculitis, the absolute risk is small and unlikely to meaningfully affect most prescribing decisions. (See \"Clinical spectrum of antineutrophil cytoplasmic autoantibodies\", section on 'Hydralazine'.)\n\nDiagnostic performance and predictive value of ANCA testing (March 2026)\n\nThe diagnostic value of antineutrophil cytoplasmic autoantibody (ANCA) testing varies according to the clinical scenario. In a retrospective study of over 5000 patients who underwent ANCA testing using indirect immunofluorescence (IIF), 12 percent had a positive ANCA test, but less than 1 percent were ultimately diagnosed with ANCA-associated vasculitis [20]. ANCA testing with IIF had a negative predictive value of 100 percent for granulomatosis with polyangiitis and microscopic polyangiitis but a positive predictive value of only 6 percent. These findings suggest that while a negative ANCA test may be useful for ruling out ANCA-associated vasculitis, a positive test must be interpreted cautiously. (See \"Clinical spectrum of antineutrophil cytoplasmic autoantibodies\", section on 'ANCA-associated vasculitis'.)\n\nHYPERTENSION\n\nFinancial incentives and hypertension control in a large health system (June 2026)\n\nFinancial incentives, such as pay-for-performance (P4P) programs in the United States, may improve processes of care for hypertension control, but their impact on clinical outcomes is uncertain. In an observational study of over 330,000 patients with hypertension within a large United States health care system, 63 of 103 primary care practices adopted financial incentives to physicians for blood pressure (BP) control (defined as <140/90 mmHg) [21]. Incentives were associated with a 4.1 percent increase in BP control among patients whose systolic BP was 140 to 145 mmHg and a 2.2 percent increase among those whose systolic BP was >145 mmHg. However, these increases appeared largely due to more frequent BP remeasurement at incentivized versus non-incentivized clinics; intensification of antihypertensive medications did not differ significantly between these groups. This study highlights the complexity and potential downstream effects of financial incentives as a means of improving hypertension quality metrics. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)\n\nEffect of a multicomponent hypertension intervention on blood pressure reduction and control rates (May 2026)\n\nSystems-level interventions that enhance usual care can improve blood pressure control. However, successful implementation strategies in low-income, underserved populations are needed. In a cluster randomized trial from the United States that included 36 primary care clinics and nearly 1300 low-income adults with hypertension, a multicomponent intervention that implemented team-based care, algorithm-based antihypertensive titration protocols, clinician feedback, and home monitoring reduced blood pressure compared with usual care at 18 months (mean systolic/diastolic 16/9 versus 9/5 mmHg); control of systolic pressure to <130 mmHg at 18 months was also superior (48 versus 36 percent) [22]. These data illustrate the importance of systems-level interventions to increase the attainment of blood pressure control in a real-world setting and demonstrate successful implementation of known team-based strategies in low-income populations. (See \"Hypertension in adults: Epidemiology, risk factors, complications, and blood pressure control\", section on 'Methods to improve hypertension control rates'.)\n\nNEPHROLITHIASIS\n\nAdherence intervention to improve fluid intake in patients with kidney stones (March 2026)\n\nFor all patients with kidney stones, we suggest sufficient fluid intake to consistently produce at least 2 and preferably 2.5 liters of urine per day; however, adherence to increased fluid intake is challenging. In a recent trial in which over 1650 patients with a history of stone disease and low 24-hour urine volumes were randomly assigned to a multicomponent behavioral intervention to promote increased fluid intake or to guideline-concordant care (control), 24-hour urine volume increased from baseline in both groups and was higher in the intervention group but remained below 2 liters [23]. At a median of 738 days, there was no significant difference between the groups in radiographic stone growth ≥2 mm or new stone formation or in symptomatic stone events. These findings suggest that alternative adherence strategies and other prevention strategies that go beyond increasing fluid intake should be considered. (See \"Kidney stones in adults: Prevention of recurrent kidney stones\", section on 'Fluid intake'.)\n\nTRANSPLANTATION\n\nFracture risk in kidney transplant recipients (March 2026)\n\nKidney transplant recipients are at risk for bone loss and fracture, with reported fracture rates varying widely and evolving over time. A recent large cohort study of nearly 4000 first-time kidney transplant recipients in Denmark reported a 10-year fracture risk of 21 percent, with most fractures located at the peripheral skeleton [24]. The median time from transplant to fracture was 4.2 years, with highest fracture risk between 1 and 2.5 years posttransplant, and 28 percent of patients with a first fracture had a subsequent fracture. These findings further confirm that kidney transplant recipients are at high risk for fracture and emphasize the importance of measures to prevent posttransplant bone loss and fracture in this population. (See \"Prevention and treatment of bone disease after kidney transplantation\", section on 'Fracture incidence'.)\n\nIncreasing use of organs from donation after circulatory death donors (March 2026)\n\nGiven the severe shortage of donated organs and the limited number of brain-dead donors, another option for organ donation is donation after circulatory death (DCD), in which organs are retrieved from donors with loss of circulatory function. An analysis of Organ Procurement and Transplantation Network (OPTN) data between 2000 and 2025 found that the number of DCD donors increased from 118 in 2000 (2 percent of all donors) to 8129 in 2025 (49 percent) [25]. This rise was seen across all organ types, with 49, 43, 24, 24, and 12 percent of recovered kidneys, livers, lungs, hearts, and pancreases coming from DCD donors by 2025. The use of normothermic regional perfusion in the recovery of DCD organs, which enhances DCD organ function, has contributed to this growing trend in DCD donation. (See \"Evaluation of the potential deceased organ donor (adult)\", section on 'Donation after circulatory death'.)\n\nOTHER NEPHROLOGY\n\nPreprocedural desmopressin for percutaneous kidney biopsy (April 2026)\n\nUse of desmopressin prior to a kidney biopsy to prevent bleeding is controversial. In a recent meta-analysis of 17 studies (over 5300 patients) comparing desmopressin with placebo or no intervention, use of desmopressin was not associated with a statistically significant reduction in total bleeding risk, although there was substantial heterogeneity among studies [26]. A subgroup analysis found differences in benefit depending on route of administration, with a decreased risk of bleeding seen with subcutaneous and intranasal administration and increased risk with intravenous administration. We reserve desmopressin for patients with an elevated bleeding time; in the absence of a bleeding time, administration can be considered on a case-by-case basis, weighing the risk of bleeding against the risks of desmopressin administration (eg, thrombosis, hyponatremia). (See \"The kidney biopsy\", section on 'Use of desmopressin'.)",
+    "word_count": 4016,
+    "character_count": 27928,
+    "references": [
+      "Oosterom-Eijmael MJP, Hulst AH, de Oliveira NPM, et al. Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial. JAMA 2026.",
+      "Heerspink HJL, Neuen BL, Agarwal R, et al. Finerenone in Persons with Chronic Kidney Disease without Diabetes. N Engl J Med 2026; 395:533.",
+      "Neuen BL, Heerspink HJL, Perkovic V, et al. Efficacy and safety of finerenone in patients with chronic kidney disease: an individual participant data pooled analysis (INFINITY). Lancet 2026; 407:2375.",
+      "Prado VE, McCoy IE, Zhang Y, et al. Independent association between acute kidney injury and kidney function trajectory. Kidney Int 2026; 110:206.",
+      "Ludwig H, Dimopoulos MA, Terpos E, et al. Parameters Associated With Renal Recovery and Survival in Myeloma Patients With Acute Renal Failure to Cast Nephropathy. Am J Hematol 2026; 101:56.",
+      "Gemander N, Dao M, Kalbacher E, et al. Real-world management of tuberous sclerosis complex-associated renal angiomyolipomas: the impact of mTOR inhibitors. Clin Kidney J 2026; 19:sfag072.",
+      "Heerspink HJL, Birkenfeld AL, Cherney DZI, et al. Finerenone in Type 1 Diabetes and Chronic Kidney Disease. N Engl J Med 2026; 394:947.",
+      "Drivsholm CL, Nygaard L, Dam-Dalgeir G, et al. Intradialytic Kinetics of Cardiac Biomarkers During High-Flux Hemodialysis and Post-Dilution Hemodiafiltration: A Randomized Crossover Trial. Kidney360 2026.",
+      "Wilkie M, Heimbürger O, de Leon C, et al. Ultrafiltration and Sodium Removal in Steady Concentration Peritoneal Dialysis: A Prospective, Multicenter, Randomized, Crossover Study. J Am Soc Nephrol 2026.",
+      "Vansomphone AP, Sirich TL, Meyer TW. A Web-Based Program to Facilitate Prescription of Twice-Weekly Hemodialysis. Clin J Am Soc Nephrol 2026.",
+      "Hayat A, Cheetham MS, Cho Y, et al. Incremental start and clinical outcomes in peritoneal dialysis: International results from PDOPPS. Perit Dial Int 2026; 46:163.",
+      "SODa-BIC Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group, Serpa Neto A, McNamara M, et al. Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock. N Engl J Med 2026.",
+      "Reily C, Moldoveanu Z, Pramparo T, et al. Sparsentan ameliorates glomerular hypercellularity and inflammatory-gene networks induced by IgA1-IgG immune complexes in a mouse model of IgA nephropathy. Am J Physiol Renal Physiol 2024; 326:F862.",
+      "Sanna AC, Gendreau S, Desnos C, et al. Plasma exchange for severe alveolar hemorrhage in antineutrophil cytoplasmic antibody-associated vasculitis: emulation of a target trial. Am J Respir Crit Care Med 2026; 212:757.",
+      "Lv J, Liu L, Wang W, et al. Telitacicept for IgA Nephropathy - Interim Analysis of a Phase 3 Trial. N Engl J Med 2026; 394:1916.",
+      "Canney M, Shan S, Er L, et al. A secondary analysis of the TESTING trial predicted individual patient response to corticosteroid treatment in IgA nephropathy. Kidney Int 2026; 109:738.",
+      "FDA Identifies Cases of Serious Liver Injury in Patients Taking Tavneos (avacopan) for Severe Active Anti-neutrophil Cytoplasmic Autoantibody (ANCA)-associated Vasculitis. US Food and Drug Administration. https://www.fda.gov/drugs/drug-safety-and-availability/fda-identifies-cases-serious-liver-injury-patients-taking-tavneos-avacopan-severe-active-anti (Accessed on May 04, 2026).",
+      "Barratt J, Eren N, Kashihara N, et al. Iptacopan in IgA Nephropathy - Final 24-Month Data. N Engl J Med 2026; 395:465.",
+      "Fremont D, Dhaliwal S, Canney M, et al. Hydralazine Use and Risk of Vasculitis. JAMA Netw Open 2026; 9:e261943.",
+      "Loureiro-Amigo J, Mestre-Torres J, Marín-Sánchez A, et al. ANCA testing in real-world clinical practice: diagnostic performance and predictive value in a Spanish cohort. Rheumatology (Oxford) 2026; 65.",
+      "Boone C, Robicsek A. Evaluating the Consequences of a Hypertension Management Incentive. JAMA Intern Med 2026; 186:965.",
+      "Mills KT, Krousel-Wood M, Peacock EM, et al. Multifaceted Strategies for Hypertension Control in Low-Income Patients. N Engl J Med 2026; 394:1376.",
+      "Desai AC, Maalouf NM, Harper JD, et al. Prevention of urinary stones with hydration: a randomised clinical trial of an adherence intervention. Lancet 2026; 407:1171.",
+      "Ystrøm IK, Christiansen CF, Ivarsen P, et al. Fracture risk after kidney transplantation: unchanged and unaddressed: a registry-based cohort study across two decades. Clin Kidney J 2026; 19:sfag029.",
+      "Husain SA, Motter JD, Stewart D, et al. Changes in Organ Donation After Circulatory Death in the United States. JAMA 2026; 335:1087.",
+      "Lurie A, Solis I, Daneii P, et al. Effect of Preprocedural Desmopressin on Complications after Kidney Biopsy: A Systematic Review and Meta-Analysis. Kidney360 2026; 7:1573."
+    ],
+    "graphics": [],
+    "related_topic_links": [
+      {
+        "id": 8352,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%221%22"
+      },
+      {
+        "id": 8352,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%222%22"
+      },
+      {
+        "id": 8352,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%223%22"
+      },
+      {
+        "id": 8352,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%224%22"
+      },
+      {
+        "id": 8352,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%225%22"
+      },
+      {
+        "id": 8352,
+        "title": "6",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%226%22"
+      },
+      {
+        "id": 8352,
+        "title": "7",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%227%22"
+      },
+      {
+        "id": 8352,
+        "title": "8",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%228%22"
+      },
+      {
+        "id": 8352,
+        "title": "9",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%229%22"
+      },
+      {
+        "id": 8352,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2210%22"
+      },
+      {
+        "id": 8352,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2211%22"
+      },
+      {
+        "id": 8352,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2212%22"
+      },
+      {
+        "id": 8352,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2213%22"
+      },
+      {
+        "id": 8352,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2214%22"
+      },
+      {
+        "id": 8352,
+        "title": "15",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2215%22"
+      },
+      {
+        "id": 8352,
+        "title": "16",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2216%22"
+      },
+      {
+        "id": 8352,
+        "title": "17",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2217%22"
+      },
+      {
+        "id": 8352,
+        "title": "18",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2218%22"
+      },
+      {
+        "id": 8352,
+        "title": "19",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2219%22"
+      },
+      {
+        "id": 8352,
+        "title": "20",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2220%22"
+      },
+      {
+        "id": 8352,
+        "title": "21",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2221%22"
+      },
+      {
+        "id": 8352,
+        "title": "22",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2222%22"
+      },
+      {
+        "id": 8352,
+        "title": "23",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2223%22"
+      },
+      {
+        "id": 8352,
+        "title": "24",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2224%22"
+      },
+      {
+        "id": 8352,
+        "title": "25",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2225%22"
+      },
+      {
+        "id": 8352,
+        "title": "26",
+        "url": "https://medilib.ir/uptodate/show/8352#rid%2226%22"
+      }
+    ]
+  }
+}

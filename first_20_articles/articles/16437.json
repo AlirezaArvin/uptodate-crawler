@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "MediLib UpToDate",
+    "canonical_url": "https://medilib.ir/uptodate/show/16437"
+  },
+  "article": {
+    "id": 16437,
+    "expected_title": "What's new in geriatrics",
+    "url": "https://medilib.ir/uptodate/show/16437",
+    "final_url": "https://medilib.ir/uptodate/show/16437",
+    "page_title": "What's new in geriatrics",
+    "extracted_at": "2026-11-20T20:52:04.251Z",
+    "title_matches_expected": true,
+    "title": "What's new in geriatrics",
+    "contributors": {
+      "authors": [
+        "Jane Givens, MD, MSCE"
+      ]
+    },
+    "literature_review_current_through": "Oct 2026. |",
+    "topic_last_updated": "Sep 17, 2026",
+    "version": "Topic 16437 Version 14525.0",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GENERAL GERIATRICS"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Timing of interventions to promote advance care planning (August 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Advance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [1]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Dual mobility femoral components in hip arthroplasty (July 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dislocation is the most common early complication of total hip arthroplasty (THA). Dual mobility (DM; also called dual articulation) femoral head components for THA are designed to provide greater range of motion compared with traditional single-articulation components, but it is not certain whether they reduce the risk of dislocation. In a randomized trial of 1600 patients at high risk of dislocation (aged 65 years or older) with displaced femoral neck fractures, dislocation of the joint, or its treatment with closed reduction or open surgery within one year, occurred in fewer patients with DM-THA compared with standard THA (1.3 versus 4.2 percent) [2]. The results of this trial support our use of DM-THA for selected patients at higher risk for dislocation. (See \"Total hip arthroplasty\", section on 'Femoral head'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Ensitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ensitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [3]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GERIATRIC CARDIOVASCULAR MEDICINE"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Weight reduction in atrial fibrillation (May 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Weight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [4]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "GERIATRIC INFECTIOUS DISEASES"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recombinant zoster vaccine and cardiovascular benefits (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [5]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Recommendations on 2026-2027 COVID-19 vaccination (September 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "In August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [6-9]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [10], the American College of Obstetricians and Gynecologists [11], the American Academy of Pediatrics [12], and the Infectious Diseases Society of America [13]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Tebipenem pivoxil for complicated urinary tract infections (June 2026)"
+      },
+      {
+        "type": "paragraph",
+        "text": "When complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [14]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)"
+      }
+    ],
+    "plain_text": "The following represent additions to UpToDate from the past six months that were considered by the editors and authors to be of particular interest. The most recent What's New entries are at the top of each subsection.\n\nGENERAL GERIATRICS\n\nTiming of interventions to promote advance care planning (August 2026)\n\nAdvance care planning (ACP) is best conducted at a routine visit rather than during a medical crisis, but completion rates are low. In a retrospective cohort study of over 8000 participants, a letter (accompanied by relevant literature or phone support) 7 to 21 days prior to a primary care visit was associated with greater completion of advance directives compared with similar interventions without an upcoming visit (17 versus 10 percent at 24 months) [1]. We promote advance care planning at any stage of health or illness; providing information prior to routine visits may improve completion rates. (See \"Advance care planning and advance directives\", section on 'Timing'.)\n\nDual mobility femoral components in hip arthroplasty (July 2026)\n\nDislocation is the most common early complication of total hip arthroplasty (THA). Dual mobility (DM; also called dual articulation) femoral head components for THA are designed to provide greater range of motion compared with traditional single-articulation components, but it is not certain whether they reduce the risk of dislocation. In a randomized trial of 1600 patients at high risk of dislocation (aged 65 years or older) with displaced femoral neck fractures, dislocation of the joint, or its treatment with closed reduction or open surgery within one year, occurred in fewer patients with DM-THA compared with standard THA (1.3 versus 4.2 percent) [2]. The results of this trial support our use of DM-THA for selected patients at higher risk for dislocation. (See \"Total hip arthroplasty\", section on 'Femoral head'.)\n\nEnsitrelvir for post-exposure prophylaxis after household COVID-19 exposure (May 2026)\n\nEnsitrelvir is a protease inhibitor with antiviral activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In a randomized trial of over 2000 individuals who had a household exposure to SARS-CoV-2, starting a five-day course of ensitrelvir within 72 hours reduced the incidence of coronavirus disease 2019 (COVID-19) by approximately 67 percent compared with placebo (2.9 versus 9 percent) [3]. Ensitrelvir was well tolerated, associated only with a transient decrease in high-density lipoprotein levels. Based on these data, we suggest ensitrelvir for individuals at high risk for severe COVID-19 (such as age ≥65 years, medical comorbidities, and immunocompromising conditions) following household or similarly close contact with a person with confirmed infection; ensitrelvir should be started as soon as possible and within 72 hours of exposure. The drug is available in Japan and was recently approved by the US Food and Drug Administration. (See \"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'.)\n\nGERIATRIC CARDIOVASCULAR MEDICINE\n\nWeight reduction in atrial fibrillation (May 2026)\n\nWeight reduction in individuals with overweight or obesity is considered a key component of atrial fibrillation (AF) management, but it is unclear whether weight loss reduces AF in older individuals who may have longer-standing AF. In a randomized trial in 118 older individuals (mean age 68 years, approximately half with long-standing persistent AF) with body mass index (BMI) ≥27 kg/m2, a low-calorie diet and behavioral support enhanced weight loss but did not reduce AF symptoms or AF burden when compared with usual care [4]. This contrasts with prior findings in younger individuals in whom weight loss reduced symptoms and AF burden. These data underscore the importance of weight reduction as a component of early risk factor modification for younger individuals with AF and overweight or obesity. (See \"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'.)\n\nGERIATRIC INFECTIOUS DISEASES\n\nRecombinant zoster vaccine and cardiovascular benefits (September 2026)\n\nMost studies that have reported an association between vaccination with the recombinant zoster vaccine and cardioprotective benefits have used unvaccinated individuals as the comparator and thus are subject to confounding by other factors associated with vaccine acceptance and receipt. In a new observational study of more than 70,000 adults aged 60 years or older who were vaccinated against herpes zoster either before or after the switch from live-attenuated to recombinant vaccine in the United States in 2017, the recombinant zoster vaccine was associated with a 9 percent relative decrease in the burden of cardiovascular events (ischemic heart disease, heart failure, or stroke) compared with the live-attenuated virus vaccine [5]. These results support our recommendation to include the recombinant zoster vaccine as part of routine preventive care for all adults. (See \"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'.)\n\nRecommendations on 2026-2027 COVID-19 vaccination (September 2026)\n\nIn August 2026, the US Food and Drug Administration approved updated COVID-19 vaccines for the 2026 to 2027 season; these target the XFG SARS-CoV-2 variant [6-9]. Multiple expert groups have released recommendations on COVID-19 vaccination for this season, including the American Academy of Family Physicians [AAFP] [10], the American College of Obstetricians and Gynecologists [11], the American Academy of Pediatrics [12], and the Infectious Diseases Society of America [13]. Our recommendations are largely aligned with these groups; we recommend 2026-2027 formula COVID-19 vaccination for individuals aged 65 years and older, children six months to two years old, immunocompromised individuals, pregnant individuals, and other individuals at risk for severe infection (table 1). We individualize the decision to vaccinate lower-risk individuals (eg, healthy older children and healthy younger adults). (See \"COVID-19: Vaccines\", section on 'Indications for vaccination'.)\n\nTebipenem pivoxil for complicated urinary tract infections (June 2026)\n\nWhen complicated urinary tract infections (UTI) are caused by resistant Enterobacterales, oral treatment options are limited. The US Food and Drug Administration recently approved the oral carbapenem tebipenem pivoxil for treatment of complicated UTI in adults [14]. Tebipenem pivoxil is active against Enterobacterales that produce an extended-spectrum beta-lactamase (ESBL) and in randomized trials resulted in cure rates similar to those with intravenous ertapenem or imipenem. However, because of concerns about promoting carbapenem resistance, we plan to reserve tebipenem pivoxil for patients with no other effective oral options who would otherwise require extended hospitalization or new central intravenous access for home parenteral therapy. (See \"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'.)",
+    "word_count": 1029,
+    "character_count": 7144,
+    "references": [
+      "Wenger NS, Sanz Vidorreta FJ, Tseng CH, et al. Timing Prompts for Advance Care Planning Discussions and Advance Directive Completion. JAMA Netw Open 2026; 9:e2628366.",
+      "Hailer NP, Griffin XL, Mukka S, et al. Dual mobility versus standard cups in total hip replacement for displaced femoral neck fractures (Duality): an international, multicentre, randomised, controlled, superiority trial. Lancet 2026; 408:348.",
+      "Hayden FG, Shinkai M, Clark TW, et al. Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts. N Engl J Med 2026; 394:1905.",
+      "Sclafani M, Spartera M, Esmati Y, et al. Weight Loss in Older Patients With Persistent Atrial Fibrillation: The LOSE-AF Randomized Clinical Trial. JAMA 2026; 336:205.",
+      "Corsi-Zuelli F, Li F, Upthegrove R, et al. Recombinant shingles vaccination and the risk of cardiovascular events. Nat Med 2026; 32:3612.",
+      "SPIKEVAX (COVID-19 Vaccine, mRNA) Suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/155675/download?attachment (Accessed on August 28, 2026).",
+      "MNEXSPIKE (COVID-19 Vaccine, mRNA) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/186738/download (Accessed on August 28, 2026).",
+      "COMIRNATY (COVID-19 Vaccine, mRNA) suspension for injection, for intramuscular use; 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Revised August 2026. https://www.fda.gov/media/151707/download?attachment (Accessed on August 28, 2026).",
+      "NUVAXOVID (COVID-19 Vaccine, Adjuvanted) injectable suspension, for intramuscular use 2026-2027 Formula. US Food and Drug Administration (FDA) approved product information. Updated August 2026. https://www.fda.gov/media/186544/download?attachment (Accessed on August 28, 2026).",
+      "AAFP Announces Fall Immunization Recommendations to Protect Patients and Communities https://www.aafp.org/media-center/press-releases/aafp-announces-fall-immunization-recommendations-to-protect-patients-and-communities (Accessed on September 02, 2026).",
+      "American College of Obstetricians & Gynecologistsߣ Immunization, Infectious Disease, and Public Health Preparedness Expert Work Group. Maternal Immunizations. Obstet Gynecol 2026; 147:e123.",
+      "Committee on Infectious Diseases. Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement. Pediatrics 2026.",
+      "IDSA 2026 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19, Influenza, and RSV Infections in Immunocompromised Patients. https://www.idsociety.org/practice-guideline/Seasonal-RTI-Vaccinations-in-Immunocompromised-Patients/s-on-the-use-of-vaccines-for-the-prevention-of-seasonal-covid-19-influenza-and-rsv-infections-in-immunocompromised-patients/ (Accessed on September 02, 2026).",
+      "Tebipenem pivoxil. US Food and Drug Administration (FDA) approved product information. Revised June 2026. US Food and Drug Administration. https://www.accessdata.fda.gov/scripts/cder/daf/ (Accessed on June 18, 2026)."
+    ],
+    "graphics": [
+      {
+        "id": 127477,
+        "title": "table 1",
+        "url": "https://medilib.ir/uptodate/show/127477"
+      }
+    ],
+    "related_topic_links": [
+      {
+        "id": 16437,
+        "title": "1",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%221%22"
+      },
+      {
+        "id": 86248,
+        "title": "\"Advance care planning and advance directives\", section on 'Timing'",
+        "url": "https://medilib.ir/uptodate/show/86248"
+      },
+      {
+        "id": 16437,
+        "title": "2",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%222%22"
+      },
+      {
+        "id": 7972,
+        "title": "\"Total hip arthroplasty\", section on 'Femoral head'",
+        "url": "https://medilib.ir/uptodate/show/7972"
+      },
+      {
+        "id": 151777,
+        "title": "Ensitrelvir",
+        "url": "https://medilib.ir/uptodate/show/151777"
+      },
+      {
+        "id": 16437,
+        "title": "3",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%223%22"
+      },
+      {
+        "id": 126981,
+        "title": "\"COVID-19: Epidemiology, virology, and prevention\", section on 'Postexposure prophylaxis'",
+        "url": "https://medilib.ir/uptodate/show/126981"
+      },
+      {
+        "id": 16437,
+        "title": "4",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%224%22"
+      },
+      {
+        "id": 1022,
+        "title": "\"Atrial fibrillation: Overview of management\", section on 'Manage comorbidities and risk factors'",
+        "url": "https://medilib.ir/uptodate/show/1022"
+      },
+      {
+        "id": 115351,
+        "title": "recombinant zoster vaccine",
+        "url": "https://medilib.ir/uptodate/show/115351"
+      },
+      {
+        "id": 16437,
+        "title": "5",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%225%22"
+      },
+      {
+        "id": 8343,
+        "title": "\"Vaccination for the prevention of shingles (herpes zoster) in adults\", section on 'Immunocompetent persons ≥50 years of age'",
+        "url": "https://medilib.ir/uptodate/show/8343"
+      },
+      {
+        "id": 16437,
+        "title": "6-9",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%226%22"
+      },
+      {
+        "id": 16437,
+        "title": "10",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%2210%22"
+      },
+      {
+        "id": 16437,
+        "title": "11",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%2211%22"
+      },
+      {
+        "id": 16437,
+        "title": "12",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%2212%22"
+      },
+      {
+        "id": 16437,
+        "title": "13",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%2213%22"
+      },
+      {
+        "id": 129849,
+        "title": "\"COVID-19: Vaccines\", section on 'Indications for vaccination'",
+        "url": "https://medilib.ir/uptodate/show/129849"
+      },
+      {
+        "id": 151905,
+        "title": "tebipenem pivoxil",
+        "url": "https://medilib.ir/uptodate/show/151905"
+      },
+      {
+        "id": 16437,
+        "title": "14",
+        "url": "https://medilib.ir/uptodate/show/16437#rid%2214%22"
+      },
+      {
+        "id": 8675,
+        "title": "ertapenem",
+        "url": "https://medilib.ir/uptodate/show/8675"
+      },
+      {
+        "id": 8553,
+        "title": "imipenem",
+        "url": "https://medilib.ir/uptodate/show/8553"
+      },
+      {
+        "id": 16109,
+        "title": "\"Acute complicated urinary tract infection (including pyelonephritis) in adults\", section on 'Regimen selection'",
+        "url": "https://medilib.ir/uptodate/show/16109"
+      }
+    ]
+  }
+}
